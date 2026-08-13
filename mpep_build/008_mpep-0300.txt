@@ -1,0 +1,3489 @@
+Chapter 300
+
+Ownership and Assignment
+
+301
+
+Ownership/Assignability of Patents and
+Applications
+301.01
+Accessibility of Assignment Records
+302
+Recording of Assignment Documents
+302.01
+Assignment Document Must Be Copy
+for Recording
+302.02
+Translation of Assignment Document
+302.03
+Identifying Patent or Application
+302.04
+Foreign Assignee May Designate
+Domestic Representative
+302.05
+Address of Assignee
+302.06
+Fee for Recording
+302.07
+Assignment Document Must Be
+Accompanied by a Cover Sheet
+302.08
+Mailing Address for Submitting
+Assignment Documents
+302.09
+Facsimile Submission of Assignment
+Documents
+302.10
+Electronic Submission of Assignment
+Documents
+303
+Assignment Documents Not Endorsed
+on Pending Applications
+304-305 [Reserved]
+306
+Assignment of Division, Continuation,
+Substitute, and Continuation-in-Part
+in Relation to Parent Application
+306.01
+Assignment of an Application
+Claiming the Benefits of a Provisional
+Application
+307
+Issue to Non-Applicant Assignee
+308
+Issue to Applicant
+309
+Restrictions Upon Employees of U.S.
+Patent and Trademark Office
+310
+Government License Rights to
+Contractor-Owned Inventions Made
+Under Federally Sponsored Research
+and Development
+311
+Filing of Notice of Arbitration Awards
+312
+[Reserved]
+313
+Recording of Licenses, Security
+Interests, and Documents Other Than
+Assignments
+314
+Certificates of Change of Name or of
+Merger
+315
+Indexing Against a Recorded
+Certificate
+316
+[Reserved]
+317
+Handling of Documents in the
+Assignment Recordation Branch
+317.01
+Recording Date
+
+317.02
+
+Correction of Unrecorded Returned
+Documents and Cover Sheets
+317.03
+Effect of Recording
+318
+Documents Not to be Placed in Files
+319
+[Reserved]
+320
+Title Reports
+321-322 [Reserved]
+323
+Procedures for Correcting Errors in
+Recorded Assignment Document
+323.01
+Correction of Error in Recorded
+Cover Sheet
+323.01(a)
+Typographical Errors in Cover
+Sheet
+323.01(b)
+Typographical Errors in Recorded
+Assignment Document
+323.01(c)
+Assignment or Change of Name
+Improperly Filed and Recorded
+by Another Person Against
+Owner’s Application or Patent
+323.01(d)
+Expungement of Assignment
+Records
+324
+Establishing Right of Assignee To Take
+Action in Application Filed Before
+September 16, 2012
+325
+Establishing Right of Assignee To Take
+Action in Application Filed On or After
+September 16, 2012
+
+301 Ownership/Assignability of Patents and
+Applications [R-01.2024]
+35 U.S.C. 261 Ownership; assignment.
+Subject to the provisions of this title, patents shall have the
+attributes of personal property. The Patent and Trademark Office
+shall maintain a register of interests in patents and applications
+for patents and shall record any document related thereto upon
+request, and may require a fee therefor.
+Applications for patent, patents, or any interest therein, shall be
+assignable in law by an instrument in writing. The applicant,
+patentee, or his assigns or legal representatives may in like
+manner grant and convey an exclusive right under his application
+for patent, or patents, to the whole or any specified part of the
+United States.
+A certificate of acknowledgment under the hand and official
+seal of a person authorized to administer oaths within the United
+States, or, in a foreign country, of a diplomatic or consular
+officer of the United States or an officer authorized to administer
+oaths whose authority is proved by a certificate of a diplomatic
+or consular officer of the United States, or apostille of an official
+designated by a foreign country which, by treaty or convention,
+accords like effect to apostilles of designated officials in the
+United States, shall be prima facie evidence of the execution of
+300-1
+
+Rev. 01.2024, November 2024
+
+§ 301
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+an assignment, grant, or conveyance of a patent or application
+for patent.
+
+(e.g., existence of another patent owner with a
+dominant patent, failure to obtain FDA approval of
+the patented invention, an injunction by a court
+against making the product of the invention, or a
+national security related issue).
+
+An interest that constitutes an assignment, grant, or conveyance
+shall be void as against any subsequent purchaser or mortgagee
+for valuable consideration, without notice, unless it is recorded
+in the Patent and Trademark Office within three months from
+its date or prior to the date of such subsequent purchase or
+mortgage.
+
+For applications filed on or after September 16,
+2012, the original applicant is presumed to be the
+owner of the application for an original patent. See
+37 CFR 3.73(a). For applications filed before
+September 16, 2012, the ownership of the patent (or
+the application for the patent) initially vests in the
+named inventors of the invention of the patent. See
+Beech Aircraft Corp. v. EDO Corp., 990 F.2d 1237,
+1248, 26 USPQ2d 1572, 1582 (Fed. Cir. 1993). A
+patent or patent application is assignable by an
+instrument in writing, and the assignment of the
+patent, or patent application, transfers to the
+assignee(s) an alienable (transferable) ownership
+interest in the patent or application. 35 U.S.C. 261.
+
+35 U.S.C. 262 Joint owners.
+In the absence of any agreement to the contrary, each of the
+joint owners of a patent may make, use, offer to sell, or sell the
+patented invention within the United States, or import the
+patented invention into the United States, without the consent
+of and without accounting to the other owners.
+37 CFR 3.1 Definitions.
+For purposes of this part, the following definitions shall apply:
+Application means a national application for patent, an
+international patent application that designates the United States
+of America, an international design application that designates
+the United States of America, or an application to register a
+trademark under section 1 or 44 of the Trademark Act, 15 U.S.C.
+1051 or 15 U.S.C. 1126, unless otherwise indicated.
+
+II. ASSIGNMENT
+
+“Assignment,” in general, is the act of transferring
+to another the ownership of one’s property, i.e., the
+interest and rights to the property. The U.S. Patent
+and Trademark Office cannot explain or interpret
+laws that govern assignments and related documents,
+nor can it act as counselor for individuals.
+Assignments and other documents are contracts that
+are governed by the relevant state or jurisdictional
+law.
+
+Assignment means a transfer by a party of all or part of its right,
+title and interest in a patent, patent application, registered mark
+or a mark for which an application to register has been filed.
+Document means a document which a party requests to be
+recorded in the Office pursuant to § 3.11 and which affects some
+interest in an application, patent, or registration.
+Office means the United States Patent and Trademark Office.
+
+In 37 CFR 3.1, assignment of patent rights is defined
+as “a transfer by a party of all or part of its right, title
+and interest in a patent [or] patent application....”
+An assignment of a patent, or patent application, is
+the transfer to another of a party’s entire ownership
+interest or a percentage of that party’s ownership
+interest in the patent or application. In order for an
+assignment to take place, the transfer to another must
+include the entirety of the bundle of rights that is
+associated with the ownership interest, i.e., all of the
+bundle of rights that are inherent in the right, title
+and interest in the patent or patent application. 35
+U.S.C. 261 requires transfer of ownership by an
+assignment to be in writing. See Realvirt, LLC v.
+Lee, 195 F.Supp.3d 847, 859 (E.D. Va. 2016).
+
+Recorded document means a document which has been recorded
+in the Office pursuant to § 3.11.
+Registration means a trademark registration issued by the
+Office.
+
+I. OWNERSHIP
+
+Ownership of a patent gives the patent owner the
+right to exclude others from making, using, offering
+for sale, selling, or importing into the United States
+the invention claimed in the patent. 35 U.S.C.
+154(a)(1). Ownership of the patent does not furnish
+the owner with the right to make, use, offer for sale,
+sell, or import the claimed invention because there
+may be other legal considerations precluding same
+
+Rev. 01.2024, November 2024
+
+300-2
+
+OWNERSHIP AND ASSIGNMENT
+
+III. LICENSING
+
+§ 301
+
+Each individual inventor may only assign the interest
+held by that individual; thus, assignment by one joint
+inventor renders the assignee a partial assignee. A
+partial assignee likewise may only assign the interest
+it holds; thus, assignment by a partial assignee
+renders a subsequent assignee a partial assignee. All
+parties having any portion of the ownership in the
+patent property must act together as a composite
+entity in patent matters before the Office. See MPEP
+§ 325 for information on establishing the right of an
+assignee to take action in an application.
+
+As compared to assignment of patent rights, the
+licensing of a patent transfers a bundle of rights
+which is less than the entire ownership interest, e.g.,
+rights that may be limited as to time, geographical
+area, or field of use. A patent license is, in effect, a
+contractual agreement that the patent owner will not
+sue the licensee for patent infringement if the
+licensee makes, uses, offers for sale, sells, or imports
+the claimed invention, as long as the licensee fulfills
+its obligations and operates within the bounds
+delineated by the license agreement.
+
+V. MAKING THE ASSIGNMENT OF RECORD
+
+An exclusive license may be granted by the patent
+owner to a licensee. The exclusive license prevents
+the patent owner (or any other party to whom the
+patent owner might wish to sell a license) from
+competing with the exclusive licensee, as to the
+geographic region, the length of time, and/or the
+field of use, set forth in the license agreement.
+
+An assignment can be made of record in the United
+States Patent and Trademark Office (Office) in two
+different ways, for two different purposes. The
+differences are important to note:
+(A) An assignment can be made of record in the
+assignment records of the Office as provided for in
+37 CFR Part 3. Recordation of the assignment
+provides legal notice to the public of the assignment.
+It should be noted that recording of the assignment
+is merely a ministerial act; it is not an Office
+determination of the validity of the assignment
+document or the effect of the assignment document
+on the ownership of the patent property. See 37 CFR
+3.54 ,MPEP § 317.03, and Realvirt, LLC v. Lee, 195
+F.Supp.3d 847, 862-3 (E.D. Va. 2016). For a patent
+to issue to an assignee, the assignment must have
+been recorded or filed for recordation in accordance
+with 37 CFR 3.11. See 37 CFR 3.81(a).
+
+A license is not an assignment of the patent. Even
+if the license is an exclusive license, it is not an
+assignment of patent rights in the patent or
+application.
+IV. INDIVIDUAL AND JOINT OWNERSHIP
+
+Individual ownership - An individual entity may
+own the entire right, title and interest of the patent
+property. This occurs where there is only one
+inventor, and the inventor has not assigned the patent
+property. Alternatively, it occurs where all parties
+having ownership interest (all inventors and
+assignees) assign the patent property to one party.
+
+(B) An assignment can be made of record in the
+file of a patent application, patent, or other patent
+proceeding (e.g., reexamination proceeding). This
+step may be necessary to permit the assignee to “take
+action” in the application, patent, or other patent
+proceeding under the conditions set forth in 37 CFR
+1.46 and 37 CFR 3.81(a) and MPEP § 325 (for
+applications filed on or after September 16, 2012)
+or under the conditions set forth in pre-AIA 37 CFR
+3.73 and MPEP § 324 (for applications filed before
+September 16, 2012). Recordation of an assignment
+in the assignment records of the Office does not, by
+itself, permit the assignee to take action in the
+application, patent, or other patent proceeding.
+
+Joint ownership - Multiple parties may together own
+the entire right, title and interest of the patent
+property. This occurs when any of the following
+cases exist:
+(A) Multiple partial assignees of the patent
+property;
+(B) Multiple inventors who have not assigned
+their right, title and interest; or
+(C) A combination of partial assignee(s), and
+inventor(s) who have not assigned their right, title
+and interest.
+
+Additionally, for applications filed under 35 U.S.C.
+111(a), 363, or 385 on or after September 16, 2012,
+
+300-3
+
+Rev. 01.2024, November 2024
+
+§ 301.01
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+in § 1.21(j) will be made for the time consumed in making a
+search for such assignment.
+
+an assignment may contain the statements required
+to be made in an oath or declaration
+(“assignment-statement”), and if the assignment is
+made of record in the assignment records of the
+Office, then the assignment may be utilized as the
+oath or declaration. See 35 U.S.C. 115(e), 37 CFR
+1.63(e), and MPEP §§ 302.07, 317, and 602.01(a).
+
+Assignment documents relating to patents, published
+patent applications, registrations of trademarks, and
+applications for registration of trademarks are open
+to public inspection. Records related to assignments
+of patents, and patent applications that have been
+published as patent application publications are
+available on the USPTO website. Images of
+assignment documents recorded June 1998 and later
+are also viewable on the Office website. To view
+images of earlier-recorded assignment documents,
+members of the public must place an order pursuant
+to 37 CFR 1.12(d).
+
+301.01 Accessibility of Assignment Records
+[R-01.2024]
+37 CFR 1.12 Assignment records open to public inspection.
+(a)(1) Separate assignment records are maintained in
+the United States Patent and Trademark Office for patents and
+trademarks. The assignment records, relating to original or
+reissue patents, including digests and indexes (for assignments
+recorded on or after May 1, 1957), and published patent
+applications are open to public inspection at the United States
+Patent and Trademark Office, and copies of patent assignment
+records may be obtained upon request and payment of the fee
+set forth in § 1.19 of this chapter. See § 2.200 of this chapter
+regarding trademark assignment records.
+
+The Office will not open only certain parts of an
+assignment document to public inspection. If such
+a document contains two or more items, any one of
+which, if alone, would be open to such inspection,
+then the entire document will be open. Thus, if a
+document covers either a trademark or a patent in
+addition to one or more patent applications, it will
+be available to the public ab initio; and if it covers
+a number of patent applications, it will be so
+available as soon as any one of them is published or
+patented. Documents relating only to one or more
+pending applications for patent which have not been
+published under 35 U.S.C. 122(b) will not be open
+to public inspection.
+
+(2) All records of assignments of patents recorded
+before May 1, 1957, are maintained by the National Archives
+and Records Administration (NARA). The records are open to
+public inspection. Certified and uncertified copies of those
+assignment records are provided by NARA upon request and
+payment of the fees required by NARA.
+(b) Assignment records, digests, and indexes relating to
+any pending or abandoned patent application, which is open to
+the public pursuant to § 1.11 or for which copies or access may
+be supplied pursuant to § 1.14, are available to the public. Copies
+of any assignment records, digests, and indexes that are not
+available to the public shall be obtainable only upon written
+authority of an inventor, the applicant, the assignee or an
+assignee of an undivided part interest, or a patent practitioner
+of record, or upon a showing that the person seeking such
+information is a bona fide prospective or actual purchaser,
+mortgagee, or licensee of such application, unless it shall be
+necessary to the proper conduct of business before the Office
+or as provided in this part.
+
+Copies of assignment records relating to pending or
+abandoned patent applications which are open to the
+public pursuant to 37 CFR 1.11 or for which copies
+or access may be supplied pursuant to 37 CFR 1.14
+are available to the public. For pending or abandoned
+applications which are not open to the public
+pursuant to 37 CFR 1.11 or for which copies or
+access may not be supplied pursuant to 37 CFR 1.14,
+information related thereto is only obtainable upon
+a proper showing of written authority. For
+applications filed on or after September 16, 2012,
+the written authority must be from (A) an inventor,
+(B) an applicant, (C) the assignee or an assignee of
+an undivided part interest, (D) a patent practitioner
+of record, or (E) a person with written authority from
+(A), (B), (C), or (D). See 37 CFR 1.12. For
+applications filed prior to September 16, 2012, the
+written authority must be from the applicant or
+applicant’s assignee or from the attorney or agent
+
+(c) Any request by a member of the public seeking copies
+of any assignment records of any pending or abandoned patent
+application preserved in confidence under § 1.14, or any
+information with respect thereto, must:
+(1) Be in the form of a petition including the fee set
+forth in § 1.17(g); or
+(2) Include written authority granting access to the
+member of the public to the particular assignment records from
+an inventor, the applicant, the assignee or an assignee of an
+undivided part interest, or a patent practitioner of record.
+(d) An order for a copy of an assignment or other document
+should identify the reel and frame number where the assignment
+or document is recorded. If a document is identified without
+specifying its correct reel and frame, an extra charge as set forth
+
+Rev. 01.2024, November 2024
+
+300-4
+
+OWNERSHIP AND ASSIGNMENT
+
+§ 302
+
+of either, or upon a showing that the person seeking
+such information is a bona fide prospective or actual
+purchaser, mortgagee, or licensee of such
+application. See pre-AIA 37 CFR 1.12.
+
+and patents, accompanied by completed cover sheets as specified
+in § 3.28 and § 3.31, will be recorded in the Office. Other
+documents, accompanied by completed cover sheets as specified
+in § 3.28 and § 3.31, affecting title to applications, patents, or
+registrations, will be recorded as provided in this part or at the
+discretion of the Director.
+
+If the application on which a patent was granted is
+a division, continuation, or continuation-in-part of
+an earlier application, the assignment records of that
+earlier application will be open to public inspection
+because copies or access may be supplied to the
+earlier application pursuant to 37 CFR 1.14.
+
+(b) Executive Order 9424 of February 18, 1944 (9 FR 1959,
+3 CFR 1943-1948 Comp., p. 303) requires the several
+departments and other executive agencies of the Government,
+including Government-owned or Government-controlled
+corporations, to forward promptly to the Director for recording
+all licenses, assignments, or other interests of the Government
+in or under patents or patent applications. Assignments and other
+documents affecting title to patents or patent applications and
+documents not affecting title to patents or patent applications
+required by Executive Order 9424 to be filed will be recorded
+as provided in this part.
+
+Assignment records relating to reissue applications
+are open to public inspection because reissue
+applications are open to public inspection pursuant
+to 37 CFR 1.11(b).
+
+(c) A joint research agreement or an excerpt of a joint
+research agreement will also be recorded as provided in this
+part.
+
+Requests for abstracts of title for assignments of
+patents recorded after May 1, 1957, are provided by
+the Patent and Trademark Copy Fulfillment Branch
+of the Public Records Division upon request and
+payment of the fee required in 37 CFR 1.19.
+Requests for copies of pre-1957 records for patents
+should be directed to the National Archives and
+Records Administration (NARA). Since these
+records are maintained by NARA, it is more
+expeditious to request copies directly from NARA,
+rather than from the Office, which would then have
+to route the requests to NARA. Payment of the fees
+required by NARA should accompany all requests
+for copies.
+
+37 CFR 3.58 Governmental registers.
+(a) The Office will maintain a Departmental Register to
+record governmental interests required to be recorded by
+Executive Order 9424. This Departmental Register will not be
+open to public inspection but will be available for examination
+and inspection by duly authorized representatives of the
+Government. Governmental interests recorded on the
+Departmental Register will be available for public inspection
+as provided in § 1.12.
+(b) The Office will maintain a Secret Register to record
+governmental interests required to be recorded by Executive
+Order 9424. Any instrument to be recorded will be placed on
+this Secret Register at the request of the department or agency
+submitting the same. No information will be given concerning
+any instrument in such record or register, and no examination
+or inspection thereof or of the index thereto will be permitted,
+except on the written authority of the head of the department or
+agency which submitted the instrument and requested secrecy,
+and the approval of such authority by the Director. No instrument
+or record other than the one specified may be examined, and
+the examination must take place in the presence of a designated
+official of the Patent and Trademark Office. When the
+department or agency which submitted an instrument no longer
+requires secrecy with respect to that instrument, it must be
+recorded anew in the Departmental Register.
+
+All assignment records from 1837 to April 30, 1957
+for patents are now maintained and are open for
+public inspection in the National Archives Research
+Room located at the Washington National Records
+Center Building, 4205 Suitland Road, Suitland,
+Maryland 20746 and at the Civilian Records Division
+of the National Archives at College Park, 8601
+Adelphi Road, College Park, MD 20740-6001.
+Assignment records from before 1837 are not
+available. Individuals should check the National
+Archives website, www.archives.gov, for how to
+obtain information from these locations.
+
+37 CFR Part 3 sets forth Office rules on recording
+assignments and other documents relating to interests
+in patent applications and patents and the rights of
+an assignee.
+
+302 Recording of Assignment Documents
+[R-07.2015]
+
+37 CFR 3.11(c) provides that the Office will record
+a joint research agreement or an excerpt of a joint
+research agreement.
+
+37 CFR 3.11 Documents which will be recorded.
+(a) Assignments of applications, patents, and registrations,
+and other documents relating to interests in patent applications
+300-5
+
+Rev. 01.2024, November 2024
+
+§ 302.01
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+An assignment relating to a patent must identify the patent by
+the patent number. An assignment relating to a national patent
+application must identify the national patent application by the
+application number (consisting of the series code and the serial
+number; e.g., 07/123,456). An assignment relating to an
+international patent application which designates the United
+States of America must identify the international application by
+the international application number; e.g., PCT/US2012/012345.
+An assignment relating to an international design application
+which designates the United States of America must identify
+the international design application by the international
+registration number or by the U.S. application number assigned
+to the international design application. If an assignment of a
+patent application filed under § 1.53(b) of this chapter is
+executed concurrently with, or subsequent to, the execution of
+the patent application, but before the patent application is filed,
+it must identify the patent application by the name of each
+inventor and the title of the invention so that there can be no
+mistake as to the patent application intended. If an assignment
+of a provisional application under § 1.53(c) of this chapter is
+executed before the provisional application is filed, it must
+identify the provisional application by the name of each inventor
+and the title of the invention so that there can be no mistake as
+to the provisional application intended.
+
+302.01 Assignment Document Must Be Copy
+for Recording [R-08.2012]
+37 CFR 3.24 Requirements for documents and cover sheets
+relating to patents and patent applications.
+(a) For electronic submissions: Either a copy of the
+original document or an extract of the original document may
+be submitted for recording. All documents must be submitted
+as digitized images in Tagged Image File Format (TIFF) or
+another form as prescribed by the Director. When printed to a
+paper size of either 21.6 by 27.9 cm (8 1/2 inches by 11 inches)
+or 21.0 by 29.7 cm (DIN size A4), the document must be legible
+and a 2.5 cm (one-inch) margin must be present on all sides.
+(b) For paper or facsimile submissions: Either a copy of
+the original document or an extract of the original document
+must be submitted for recording. Only one side of each page
+may be used. The paper size must be either 21.6 by 27.9 cm (8
+1/2 inches by 11 inches) or 21.0 by 29.7 cm (DIN size A4), and
+in either case, a 2.5 cm (one-inch) margin must be present on
+all sides. For paper submissions, the paper used should be
+flexible, strong white, non-shiny, and durable. The Office will
+not return recorded documents, so original documents must not
+be submitted for recording.
+
+The United States Patent and Trademark Office will
+accept and record only a copy of an original
+assignment or other document. See MPEP § 317.
+The document submitted for recordation will not be
+returned to the submitter. If the copy submitted for
+recordation is illegible, the recorded document will
+be illegible. Accordingly, applicants and patent
+owners should ensure that only a legible copy is
+submitted for recordation.
+
+The patent or patent application to which an
+assignment relates must be identified by patent
+number or application number unless the assignment
+is executed concurrently with or subsequent to the
+execution of the application but before the
+application is filed. Then, the application must be
+identified by the name(s) of the inventors, and the
+title of the invention. If an assignment of a
+provisional application is executed before the
+provisional application is filed, it must identify the
+provisional application by name(s) of the inventors
+and the title of the invention.
+
+302.02 Translation of Assignment Document
+[R-08.2012]
+37 CFR 3.26 English language requirement.
+
+The Office makes every effort to provide applicants
+with the application numbers for newly filed patent
+applications as soon as possible. It is suggested,
+however, that an assignment be written to allow entry
+of the identifying number after the execution of the
+assignment. An example of acceptable wording is:
+
+The Office will accept and record non-English language
+documents only if accompanied by an English translation signed
+by the individual making the translation.
+
+The assignment document, if not in the English
+language, will not be recorded unless accompanied
+by an English translation signed by the translator.
+
+“I hereby authorize and request my attorney, (Insert
+name), of (Insert address), to insert here in
+parentheses (Application number , filed ) the filing
+date and application number of said application when
+known.”
+
+302.03 Identifying Patent or Application
+[R-07.2015]
+37 CFR 3.21 Identification of patents and patent applications.
+
+Rev. 01.2024, November 2024
+
+300-6
+
+OWNERSHIP AND ASSIGNMENT
+
+§ 302.07
+
+this section, a fee is required for each application, patent and
+registration against which the document is recorded as identified
+in the cover sheet. The recording fee is set in § 1.21(h) of this
+chapter for patents and in § 2.6(b)(6) of this chapter for
+trademarks.
+
+302.04 Foreign Assignee May Designate
+Domestic Representative [R-10.2019]
+35 U.S.C. 293 Nonresident patentee; service and notice.
+
+(b) No fee is required for each patent application and patent
+against which a document required by Executive Order 9424 is
+to be filed if:
+
+Every patentee not residing in the United States may file in the
+Patent and Trademark Office a written designation stating the
+name and address of a person residing within the United States
+on whom may be served process or notice of proceedings
+affecting the patent or rights thereunder. If the person designated
+cannot be found at the address given in the last designation, or
+if no person has been designated, the United States District Court
+for the Eastern District of Virginia shall have jurisdiction and
+summons shall be served by publication or otherwise as the
+court directs. The court shall have the same jurisdiction to take
+any action respecting the patent or rights thereunder that it would
+have if the patentee were personally within the jurisdiction of
+the court.
+
+(1) The document does not affect title and is so
+identified in the cover sheet (see § 3.31(c)(2)); and
+(2) The document and cover sheet are either: Faxed or
+electronically submitted as prescribed by the Director, or mailed
+to the Office in compliance with § 3.27.
+
+The recording fee set in 37 CFR 1.21(h) is charged
+for each patent application and patent identified in
+the required cover sheet except as provided in 37
+CFR 3.41(b). If the request to record a document is
+submitted electronically, the fee is set forth in 37
+CFR 1.21(h)(1), currently at $0. If the request to
+record a document is not submitted electronically
+(i.e., is submitted on paper or via facsimile), the
+applicable fee is set forth in 37 CFR 1.21(h)(2).
+Customers should check the current fee schedule on
+the Office website before submitting documents for
+recordation. See MPEP §§ 302.08 - 302.10 for
+additional information regarding the acceptable ways
+to submit documents for recordation.
+
+37 CFR 3.61 Domestic representative.
+If the assignee of a patent, patent application, trademark
+application or trademark registration is not domiciled in the
+United States, the assignee may designate a domestic
+representative in a document filed in the United States Patent
+and Trademark Office. The designation should state the name
+and address of a person residing within the United States on
+whom may be served process or notice of proceedings affecting
+the application, patent or registration or rights thereunder.
+
+An assignee of a patent or patent application who is
+not domiciled in the United States may, by written
+document signed by such assignee, designate a
+domestic representative. The designation of domestic
+representative should always be submitted to the
+Office as a paper separate from any assignment
+document. The designation of a domestic
+representative should be clearly labeled “Designation
+of Domestic Representative” and it will be entered
+into the record of the appropriate application or
+patent file. The designation must be signed in
+accordance with 37 CFR 1.33(b).
+
+302.07 Assignment Document Must Be
+Accompanied by a Cover Sheet [R-10.2019]
+37 CFR 3.28 Requests for recording.
+Each document submitted to the Office for recording must
+include a single cover sheet (as specified in § 3.31) referring
+either to those patent applications and patents, or to those
+trademark applications and registrations, against which the
+document is to be recorded. If a document to be recorded
+includes interests in, or transactions involving, both patents and
+trademarks, then separate patent and trademark cover sheets,
+each accompanied by a copy of the document to be recorded,
+must be submitted. If a document to be recorded is not
+accompanied by a completed cover sheet, the document and the
+incomplete cover sheet will be returned pursuant to § 3.51 for
+proper completion, in which case the document and a completed
+cover sheet should be resubmitted.
+
+302.05 Address of Assignee [R-08.2012]
+The address of the assignee may be recited in the
+assignment document and must be given in the
+required cover sheet. See MPEP § 302.07.
+
+37 CFR 3.31 Cover sheet content.
+(a) Each patent or trademark cover sheet required by § 3.28
+must contain:
+
+302.06 Fee for Recording [R-10.2019]
+37 CFR 3.41 Recording fees.
+
+(1) The name of the party conveying the interest;
+
+(a) All requests to record documents must be accompanied
+by the appropriate fee. Except as provided in paragraph (b) of
+
+(2) The name and address of the party receiving the
+interest;
+300-7
+
+Rev. 01.2024, November 2024
+
+§ 302.07
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+(e) Each patent or trademark cover sheet required by § 3.28
+should contain the number of applications, patents or
+registrations identified in the cover sheet and the total fee.
+
+(3) A description of the interest conveyed or transaction
+to be recorded;
+(4) Identification of the interests involved:
+
+(f) Each trademark cover sheet should include the
+citizenship of the party conveying the interest.
+
+(i) For trademark assignments and trademark name
+changes: Each trademark registration number and each trademark
+application number, if known, against which the Office is to
+record the document. If the trademark application number is not
+known, a copy of the application or a reproduction of the
+trademark must be submitted, along with an estimate of the date
+that the Office received the application; or
+
+(g) The cover sheet required by § 3.28 seeking to record a
+joint research agreement or an excerpt of a joint research
+agreement as provided by § 3.11(c) must:
+(1) Identify the document as a “joint research
+agreement” (in the space provided for the description of the
+interest conveyed or transaction to be recorded if using an
+Office-provided form);
+
+(ii) For any other document affecting title to a
+trademark or patent application, registration or patent: Each
+trademark or patent application number or each trademark
+registration number or patent against which the document is to
+be recorded, or an indication that the document is filed together
+with a patent application;
+
+(2) Indicate the name of the owner of the application
+or patent (in the space provided for the name and address of the
+party receiving the interest if using an Office-provided form);
+(3) Indicate the name of each other party to the joint
+research agreement party (in the space provided for the name
+of the party conveying the interest if using an Office-provided
+form); and
+
+(5) The name and address of the party to whom
+correspondence concerning the request to record the document
+should be mailed;
+(6) The date the document was executed;
+
+(4) Indicate the date the joint research agreement was
+executed.
+
+(7) The signature of the party submitting the document.
+For an assignment document or name change filed electronically,
+the person who signs the cover sheet must either:
+
+(h) The assignment cover sheet required by § 3.28 for a
+patent application or patent will be satisfied by the Patent Law
+Treaty Model International Request for Recordation of Change
+in Applicant or Owner Form, Patent Law Treaty Model
+International Request for Recordation of a License/ Cancellation
+of the Recordation of a License Form, Patent Law Treaty Model
+Certificate of Transfer Form or Patent Law Treaty Model
+International Request for Recordation of a Security Interest/
+Cancellation of the Recordation of a Security Interest Form, as
+applicable, except where the assignment is also an oath or
+declaration under § 1.63 of this chapter. An assignment cover
+sheet required by § 3.28 must contain a conspicuous indication
+of an intent to utilize the assignment as an oath or declaration
+under § 1.63 of this chapter.
+
+(i) Place a symbol comprised of letters, numbers,
+and/or punctuation marks between forward slash marks (e.g.,
+/Thomas O’Malley III/) in the signature block on the electronic
+submission; or
+(ii) Sign the cover sheet using some other form of
+electronic signature specified by the Director.
+(8) For trademark assignments, the entity and
+citizenship of the party receiving the interest. In addition, if the
+party receiving the interest is a domestic partnership or domestic
+joint venture, the cover sheet must set forth the names, legal
+entities, and national citizenship (or the state or country of
+organization) of all general partners or active members that
+compose the partnership or joint venture.
+
+Each assignment document submitted to the Office
+for recording must be accompanied by a cover sheet
+as required by 37 CFR 3.28. The cover sheet for
+patents or patent applications must contain:
+
+(b) A cover sheet should not refer to both patents and
+trademarks, since any information, including information about
+pending patent applications, submitted with a request for
+recordation of a document against a trademark application or
+trademark registration will become public record upon
+recordation.
+
+(A) The name of the party conveying the
+interest;
+
+(c) Each patent cover sheet required by § 3.28 seeking to
+record a governmental interest as provided by § 3.11(b) must:
+
+(B) The name and address of the party receiving
+the interest;
+
+(1) Indicate that the document relates to a Government
+interest; and
+(2) Indicate, if applicable, that the document to be
+recorded is not a document affecting title (see § 3.41(b)).
+
+(C) A description of the interest conveyed or
+transaction to be recorded;
+
+(d) Each trademark cover sheet required by § 3.28 seeking
+to record a document against a trademark application or
+registration should include, in addition to the serial number or
+registration number of the trademark, identification of the
+trademark or a description of the trademark, against which the
+Office is to record the document.
+
+(D) Each patent application number or patent
+number against which the document is to be
+recorded, or an indication that the document is filed
+together with a patent application;
+
+Rev. 01.2024, November 2024
+
+300-8
+
+OWNERSHIP AND ASSIGNMENT
+
+(E) The name and address of the party to whom
+correspondence concerning the request to record the
+document should be mailed;
+
+§ 302.07
+
+Each patent cover sheet should contain the number
+of patent applications or patents identified in the
+cover sheet and the total fee.
+
+(F) The date the document was executed; and
+Examples of the type of descriptions of the interest
+conveyed or transaction to be recorded that can be
+identified are:
+
+(G) The signature of the party submitting the
+document.
+For applications filed on or after September 16,
+2012, if the assignment document is also intended
+to serve as the required oath or declaration, the cover
+sheet must also contain a conspicuous indication of
+an intent to utilize the assignment as the required
+oath or declaration under 37 CFR 1.63. See 37 CFR
+3.31(h).
+
+(A) assignment;
+(B) security agreement;
+(C) merger;
+(D) change of name;
+(E) license;
+(F) foreclosure;
+
+If the document submitted for recordation is a joint
+research agreement or an excerpt of a joint research
+agreement, the cover sheet must clearly identify the
+document as a "joint research agreement" (in the
+space provided for the description of the interest
+conveyed if using Form PTO-1595). The date the
+joint research agreement was executed must also be
+identified. The cover sheet must also identify the
+name(s) of the owner(s) of the application or patent
+(in the space provided for the name and address of
+the party receiving the interest if using Form
+PTO-1595). The name(s) of every other party(ies)
+to the joint research agreement must also be
+identified (in the space provided for the name of the
+party conveying the interest if using Form
+PTO-1595).
+
+(G) lien;
+(H) contract; and
+(I) joint research agreement.
+Cover sheets required by 37 CFR 3.28 seeking to
+record a governmental interest must also (1) indicate
+that the document relates to a governmental interest
+and (2) indicate, if applicable, that the document to
+be recorded is not a document affecting title.
+A patent cover sheet may not refer to trademark
+applications or registrations.
+Form PTO-1595, Recordation Form Cover Sheet,
+may be used as the cover sheet for recording
+documents relating to patent(s) and/or patent
+application(s) in the Office.
+
+300-9
+
+Rev. 01.2024, November 2024
+
+§ 302.07
+
+Rev. 01.2024, November 2024
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+300-10
+
+OWNERSHIP AND ASSIGNMENT
+
+300-11
+
+§ 302.07
+
+Rev. 01.2024, November 2024
+
+§ 302.07
+
+Rev. 01.2024, November 2024
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+300-12
+
+OWNERSHIP AND ASSIGNMENT
+
+§ 302.10
+
+(B) one cover sheet to record a single
+transaction; and
+
+302.08 Mailing Address for Submitting
+Assignment Documents [R-08.2012]
+37 CFR 3.27 Mailing address for submitting documents to
+be recorded.
+Documents and cover sheets submitted by mail for recordation
+should be addressed to Mail Stop Assignment Recordation
+Services, Director of the United States Patent and Trademark
+Office, P.O. Box 1450, Alexandria, Virginia 22313-1450, unless
+they are filed together with new applications.
+
+37 CFR 3.27 sets out how documents submitted for
+recording should be addressed to the Office. In order
+to ensure prompt and proper processing, documents
+and their cover sheets should be addressed to the
+Mail Stop Assignment Recordation Services,
+Director of the U.S. Patent and Trademark Office,
+P.O. Box 1450, Alexandria, VA 22313-1450, unless
+they are filed together with new applications.
+Requests for recording documents which accompany
+new applications should be addressed to the
+Commissioner for Patents, P.O. Box 1450,
+Alexandria, VA 22313-1450.
+
+302.09 Facsimile Submission of Assignment
+Documents [R-11.2013]
+Assignments and other documents affecting title
+may be submitted to the Office via facsimile (fax).
+See the USPTO website or MPEP § 1730 for the
+facsimile number. This process allows customers to
+submit their documents directly into the automated
+Patent and Trademark Assignment System and
+receive the resulting recordation notice at their fax
+machine. The customer’s fax machine should be
+connected to a dedicated line because recordation
+notices will be returned automatically to the sending
+fax number through the Patent and Trademark
+Assignment System. If the Office system is unable
+to complete transmission of the recordation notice,
+the notice will be printed and mailed to the sender
+by U.S. Postal Service first class mail. Recorded
+documents will not be returned with the “Notice of
+Recordation.”
+Any assignment-related document for patent matters
+submitted by facsimile must include:
+
+(C) payment of the recordation fee by a credit
+card (use of the Credit Card form, PTO-2038 (see
+MPEP § 509), is required for the credit card
+information to be kept separate from the assignment
+records) or a USPTO Deposit Account.
+The following documents cannot be submitted via
+facsimile:
+(A) Assignments submitted concurrently with
+newly filed patent applications;
+(B) Documents with two or more cover sheets
+(e.g., a single document with one cover sheet to
+record an assignment, and a separate cover sheet to
+record separately a license relating to the same
+property); and
+(C) Requests for “at cost” recordation services.
+The date of receipt accorded to an assignment
+document sent to the Office by facsimile
+transmission is the date the complete transmission
+is received in the Office. See MPEP § 502.01. The
+benefits of a certificate of transmission under 37
+CFR 1.8 are available.
+If a document submitted by fax is determined not to
+be recordable, the entire document, with its
+associated cover sheet, and the Office “Notice of
+Non-Recordation” will be transmitted via fax back
+to the sender. Once corrections are made, the initial
+submission, amended, may then be resubmitted by
+mailing the corrected submission to the address set
+forth in 37 CFR 3.27. Timely resubmission will
+provide the sender with the benefit of the initial
+receipt date as the recordation date in accordance
+with 37 CFR 3.51.
+The Patent and Trademark Assignment System
+assigns reel and frame numbers and superimposes
+recordation stampings on the processed and stored
+electronic images. Accordingly, copies of all
+recorded documents will have the reel and frame
+numbers and recordation stampings.
+
+302.10 Electronic Submission of Assignment
+Documents [R-01.2024]
+
+(A) an identified application or patent number;
+
+37 CFR 3.31 Cover sheet content.
+(a) *****
+300-13
+
+Rev. 01.2024, November 2024
+
+§ 302.10
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+(7) The signature of the party submitting the
+document. For an assignment document or name change filed
+electronically, the person who signs the cover sheet must either:
+(i) Place a symbol comprised of letters,
+numbers, and/or punctuation marks between forward slash marks
+(e.g., /Thomas O’ Malley III/) in the signature block on the
+electronic submission; or
+(ii) Sign the cover sheet using some other form
+of electronic signature specified by the Director.
+*****
+37 CFR 1.4 Nature of correspondence and signature
+requirements.
+*****
+(d) *****
+(2) S-signature. An S-signature is a signature
+inserted between forward slash marks, but not a handwritten
+signature as defined by paragraph (d)(1) of this section. An
+S-signature includes any signature made by electronic or
+mechanical means, and any other mode of making or applying
+a signature other than a handwritten signature as provided for
+in paragraph (d)(1) of this section. Correspondence being filed
+in the Office in paper, by facsimile transmission as provided in
+§ 1.6(d), or via the USPTO patent electronic filing system as an
+attachment as provided in § 1.6(a)(4), for a patent application,
+patent, or a reexamination or supplemental examination
+proceeding may be S-signature signed instead of being
+personally signed (i.e., with a handwritten signature) as provided
+for in paragraph (d)(1) of this section. The requirements for an
+S-signature under this paragraph (d)(2) of this section are as
+follows.
+(i) The S-signature must consist only of letters,
+or Arabic numerals, or both, with appropriate spaces and
+commas, periods, apostrophes, or hyphens for punctuation, and
+the person signing the correspondence must insert his or her
+own S-signature with a first single forward slash mark before,
+and a second single forward slash mark after, the S-signature
+(e.g., /Dr. James T. Jones, Jr./); and
+(ii) A patent practitioner (§ 1.32(a)(1)), signing
+pursuant to § 1.33(b)(1) or (2), must supply their registration
+number either as part of the S-signature or immediately below
+or adjacent to the S-signature. The hash (#) character may only
+be used as part of the S-signature when appearing before a
+practitioner’s registration number; otherwise, the hash character
+may not be used in an S-signature. A design patent practitioner
+must additionally indicate their design patent practitioner status
+by placing the word “design” (in any format) adjacent to the
+last forward slash of their S-signature.
+(iii) The signer’s name must be:
+(A) Presented in printed or typed form
+preferably immediately below or adjacent the S-signature, and
+(B) Reasonably specific enough so that
+the identity of the signer can be readily recognized.
+(3) Electronically submitted correspondence.
+Correspondence permitted via the USPTO patent electronic
+filing system may be signed by a graphic representation of a
+
+Rev. 01.2024, November 2024
+
+handwritten signature as provided for in paragraph (d)(1) of this
+section or a graphic representation of an S-signature as provided
+for in paragraph (d)(2) of this section when it is submitted via
+the USPTO patent electronic filing system.
+(4) Certifications—
+(i) Certification as to the paper presented. The
+presentation to the Office (whether by signing, filing, submitting,
+or later advocating) of any paper by a party, whether a
+practitioner or non-practitioner, constitutes a certification under
+§ 11.18(b) of this subchapter. Violations of § 11.18(b)(2) of this
+subchapter by a party, whether a practitioner or non-practitioner,
+may result in the imposition of sanctions under 11.18(c)of this
+subchapter. Any practitioner violating § 11.18(b) of this
+subchapter may also be subject to disciplinary action. See §
+11.18(d) of this subchapter.
+(ii) Certification as to the signature. The
+person inserting a signature under paragraph (d)(2) or (d)(3) of
+this section in a document submitted to the Office certifies that
+the inserted signature appearing in the document is his or her
+own signature. A person submitting a document signed by
+another under paragraph (d)(2) or (d)(3) of this section is
+obligated to have a reasonable basis to believe that the person
+whose signature is present on the document was actually inserted
+by that person, and should retain evidence of authenticity of the
+signature. Violations of the certification as to the signature of
+another or a person’s own signature as set forth in this paragraph
+may result in the imposition of sanctions under § 11.18(c) and
+(d) of this chapter.
+(5) Forms. The Office provides forms for the
+public to use in certain situations to assist in the filing of
+correspondence for a certain purpose and to meet certain
+requirements for patent applications and proceedings. Use of
+the forms for purposes for which they were not designed is
+prohibited. No changes to certification statements on the Office
+forms (e.g., oath or declaration forms, terminal disclaimer
+forms, petition forms, and nonpublication request forms) may
+be made. The existing text of a form, other than a certification
+statement, may be modified, deleted, or added to, if all text
+identifying the form as an Office form is removed. The
+presentation to the Office (whether by signing, filing, submitting,
+or later advocating) of any Office form with text identifying the
+form as an Office form by a party, whether a practitioner or
+non-practitioner, constitutes a certification under § 11.18(b) of
+this chapter that the existing text and any certification statements
+on the form have not been altered other than permitted by
+EFS-Web customization.
+*****
+
+Assignments and other documents affecting title
+may be submitted to the Office via the Office’s
+Electronic Patent Assignment System (EPAS). See
+the USPTO website at http://epas.uspto.gov for
+additional information regarding EPAS.
+Any assignment related document submitted by
+EPAS must include:
+
+300-14
+
+OWNERSHIP AND ASSIGNMENT
+
+(A) an identified application or patent number;
+and
+(B) one cover sheet to record a single transaction
+which cover sheet is to be completed on-line.
+The fee set in 37 CFR 1.21(h)(1) for recording an
+electronically submitted document is currently $0.
+Customers should check the current fee schedule on
+the Office website before submitting documents for
+recordation. If a recordation fee is required, see
+MPEP § 509 for detailed information pertaining to
+the payment of fees.
+For an assignment document filed electronically, the
+signature of the person who signs the cover sheet
+must comply with 37 CFR 3.31(a)(7) or 37 CFR
+1.4(d)(2).
+The date of receipt accorded to an assignment
+document sent to the Office by EPAS is the date the
+complete transmission is received in the Office.
+If a document submitted by EPAS is determined not
+to be recordable, the entire document, with its
+associated cover sheet, and the Office "Notice of
+Non-Recordation" will be transmitted via fax back
+to the sender if possible. Once corrections are made,
+the initial submission, as amended, may then be
+resubmitted by mailing the corrected submission to
+the address set forth in 37 CFR 3.27. Timely
+submission will provide the sender with the benefit
+of the initial receipt date as the recordation date in
+accordance with 37 CFR 3.51.
+The Patent and Trademark Assignment System
+assigns reel and frame numbers and superimposes
+recordation stampings on the processed and stored
+electronic images. Accordingly, copies of all
+recorded documents will have the reel and frame
+numbers and recordation stampings.
+
+303 Assignment Documents Not Endorsed
+on Pending Applications [R-01.2024]
+Certified copies of patent applications as filed do
+not include an indication of assignment documents.
+Applicants desiring an indication of assignment
+documents of record should request separately
+certified copies of assignment documents and submit
+the fees required by 37 CFR 1.19.
+
+§ 306
+
+When the assignment condition of an application is
+significant, such as when applications of different
+inventors contain conflicting claims or there is a
+question as to who should direct prosecution, it is
+necessary for the examiner to obtain assignment
+information from Patent Data Portal. See MPEP
+§ 320.
+
+304-305 [Reserved]
+
+306 Assignment of Division, Continuation,
+Substitute, and Continuation-in-Part in
+Relation to Parent Application [R-07.2015]
+In the case of a division or continuation application,
+a prior assignment recorded against the original
+application is applied (effective) to the division or
+continuation application because the assignment
+recorded against the original application gives the
+assignee rights to the subject matter common to both
+applications. Although the assignment recorded
+against an original application is applied to the
+division or continuation application, the Office’s
+assignment records will only reflect an assignment
+of a division or continuation application (or any other
+application) if a request for recordation in
+compliance with 37 CFR 3.28, accompanied by the
+required fee (37 CFR 3.41), is filed.
+In the case of a substitute or continuation-in-part
+application, a prior assignment of the original
+application is not applied (effective) to the substitute
+or continuation-in-part application because the
+assignment recorded against the original application
+gives the assignee rights to only the subject matter
+common to both applications. Substitute or
+continuation-in-part applications require the
+recordation of a new assignment if they are to be
+issued to an assignee, unless the substitute or
+continuation-in-part application is filed on or after
+September 16, 2012, and the assignee is the original
+applicant therein. See 37 CFR 3.81. See also MPEP
+§§ 307 and 308.
+
+300-15
+
+Rev. 01.2024, November 2024
+
+§ 306.01
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+306.01 Assignment of an Application
+Claiming the Benefits of a Provisional
+Application [R-07.2015]
+
+(1) If one or more assignee, together with one or more
+inventor, holds the entire right, title, and interest in the
+application, the patent may issue in the names of the assignee
+and the inventor.
+
+If an application which claims the benefit of the
+earlier filing date of a provisional application under
+35 U.S.C. 119(e) includes only subject matter which
+formed a part of the provisional application, an
+assignment recorded against the provisional
+application will be effective in the later application,
+similar to the practice with respect to continuations
+and divisions filed under 35 U.S.C. 120. See MPEP
+§ 306. If an application claiming the benefit of the
+earlier filing date of a provisional application
+includes subject matter that is not common with
+subject matter of the provisional application, new
+assignment papers must be recorded for the
+application claiming the benefit of the provisional
+application, unless the later application is filed on
+or after September 16, 2012 and the assignee is the
+original applicant therein. This is similar to the
+practice with respect to continuations-in-part filed
+under 35 U.S.C. 120. See MPEP §§ 306, 307, and
+308.
+
+307 Issue to Non-Applicant Assignee
+[R-01.2024]
+35 U.S.C. 152 Issue of patent to assignee.
+Patents may be granted to the assignee of the inventor of record
+in the Patent and Trademark Office, upon the application made
+and the specification sworn to by the inventor, except as
+otherwise provided in this title.
+37 CFR 3.81 Issue of patent to assignee.
+(a) With payment of the issue fee: An application may issue
+in the name of the assignee consistent with the application’s
+assignment where a request for such issuance is submitted with
+payment of the issue fee, provided the assignment has been
+previously recorded in the Office. If the assignment has not been
+previously recorded, the request must state that the document
+has been filed for recordation as set forth in § 3.11.
+(b) After payment of the issue fee: Any request for issuance
+of an application in the name of the assignee submitted after the
+date of payment of the issue fee, and any request for a patent to
+be corrected to state the name of the assignee, must state that
+the assignment was submitted for recordation as set forth in §
+3.11 before issuance of the patent, and must include a request
+for a certificate of correction under § 1.323 of this chapter
+(accompanied by the fee set forth in § 1.20(a)) and the
+processing fee set forth in § 1.17 (i) of this chapter.
+(c) Partial assignees.
+
+Rev. 01.2024, November 2024
+
+(2) If multiple assignees hold the entire right, title, and
+interest to the exclusion of all the inventors, the patent may issue
+in the names of the multiple assignees.
+
+Normally, for a patent to issue to an assignee (other
+than an assignee who is the applicant in an
+application filed on or after September 16, 2012), a
+request for issuance of the application in the name
+of the assignee must be filed in the United States
+Patent and Trademark Office (Office) at a date not
+later than the day on which the issue fee is paid. Such
+a request must indicate that the assignment has been
+previously recorded in the Office. If the assignment
+has not been previously recorded in the Office, the
+request must state that the document has been filed
+for recordation as set forth in 37 CFR 3.11. See 37
+CFR 3.81(a). See MPEP § 308 for information
+regarding issuance of a patent to an assignee who is
+the applicant in an application filed on or after
+September 16, 2012.
+If a request for issuance to an assignee pursuant to
+37 CFR 3.81(b) is submitted after the day on which
+the issue fee is paid, the request under 37 CFR
+3.81(b) must include a request for a certificate of
+correction under 37 CFR 1.323 (accompanied by the
+fee set forth in 37 CFR 1.20(a)) and the processing
+fee set forth in 37 CFR 1.17(i). The request under
+37 CFR 3.81(b) must state that the assignment was
+submitted for recordation as set forth in 37 CFR 3.11
+before issuance of the patent. The Office will issue
+a certificate of correction to reflect that the patent
+issued to the assignee provided the requirements of
+37 CFR 3.81(b) and 37 CFR 1.323 are complied
+with.
+Only the first appearing name of an assignee will be
+printed on the patent where multiple names for the
+same party are identified on the Fee(s) Transmittal
+form, PTOL-85B. Such multiple names may occur
+when both a legal name and an “also known as” or
+“doing business as” name is also included. This
+printing practice will not, however, affect the
+existing practice of recording assignments with the
+Office in the Assignment Recordation Branch. The
+assignee entry on form PTOL-85B should still be
+
+300-16
+
+OWNERSHIP AND ASSIGNMENT
+
+completed to indicate the assignment data as
+recorded in the Office. For example, the assignment
+filed in the Office and, therefore, the PTOL-85B
+assignee entry might read “Smith Company doing
+business as (d.b.a.) Jones Company.” The assignee
+entry on the printed patent will read “Smith
+Company.”
+Unless an assignee’s name and address are identified
+in item 3 of the Fee(s) Transmittal form PTOL-85B,
+the patent will issue to the applicant. Assignment
+data printed on the patent will be based solely on the
+information so supplied. Assignment information
+printed on a patent is not updated after a patent is
+issued, and may not be reflective of the assignment
+recorded in the Office subsequent to the issuance of
+the patent. Detailed assignment information can be
+found by performing an assignment search on the
+USPTO website and by inspecting the recorded
+assignment documents.
+A request for a certificate of correction under
+37 CFR 1.323 (see MPEP §§ 1481 and 1485) arising
+from incomplete or erroneous assignee’s name
+furnished, or a missing assignee’s name, in item 3
+of PTOL-85B will not be granted unless a request
+under 37 CFR 3.81(b) has been granted and the
+assignment was submitted for recordation as set forth
+in 37 CFR 3.11 before the patent issued. Any such
+request under 37 CFR 3.81(b) should be directed to
+the Office of Petitions and should include:
+(A) the processing fee required by 37 CFR
+1.17(i);
+(B) a request for issuance of the application in
+the name of the assignee, or a request that a patent
+be corrected to state the name of the assignee;
+(C) a statement that the assignment was
+submitted for recordation as set forth in 37 CFR 3.11
+before the issuance of the patent; and
+(D) a request for a certificate of correction under
+37 CFR 1.323 accompanied by the fee set forth in
+37 CFR 1.20(a).
+
+§ 308
+
+35 U.S.C. 118 Filing by other than inventor.
+[Editor Note: Applicable to any patent application filed on or
+after September 16, 2012. See pre-AIA 35 U.S.C. 118 for the
+law otherwise applicable.]
+A person to whom the inventor has assigned or is under an
+obligation to assign the invention may make an application for
+patent. A person who otherwise shows sufficient proprietary
+interest in the matter may make an application for patent on
+behalf of and as agent for the inventor on proof of the pertinent
+facts and a showing that such action is appropriate to preserve
+the rights of the parties. If the Director grants a patent on an
+application filed under this section by a person other than the
+inventor, the patent shall be granted to the real party in interest
+and upon such notice to the inventor as the Director considers
+to be sufficient.
+
+37 CFR 1.46 Application for patent by an assignee, obligated
+assignee, or a person who otherwise shows sufficient
+proprietary interest in the matter.
+[Editor Note: Applicable only to patent applications filed under
+35 U.S.C. 111(a), 363,or 385 on or after September 16, 2012.
+See pre-Hague 37 CFR 1.46 or pre-AIA 37 CFR 1.46 for the
+rule otherwise applicable.]
+*****
+(b) If an application under 35 U.S.C. 111 is made by a
+person other than the inventor under paragraph (a) of this section,
+the application must contain an application data sheet under §
+1.76 specifying in the applicant information section (§
+1.76(b)(7)) the assignee, person to whom the inventor is under
+an obligation to assign the invention, or person who otherwise
+shows sufficient proprietary interest in the matter. If an
+application entering the national stage under 35 U.S.C. 371, or
+a nonprovisional international design application, is applied for
+by a person other than the inventor under paragraph (a) of this
+section, the assignee, person to whom the inventor is under an
+obligation to assign the invention, or person who otherwise
+shows sufficient proprietary interest in the matter must have
+been identified as the applicant for the United States in the
+international stage of the international application or as the
+applicant in the publication of the international registration under
+Hague Agreement Article 10(3).
+(1) If the applicant is the assignee or a person to whom
+the inventor is under an obligation to assign the invention,
+documentary evidence of ownership (e.g., assignment for an
+assignee, employment agreement for a person to whom the
+inventor is under an obligation to assign the invention) should
+be recorded as provided for in part 3 of this chapter no later than
+the date the issue fee is paid in the application.
+(2) If the applicant is a person who otherwise shows
+sufficient proprietary interest in the matter, such applicant must
+submit a petition including:
+
+308 Issue to Applicant [R-10.2019]
+[Editor Note: This MPEP section is only applicable
+to applications filed on or after September 16, 2012.]
+
+(i) The fee set forth in § 1.17(g);
+(ii) A showing that such person has sufficient
+proprietary interest in the matter; and
+
+300-17
+
+Rev. 01.2024, November 2024
+
+§ 309
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+(iii) A statement that making the application for
+patent by a person who otherwise shows sufficient proprietary
+interest in the matter on behalf of and as agent for the inventor
+is appropriate to preserve the rights of the parties.
+*****
+(e) If a patent is granted on an application filed under this
+section by a person other than the inventor, the patent shall be
+granted to the real party in interest. Otherwise, the patent may
+be issued to the assignee or jointly to the inventor and the
+assignee as provided in § 3.81. Where a real party in interest
+has filed an application under § 1.46, the applicant shall notify
+the Office of any change in the real party in interest no later
+than payment of the issue fee. The Office will treat the absence
+of such a notice as an indication that there has been no change
+in the real party in interest.
+
+35 U.S.C. 118 and 37 CFR 1.46(e) provide that
+where the Director grants a patent on an application
+filed under 35 U.S.C. 118 by a person other than the
+inventor, the Office must grant the patent to the real
+party in interest. Therefore, the Office is requiring
+applicants other than the inventor to notify the Office
+of any change in the real party in interest in a reply
+to a notice of allowance. Absent any such
+notification, the Office will presume no change has
+occurred and will grant the patent to the real party
+in interest of record.
+Applicants other than the inventor can notify the
+Office of a change in the real party in interest by
+providing the real party in interest in Box 3 of the
+PTOL-85B. See MPEP § 307. The real party in
+interest will be listed in the assignee section of the
+patent. This does not change the applicant designated
+in the application or on any patent that is granted.
+Any desired change to the designated applicant must
+be made in accordance with 37 CFR 1.46 no later
+than issue fee payment. Note: requests to change the
+recorded applicant cannot be filed after patent grant.
+Applicants other than the inventor should record the
+documentary evidence of ownership (e.g.,
+assignment for an assignee, employment agreement
+for a person to whom the inventor is under an
+obligation to assign the invention) before payment
+of the issue fee.
+
+Rev. 01.2024, November 2024
+
+309 Restrictions Upon Employees of U.S.
+Patent and Trademark Office [R-07.2015]
+35 U.S.C. 4 Restrictions on officers and employees as to
+interests in patents.
+Officers and employees of the Patent and Trademark Office
+shall be incapable, during the period of their appointments and
+for one year thereafter, of applying for a patent and of acquiring,
+directly or indirectly, except by inheritance or bequest, any
+patent or any right or interest in any patent, issued or to be issued
+by the Office. In patents applied for thereafter they shall not be
+entitled to any priority date earlier than one year after the
+termination of their appointment.
+
+See MPEP § 1701 for additional restrictions on
+Office employees.
+
+310 Government License Rights to
+Contractor-Owned Inventions Made Under
+Federally Sponsored Research and
+Development [R-10.2019]
+Where a Government contractor retains U.S.
+domestic patent rights, the contractor is under an
+obligation by virtue of 35 U.S.C. 202(c)(6) to include
+the following statement at the beginning of the
+application and any patents issued thereon:
+“This invention was made with government support
+under (identify the contract) awarded by (identify
+the Federal agency). The government has certain
+rights in the invention.”
+If reference is made in the first sentence(s) of the
+specification following the title to related
+applications, the above “Government License
+Rights” statement should follow immediately as the
+second paragraph of the specification. If there is no
+such reference to related applications, the
+“Government License Rights” statement should
+appear as the first paragraph of the specification.
+See 37 CFR 1.77(b)(1)-(3).
+Providing information concerning government
+support on a provisional application cover sheet does
+not satisfy the requirement of 35 U.S.C. 202(c)(6)
+which requires that the a statement be included
+within the specification of such application and any
+patent issuing thereon specifying that the invention
+
+300-18
+
+OWNERSHIP AND ASSIGNMENT
+
+was made with Government support and that the
+Government has certain rights in the invention.
+
+311 Filing of Notice of Arbitration Awards
+[R-11.2013]
+35 U.S.C. 294 Voluntary arbitration.
+(a) A contract involving a patent or any right under a patent
+may contain a provision requiring arbitration of any dispute
+relating to patent validity or infringement arising under the
+contract. In the absence of such a provision, the parties to an
+existing patent validity or infringement dispute may agree in
+writing to settle such dispute by arbitration. Any such provision
+or agreement shall be valid, irrevocable, and enforceable, except
+for any grounds that exist at law or in equity for revocation of
+a contract.
+(b) Arbitration of such disputes, awards by arbitrators, and
+confirmation of awards shall be governed by title 9, to the extent
+such title is not inconsistent with this section. In any such
+arbitration proceeding, the defenses provided for under section
+282 shall be considered by the arbitrator if raised by any party
+to the proceeding.
+(c) An award by an arbitrator shall be final and binding
+between the parties to the arbitration but shall have no force or
+effect on any other person. The parties to an arbitration may
+agree that in the event a patent which is the subject matter of an
+award is subsequently determined to be invalid or unenforceable
+in a judgment rendered by a court of competent jurisdiction
+from which no appeal can or has been taken, such award may
+be modified by any court of competent jurisdiction upon
+application by any party to the arbitration. Any such
+modification shall govern the rights and obligations between
+such parties from the date of such modification.
+(d) When an award is made by an arbitrator, the patentee,
+his assignee or licensee shall give notice thereof in writing to
+the Director. There shall be a separate notice prepared for each
+patent involved in such proceeding. Such notice shall set forth
+the names and addresses of the parties, the name of the inventor,
+and the name of the patent owner, shall designate the number
+of the patent, and shall contain a copy of the award. If an award
+is modified by a court, the party requesting such modification
+shall give notice of such modification to the Director. The
+Director shall, upon receipt of either notice, enter the same in
+the record of the prosecution of such patent. If the required
+notice is not filed with the Director, any party to the proceeding
+may provide such notice to the Director.
+(e) The award shall be unenforceable until the notice
+required by subsection (d) is received by the Director.
+37 CFR 1.335 Filing of notice of arbitration awards.
+(a) Written notice of any award by an arbitrator pursuant
+to 35 U.S.C. 294 must be filed in the Patent and Trademark
+Office by the patentee, or the patentee’s assignee or licensee. If
+the award involves more than one patent a separate notice must
+be filed for placement in the file of each patent. The notice must
+set forth the patent number, the names of the inventor and patent
+
+§ 313
+
+owner, and the names and addresses of the parties to the
+arbitration. The notice must also include a copy of the award.
+(b) If an award by an arbitrator pursuant to 35 U.S.C. 294
+is modified by a court, the party requesting the modification
+must file in the Patent and Trademark Office, a notice of the
+modification for placement in the file of each patent to which
+the modification applies. The notice must set forth the patent
+number, the names of the inventor and patent owner, and the
+names and addresses of the parties to the arbitration. The notice
+must also include a copy of the court’s order modifying the
+award.
+(c) Any award by an arbitrator pursuant to 35 U.S.C. 294
+shall be unenforceable until any notices required by paragraph
+(a) or (b) of this section are filed in the Patent and Trademark
+Office. If any required notice is not filed by the party designated
+in paragraph (a) or (b) of this section, any party to the arbitration
+proceeding may file such a notice.
+
+The written notices required by this section should
+be directed to the attention of the Office of the
+Solicitor. The Office of the Solicitor will be
+responsible for processing such notices.
+
+312 [Reserved]
+
+313 Recording of Licenses, Security Interests,
+and Documents Other Than Assignments
+[R-07.2015]
+In addition to assignments and documents required
+to be recorded by Executive Order 9424, upon
+request, assignments of applications, patents, and
+registrations, and other documents relating to
+interests in patent applications and patents will be
+recorded in the Office. See 35 U.S.C. 261 and 37
+CFR 3.11. Other documents affecting title to
+applications, patents, and registrations will be
+recorded as provided in 37 CFR Part 3 or at the
+discretion of the Director. 37 CFR 3.11(a).
+In addition to documents that constitute a transfer
+or change of title, other documents relating to
+interests in patents or applications will generally be
+recorded. Typical of these documents which are
+accepted for recording are license agreements and
+agreements which convey a security interest. Such
+documents are recorded in the public interest in order
+to give third parties notification of equitable interests
+or other matters relevant to the ownership of a patent
+or application. Documents that are not accepted for
+
+300-19
+
+Rev. 01.2024, November 2024
+
+§ 314
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+recording include attorney's liens against patents or
+patent applications. See In re Refusal of Assignment
+Branch to Record Attorney's Lien, 8 USPQ2d 1446
+(Comm'r Pat. 1988).
+Any document returned unrecorded, which the
+sender nevertheless believes represents an unusual
+case which justifies recordation, may be submitted
+to the Office of Petitions with a petition under 37
+CFR 1.181 requesting recordation of the document.
+The recordation of a document is not a determination
+of the effect of the document on the chain of title.
+The determination of what, if any, effect a document
+has on title will be made by the Office at such times
+as ownership must be established to permit action
+to be taken by the purported assignee in connection
+with a patent or an application. See MPEP §§ 324
+and 325.
+
+314 Certificates of Change of Name or of
+Merger [R-08.2012]
+
+(A) a copy of the original document (which may
+consist of the previously recorded papers on which
+the Assignment Recordation Branch has stamped
+the reel and frame numbers at which they are
+recorded, or a copy of such papers);
+(B) a completed cover sheet (see 37 CFR 3.31
+and MPEP § 302.07); and
+(C) the appropriate recording fee (see 37 CFR
+1.21(h) and 3.41).
+The Office will assign a new recording date to that
+submission, update the assignment database, and
+include the cover sheet and document as part of the
+official record.
+
+316 [Reserved]
+
+317 Handling of Documents in the
+Assignment Recordation Branch [R-01.2024]
+
+Certificates issued by appropriate authorities
+showing a change of name of a business or a merger
+of businesses are recordable. Although a mere
+change of name does not constitute a change in legal
+entity, it is properly a link in the chain of title.
+Documents of merger are also proper links in the
+chain of title. They may represent a change of entity
+as well as a change of name.
+
+315 Indexing Against a Recorded Certificate
+[R-01.2024]
+The Office does not process requests for “indexing”
+or “cross-referencing” additional patent numbers or
+application numbers against a document, other than
+an assignment, previously recorded in the
+Assignment Recordation Branch. Such requests do
+not comply with 37 CFR 3.11, 3.28, and 3.31, which
+require that each request for recordation include the
+document to be recorded and a cover sheet.
+Therefore, even where a document has already been
+recorded in the Assignment Recordation Branch in
+connection with a patent or patent application, a
+party that wishes recordation of that document with
+respect to additional patents and/or patent
+
+Rev. 01.2024, November 2024
+
+applications must submit the following to the
+Assignment Recordation Branch:
+
+All documents and cover sheets submitted for
+recording are examined for formal requirements in
+the Assignment Recordation Branch in order to
+separate documents which are recordable from those
+which are not recordable.
+Documents and cover sheets that are considered not
+to be recordable are returned to the sender by the
+Assignment Recordation Branch with an explanation.
+If the sender disagrees or believes that the document
+represents an unusual case which justifies
+recordation, the sender may present the question to
+the Director by way of petition under 37 CFR 1.181,
+filed with the Office of Petitions.
+After an assignment and cover sheet have been
+recorded, notification will be sent to the name and
+address indicated on the cover sheet to receive
+correspondence, showing the reel and frame number.
+
+317.01 Recording Date [R-08.2012]
+37 CFR 3.51 Recording date.
+The date of recording of a document is the date the document
+meeting the requirements for recording set forth in this part is
+
+300-20
+
+OWNERSHIP AND ASSIGNMENT
+
+filed in the Office. A document which does not comply with the
+identification requirements of § 3.21 will not be recorded.
+Documents not meeting the other requirements for recording,
+for example, a document submitted without a completed cover
+sheet or without the required fee, will be returned for correction
+to the sender where a correspondence address is available. The
+returned papers, stamped with the original date of receipt by the
+Office, will be accompanied by a letter which will indicate that
+if the returned papers are corrected and resubmitted to the Office
+within the time specified in the letter, the Office will consider
+the original date of filing of the papers as the date of recording
+of the document. The procedure set forth in § 1.8 or § 1.10 of
+this chapter may be used for resubmissions of returned papers
+to have the benefit of the date of deposit in the United States
+Postal Service. If the returned papers are not corrected and
+resubmitted within the specified period, the date of filing of the
+corrected papers will be considered to be the date of recording
+of the document. The specified period to resubmit the returned
+papers will not be extended.
+
+§ 317.03
+
+and resubmitted within the specified period, the date
+of receipt of the corrected papers will be considered
+to be the date of recording of the document. The
+specified period to resubmit the returned papers will
+not be extended.
+
+317.03 Effect of Recording [R-10.2019]
+37 CFR 3.54 Effect of recording.
+The recording of a document pursuant to § 3.11 is not a
+determination by the Office of the validity of the document or
+the effect that document has on the title to an application, a
+patent, or a registration. When necessary, the Office will
+determine what effect a document has, including whether a party
+has the authority to take an action in a matter pending before
+the Office.
+
+37 CFR 3.56 Conditional assignments.
+
+The date of recording of a document is the date the
+document meeting the requirements for recording
+set forth in the regulations is filed in the Office. A
+document which does not comply with the
+identification requirements of 37 CFR 3.21 will not
+be recorded. Documents not meeting the other
+requirements for recording, for example, a document
+submitted without a completed cover sheet or
+without the required fee, will be returned for
+correction to the sender when a correspondence
+address is available.
+
+317.02 Correction of Unrecorded Returned
+Documents and Cover Sheets [R-01.2024]
+Assignment documents and cover sheets, or copies
+of the same, which are returned by the Assignment
+Recordation Branch will indicate the original date
+of receipt by the Office and will be accompanied by
+a letter which will indicate that if the returned papers
+are corrected and resubmitted to the Office within
+the time specified in the letter, the Office will
+consider the original date of receipt of the papers as
+the date of recording of the document. See 37 CFR
+3.51. The certification procedure under 37 CFR 1.8
+(see MPEP § 512) or the “Priority Mail Express®”
+procedure under 37 CFR 1.10 (see MPEP § 513)
+may be used for resubmissions of returned papers
+to obtain the benefit of the date of deposit in the
+United States Postal Service to establish that the
+papers were returned within the time period
+specified. If the returned papers are not corrected
+
+Assignments which are made conditional on the performance
+of certain acts or events, such as the payment of money or other
+condition subsequent, if recorded in the Office, are regarded as
+absolute assignments for Office purposes until canceled with
+the written consent of all parties or by the decree of a court of
+competent jurisdiction. The Office does not determine whether
+such conditions have been fulfilled.
+
+The recording of a document is not a determination
+by the Office of the validity of the document or the
+effect that document has on the title to an application
+or patent. See Realvirt, LLC v. Lee, 195 F.Supp.3d
+847, 862-3 (E.D. Va. 2016). When necessary, the
+Office will determine what effect a document has,
+including whether a party has the authority to take
+an action in a matter pending before the Office. See
+MPEP §§ 324 and 325.
+37 CFR 3.56 provides that an assignment, which at
+the time of its execution is conditional on a given
+act or event, will be treated by the Office as an
+absolute assignment. This rule serves as notification
+as to how a conditional assignment will be treated
+by the Office in any proceeding requiring a
+determination of the owner of an application, patent,
+or registration. Since the Office will not determine
+whether a condition has been fulfilled, the Office
+will treat the submission of such an assignment for
+recordation as signifying that the act or event has
+occurred. A security agreement that does not convey
+the right, title, and interest of a patent property is
+not a conditional assignment.
+
+300-21
+
+Rev. 01.2024, November 2024
+
+§ 318
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+In accordance with the subsequent purchaser
+provision in 35 U.S.C. 261, if an assignment is not
+timely recorded at the USPTO, the unrecorded
+assignment will not be superior to the rights acquired
+by a third party, i.e. a bona fide purchaser, for
+valuable consideration if that third party did not have
+knowledge of the unrecorded assignment. See CMS
+Industries, Inc. v. L.P.S. International, Ltd., 643 F.2d
+289, 217 USPQ 20 (5th Cir. 1981).
+
+318 Documents Not to be Placed in Files
+[R-01.2024]
+Assignment documents submitted for recording
+should not be placed directly in application or patent
+files, but should be forwarded to Assignment
+Recordation Branch for recording.
+
+319 [Reserved]
+
+320 Title Reports [R-01.2024]
+The “title report” is a form which can be used under
+certain circumstances by the Assignment
+Recordation Branch to report to someone within the
+Office the name of the owner of an application or
+patent as shown by the Assignment Recordation
+Branch records on the date the title report is made.
+For example, a title report is requested by the
+Reexamination Preprocessing Staff when a request
+for reexamination is filed. Title reports may not be
+ordered by applicants or attorneys.
+Information as to the title is not normally required
+by the examiner to examine an application. It is only
+in limited circumstances when the ownership
+becomes an issue and an examiner needs a title
+report. See MPEP § 303. Examiners may obtain a
+title report using the Patent Data Portal (select
+“General Information,” insert the appropriate
+application number, select Search, select
+“Assignments”). The screen resulting from the search
+may be printed to yield the copy of the title report.
+NOTE: The public can request a certified abstract
+of title. The fee for this service is set forth at 37 CFR
+1.19(b)(4). See MPEP § 301.01 for a discussion of
+which assignment records are publicly available.
+
+Rev. 01.2024, November 2024
+
+321-322 [Reserved]
+
+323 Procedures for Correcting Errors in
+Recorded Assignment Document [R-01.2024]
+An error in a recorded assignment document will be
+corrected by Assignment Recordation Branch
+provided a “corrective document” is submitted. The
+“corrective document” must include the following:
+(A) A copy of the original assignment document
+with the corrections made therein. The corrections
+must be initialed and dated by the party conveying
+the interest; and
+(B) A new Recordation Form Cover Sheet (form
+PTO-1595) (See MPEP § 302.07).
+The new recordation form cover sheet must identify
+the submission as a “corrective document”
+submission and indicate the reel and frame number
+where the incorrectly recorded assignment document
+appears. The original cover sheet should be
+submitted with the corrective document. The
+corrective document will be recorded and given a
+new reel and frame number and recording date. The
+recording fee set forth in 37 CFR 1.21(h) is required
+for each patent application and patent against which
+the corrective document is being recorded. See
+MPEP § 302.06.
+Corrections may be made on the original assignment
+document, for example, by lining out an incorrect
+patent or application number in a merger or change
+of name (see MPEP § 314).
+Office policy regarding recordation of assignment
+documents is directed toward maintaining a complete
+history of claimed interests in property and,
+therefore, recorded assignment documents will not
+be expunged even if subsequently found to be
+invalid. See In re Ratny, 24 USPQ2d 1713 (Comm’r
+Pat. 1992). Once a document is recorded with the
+Assignment Recordation Branch, the Assignment
+Recordation Branch will not remove the papers from
+the record relating to that application or patent. See
+MPEP § 323.01(d).
+
+300-22
+
+OWNERSHIP AND ASSIGNMENT
+
+§ 323.01(a)
+
+(B) a corrected cover sheet; and
+
+323.01 Correction of Error in Recorded
+Cover Sheet [R-01.2024]
+
+(C) the required fee for each application or
+patent to be corrected (37 CFR 3.41).
+
+37 CFR 3.34 Correction of cover sheet errors.
+(a) An error in a cover sheet recorded pursuant to § 3.11
+will be corrected only if:
+(1) The error is apparent when the cover sheet is
+compared with the recorded document to which it pertains and
+
+See 37 CFR 3.34. The party requesting correction
+should also submit a copy of the original cover sheet,
+to facilitate comparison of the corrected cover sheet
+with the originally recorded document.
+
+(2) A corrected cover sheet is filed for recordation.
+(b) The corrected cover sheet must be accompanied by a
+copy of the document originally submitted for recording and by
+the recording fee as set forth in § 3.41.
+
+Any alleged error in a recorded cover sheet will only
+be corrected if the error is apparent from a
+comparison with the recorded assignment document.
+The corrected cover sheet should be directed to the
+Assignment Recordation Branch.
+During the recording process, the Assignment
+Recordation Branch will check to see that a cover
+sheet is complete and record the data exactly as it
+appears on the cover sheet. The Assignment
+Recordation Branch does not compare the cover
+sheet with the assignment document (or other
+document affecting title). Once the document is
+recorded, the Office will issue a notice of
+recordation.
+The party recording the document should carefully
+review the notice of recordation.
+Typographical errors made by the Office will be
+corrected promptly and without charge upon written
+request directed to the Assignment Recordation
+Branch. For any other error, the party recording the
+document is responsible for filing the papers and
+paying the recordation fees necessary to correct the
+error, using the procedures set forth in MPEP §§
+323.01(a) through 323.01(c).
+
+323.01(a) Typographical Errors in Cover
+Sheet [R-01.2024]
+A party who wishes to correct a typographical error
+on a recorded cover sheet must submit the following
+to the Assignment Recordation Branch:
+(A) a copy of the originally recorded assignment
+document (or other document affecting title);
+
+The party filing the corrected cover sheet should
+check the box titled “Other” in the area of the sheet
+requesting “Nature of Conveyance,” and indicate
+that the submission is to correct an error in a cover
+sheet previously recorded. The party should also
+identify the reel and frame numbers (if known), and
+the nature of the correction (e.g., “correction to the
+spelling of assignor’s name” or “correction of
+application number or patent number”). The Office
+will then compare the corrected cover sheet with the
+original cover sheet and the originally recorded
+assignment document (or other document affecting
+title) to determine whether the correction is
+typographical in nature. If the error is typographical
+in nature, the Assignment Recordation Branch will
+record the corrected cover sheet and correct the
+Assignment Historical Database.
+I. TYPOGRAPHICAL ERRORS IN COVER SHEET
+THAT DO NOT AFFECT TITLE TO APPLICATION
+OR PATENT
+
+If the original cover sheet contains a typographical
+error that does not affect title to the application or
+patent against which the original assignment or name
+change is recorded, the Assignment Recordation
+Branch will correct the Assignment Historical
+Database and permit the recording party to keep the
+original date of recordation.
+II. TYPOGRAPHICAL ERRORS IN COVER
+SHEET THAT DO AFFECT TITLE TO
+APPLICATION OR PATENT
+
+If the original cover sheet contains a typographical
+error that affects title to the application or patent
+against which the assignment or name change is
+recorded, the recording party will not be entitled to
+keep the original date of recordation. Rather, the
+Assignment Recordation Branch will correct its
+automated records and change the date of recordation
+
+300-23
+
+Rev. 01.2024, November 2024
+
+§ 323.01(b)
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+to the date the corrected cover sheet was received
+in the Office.
+
+323.01(b) Typographical Errors in Recorded
+Assignment Document [R-08.2012]
+If there is an error in the recorded assignment
+document (or other document affecting title) rather
+than in the cover sheet, the party responsible for an
+erroneous document (e.g., the assignor) must either
+create and record a new document or make
+corrections to the original document and re-record
+it. If an assignor is not available to correct an original
+document or execute a new one, the assignee may
+submit an affidavit or declaration in which the
+assignee identifies the error and requests correction.
+The affidavit or declaration must be accompanied
+by a copy of the originally recorded papers, a cover
+sheet, and the required fee for each application or
+patent to be corrected (37 CFR 3.41). See In re
+Abacab International Computers Ltd., 21 USPQ2d
+1078 (Comm’r Pat. 1987).
+
+323.01(c) Assignment or Change of Name
+Improperly Filed and Recorded by Another
+Person Against Owner’s Application or
+Patent [R-01.2024]
+When the owner of an application or registration
+discovers that another party has improperly recorded
+an assignment or name change against the owner’s
+application or patent, the owner must correct the
+error by having a corrected cover sheet filed with
+the Assignment Recordation Branch.
+The owner should contact the party who recorded
+the papers with the erroneous information and
+request that such party record corrective papers.
+However, if the party cannot be located or is
+unwilling to file corrective papers, then the true
+owner must record the necessary papers with the
+Assignment Recordation Branch to correct the error.
+Specifically, the owner should submit the following
+to the Assignment Recordation Branch:
+(A) a completed cover sheet identifying the
+application or patent against which the assignment
+was improperly recorded;
+
+Rev. 01.2024, November 2024
+
+(B) an affidavit or declaration (1) identifying
+itself as the correct owner, (2) stating that the
+previously recorded document was submitted with
+erroneous information, and (3) providing the reel
+and frame number of the previously recorded
+document; and
+(C) the required fee (37 CFR 3.41) for each
+application or patent to be corrected.
+The affidavit or declaration should include a
+summary of the true chain of title to make it clear
+that the chain of title for the application or patent
+identified should not be considered altered by the
+incorrect assignment or name change, and a
+statement that the original applicant or patentee or
+last correct assignee has been, and continues to be,
+the owner of the application, or patent at issue.
+On the corrected cover sheet, the owner should check
+the box titled “Other” in the area of the cover sheet
+requesting the “Nature of Conveyance,” and indicate
+that the submission is to correct an error made in a
+previously recorded document that erroneously
+affects the identified application(s) or patent(s). The
+party should also write the name of the correct owner
+in both the box requesting the name of the conveying
+party and the box requesting the name and address
+of the receiving party; this is to make it clear that
+ownership never changed and that any assignment
+or name change recorded against the application(s)
+or patent(s) was erroneous.
+
+323.01(d) Expungement of Assignment
+Records [R-01.2024]
+Petitions to correct, modify, or “expunge”
+assignment records are rarely granted and will not
+result in the removal of a document from the
+assignment records. Such petitions are granted only
+if the petitioner can prove that:
+(A) the normal corrective procedures outlined
+in MPEP §§ 323.01(a) through 323.01(c) will not
+provide the petitioner with adequate relief; and
+(B) the integrity of the assignment records will
+not be affected by granting the petition.
+Any petition involving redaction of information in
+an assignment record other than personally
+identifiable information (such as social security
+
+300-24
+
+OWNERSHIP AND ASSIGNMENT
+
+numbers, home address, phone number, email
+address, birth date, and financial account numbers)
+is considered to affect the integrity of the assignment
+record.
+Assignment records are recognized as distinct from
+application file records. Even if a petition to
+“expunge” a document is granted with respect to a
+particular application or patent, the image of the
+recorded document will remain in the records of the
+Assignment Recordation Branch at the same reel
+and frame number, and the image will appear when
+someone views that reel and frame number. The
+Office will, however, delete the links to the
+application or patent that was the subject of the
+petition, so that no information about the recorded
+document will appear when someone searches for
+that application or patent number in the Assignment
+Historical Database. A redacted version of the
+“expunged” document must be recorded and will
+appear in the assignment records instead of the
+“expunged” document upon the granting of the
+petition. An additional assignment of the “correct”
+document may be recorded in addition to the
+redacted version where the redacted version is
+incomplete or the original document was not correct.
+
+§ 324
+
+(1) A single assignee. An assignee of the entire right,
+title and interest in the application or patent being reexamined
+who is of record, or
+(2) Partial assignee(s) together or with inventor(s).
+All partial assignees, or all partial assignees and inventors who
+have not assigned their right, title and interest in the application
+or patent being reexamined, who together own the entire right,
+title and interest in the application or patent being reexamined.
+A partial assignee is any assignee of record having less than the
+entire right, title and interest in the application or patent being
+reexamined.
+(c) Patents — Becoming of record. An assignee becomes
+of record either in a national patent application or a
+reexamination proceeding by filing a statement in compliance
+with § 3.73(b) that is signed by a party who is authorized to act
+on behalf of the assignee.
+(d) Trademarks. The assignee of a trademark application
+or registration may prosecute a trademark application, submit
+documents to maintain a trademark registration, or file papers
+against a third party in reliance on the assignee’s trademark
+application or registration, to the exclusion of the original
+applicant or previous assignee. The assignee must establish
+ownership in compliance with § 3.73(b).
+37 CFR 3.73 (pre-AIA) Establishing right of assignee to take
+action.
+[Editor Note: Not applicable to applications filed under 35
+U.S.C. 111(a), 363, or 385 on or after September 16, 2012. See
+37 CFR 3.73 for the rule otherwise applicable.]
+
+324 Establishing Right of Assignee To Take
+Action in Application Filed Before September
+16, 2012 [R-10.2019]
+
+(a) The inventor is presumed to be the owner of a patent
+application, and any patent that may issue therefrom, unless
+there is an assignment. The original applicant is presumed to be
+the owner of a trademark application or registration, unless there
+is an assignment.
+
+[Editor Note: See MPEP § 325 for establishing the
+right of assignee to take action in an application
+filed on or after September 16, 2012.]
+
+(b)(1) In order to request or take action in a patent or
+trademark matter, the assignee must establish its ownership of
+the patent or trademark property of paragraph (a) of this section
+to the satisfaction of the Director. The establishment of
+ownership by the assignee may be combined with the paper that
+requests or takes the action. Ownership is established by
+submitting to the Office a signed statement identifying the
+assignee, accompanied by either:
+
+37 CFR 3.71 (pre-AIA) Prosecution by assignee.
+[Editor Note: Not applicable to applications filed under 35
+U.S.C. 111(a), 363 or 385 on or after September 16, 2012. See
+37 CFR 3.71 for the rule otherwise applicable.]
+(a) Patents — conducting of prosecution. One or more
+assignees as defined in paragraph (b) of this section may, after
+becoming of record pursuant to paragraph (c) of this section,
+conduct prosecution of a national patent application or a
+reexamination proceeding to the exclusion of either the inventive
+entity, or the assignee(s) previously entitled to conduct
+prosecution.
+(b) Patents — assignee(s) who can prosecute. The
+assignee(s) who may conduct either the prosecution of a national
+application for patent or a reexamination proceeding are:
+
+(i) Documentary evidence of a chain of title from
+the original owner to the assignee (e.g., copy of an executed
+assignment). For trademark matters only, the documents
+submitted to establish ownership may be required to be recorded
+pursuant to § 3.11 in the assignment records of the Office as a
+condition to permitting the assignee to take action in a matter
+pending before the Office. For patent matters only, the
+submission of the documentary evidence must be accompanied
+by a statement affirming that the documentary evidence of the
+chain of title from the original owner to the assignee was or
+concurrently is being submitted for recordation pursuant to §
+3.11; or
+(ii) A statement specifying where documentary
+evidence of a chain of title from the original owner to the
+
+300-25
+
+Rev. 01.2024, November 2024
+
+§ 324
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+assignee is recorded in the assignment records of the Office
+(e.g., reel and frame number).
+(2) The submission establishing ownership must show
+that the person signing the submission is a person authorized to
+act on behalf of the assignee by:
+(i) Including a statement that the person signing
+the submission is authorized to act on behalf of the assignee; or
+(ii) Being signed by a person having apparent
+authority to sign on behalf of the assignee, e.g., an officer of the
+assignee.
+(c) For patent matters only:
+(1) Establishment of ownership by the assignee must
+be submitted prior to, or at the same time as, the paper requesting
+or taking action is submitted.
+(2) If the submission under this section is by an
+assignee of less than the entire right, title and interest, such
+assignee must indicate the extent (by percentage) of its
+ownership interest, or the Office may refuse to accept the
+submission as an establishment of ownership.
+
+The owner or assignee (other than a juristic entity)
+of a patent property based on an application filed
+before September 16, 2012, can take action in a
+patent application or patent proceeding in numerous
+instances. The owner or assignee can sign a reply to
+an Office action (pre-AIA 37 CFR 1.33(b)(3) and
+(4)), a request for a continued prosecution
+application under 37 CFR 1.53(d)(MPEP §
+201.06(d)), a terminal disclaimer (MPEP § 1490),
+Fee(s) Transmittal (PTOL-85B) (MPEP § 1306), or
+a request for status of an application (MPEP § 102).
+The owner or assignee can file an application under
+pre-AIA 37 CFR 1.47(b)(MPEP § 409.03(b)),
+appoint its own registered patent practitioner to
+prosecute an application (pre-AIA 37 CFR 1.32 and
+MPEP § 402.07), and grant a power to inspect an
+application (MPEP § 104). The owner or assignee
+consents to the filing of a reissue application (MPEP
+§ 1410.01), and to the correction of inventorship
+(MPEP § 602.01(c) or MPEP § 1481).
+Effective September 16, 2012, an owner or assignee
+who is a juristic entity must be represented by a
+patent practitioner. See 37 CFR 1.31. Juristic entities
+may sign small entity assertions under 37 CFR 1.27
+(MPEP § 509.03), disclaimers under 37 CFR 1.321
+(MPEP § 1490), submissions under 37 CFR 3.73 to
+establish ownership, powers of attorney under 37
+CFR 1.32 (MPEP § 402) and powers to inspect under
+37 CFR 1.14 (MPEP § 104). However, any other
+
+Rev. 01.2024, November 2024
+
+paper submitted on behalf of a juristic entity on or
+after September 16, 2012, must be signed by a patent
+practitioner.
+See subsection VI below for a discussion of when
+ownership must be established to take action in a
+patent matter, and subsection VII below for a
+discussion of when ownership need not be
+established to sign certain papers.
+I. THE ASSIGNEE/OWNER THAT CAN TAKE
+ACTION IN PATENT MATTERS
+
+The provisions of pre-AIA 37 CFR 3.71(b)(1) and
+(2) identify the owner or assignee that can take action
+in patent matters, e.g., the assignee which may
+conduct the prosecution of a U.S. national
+application for a patent (35 U.S.C. 111(a)), or any
+other patent proceeding (e.g., a reexamination
+proceeding, an interference proceeding). A national
+patent application is owned by one of the following
+individual or composite entities:
+(A) the inventor(s);
+(B) an assignee or multiple assignees of the
+inventor(s); or
+(C) some combination of the assignee(s), and
+inventor(s) who have not assigned away their right,
+title and interest in the application.
+Pursuant to pre-AIA 37 CFR 3.73(b), a party must
+be established as the assignee by satisfying the
+requirements of that subsection, in order to be
+recognized as an owner or part owner, for purposes
+of taking action in patent matters before the Office.
+As discussed in subsection II below, all parties
+having any portion of the ownership must join in
+“taking action” (i.e., act together as a composite
+entity) in order to be entitled to conduct the
+prosecution in patent matters.
+A.
+
+Individual and Partial Assignees
+
+If there is a single assignee of the entire right, title
+and interest in the patent application, pre-AIA 37
+CFR 3.71(b)(1) provides that the single assignee
+(i.e., individual assignee) may act alone to conduct
+the prosecution of an application or other patent
+
+300-26
+
+OWNERSHIP AND ASSIGNMENT
+
+B.
+
+proceeding (upon complying with pre-AIA 37 CFR
+3.73(b)).
+If there is no assignee of the entire right, title and
+interest of the patent application, then two
+possibilities exist:
+(A) The application has not been assigned, and
+ownership resides solely in the inventor(s) (i.e., the
+applicant(s)). In this situation, pre-AIA 37 CFR 3.71
+does not apply, since there is no assignee, and the
+combination of all inventors is needed to conduct
+the prosecution of an application.
+(B) The application has been assigned by at least
+one of the inventors, and there is thus at least one
+“partial assignee.” As defined in pre-AIA 37 CFR
+3.71(b)(2), a partial assignee is any assignee of
+record who has less than the entire right, title and
+interest in the application. The application is owned
+by the combination of all partial assignees and all
+inventors who have not assigned away their right,
+title and interest in the application.
+Where at least one inventor retains an ownership
+interest together with the partial assignee(s), the
+combination of all partial assignees and inventors
+retaining ownership interest is needed to conduct
+the prosecution of an application, unless one or more
+inventors have refused to join in the filing of the
+application and a petition under pre-AIA 37 CFR
+1.47 has been granted. If a petition under pre-AIA
+37 CFR 1.47 has been granted, then the assignee
+need only be the assignee of the entire interest of the
+pre-AIA 37 CFR 1.47 applicant to sign a power of
+attorney. See pre-AIA 37 CFR 1.32(b)(4). Where
+an applicant retains an ownership interest, the
+combination of all partial assignees and the applicant
+with the ownership interest is needed to conduct the
+prosecution of an application.
+Where a reissue application is filed to correct
+inventorship in the patent by the deletion of the name
+of inventor X and inventor X has not assigned his/her
+rights to the patent, inventor X has an ownership
+interest in the patent. Inventor X must consent to the
+filing of the reissue application, even though inventor
+X is being deleted and need not sign the reissue oath
+or declaration. If inventor X has assigned his/her
+rights to the patent, then inventor X’s assignee must
+consent to the filing of the reissue application.
+
+§ 324
+
+Example
+
+Inventors A and B invent a process and file their
+application, signing the declaration for the patent
+application. Inventors A and B together may conduct
+prosecution of the application. Inventor A then
+assigns all his/her rights in the application to
+Corporation X. As soon as Corporation X (now a
+partial assignee as per pre-AIA 37 CFR 3.71(b)(2))
+is made of record in the application as a partial
+assignee (by filing a statement pursuant to pre-AIA
+37 CFR 3.73(b) stating Corporation X is an assignee
+of an undivided interest in the entirety of the
+application), Corporation X and Inventor B together
+may conduct prosecution of the application.
+Corporation X and Inventor B then both assign their
+rights in the application to Corporation Y. As soon
+as Corporation Y (now an assignee of the entire
+right, title and interest) is made of record in the
+application as the assignee (by filing a statement
+pursuant to pre-AIA 37 CFR 3.73(b) stating it is
+assignee of the entire right, title and interest),
+Corporation Y is then the sole (one hundred percent)
+owner and thus may, by itself, conduct prosecution
+of the application.
+II. ESTABLISHING OWNERSHIP
+
+When an assignee first seeks to take action in a
+matter before the Office with respect to a patent
+application filed before September 16, 2012, or a
+with respect to a patent or a reexamination
+proceeding relating to a patent that issued from an
+application that was filed before September 16, 2012,
+the assignee must establish its ownership of the
+property to the satisfaction of the Director. Pre-AIA
+37 CFR 3.73(b). The assignee’s ownership may be
+established under pre-AIA 37 CFR 3.73(b) by
+submitting to the Office, in the Office file related to
+the matter in which action is sought to be taken:
+(A) documentary evidence of a chain of title
+from the original owner to the assignee (e.g., copy
+of an executed assignment submitted for recording)
+and a statement affirming that the documentary
+evidence of the chain of title from the original owner
+to the assignee was, or concurrently is, submitted
+for recordation pursuant to 37 CFR 3.11; or
+
+300-27
+
+Rev. 01.2024, November 2024
+
+§ 324
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+(B) a statement specifying, by reel and frame
+number, where such evidence is recorded in the
+Office.
+
+III. CONTINUING APPLICATIONS
+
+Documents submitted to establish ownership are
+required to be recorded, or submitted for recordation
+pursuant to 37 CFR 3.11, as a condition to permitting
+the assignee to take action in a matter pending before
+the Office. 35 U.S.C. 261 requires transfer of
+ownership by an assignment to be in writing. See
+Realvirt, LLC v. Lee, 195 F.Supp.3d 847, 859 (E.D.
+Va. 2016).
+The action taken by the assignee, and the pre-AIA
+37 CFR 3.73(b) submission establishing that the
+assignee is the appropriate assignee to take such
+action, can be combined in one paper.
+The establishment of ownership by the assignee must
+be submitted prior to, or at the same time as, the
+paper requesting or taking action is submitted.
+Pre-AIA 37 CFR 3.73(c). If the submission
+establishing ownership is not present, the action
+sought to be taken will not be given effect. If the
+submission establishing ownership is submitted at
+a later date, that date will be the date of the request
+for action or the date of the assignee’s action taken.
+The submission establishing ownership by the
+assignee must be signed by a party who is authorized
+to act on behalf of the assignee. See discussion
+below. Once pre-AIA 37 CFR 3.73(b) is complied
+with by an assignee, that assignee may continue to
+take action in that application, patent, or
+reexamination proceeding without filing a pre-AIA
+37 CFR 3.73(b) submission each time, provided that
+ownership has not changed.
+The submission establishing ownership by the
+assignee pursuant to pre-AIA 37 CFR 3.73(b) is
+generally referred to as the “statement under 37 CFR
+3.73(b)” or the “37 CFR 3.73(b) statement.” A
+duplicate copy of the pre-AIA 37 CFR 3.73(b)
+statement is not required and should not be
+submitted. See 37 CFR 1.4(b) and MPEP § 502.04.
+
+Rev. 01.2024, November 2024
+
+When an assignee files a continuation or divisional
+application under 37 CFR 1.53(b) before September
+16, 2012, the application papers must:
+(A) contain a copy of a statement filed under
+pre-AIA 37 CFR 3.73(b) in the parent application;
+or
+(B) contain a newly executed statement under
+pre-AIA 37 CFR 3.73(b).
+When a continuation-in-part application is filed
+before September 16, 2012 by an assignee, a newly
+executed statement under pre-AIA 37 CFR 3.73(b)
+must be filed. When in a design application, a
+continued prosecution application (CPA) under
+37 CFR 1.53(d) is filed, the statement filed under
+37 CFR 3.73(b) in the parent application will serve
+as the statement for the CPA.
+IV. REQUESTS FOR CONTINUED EXAMINATION
+
+Where a Request for Continued Examination of an
+application is filed under 37 CFR 1.114, the
+application is not considered to be abandoned; rather
+the finality of the Office action is withdrawn and the
+prosecution continues. Thus, the statement under
+pre-AIA 37 CFR 3.73(b) in the application will
+continue to serve as the statement establishing
+ownership.
+V. PARTY WHO MUST SIGN
+
+The submission establishing ownership must be
+signed by a party authorized to act on behalf of the
+assignee. The submission under pre-AIA 37 CFR
+3.73(b) may be signed on behalf of the assignee in
+the following manner if the assignee is an
+organization (e.g., corporation, partnership,
+university, government agency, etc.):
+(A) The submission may be signed by a person
+in the organization having apparent authority to sign
+on behalf of the organization. Pre-AIA 37 CFR
+3.73(b)(2)(ii). An officer (chief executive officer,
+president, vice-president, secretary, or treasurer) is
+presumed to have authority to sign on behalf of the
+organization. The signature of the chairman of the
+board of directors is acceptable, but not the signature
+of an individual director. Modifications of these
+
+300-28
+
+OWNERSHIP AND ASSIGNMENT
+
+basic titles are acceptable, such as vice-president for
+sales, executive vice-president, assistant treasurer,
+vice-chairman of the board of directors. In foreign
+countries, a person who holds the title “Manager”
+or “Director” is normally an officer and is presumed
+to have the authority to sign on behalf of the
+organization. A person having a title (administrator,
+general counsel) that does not clearly set forth that
+person as an officer of the assignee is not presumed
+to have authority to sign the submission on behalf
+of the assignee. The Office recommends that when
+a person with such a title is authorized to act on
+behalf of the assignee, the submission should clearly
+indicate that person's authority (see paragraph (B),
+below). A power of attorney (pre-AIA 37 CFR
+1.32(b)(4)) to a patent practitioner to prosecute a
+patent application executed by the applicant or the
+assignee of the entire interest does not make that
+practitioner an official of an assignee or empower
+the practitioner to sign the submission on behalf of
+the assignee.
+(B) The submission may be signed by any
+person, if the submission sets forth that the person
+signing is authorized (or empowered) to act on behalf
+of the assignee, i.e., to sign the submission on behalf
+of the assignee. Pre-AIA 37 CFR 3.73(b)(2)(i).
+(C) The submission may be signed by a person
+empowered by an organizational resolution (e.g.,
+corporate resolution, partnership resolution) to sign
+the submission on behalf of the assignee, if a copy
+of the resolution is, or was previously, submitted in
+the record.
+Where a submission does not comply with (A), (B),
+or (C) above, evidence of the person’s authority to
+sign will be required.
+
+§ 324
+
+Transmittal (PTOL-85B) (MPEP § 1306). Effective
+September 16, 2012, a juristic entity (e.g.,
+organizational assignee) must be represented by a
+patent practitioner. See 37 CFR 1.31.
+VII. WHEN OWNERSHIP NEED NOT BE
+ESTABLISHED
+
+Examples of situations where ownership need not
+be established under pre-AIA 37 CFR 3.73(b) are
+when the assignee: signs a small entity statement
+(MPEP § 509.03); signs a statement of common
+ownership of two inventions (MPEP § 2146.02);
+signs a NASA or DOE property rights statement
+(MPEP § 151); signs an affidavit under 37 CFR
+1.131(a) where the inventor is unavailable (MPEP
+§ 715.04); signs a certificate under 37 CFR 1.8
+(MPEP § 512); or files a request for reexamination
+of a patent under 37 CFR 1.510 (MPEP § 2210).
+VIII. MULTIPLE ASSIGNEES
+
+When an assignee seeks to take action in a matter
+before the Office with respect to a patent application,
+patent, or reexamination proceeding and the right,
+title, and interest therein is held by more than one
+assignee, each partial assignee must provide a
+submission under pre-AIA 37 CFR 3.73(b). In each
+submission, the extent of each assignee’s interest
+must be set forth so that the Office can determine
+whether it has obtained action by the entirety of the
+right, title and interest holders (owners). Pre-AIA
+37 CFR 3.73(c)(2). If the extent of the partial
+assignee’s ownership interest is not set forth in the
+submission under pre-AIA 37 CFR 3.73(b), the
+Office may refuse to accept the submission as an
+establishment of ownership interest.
+
+VI. WHEN OWNERSHIP MUST BE ESTABLISHED
+
+Examples of situations where ownership must be
+established under pre-AIA 37 CFR 3.73(b) are when
+the assignee: signs a request for status of an
+application or gives a power to inspect an application
+(MPEP §§ 102 and 104); appoints its own registered
+attorney or agent to prosecute an application
+(pre-AIA 37 CFR 3.71 and MPEP § 402.07); signs
+a disclaimer under 37 CFR 1.321 (MPEP § 1490);
+consents to the filing of a reissue application (MPEP
+§ 1410.01); consents to the correction of inventorship
+in a patent (MPEP § 1481); or signs a Fee(s)
+
+IX. CONFLICTING PRE-AIA 37 CFR 3.73(b)
+STATEMENTS
+
+Where there are two or more conflicting pre-AIA
+37 CFR 3.73(b) statements in an application or other
+Office proceeding, the statement with the latest date
+of submission to the Office will normally control as
+to establishment of the assignee. If, however, the
+ownership established as controlling is contested on
+the record by another party who has submitted a
+conflicting pre-AIA 37 CFR 3.73(b) statement, then
+the application or other proceeding shall be
+
+300-29
+
+Rev. 01.2024, November 2024
+
+§ 324
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+forwarded by the Office official in charge of the
+application or other proceeding to the Office of
+Patent Legal Administration for resolving any
+procedural issues. Generally, where there are two or
+more conflicting pre-AIA 37 CFR 3.73(b) statements
+in an application, the ownership entity that filed that
+application will be permitted to conduct the
+prosecution, and the other party that submitted a
+
+Rev. 01.2024, November 2024
+
+pre-AIA 37 CFR 3.73(b) statement to establish its
+ownership may wish to consider filing its own
+application.
+X. FORMS
+
+Form PTO/SB/96 may be used to establish
+ownership under pre-AIA 37 CFR 3.73(b).
+
+300-30
+
+OWNERSHIP AND ASSIGNMENT
+
+300-31
+
+§ 324
+
+Rev. 01.2024, November 2024
+
+§ 324
+
+Rev. 01.2024, November 2024
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+300-32
+
+OWNERSHIP AND ASSIGNMENT
+
+[Editor Note: Applicable to patent applications filed under 35
+U.S.C. 111(a), 363 or 385 on or after September 16, 2012. See
+pre-AIA 37 CFR 3.73 for the rule otherwise applicable.]
+
+325 Establishing Right of Assignee To Take
+Action in Application Filed On or After
+September 16, 2012 [R-01.2024]
+[Editor Note: See MPEP § 324 for establishing the
+right of assignee to take action in an application
+filed before September 16, 2012.]
+37 CFR 3.71 Prosecution by assignee.
+[Editor Note: Applicable to patent applications under 35 U.S.C.
+111(a), 363, or 385 on or after September 16, 2012. See pre-AIA
+37 CFR 3.71 for the rule otherwise applicable.]
+(a) Patents—conducting of prosecution. One or more
+assignees as defined in paragraph (b) of this section may conduct
+prosecution of a national patent application as the applicant
+under § 1.46 of this title, or conduct prosecution of a
+supplemental examination or reexamination proceeding, to the
+exclusion of the inventor or previous applicant or patent owner.
+Conflicts between purported assignees are handled in accordance
+with § 3.73(c)(3).
+(b) Patents—assignee(s) who can prosecute. The
+assignee(s) who may conduct either the prosecution of a national
+application for patent as the applicant under § 1.46 of this title
+or a supplemental examination or reexamination proceeding
+are:
+(1) A single assignee. An assignee of the entire right,
+title and interest in the application or patent, or
+(2) Partial assignee(s) together or with inventor(s).
+All partial assignees, or all partial assignees and inventors who
+have not assigned their right, title and interest in the application
+or patent, who together own the entire right, title and interest in
+the application or patent. A partial assignee is any assignee of
+record having less than the entire right, title and interest in the
+application or patent. The word "assignee" as used in this chapter
+means with respect to patent matters the single assignee of the
+entire right, title and interest in the application or patent if there
+is such a single assignee, or all of the partial assignees, or all of
+the partial assignee and inventors who have not assigned their
+interest in the application or patent, who together own the entire
+right, title and interest in the application or patent.
+(c) Patents—Becoming of record. An assignee becomes
+of record as the applicant in a national patent application under
+§ 1.46 of this title, and in a supplemental examination or
+reexamination proceeding, by filing a statement in compliance
+with § 3.73(c) that is signed by a party who is authorized to act
+on behalf of the assignee.
+(d) Trademarks. The assignee of a trademark application
+or registration may prosecute a trademark application, submit
+documents to maintain a trademark registration, or file papers
+against a third party in reliance on the assignee’s trademark
+application or registration, to the exclusion of the original
+applicant or previous assignee. The assignee must establish
+ownership in compliance with § 3.73(b).
+37 CFR 3.73 Establishing right of assignee to take action.
+
+§ 325
+
+(a) The original applicant is presumed to be the owner of
+an application for an original patent, and any patent that may
+issue therefrom, unless there is an assignment. The original
+applicant is presumed to be the owner of a trademark application
+or registration, unless there is an assignment.
+(b) In order to request or take action in a trademark matter,
+the assignee must establish its ownership of the trademark
+property of paragraph (a) of this section to the satisfaction of
+the Director. The establishment of ownership by the assignee
+may be combined with the paper that requests or takes the action.
+Ownership is established by submitting to the Office a signed
+statement identifying the assignee, accompanied by either:
+(1) Documentary evidence of a chain of title from the
+original owner to the assignee (e.g., copy of an executed
+assignment). The documents submitted to establish ownership
+may be required to be recorded pursuant to § 3.11 in the
+assignment records of the Office as a condition to permitting
+the assignee to take action in a matter pending before the Office;
+or
+(2) A statement specifying where documentary
+evidence of a chain of title from the original owner to the
+assignee is recorded in the assignment records of the Office
+(e.g., reel and frame number).
+(c)(1) In order to request or take action in a patent
+matter, an assignee who is not the original applicant must
+establish its ownership of the patent property of paragraph (a)
+of this section to the satisfaction of the Director. The
+establishment of ownership by the assignee may be combined
+with the paper that requests or takes the action. Ownership is
+established by submitting to the Office a signed statement
+identifying the assignee, accompanied by either:
+(i) Documentary evidence of a chain of title from
+the original owner to the assignee (e.g., copy of an executed
+assignment). The submission of the documentary evidence must
+be accompanied by a statement affirming that the documentary
+evidence of the chain of title from the original owner to the
+assignee was or concurrently is being submitted for recordation
+pursuant to § 3.11; or
+(ii) A statement specifying where documentary
+evidence of a chain of title from the original owner to the
+assignee is recorded in the assignment records of the Office
+(e.g., reel and frame number).
+(2) If the submission is by an assignee of less than the
+entire right, title and interest (e.g., more than one assignee exists)
+the Office may refuse to accept the submission as an
+establishment of ownership unless:
+(i) Each assignee establishes the extent (by
+percentage) of its ownership interest, so as to account for the
+entire right, title and interest in the application or patent by all
+parties including inventors; or
+(ii) Each assignee submits a statement identifying
+the parties including inventors who together own the entire right,
+title and interest and stating that all the identified parties own
+the entire right, title and interest.
+
+300-33
+
+Rev. 01.2024, November 2024
+
+§ 325
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+(3) If two or more purported assignees file conflicting
+statements under paragraph (c)(1) of this section, the Director
+will determine which, if any, purported assignee will be
+permitted to control prosecution of the application.
+(d) The submission establishing ownership under paragraph
+(b) or (c) of this section must show that the person signing the
+submission is a person authorized to act on behalf of the assignee
+by:
+(1) Including a statement that the person signing the
+submission is authorized to act on behalf of the assignee;
+(2) Being signed by a person having apparent authority
+to sign on behalf of the assignee; or
+(3) For patent matters only, being signed by a
+practitioner of record.
+
+The owner or assignee of a patent property can take
+action in a patent application as the applicant.
+However, an owner or assignee that is a juristic
+entity must be represented by a patent practitioner.
+See 37 CFR 1.31 and 1.33(b)(3).
+An assignee who is not the original applicant must
+become the applicant under 37 CFR 1.46(a) in order
+to request or take action in a patent application. A
+request to change the applicant under 37 CFR
+1.46(c)(2) must be filed and must be accompanied
+by an application data sheet under 37 CFR 1.76
+specifying the applicant in the applicant information
+section and comply with 37 CFR 3.71 and 37 CFR
+3.73.
+As the applicant, the owner or assignee that is not a
+juristic entity can sign a reply to an Office action
+(37 CFR 1.33(b)(3)), a request for a continued
+prosecution application under 37 CFR 1.53(d)
+(MPEP § 201.06(d)), a disclaimer under 37 CFR
+1.321 (MPEP § 1490), Fee(s) Transmittal
+(PTOL-85B) (MPEP § 1306), or a request for status
+of an application (MPEP § 102). The owner or
+assignee can file an application under 37 CFR 1.46,
+appoint its own registered patent practitioner to
+prosecute an application (37 CFR 1.32), and grant
+a power to inspect an application (MPEP § 104).
+The owner or assignee can consent to the filing of a
+reissue application (MPEP § 1410.01), and to the
+correction of inventorship (MPEP § 602.01(c) or
+MPEP § 1481).
+Effective September 16, 2012, juristic entities may
+sign small entity assertions under 37 CFR 1.27
+(MPEP § 509.03 ), disclaimers under 37 CFR 1.321
+
+Rev. 01.2024, November 2024
+
+(MPEP § 1490), submissions under 37 CFR 3.73 to
+establish ownership, powers of attorney under 37
+CFR 1.32 (MPEP § 402) and powers to inspect under
+37 CFR 1.14 (MPEP § 104). However, any other
+paper submitted on behalf of a juristic entity on or
+after September 16, 2012, must be signed by a patent
+practitioner.
+See subsection VI below for a discussion of when
+ownership must be established to take action in a
+patent matter, and subsection VII below for a
+discussion of when ownership need not be
+established to sign certain papers.
+I. THE ASSIGNEE/OWNER THAT CAN TAKE
+ACTION IN PATENT MATTERS
+
+The original applicant is presumed to be the owner
+of an application for an original patent, and any
+patent that may issue therefrom, unless there is an
+assignment. 37 CFR 3.73(a).
+The provisions of 37 CFR 3.71(b) provide that the
+assignee(s) who may conduct either the prosecution
+of a national application for patent as the applicant
+under 37 CFR 1.46 or a supplemental examination
+or reexamination proceeding are:
+(1) a single assignee who is the assignee of the
+entire right, title and interest in the application or
+patent, or
+(2) all partial assignees, or all partial assignees
+and inventors who have not assigned their right, title
+and interest in the application or patent, who together
+own the entire right, title and interest in the
+application or patent.
+As discussed in subsection II below, all parties
+having any portion of the ownership must join in
+“taking action” (i.e., act together as a composite
+entity) in order to be entitled to conduct the
+prosecution in patent matters. For a discussion of
+the applicant for patent, see MPEP § 409 et seq. and
+§ 605 et seq.
+A.
+
+Individual and Partial Assignees
+
+If there is a single assignee of the entire right, title
+and interest in the patent application, 37 CFR
+3.71(b)(1) provides that the single assignee (i.e.,
+
+300-34
+
+OWNERSHIP AND ASSIGNMENT
+
+individual assignee) may act alone to conduct the
+prosecution of an application or other patent
+proceeding. If the assignee is not already the
+applicant under 37 CFR 1.46 in the patent
+application, then the assignee must file a request to
+change the applicant under 37 CFR 1.46(c)(2).
+If there is no assignee of the entire right, title and
+interest of the patent application, then either:
+(1) The application has not been assigned, 37
+CFR 3.71 is not applicable, and the prosecution must
+be conducted by the applicant. The word "applicant"
+refers to the inventor or all of the joint inventors, or
+to the person applying for a patent as provided in 37
+CFR 1.43, 1.45, or 1.46. See MPEP § 409 et seq.
+and § 605 et seq.
+(2) The application has been assigned by at least
+one of the inventors, and there is thus at least one
+“partial assignee.” As defined in 37 CFR 3.71(b)(2),
+a partial assignee is any assignee of record who has
+less than the entire right, title and interest in the
+application. The application is owned by the
+combination of all partial assignees and all inventors
+who have not assigned away their right, title and
+interest in the application.
+Where at least one inventor retains an ownership
+interest together with the partial assignee(s), the
+combination of all partial assignees and inventors
+retaining ownership interest is needed to conduct
+the prosecution of an application, unless one or more
+inventors have refused to join in the filing of the
+application and a petition under 37 CFR 1.46(b)(2)
+has been granted.
+Where a reissue application is filed to correct
+inventorship in the patent by the deletion of the name
+of inventor X and inventor X has not assigned their
+rights to the patent, inventor X has an ownership
+interest in the patent. Inventor X must consent to the
+filing of the reissue application, even though inventor
+X is being deleted; however, inventor X need not
+sign the reissue oath or declaration. If inventor X
+has assigned their rights to the patent, then inventor
+X’s assignee must consent to the filing of the reissue
+application.
+
+B.
+
+§ 325
+
+Example
+
+Inventors A and B invent a process and file a patent
+application as the applicant, naming both inventors.
+Inventors A and B together may conduct prosecution
+of the application.
+Inventor A then assigns all their rights in the
+application to Corporation X. Corporation X and
+Inventor B together may conduct prosecution of the
+application only if Corporation X (now a partial
+assignee as per 37 CFR 3.71(b)(2)) is made of record
+in the application as a partial assignee and the
+applicant is changed under 37 CFR 1.46(c)(2) to
+Corporation X and Inventor B. Pursuant to 37 CFR
+1.46(c)(2), an application data sheet must be filed
+specifying the applicant (i.e., Corporation X and
+Inventor B) in the applicant information section, and
+a statement pursuant to 37 CFR 3.73(c) must be filed
+establishing that Corporation X is an assignee of an
+undivided interest in the entirety of the application.
+Corporation X and Inventor B then both assign their
+rights in the application to Corporation Y.
+Corporation Y is then the sole (one hundred percent)
+owner and may, by itself, conduct prosecution of the
+application after Corporation Y (now an assignee of
+the entire right, title and interest) is made of record
+in the application as the applicant (by filing a request
+to change the applicant under 37 CFR 1.46(c)(2), an
+application data sheet pursuant to 37 CFR 1.76
+specifying the applicant as Corporation Y, and a
+statement pursuant to 37 CFR 3.73(c) establishing
+that Corporation Y is assignee of the entire right,
+title and interest).
+II. ESTABLISHING OWNERSHIP
+
+An assignee who is not the original applicant must
+become the applicant under 37 CFR 1.46 in order to
+request or take action in a patent application. When
+an assignee who is not the original applicant first
+seeks to take action in a matter before the Office
+with respect to a patent application filed on or after
+September 16, 2012, the assignee must establish its
+ownership of the property to the satisfaction of the
+Director. 37 CFR 3.73(c). The assignee must also
+file a request to change the applicant under 37 CFR
+1.46(c)(2) and an application data sheet under 37
+CFR 1.76 specifying the applicant in the application
+
+300-35
+
+Rev. 01.2024, November 2024
+
+§ 325
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+information section. When an assignee who was not
+the original applicant or patent owner first seeks to
+take action in a matter before the Office with respect
+to a reissue patent application, patent, reexamination
+proceeding or supplemental examination proceeding
+for a patent that issued from an application filed on
+or after September 16, 2012, the assignee must
+establish its ownership of the property to the
+satisfaction of the Director. 37 CFR 3.73(c).
+The statement establishing assignee’s ownership
+under 37 CFR 3.73(c) must be filed in the Office
+file related to the matter in which action is sought
+to be taken, and must contain:
+(A) documentary evidence of a chain of title
+from the original owner to the assignee (e.g., copy
+of an executed assignment submitted for recording)
+and a statement affirming that the documentary
+evidence of the chain of title from the original owner
+to the assignee was, or concurrently is, submitted
+for recordation pursuant to 37 CFR 3.11; or
+(B) a statement specifying, by reel and frame
+number, where such evidence is recorded in the
+Office.
+Documents submitted to establish ownership are
+required to be recorded, or submitted for recordation
+pursuant to 37 CFR 3.11, as a condition to permitting
+the assignee to take action in a matter pending before
+the Office. 35 U.S.C. 261 requires transfer of
+ownership by an assignment to be in writing. See
+Realvirt, LLC v. Lee, 195 F.Supp.3d 847, 859 (E.D.
+Va. 2016).
+The action taken by the assignee, and the 37 CFR
+3.73(c) submission establishing that the assignee is
+the appropriate assignee to take such action, can be
+combined in one paper.
+The establishment of ownership by the assignee (and
+the request for change of applicant under 37 CFR
+1.46(c)(2)) must be submitted prior to, or at the same
+time as, the paper requesting or taking action is
+submitted. 37 CFR 3.73(c). If the submission
+establishing ownership and the request for change
+of applicant are not present, the action sought to be
+taken will not be given effect. If the submission
+establishing ownership is submitted at a later date,
+
+Rev. 01.2024, November 2024
+
+that date will be the date of the request for action or
+the date of the assignee’s action taken.
+The submission establishing ownership by the
+assignee must be signed by a party who is authorized
+to act on behalf of the assignee or a patent
+practitioner of record. See discussion below. Once
+37 CFR 3.73(c) is complied with by an assignee,
+that assignee may continue to take action in that
+application, patent, or reexamination proceeding
+without filing a 37 CFR 3.73(c) submission each
+time, provided that ownership has not changed.
+Where there is more than one assignee (i.e., partial
+assignees) or a combination of partial assignees and
+inventors who have not assigned away their right,
+title and interest in the application, each owner must
+submit a statement under 37 CFR 3.73(c) that either:
+(A) Specifies (by percentage) the extent of its
+ownership interest, so as to account for the entire
+right, title and interest in the application or patent
+by all parties. 37 CFR 3.73(c)(2)(i); or
+(B) Identifies the parties including inventors
+who together own the entire right, title and interest
+and state that all the identified parties own the entire
+right, title and interest. 37 CFR 3.73(c)(2)(ii).
+The submission establishing ownership by the
+assignee pursuant to 37 CFR 3.73(c) is generally
+referred to as the “statement under 37 CFR 3.73(c)”
+or the “37 CFR 3.73(c) statement.” A duplicate copy
+of the 37 CFR 3.73(c) statement is not required and
+should not be submitted. See 37 CFR 1.4(b)and
+MPEP § 502.04.
+III. CONTINUING APPLICATIONS
+
+When an assignee files a continuing application
+under 37 CFR 1.53(b), the application papers must:
+(A) contain a copy of a statement filed under
+pre-AIA 37 CFR 3.73(b) or under 37 CFR 3.73(c)
+in the parent application; or
+(B) contain a newly executed statement under
+37 CFR 3.73(c).
+When a CPA under 37 CFR 1.53(d) is filed in a
+design application, the statement filed under pre-AIA
+37 CFR 3.73(b) or under 37 CFR 3.73(c) in the
+
+300-36
+
+OWNERSHIP AND ASSIGNMENT
+
+parent application will serve as the statement for the
+CPA.
+IV. REQUESTS FOR CONTINUED EXAMINATION
+
+Where a Request for Continued Examination (RCE)
+of an application is filed under 37 CFR 1.114, the
+application is not considered to be abandoned; rather
+the finality of the Office action is withdrawn and the
+prosecution continues. Thus, the statement under
+pre-AIA 37 CFR 3.73(b) or under 37 CFR 3.73(c)
+in the application will continue to serve as the
+statement establishing ownership.
+V. PARTY WHO MUST SIGN
+
+The submission establishing ownership must be
+signed by a party authorized to act on behalf of the
+assignee. The submission under 37 CFR 3.73(c) may
+be signed on behalf of the assignee in the following
+manner if the assignee is an organization (e.g.,
+corporation, partnership, university, government
+agency, etc.):
+(A) The submission may be signed by a person
+in the organization having apparent authority to sign
+on behalf of the organization. 37 CFR 3.73(d)(2).
+An officer (chief executive officer, president,
+vice-president, secretary, or treasurer) is presumed
+to have authority to sign on behalf of the
+organization. The signature of the chairman of the
+board of directors is acceptable, but not the signature
+of an individual director. Modifications of these
+basic titles are acceptable, such as vice-president for
+sales, executive vice-president, assistant treasurer,
+vice-chairman of the board of directors. In foreign
+countries, a person who holds the title “Manager”
+or “Director” is normally an officer and is presumed
+to have the authority to sign on behalf of the
+organization. A person having a title (administrator,
+general counsel) that does not clearly set forth that
+person as an officer of the assignee is not presumed
+to have authority to sign the submission on behalf
+of the assignee. In this situation the Office
+recommends that when such person is authorized to
+act on behalf of the assignee, the submission clearly
+indicate the authority (see paragraph (B), below). A
+power of attorney (37 CFR 1.32(b)(4)) to a patent
+practitioner to prosecute a patent application
+executed by the applicant or the assignee of the entire
+interest does not make that practitioner an official
+
+§ 325
+
+of an assignee or empower the practitioner to sign
+the submission on behalf of the assignee.
+(B) The submission may be signed by any
+person, if the submission sets forth that the person
+signing is authorized (or empowered) to act on behalf
+of the assignee, i.e., to sign the submission on behalf
+of the assignee. 37 CFR 3.73(d)(1) .
+(C) The submission may be signed by a patent
+practitioner of record. 37 CFR 3.73(d)(3). A patent
+practitioner will be considered “of record” where
+the patent practitioner was appointed in a power of
+attorney already of record, or where the 37 CFR
+3.73(c) statement is accompanied by a power of
+attorney that appoints the patent practitioner who
+signed the statement. See MPEP § 402.
+(D) The submission may be signed by a person
+empowered by an organizational resolution (e.g.,
+corporate resolution, partnership resolution) to sign
+the submission on behalf of the assignee, if a copy
+of the resolution is, or was previously, submitted in
+the record.
+Where a submission does not comply with (A), (B),
+(C) or (D) above, evidence of the person’s authority
+to sign will be required.
+VI. WHEN OWNERSHIP MUST BE ESTABLISHED
+
+Examples of situations where ownership must be
+established under 37 CFR 3.73(c) are when the
+assignee who is not the applicant: signs a request for
+status of an application or gives a power to inspect
+an application (MPEP § 102 and § 104); appoints
+its own registered attorney or agent to prosecute an
+application (37 CFR 3.71 and MPEP § 402.07 );
+signs a disclaimer under 37 CFR 1.321 (MPEP §
+1490); consents to the filing of a reissue application
+(MPEP § 1410.01); or signs a Fee Transmittal
+(PTOL-85B) (MPEP § 1306 ). Effective September
+16, 2012, a juristic entity (e.g., organizational
+assignee) must be represented by a patent
+practitioner.
+VII. WHEN OWNERSHIP NEED NOT BE
+ESTABLISHED
+
+Examples of situations where ownership need not
+be established under 37 CFR 3.73(c) are when the
+assignee: signs a small entity statement under 37
+CFR 1.27 (MPEP § 509.03); signs a statement of
+
+300-37
+
+Rev. 01.2024, November 2024
+
+§ 325
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+common ownership of two inventions (MPEP §
+2146.02); signs a NASA or DOE property rights
+statement (MPEP § 151 ); signs an affidavit under
+37 CFR 1.131(a) where the inventor is unavailable
+(MPEP § 715.04); signs a certificate under 37 CFR
+1.8 (MPEP § 512); or files a request for
+reexamination of a patent under 37 CFR 1.510
+(MPEP § 2210).
+VIII. MULTIPLE ASSIGNEES
+
+When an assignee seeks to take action in a matter
+before the Office with respect to a patent application,
+patent, or reexamination proceeding and the right,
+title, and interest therein is held by more than one
+assignee, each partial assignee must provide a
+submission under 37 CFR 3.73(c). In each
+submission, the extent of each assignee’s interest
+must be set forth so that the Office can determine
+whether it has obtained action by the entirety of the
+right, title and interest holders (owners). 37 CFR
+3.73(c)(2)(i). Where there are unspecified
+percentages of ownership, each partial assignee must
+submit a statement identifying the parties including
+inventors who together own the entire right, title and
+interest and state that all the identified parties own
+the entire right, title and interest. 37 CFR
+3.73(c)(2)(ii). If the extent of the partial assignee’s
+ownership interest is not set forth in the submission
+under 37 CFR 3.73(c), the Office may refuse to
+
+Rev. 01.2024, November 2024
+
+accept the submission as an establishment of
+ownership interest.
+IX. CONFLICTING 37 CFR 3.73(c) STATEMENTS
+
+Where two or more purported assignees file
+conflicting 37 CFR 3.73(c) statements in an
+application or other Office proceeding, the Director
+will determine which, if any, purported assignee will
+be permitted to control prosecution of the
+application. 37 CFR 3.73(c)(3). Additionally, if the
+ownership established as controlling is contested on
+the record by another party who has submitted a
+conflicting 37 CFR 3.73(c) statement, then the
+application or other proceeding shall be forwarded
+by the Office official in charge of the application or
+other proceeding to the Office of Patent Legal
+Administration for resolving any procedural issues.
+Generally, where there are two or more conflicting
+37 CFR 3.73(c) statements in an application, the
+applicant will be permitted to conduct the
+prosecution, and the other party that submitted a 37
+CFR 3.73(c) statement to establish its ownership
+may wish to consider filing its own application.
+X. FORMS
+
+Form PTO/AIA/96 may be used to establish
+ownership under 37 CFR 3.73(c).
+
+300-38
+
+OWNERSHIP AND ASSIGNMENT
+
+300-39
+
+§ 325
+
+Rev. 01.2024, November 2024
+
+§ 325
+
+Rev. 01.2024, November 2024
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+300-40
+
+OWNERSHIP AND ASSIGNMENT
+
+300-41
+
+§ 325
+
+Rev. 01.2024, November 2024
+

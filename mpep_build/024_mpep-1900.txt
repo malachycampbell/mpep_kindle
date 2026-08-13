@@ -1,0 +1,1275 @@
+Chapter 1900
+1901
+Protest Under 37 CFR 1.291
+1901.01
+Who Can Protest
+1901.02
+Information Which Can Be Relied on
+in Protest
+1901.03
+How Protest Is Submitted
+1901.04
+When Can the Protest Be Submitted
+1901.05
+Acknowledgment of Protest
+1901.06
+Office Treatment of Protest
+1901.07
+Protestor Participation
+1901.07(a)
+Filing of Multiple Papers Relating
+to Same Issues
+1902-1905 [Reserved]
+1906
+Supervisory Review of an Examiner’s
+Decision Adverse to Protestor
+1907
+Unauthorized Participation by
+Protestor
+1908-1919 [Reserved]
+1920
+Citation of Prior Art Under 37 CFR
+1.501(a)
+
+Protest
+
+(1) An information list of the documents, portions of
+documents, or other information being submitted, where each:
+(i) U.S. patent is identified by patent number, first
+named inventor, and issue date;
+(ii) U.S. patent application publication is identified
+by patent application publication number, first named inventor,
+and publication date;
+(iii) Foreign patent or published foreign patent
+application is identified by the country or patent office that
+issued the patent or published the application; an appropriate
+document number; the applicant, patentee, or first named
+inventor; and the publication date indicated on the patent or
+published application;
+(iv) Non-patent publication is identified by author
+(if any), title, pages being submitted, publication date, and,
+where available, publisher and place of publication; and
+(v) Item of other information is identified by date,
+if known;
+(2) A concise explanation of the relevance of each item
+identified in the information list pursuant to paragraph (c)(1) of
+this section;
+(3) A legible copy of each item identified in the
+information list, other than U.S. patents and U.S. patent
+application publications;
+
+1901 Protest Under 37 CFR 1.291
+[R-10.2019]
+
+(4) An English language translation of any non-English
+language item identified in the information list; and
+
+37 CFR 1.291 Protests by the public against pending
+applications.
+(a) A protest may be filed by a member of the public against
+a pending application, and it will be matched with the application
+file if it adequately identifies the patent application. A protest
+submitted within the time frame of paragraph (b) of this section,
+which is not matched, or not matched in a timely manner to
+permit review by the examiner during prosecution, due to
+inadequate identification, may not be entered and may be
+returned to the protestor where practical, or, if return is not
+practical, discarded.
+(b) The protest will be entered into the record of the
+application if, in addition to complying with paragraph (c) of
+this section, the protest has been served upon the applicant in
+accordance with § 1.248, or filed with the Office in duplicate
+in the event service is not possible; and, except for paragraph
+(b)(1) of this section, the protest was filed prior to the date the
+application was published under § 1.211, or the date a notice of
+allowance under § 1.311 was given or mailed, whichever occurs
+first:
+(1) If a protest is accompanied by the written consent
+of the applicant, the protest will be considered if the protest is
+filed prior to the date a notice of allowance under § 1.311 was
+given or mailed in the application.
+
+(5) If it is a second or subsequent protest by the same
+party in interest, an explanation as to why the issue(s) raised in
+the second or subsequent protest are significantly different than
+those raised earlier and why the significantly different issue(s)
+were not presented earlier, and a processing fee under § 1.17(i)
+must be submitted.
+(d) A member of the public filing a protest in an application
+under this section will not receive any communication from the
+Office relating to the protest, other than the return of a
+self-addressed postcard which the member of the public may
+include with the protest in order to receive an acknowledgement
+by the Office that the protest has been received. The limited
+involvement of the member of the public filing a protest pursuant
+to this section ends with the filing of the protest, and no further
+submission on behalf of the protestor will be considered, unless
+the submission is made pursuant to paragraph (c)(5) of this
+section.
+(e) Where a protest raising inequitable conduct issues
+satisfies the provisions of this section for entry, it will be entered
+into the application file, generally without comment on the
+inequitable conduct issues raised in it.
+(f) In the absence of a request by the Office, an applicant
+need not reply to a protest.
+
+(2) A statement must accompany a protest that it is the
+first protest submitted in the application by the real party in
+interest who is submitting the protest; or the protest must comply
+with paragraph (c)(5) of this section. This section does not apply
+to the first protest filed in an application.
+
+(g) Protests that fail to comply with paragraphs (b) or (c)
+of this section may not be entered, and if not entered, will be
+returned to the protestor, or discarded, at the option of the Office.
+
+(c) In addition to compliance with paragraphs (a) and (b)
+of this section, a protest must include:
+1900-1
+
+37 CFR 1.248 Service of papers; manner of service; proof
+of service; proof of service in cases other than interferences
+and trials.
+Rev. 10.2019, June 2020
+
+§ 1901
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+(a) Service of papers must be on the attorney or agent of
+the party if there be such or on the party if there is no attorney
+or agent, and may be made in any of the following ways:
+
+application might consider whether a third-party
+submission under 35 U.S.C. 122(e) would be
+appropriate. See MPEP § 1134.01.
+
+(1) By delivering a copy of the paper to the person
+served;
+(2) By leaving a copy at the usual place of business of
+the person served with someone in his employment;
+(3) When the person served has no usual place of
+business, by leaving a copy at the person’s residence, with some
+person of suitable age and discretion who resides there;
+(4) Transmission by first class mail. When service is
+by mail the date of mailing will be regarded as the date of
+service;
+(5) Whenever it shall be satisfactorily shown to the
+Director that none of the above modes of obtaining or serving
+the paper is practicable, service may be by notice published in
+the Official Gazette.
+(b) Papers filed in the Patent and Trademark Office which
+are required to be served shall contain proof of service. Proof
+of service may appear on or be affixed to papers filed. Proof of
+service shall include the date and manner of service. In the case
+of personal service, proof of service shall also include the name
+of any person served, certified by the person who made service.
+Proof of service may be made by:
+(1) An acknowledgement of service by or on behalf of
+the person served or
+(2) A statement signed by the attorney or agent
+containing the information required by this section.
+(c) See § 41.106(e) or § 42.6(e) of this title for service of
+papers in contested cases or trials before the Patent Trial and
+Appeal Board.
+
+The degree of participation allowed a protestor is
+solely within the discretion of the Director of the
+USPTO.
+37 CFR 1.291 gives recognition to the value of
+written protests in bringing information to the
+attention of the Office and in avoiding the issuance
+of invalid patents. With the exception of a protest
+accompanied by a written consent of the applicant,
+all protests must be submitted prior to the publication
+of the application or the date a notice of allowance
+is given or mailed, whichever occurs first. No protest
+or "other form of preissuance opposition to the grant
+of a patent" may be initiated after publication of the
+application without the applicant’s express written
+consent as specified by 35 U.S.C. 122(c). Even if
+applicant’s express written consent is given, the
+protest must be filed prior to the date a notice of
+allowance is given or mailed. Third parties wishing
+to submit information in the form of patents and
+printed publications after publication of the
+
+Rev. 10.2019, June 2020
+
+It is noted that a protest filed in a reissue application
+is not a “form of preissuance opposition to the grant
+of a patent” since the patent to be reissued has
+already been granted. Thus, a protest may be filed
+in a reissue application throughout the pendency of
+the reissue application prior to the date a notice of
+allowance is given or mailed subject to the timing
+constraints of the examination. A protest with regard
+to a reissue application should, however, be filed
+within the 2-month period following the
+announcement of the filing of the reissue application
+in the Official Gazette. See MPEP § 1441.01 for
+guidance as to the filing of a protest in a reissue
+application.
+A protest may not be filed in a provisional
+application because provisional applications are not
+examined. A protest filed in a provisional application
+will not be entered and will be discarded pursuant
+to 37 CFR 1.291(g).
+37 CFR 1.291(b) provides that a timely received
+protest will be entered into the record of the
+application if, in addition to complying with the
+requirements of 37 CFR 1.291(c), the protest is
+accompanied by the statement under 37 CFR
+1.291(b)(2) or it complies with 37 CFR 1.291(c)(5),
+and is either served upon the applicant, or is filed in
+duplicate in the event service is not possible. In the
+event a duplicate protest is enclosed for the applicant,
+the protest should be accompanied by an explanation
+of why service on applicant could not be made.
+37 CFR 1.291(c) requires that the protest must
+include:
+(A) An information list of the documents,
+portions of documents, or other information being
+submitted, where each:
+(1) U.S. patent is identified by patent
+number, first named inventor, and issue date;
+(2) U.S. patent application publication is
+identified by patent application publication number,
+first named inventor, and publication date;
+
+1900-2
+
+PROTEST
+
+(3) Foreign patent or published foreign patent
+application is identified by the country or patent
+office that issued the patent or published the
+application; an appropriate document number; the
+applicant, patentee, or first named inventor; and the
+publication date indicated on the patent or published
+application;
+(4) Non-patent publication is identified by
+author (if any), title, pages being submitted,
+publication date, and, where available, publisher and
+place of publication; and
+(5) Item of other information is identified by
+date, if known.
+(B) A concise explanation of the relevance of
+each item identified in the information list;
+(C) A legible copy of each item identified in the
+information list, other than U.S. patents and U.S.
+patent application publications;
+(D) An English language translation of any
+non-English language item identified in the
+information list; and
+(E) If the protest is a second or subsequent
+protest by the same real party in interest, the protest
+must further include:
+(1) an explanation as to why the issue(s)
+being raised in the second or subsequent protest are
+significantly different than those raised earlier;
+(2) an explanation as to why the significantly
+different issue(s) were not presented to the Office
+earlier; and
+(3) the processing fee under 37 CFR 1.17(i).
+As to item (A) above, 37 CFR 1.291(c)(1)(iii)
+provides flexibility in permitting identification of
+foreign patents and published foreign patent
+applications by the applicant, patentee or first named
+inventor. Likewise, 37 CFR 1.291(c)(1)(iv) only
+requires identification of the author, publisher, and
+place of publication of a non-patent publication if
+that information is available. It is noted that 37 CFR
+1.291(c)(1)(iv) does not preclude a protestor from
+providing additional information that is not specified.
+For example, a protestor may provide a journal title
+and volume/issue information for a journal article.
+37 CFR 1.291(c)(1)(v) provides for the submission
+of information other than patents and publications,
+including any facts or information adverse to
+
+§ 1901
+
+patentability, and requires that each item of “other
+information” be identified by date, if known. For
+example, if a publication date for a document is not
+known and the document is not being relied upon as
+a publication, the protestor may list such document
+as an item of other information under 37 CFR
+1.291(c)(1)(v).
+As to item (C) above, where only a portion of a
+document is listed as an item in the information list,
+only a copy of that portion must be submitted. It is
+not required to submit the entire document. In
+addition, when only a portion of a document is
+submitted, the protestor should also submit copies
+of pages of the document that provide identifying
+information. For example, if the item in the
+information list is identified as a certain chapter in
+a text book, then only a copy of that identified
+chapter along with copies of the pages that provide
+identifying information (e.g., a copy of the cover,
+title page, and copyright information page) should
+be submitted with the protest.
+As to item (D) above, the required English language
+translation of any non-English item of information
+may be a reliable machine translation and need not
+be certified. In addition, where only a portion of a
+non-English language document is listed as an item
+in the information list, only a copy of that portion
+must be submitted along with an English translation
+of that portion.
+Note that item (E) above does not apply if the protest
+is accompanied by a statement that it is the first
+protest submitted in the application by the real party
+in interest, or if the protest is the first protest ever to
+be filed in the application. 37 CFR 1.291(b)(2).
+A party obtaining knowledge of an application
+pending in the Office may file a protest against the
+application and may therein call attention to any
+facts within protestor’s knowledge which, in the
+protestor’s opinion, would make the grant of a patent
+on the application improper. The party should
+include with the protest whatever information the
+party is aware of that would facilitate identification
+of the application and matching the protest with the
+application. Where the protest specifically identifies
+the application, and is otherwise compliant, the
+protest will be considered by the Office if it is
+
+1900-3
+
+Rev. 10.2019, June 2020
+
+§ 1901.01
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+matched with the application in time to permit
+review by the examiner during prosecution. If there
+is insufficient information to identify the application,
+the protest may not be matched at all or not timely
+matched with the intended application to permit
+review by the examiner during prosecution of the
+application, in which case, the protest may not be
+entered and may be returned to the protestor where
+practical. If return is not practical, the protest will
+be discarded. 37 CFR 1.291(a). See MPEP §
+1901.03.
+A protestor does not, by the mere filing of a protest,
+obtain the “right” to argue the protest before the
+Office. Active participation by a protestor ends with
+the filing of the protest, and no further submission
+on behalf of the protestor will be considered, unless
+the submission is made pursuant to 37 CFR
+1.291(c)(5). See 37 CFR 1.291(d). The USPTO will
+acknowledge the receipt of a protest in an original
+or a reissue application file, only if a self-addressed
+postcard is included with the protest (see MPEP
+§ 1901.05). The question of whether or not a patent
+will issue is a matter between the applicant and the
+Office acting on behalf of the public.
+
+1901.01 Who Can Protest [R-10.2019]
+Any member of the public, including private persons,
+corporate entities, and government agencies, may
+file a protest under 37 CFR 1.291. A protest may be
+filed by an attorney or other representative on behalf
+of an unnamed real party in interest. 37 CFR 1.291
+does not require that the real party in interest be
+identified. In accordance with 37 CFR 1.291(b)(2),
+a statement must accompany the protest that it is the
+first protest submitted in the application by the real
+party in interest who is submitting the protest. Where
+a protest is not the first protest by the real party in
+interest, 37 CFR 1.291(b)(2) requires compliance
+with 37 CFR 1.291(c)(5). The requirements of 37
+CFR 1.291(c)(5) cannot be avoided by multiple
+protests submitted by different people representing
+the same real party in interest. 37 CFR 1.291(b)(2)
+does not apply to the first protest in an application.
+A protestor may not know if a protest has already
+been filed (by another), and may have no way of
+checking (e.g., a non-reissue application for which
+the file wrapper is not publicly available). Should
+the protest (inadvertently or otherwise) fail to include
+
+Rev. 10.2019, June 2020
+
+the statement that the protest is the first protest by
+the real party in interest filing the current protest and
+fail to comply with 37 CFR 1.291(c)(5), if, in fact,
+the protest is the first filed protest in an application,
+it will be considered where all other conditions are
+met.
+
+1901.02 Information Which Can Be Relied
+on in Protest [R-10.2019]
+Any information which, in the protestor’s opinion,
+would make the grant of a patent improper can be
+relied on in a protest under 37 CFR 1.291. While
+prior art documents, such as patents and publications,
+are most often the types of information relied on in
+protests, 37 CFR 1.291 is not limited to prior art
+documents. Protests may be based on any facts or
+information adverse to patentability. The content
+and substance of the protest are more important than
+whether prior art documents, or some other form of
+evidence adverse to patentability, are being relied
+on. The Office recognizes that when evidence other
+than prior art documents is relied on, problems may
+arise as to authentication and the probative value to
+assign to such evidence. However, the fact that such
+problems may arise, and have to be resolved, does
+not preclude the Office from considering such
+evidence, nor does it mean that such evidence cannot
+be relied on in a protest under 37 CFR 1.291.
+Information in a protest should be set forth in the
+manner required by 37 CFR 1.291(c).
+The following are examples of the kinds of
+information, in addition to prior art documents,
+which can be relied on in a protest under 37 CFR
+1.291:
+(A) Information demonstrating that the
+invention was publicly known or used by others and
+is barred from patenting under 35 U.S.C. 102(a)(1)
+and/or 103 or pre-AIA 35 U.S.C. 102(a) and/or 103.
+(B) Information that the invention was in public
+use or on sale and is barred from patenting under 35
+U.S.C. 102(a)(1) or pre-AIA 35 U.S.C. 102(b).
+(C) Information that the inventor “has abandoned
+the invention” (pre-AIA 35 U.S.C. 102(c)) or “did
+not himself invent the subject matter sought to be
+patented” (35 U.S.C. 101 and/or pre-AIA 35 U.S.C.
+102(f)).
+
+1900-4
+
+PROTEST
+
+(D) Information relating to inventorship under
+pre-AIA 35 U.S.C. 102(g).
+
+§ 1901.03
+
+a view as to both its authenticity and what weight to
+give thereto.
+
+(E) Information relating to compliance with 35
+U.S.C. 112.
+(F) Any other information demonstrating that
+the application lacks compliance with the statutory
+requirements for patentability.
+(G) Information indicating “fraud” or “violation
+of the duty of disclosure” under 37 CFR 1.56 may
+be the subject of a protest under 37 CFR 1.291.
+Protests raising fraud or other inequitable conduct
+issues will be entered in the application file,
+generally without comment on those issues. 37 CFR
+1.291(e). See MPEP § 2013.
+Different forms of evidence may accompany, or be
+submitted as a part of, a protest under 37 CFR 1.291.
+Conventional prior art documents such as patents
+and publications are the most common form of
+evidence. However, other forms of evidence can
+likewise be submitted. Some representative examples
+of other forms of evidence are litigation-related
+materials such as complaints, answers, depositions,
+answers to interrogatories, exhibits, transcripts of
+hearings or trials, court orders and opinions,
+stipulations of the parties, etc. Where only a portion
+of the litigation-related materials is relevant to the
+protest, protestors are encouraged to submit only the
+relevant portion(s).
+In a protest based on an alleged public use or sale,
+evidence of such public use or sale may be submitted
+along with affidavits or declarations identifying the
+source(s) of the evidence and explaining its relevance
+and meaning. Such evidence might include
+documents containing offers for sale, orders,
+invoices, receipts, delivery schedules, etc. The Office
+will make a decision as to whether or not public use
+or sale has been established based on the evidence
+the Office has available.
+While the forms in which evidence and/or
+information may be submitted with, or as a part of,
+a protest under 37 CFR 1.291, are not limited,
+protestors must recognize that such submissions may
+encounter problems such as establishing authenticity
+and/or the probative value to apply to the evidence.
+Obviously, the Office will have to evaluate each
+item of evidence and/or information submitted with
+
+Information which is subject to a court-imposed
+protective or secrecy order may be submitted with,
+or as a part of, a protest under 37 CFR 1.291. Trade
+secret information which was obtained by a protestor
+through agreements with others can likewise be
+submitted. Such information, if submitted in
+accordance with MPEP § 724, will be treated as set
+forth therein and will be made public if a reasonable
+examiner would consider the information important
+in deciding whether to allow the application to issue
+as a patent. To ensure that the Office recognizes the
+protected/secret material, the protestor should follow
+the procedures in MPEP § 724.
+
+1901.03 How Protest Is Submitted
+[R-10.2019]
+A protest under 37 CFR 1.291 must be submitted in
+writing, must specifically identify the application to
+which the protest is directed by application number
+or serial number and filing date, and must include
+an information list of all documents, portions of
+documents, or other information submitted; a concise
+explanation of the relevance of each listed item; an
+English language translation of any non-English
+language document or other information identified
+in the information list; and be accompanied by a
+copy of each item in the information list except for
+U.S. patents and U.S. patent application publications.
+Protestors are encouraged to use form PTO/SB/08A
+and 08B “Information Disclosure Statement By
+Applicant” (or an equivalent form) when preparing
+a protest under 37 CFR 1.291, especially the
+information list under 37 CFR 1.291(c)(1). See
+MPEP § 609.04(a). In addition, the protest and any
+accompanying papers must either (1) reflect that a
+copy of the same has been served upon the applicant
+or upon the applicant’s attorney or agent of record;
+or (2) be filed with the Office in duplicate in the
+event service is not possible. In the event a duplicate
+protest is enclosed for the applicant, the protest
+should be accompanied by an explanation of why
+service on applicant could not be made.
+Each protest should be clearly identified as a
+“PROTEST UNDER 37 CFR 1.291.” It is also
+important that any protest against a pending
+
+1900-5
+
+Rev. 10.2019, June 2020
+
+§ 1901.03
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+application specifically identify the application to
+which the protest is directed with the identification
+being as complete as possible. If possible, the
+following information should be placed on the first
+page of the protest:
+(A) Name of inventor(s)
+(B) Name of applicant(s).
+(C) Application number.
+(D) Filing date of application.
+(E) Title of invention.
+(F) Art unit number (if known).
+(G) Name of examiner to whom the application
+is assigned (if known).
+In addition to the above information, if the protest
+includes exhibits or other attachments, these should
+also contain identifying information thereon in order
+to prevent them from becoming inadvertently
+separated and lost.
+Any protest can be submitted by mail to Mail Stop
+Petition, Commissioner for Patents, P.O. Box 1450,
+Alexandria, VA 22313-1450. A protest must NOT
+be submitted electronically via EFS-Web.
+If the protestor is unable to specifically identify the
+application to which the protest is directed by
+application number, but, nevertheless, believes such
+an application to be pending, the protest should be
+directed to the attention of the Office of Petitions
+(using Mail Stop Petition), along with as much
+identifying data for the application as possible.
+Protests which do not adequately identify a pending
+patent application will be returned to the protestor
+or discarded, and will not be further considered by
+the Office.
+Where a protest is directed to a reissue application
+for a patent which is involved in litigation, the
+outside envelope and the top right-hand portion of
+the protest should be conspicuously marked with the
+words “REISSUE LITIGATION.” Any “REISSUE
+LITIGATION” protest mailed to the Office should
+be so marked and mailed to Mail Stop Petition,
+Commissioner for Patents, P.O. Box 1450,
+Alexandria, VA 22313-1450.
+
+Rev. 10.2019, June 2020
+
+I. A PROTEST SUBMISSION MUST BE
+COMPLETE
+
+A protest must be complete and contain a copy of
+every document relied on by the protestor, whether
+the document is a prior art document, court litigation
+material, affidavit, or declaration, etc. A protest not
+accompanied by a copy of each document relied on
+(except for U.S. patents and U.S. patent application
+publications) will not be entered. A protestor will
+not be given an opportunity to supplement or
+complete any protest which is incomplete.
+Active participation by protestor ends with the filing
+of the protest, as provided in 37 CFR 1.291(d), and
+no further submission on behalf of protestor will be
+acknowledged or considered, unless the submission
+is made pursuant to 37 CFR 1.291(c)(5). 37 CFR
+1.291(c)(5) requires that any further submission by
+the same party in interest must be directed to
+significantly different issue(s) than those raised in
+the earlier protest. 37 CFR 1.291(c)(5) requires (A)
+an explanation as to how the issue(s) raised are
+significantly different, (B) why the different issue(s)
+were not presented in the earlier protest, and (C) the
+processing fee under 37 CFR 1.17(i). Submissions
+which will not be entered in the application file
+include further submissions in violation of 37 CFR
+1.291 by which protestor merely seeks to participate
+in the examination process. For example, mere
+arguments relating to an Office action or an
+applicant’s reply would not qualify as a new protest.
+Likewise, additional comments seeking to bring in
+further or even new data or information with respect
+to an issue previously raised by protestor would not
+qualify as a new protest. The Office will not add
+these arguments or comments to the original protest
+and will not enter them in the application file.
+Even new protests which also argue Office actions
+or replies or any matter beyond the new issue should
+not be accepted. Improper protests will be returned
+to the protestor, or discarded, at the option of the
+Office. 37 CFR 1.291(g). While improper protests
+will be returned or discarded, a new protest by an
+earlier protestor will be proper and can be entered
+if it complies with 37 CFR 1.291(c)(5).
+Every effort should be made by a protestor to serve
+a copy of the protest upon the attorney or agent of
+
+1900-6
+
+PROTEST
+
+record or upon the applicant if no attorney or agent
+is of record. Of course, the copy served upon
+applicant or upon applicant’s attorney or agent
+should be a complete copy including a copy of each
+prior art or other document relied on in the same
+manner as required by 37 CFR 1.291(c)(3) for the
+Office copy. The protest filed in the Office should
+reflect, by an appropriate “Certificate of Service,”
+that service has been made as provided in 37 CFR
+1.291(b). Only in those instances where service is
+not possible should the protest be filed in duplicate
+in order that the Office can attempt service. In the
+event a duplicate protest is enclosed for the applicant,
+the protest should be accompanied by an explanation
+of why service on applicant could not be made.
+If the protest filed in the Office does not, however,
+indicate service on applicant or applicant’s attorney
+or agent, and is not filed in duplicate, then the protest
+will not be entered. If the protest is filed in duplicate
+and otherwise compliant, the Office will forward the
+protest to the correspondence address of record, and
+the application file should reflect that fact, either by
+a letter transmitting the protest or, if no transmittal
+letter is used, simply by an appropriate notation in
+the application file history.
+
+1901.04 When Can the Protest Be Submitted
+[R-10.2019]
+Pursuant to 37 CFR 1.291(b), a protest is timely if
+(1) filed prior to the date the application was
+published under 37 CFR 1.211 or the date a notice
+of allowance under 37 CFR 1.311 was given or
+mailed, whichever occurs first, or (2) accompanied
+by written consent of the applicant and filed prior
+to the date a notice of allowance under 37 CFR 1.311
+was given or mailed in the application. Publication
+under the Patent Cooperation Treaty (PCT) by the
+World Intellectual Property Organization (WIPO)
+of an international application would not trigger the
+end of the 37 CFR 1.291(b) time period for
+submitting a protest in a national stage application
+under 35 U.S.C. 371. Likewise, publication under
+the Geneva Act of the Hague Agreement Concerning
+the International Registration of Industrial Designs
+by WIPO of an international registration would not
+trigger the end of the 37 CFR 1.291(b) time period
+for submitting a protest in a nonprovisional
+international design application.
+
+§ 1901.04
+
+As a practical matter, any protest should be
+submitted as soon as possible after the protestor
+becomes aware of the existence of the application
+to which the protest is to be directed. By submitting
+a protest early in the examination process, i.e., before
+the Office acts on the application if possible, the
+protestor ensures that the protest will be of the most
+benefit to the Office in its examination of the
+application. A protest submitted on or after the date
+a notice of allowance under 37 CFR 1.311 was given
+or mailed will not be entered and will be discarded
+pursuant to 37 CFR 1.291(g).
+A protest filed after final rejection (and prior to the
+date the notice of allowance is given or mailed) and
+complying with all the requirements of 37 CFR 1.291
+will be considered if the application is still pending.
+However, prosecution will not ordinarily be reopened
+after final rejection if the prior art cited in the protest
+is merely cumulative of the prior art cited in the final
+rejection.
+A protest filed in a reissue application is not a “form
+of preissuance opposition to the grant of a patent”
+because the patent to be reissued has already been
+granted. Thus, a protest may be filed in a reissue
+application throughout the pendency of the reissue
+application prior to the date a notice of allowance is
+given or mailed subject to the timing constraint of
+the examination. A protest with regard to a reissue
+application should, however, be filed within the
+2-month period following announcement of the filing
+of the reissue application in the Official Gazette.
+See MPEP § 1441.01. If, for some reason, the protest
+of the reissue application cannot be filed within the
+2-month period provided by MPEP § 1441, the
+protest can be submitted at a later time, but the
+protestor must be aware that reissue applications are
+“special” and a later filed protest may be received
+after action by the examiner. Any request by a
+protestor in a reissue application for an extension of
+the 2-month period following the announcement in
+the Official Gazette , and a delay of the examination
+until the extended period expires, will be considered
+only if filed in the form of a petition under 37 CFR
+1.182 and accompanied by the petition fee set forth
+in 37 CFR 1.17(f). The petition under 37 CFR 1.182
+and the petition fee must be filed prior to the
+expiration of the 2-month period provided by MPEP
+§ 1441. The petition must explain why the additional
+
+1900-7
+
+Rev. 10.2019, June 2020
+
+§ 1901.05
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+time is necessary and the nature of the protest
+intended. A copy of such petition must be served
+upon applicant in accordance with 37 CFR 1.248.
+The petition should be directed to the appropriate
+Technology Center (TC) which will forward the
+petition to the Office of Patent Legal Administration
+for decision. Any such petition will be critically
+reviewed as to demonstrate need before being
+granted since the delay of examination of a reissue
+application of another party is being requested.
+Accordingly, the requests should be made only
+where necessary, for the minimum period required,
+and with a justification establishing the necessity for
+the extension.
+
+relating to the protest, or to the application, other
+than the return of a self-addressed postcard which
+protestor may include with the protest in order to
+receive an acknowledgment that the protest has been
+received by the Office. 37 CFR 1.291(d). Where a
+self-addressed postcard is included with the protest,
+the Office will acknowledge receipt of the protest
+by return of the self-addressed postcard. Thus, it is
+to be noted that the receipt of the self-addressed
+postcard from the Office is not an indication that the
+protest complies with 37 CFR 1.291.
+
+Where a protest of a reissue application is submitted
+after the 2-month period, no petition for entry of the
+protest under 37 CFR 1.182 is needed with respect
+to the protest being submitted after the 2 months,
+unless a final rejection has been issued or
+prosecution on the merits has been closed for the
+reissue application. See MPEP § 1441.01. In
+situations where a final rejection has been issued, or
+prosecution on the merits has been otherwise closed,
+a petition under 37 CFR 1.182 along with the petition
+fee under 37 CFR 1.17(f) must be submitted with
+the protest. The petition must include an explanation
+as to why the additional time was necessary and
+identify the nature of the protest submitted. A copy
+of the petition must be served upon the applicant in
+accordance with 37 CFR 1.248. The petition should
+be directed to the Office of Petitions.
+
+The postcard acknowledging receipt of a protest in
+other than a reissue application will not and must
+not indicate whether such application in fact exists
+or the status of any such application. Office
+employees must exercise care to ensure that matters
+relating to applications are not discussed with
+protestor or communicated in writing to protestor.
+See MPEP § 1134. Original applications are, of
+course, required by 35 U.S.C. 122 to be kept in
+confidence unless published pursuant to 35 U.S.C.
+122(b) or are available to the public pursuant to 37
+CFR 1.14(a)(1)(iv), (v), or (vi). Thus, unless a
+protestor has been granted access to an original
+application, the protestor is not entitled to obtain
+from the Office any information concerning the
+same, including the mere fact that such an
+application exists. Petitions for access to patent
+applications with the exception of applications
+involved in or related to a proceeding before the
+Patent Trial and Appeal Board are decided by the
+Office of Petitions pursuant to delegation contained
+in MPEP § 1002.02(b). Reissue applications filed
+on, or after, March 1, 1977 are pursuant to 37 CFR
+1.11(b) “open to inspection by the public.” After an
+application is published pursuant to 35 U.S.C.
+122(b), the application file contents become available
+to the public through the Office’s public application
+image file wrapper via the Office's website. In
+addition, a copy of the file content of the published
+application may be requested by filing a written
+request under 37 CFR 1.14(a)(1)(i) including the fee
+as set forth in 37 CFR 1.19(b).
+
+If the protest is a “REISSUE LITIGATION” protest,
+it is particularly important that it be filed early if
+protestor wishes it considered at the time the Office
+first acts on the application. Protestors should be
+aware that the Office will entertain petitions from
+reissue applicants under 37 CFR 1.182 to waive the
+2-month delay period of MPEP § 1441 in appropriate
+circumstances. Accordingly, protestors to reissue
+applications cannot automatically assume that the
+full 2-month delay period of MPEP § 1441 will
+always be available.
+
+1901.05 Acknowledgment of Protest
+[R-10.2019]
+A protestor in an original or reissue application will
+not receive any communications from the Office
+
+Rev. 10.2019, June 2020
+
+I. APPLICATIONS AND STATUS THEREOF
+MAINTAINED IN CONFIDENCE
+
+The Office will communicate with the applicant
+regarding any protest entered in an application file
+
+1900-8
+
+PROTEST
+
+and may require the applicant to supply information
+pursuant to 37 CFR 1.291(f), including replies to
+specific questions raised by the protest, in order for
+the Office to decide any issues raised thereby. Under
+37 CFR 1.291(f), the examiner can require the
+applicant to reply to the protest and answer specific
+questions raised by the protest. See MPEP § 1901.06,
+subsection II.
+
+1901.06 Office Treatment of Protest
+[R-10.2019]
+Office practice as defined in 37 CFR 1.291(a) gives
+recognition to the value of the written protests in
+avoiding the issuance of invalid patents. However,
+the fact that one or more protests has been filed in
+an application, whether the application is an original
+application or a reissue application, does not relieve
+the examiner from conducting a normal examination
+on the merits, including the required search.
+Evidence submitted in a protest will be considered
+on the same basis as other ex parte evidence. In re
+Reuter, 651 F.2d 751, 758, 210 USPQ 249, 255
+(CCPA 1981).
+I. INITIAL REVIEW
+
+Protests will not be automatically made of record in
+an application. The Office has designated points of
+contact and established procedures for reviewing
+protests to determine if they are compliant with the
+relevant provisions of 37 CFR 1.291 before being
+made of record in an application. These procedures
+permit compliant protests to be entered into the
+record of the application and made available to the
+examiner for consideration as early as possible.
+If a compliant protest is filed in a reissue application
+and the reissue application is related to a patent
+involved in a pending interference or derivation
+proceeding, such application should be referred to
+the Office of Patent Legal Administration before the
+examiner considers the protest and acts on the
+application.
+37 CFR 1.291(g) provides that a protest that fails to
+comply with 37 CFR 1.291(b) or (c) may not be
+entered. A protest that is non-compliant with some
+requirement of 37 CFR 1.291(b) or (c), may be
+entered into the record if the reviewer determines
+
+§ 1901.06
+
+that the error is of such a minor character that, in the
+opinion of the Office, it does not raise an ambiguity
+as to the content of the protest. For example, if an
+error with respect to a requirement of 37 CFR
+1.291(c) is of such a nature that the content of the
+protest can still be readily ascertained (e.g., a U.S.
+patent is identified by the correct patent number and
+issue date but the name of the first named inventor
+is clearly misspelled), the Office may have enough
+information to be able to enter the protest into the
+record despite the error. However, the determination
+of whether to enter or not to enter a protest that
+partially complies with a requirement of 37 CFR
+1.291(b) or (c) will be made on a case-by-case basis
+and at the sole discretion of the Office (e.g., the
+Office may decline to enter a protest listing a U.S.
+patent whose patent number does not match Office
+records with respect to that patent number’s issue
+date and/or first named inventor). In any event, the
+Office will either enter or not enter the entire protest
+and will not attempt to enter portions of partially
+compliant protests, except as noted in the paragraph
+below.
+In the unlikely event an examiner believes a protest
+is non-compliant, the examiner should immediately
+consult the reviewer of the protest or other
+appropriate Technology Center point of contact. If
+as a result of such consultation it is determined that
+the examiner should not consider a listed document,
+the examiner should strike through the document to
+indicate that the examiner did not consider either the
+document or its accompanying concise explanation.
+In some instances, the stricken document may be
+cited by the examiner on a form PTO-892.
+II. PERIOD FOR COMMENTS BY APPLICANT
+
+If the Office’s initial review reveals that the protest
+is ready for consideration during the examination,
+the examiner may nevertheless consider it desirable,
+or necessary, to obtain applicant’s comments on the
+protest before further action. In such situations, the
+examiner will offer applicant an opportunity to file
+comments within a set period, usually 1 month,
+unless circumstances warrant a longer period.
+Form paragraph 19.01 can be used to offer applicant
+an opportunity to file comments on the protest.
+
+1900-9
+
+Rev. 10.2019, June 2020
+
+§ 1901.06
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+¶ 19.01 Period for Comments on Protest by Applicant
+A protest against issuance of a patent based upon this application
+has been filed under 37 CFR 1.291(a) on [1], and a copy [2].
+Any comments or reply applicant desires to file before
+consideration of the protest must be filed by [3].
+Examiner Note:
+1. Applicant is normally given one month to submit any
+comments, unless circumstances in the case would warrant a
+longer period.
+2. A copy of this Office action is NOT sent to the protestor.
+See 37 CFR 1.291(d).
+3. In bracket 2, insert either-- has been served on applicant-or-- is attached hereto--.
+
+Where necessary or desirable to decide questions
+raised by the protest, under 37 CFR 1.291(f) the
+primary examiner can require the applicant to reply
+to the protest and answer specific questions raised
+by the protest. The primary examiner cannot require
+a reply to questions relating to “fraud,” “inequitable
+conduct,” or “violation of the duty of disclosure”
+since those issues are generally not commented on
+by the Office. Any questions directed to applicant
+by the primary examiner must be limited to seeking
+answers reasonably necessary in order for the
+primary examiner to decide questions raised by the
+protest and which are before the primary examiner
+for decision. The primary examiner is not permitted,
+under 37 CFR 1.291(f), to seek answers to questions
+which are not before the primary examiner for
+decision.
+Form paragraph 19.02 can be used to require
+additional information from applicant regarding
+issues raised by the protest.
+¶ 19.02 Requirement for Information
+The protest under 37 CFR 1.291 filed on [1] has been considered.
+In order to reach a full and proper consideration of the issues
+raised therein, it is necessary to obtain additional information
+from applicant regarding these issues. In particular [2]. The
+failure to reply to this requirement for information within a
+shortened statutory period of TWO (2) MONTHS of the mailing
+date of this requirement will result in abandonment of the
+application. This time period may be extended under the
+provisions of 37 CFR 1.136 but in no case can any extension
+carry the date for reply to this letter beyond the maximum period
+of SIX MONTHS set by statute (35 U.S.C. 133).
+
+III. EXAMINER MUST NOT COMMUNICATE
+WITH PROTESTOR
+
+The examiner must not communicate with protestor
+in any way even if the protest is incomplete or the
+protestor inquires as to the status of any Office
+proceedings related to the protest. See 37 CFR 1.291.
+In addition, the examiner will not consider a later
+submission by protestor, unless such submission
+complies with 37 CFR 1.291(c)(5) (see MPEP §
+1901.07). Improper protests will be returned to the
+protestor, or discarded, at the option of the Office.
+See 37 CFR 1.291(g).
+IV. EXAMINER TREATMENT OF AN ENTERED
+PROTEST
+
+If the protest has been reviewed and entered into the
+record of the application in time to permit
+consideration by the examiner during prosecution,
+the examiner must consider (A) each of the prior art
+or other documents submitted in conformance with
+37 CFR 1.291(c) and any discussion of such
+documents in the protest, and (B) any non-prior art
+issue(s) raised by the protest that are appropriate for
+consideration by the primary examiner, and the
+information supplied as to the same.
+At least those prior art documents which the
+examiner relies on in rejecting claims will be made
+of record by means of form PTO-892, unless the
+protestor has listed such prior art or other documents
+on form PTO/SB/08A and 08B (or an acceptable
+substitute as provided by MPEP § 609.04(a)), in
+which case the examiner will place the examiner’s
+initials adjacent to the citations in the boxes provided
+on the form PTO/SB/08A and 08B (see MPEP §
+609.04(a)). Where the prior art or other documents
+have not been cited on a PTO-892, or listed and
+initialed on a PTO/SB/08A and 08B, the examiner
+will place a notation in the protest paper adjacent to
+the reference to the documents. The notation should
+include the examiner’s initials and the term
+“checked.” The examiner will also indicate in the
+next Office action that all documents submitted have
+been considered.
+
+Examiner Note:
+While the examiner normally should not need further
+information from applicant, this form paragraph may be used
+to request specific additional information from the applicant.
+
+Rev. 10.2019, June 2020
+
+1900-10
+
+PROTEST
+
+V. PROTEST FILED ON OR AFTER
+PUBLICATION OF THE APPLICATION
+A. Without the Written Consent of Applicant
+
+If a protest is submitted on or after the date the
+application is published under 37 CFR 1.211 and is
+not accompanied by the written consent of the
+applicant, it will not be entered in the application
+file.
+B. With the Written Consent of Applicant
+
+35 U.S.C. 122(c) permits the filing of a protest in an
+application after the application has been published
+if there is express written consent of the applicant.
+In order to file a protest after publication of a patent
+application, 37 CFR 1.291(b)(1) requires that the
+protest be accompanied by the written consent of
+the applicant and be filed prior to the date the notice
+of allowance under 37 CFR 1.311 is given or mailed.
+The written consent should indicate that applicant
+is consenting to the specific protest being submitted.
+Applicant may choose to provide a blanket consent
+to: any protests filed; protests filed by a particular
+real party in interest; a single protest by a particular
+party in interest (e.g., a protest that party Smith has
+informed me that he will be submitting during the
+week of November 26th); a protest involving a
+particular item of prior art; or a particular protest
+that has been reviewed and applicant is willing to
+have considered by the Office. Where applicant
+consents to a protest, the Office will abide by the
+terms of the consent, and will enter the protest only
+if (A) the protest submitted is within the scope of
+the consent, and (B) the protest complies with the
+requirements of 37 CFR 1.291(b) and (c). If a
+properly consented to protest does not comply with
+some of the requirements of 37 CFR 1.291(b) or (c),
+the Office may choose to consider a piece of prior
+art permitted under the terms of the consent.
+VI. CONSIDERATION OF PROTESTOR’S
+ARGUMENTS
+
+In view of the value of written protests, the examiner
+must give careful consideration to the points and
+arguments made on behalf of the protestor. Any
+Office action by the examiner treating the merits of
+a timely submitted protest complying with 37 CFR
+
+§ 1901.07(a)
+
+1.291(c) must specifically consider and make evident
+by detailed reasoning the examiner’s position as to
+the major arguments and points raised by the
+protestor, except for issues related to inequitable
+conduct. The examiner will not, under any
+circumstances, treat or discuss those arguments or
+points directed to “fraud,” “violation of duty of
+disclosure,” or other inequitable conduct issues. See
+37 CFR 1.291(e). While it is not necessary for the
+examiner to respond to each and every minute
+argument or point, the major arguments and points,
+except those concerning inequitable conduct, must
+be specifically covered.
+VII. RESULTS OF CONSIDERATION REPORTED
+TO TECHNOLOGY CENTER (TC) DIRECTOR
+
+After the examiner has considered the protest, the
+examiner will report the results of such consideration
+to the TC Director.
+
+1901.07 Protestor Participation [R-10.2019]
+37 CFR 1.291 does not permit protestor, or any other
+member of the public, to contact or receive
+information from the Office as to the disposition or
+status of the protest, or the application to which it is
+directed, or to participate in any Office proceedings
+relating to the protest. The Office does not serve
+copies of Office actions or other documents mailed
+by the Office on protestors, and does not require
+applicants to serve copies of papers filed with the
+Office on protestors. Furthermore, a protestor is not
+permitted to participate in interviews, appeal a
+decision by the examiner adverse to the protestor to
+the Patent Trial and Appeal Board, or participate in
+an appeal by applicant. The disposition of the protest
+will be an ex parte matter between the Office and
+the applicant. Where protestor has access to an
+application, for example, a reissue application which
+is open to the public and may be inspected under 37
+CFR 1.11, the proceedings may thereby be
+monitored.
+
+1901.07(a) Filing of Multiple Papers Relating
+to Same Issues [R-10.2019]
+Under 37 CFR 1.291(d), protestor participation ends
+with the filing of the protest, and protestor will not
+be allowed to complete any protest that is
+
+1900-11
+
+Rev. 10.2019, June 2020
+
+§ 1902-1905
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+incomplete. 37 CFR 1.291(c) does not provide for
+the submission of additional protests in the same
+application by the same real party in interest except
+for submissions filed in accordance with 37 CFR
+1.291(c)(5). Multiple piecemeal protests (raising a
+slightly different issue in each protest submission)
+in a single application by the same real party in
+interest are not permitted. After the filing of the
+protest, no further submission of prior art by the
+same real party in interest will be considered, except
+for new, non-cumulative prior art submitted under
+the conditions of 37 CFR 1.291(c)(5). 37 CFR
+1.291(c)(5) requires that a second or subsequent
+protest by the same real party in interest include:
+(A) an explanation as to why the issue(s) raised
+in the second or subsequent protest are significantly
+different than those raised earlier;
+
+1902-1905 [Reserved]
+
+1906 Supervisory Review of an Examiner’s
+Decision Adverse to Protestor [R-10.2019]
+As pointed out in MPEP § 1901.07, a protestor
+cannot appeal to the Patent Trial and Appeal Board
+from an adverse decision of the examiner. Further,
+a decision by the examiner adverse to a protestor is
+final, and under the restricted protestor participation
+permitted under 37 CFR 1.291(d) is not petitionable
+to the Director.
+
+1907 Unauthorized Participation by
+Protestor [R-10.2019]
+
+(B) an explanation as to why the significantly
+different issue(s) were not earlier presented; and
+(C) the processing fee under 37 CFR 1.17(i).
+Significantly different issue(s) may be raised by the
+submission of new, non-cumulative prior art or other
+information not previously made of record.
+Additional comments seeking to bring in further or
+even new data or information with respect to an issue
+previously raised by the same real party in interest
+would not qualify as a significantly different issue.
+By imposing requirements for second or subsequent
+protests on “the same real party in interest,” the
+requirements of 37 CFR 1.291(c)(5) cannot be
+avoided by multiple protests submitted by different
+people representing the same real party in interest.
+Second or subsequent protest by the same real party
+in interest that do not comply with 37 CFR
+1.291(c)(5) will not be entered in the intended
+application and will be returned to the protestor, or
+discarded, at the option of the Office. 37 CFR
+1.291(g).
+An examiner will consider a compliant second or
+subsequent protest filed on behalf of the same real
+party in interest (subject to the time frames set forth
+in 37 CFR 1.291(b), the caveat that the protest can
+be timely matched and considered prior to the date
+the notice of allowance under 37 CFR 1.311 is given
+or mailed, and the content requirements of 37 CFR
+
+Rev. 10.2019, June 2020
+
+1.291(c)(1) to (4)), if the second or subsequent
+protest complies with 37 CFR 1.291(c)(5).
+
+Office personnel must exercise care to ensure that
+substantive matters relating to the application are
+not discussed ex parte
+with protestor or
+communicated in writing ex parte to protestor. The
+examiner must not communicate in any manner with
+protestor. See 37 CFR 1.291(d). See also MPEP §
+1134.
+
+1908-1919 [Reserved]
+
+1920 Citation of Prior Art Under 37 CFR
+1.501(a) [R-10.2019]
+37 CFR 1.501(a) permits any person at any time
+during the period of enforceability of a patent to file
+a written submission directed to prior art consisting
+of patent and printed publications which that person
+states to be pertinent and applicable to the patent
+and believes to have a bearing on the patentability
+of any claim(s) of the patent or statements of the
+patent owner filed by the patent owner in a
+proceeding before a federal court or the Office in
+which the patent owner took a position on the scope
+of any claim of the patent. See MPEP § 2202 - §
+2208.
+
+1900-12
+

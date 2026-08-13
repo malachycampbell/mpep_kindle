@@ -1,0 +1,2292 @@
+Chapter 2500 Maintenance Fees
+2501
+2502
+-2503
+2504
+2505
+2506
+2507
+-2509
+2510
+2511
+-2514
+2515
+2516
+-2519
+2520
+2521
+2522
+2523
+-2529
+2530
+2531
+2532
+2533
+-2539
+2540
+2541
+2542
+2543
+-2549
+2550
+2551
+-2559
+2560
+2561
+-2569
+2570
+2571
+-2574
+2575
+2576
+-2579
+2580
+
+Introduction
+[Reserved]
+
+2581
+-2589
+2590
+
+Patents Subject to Maintenance Fees
+[Reserved]
+Times for Submitting Maintenance Fee
+Payments
+[Reserved]
+Submission of Maintenance Fee
+Payments and Documents
+[Reserved]
+
+2591
+2592
+-2594
+2595
+
+[Reserved]
+Acceptance of Delayed Payment of
+Maintenance Fee in Expired Patent to
+Reinstate Patent
+Intervening Rights in Reinstated
+Patents
+[Reserved]
+Forms
+
+2501 Introduction [R-07.2022]
+35 U.S.C. 41 Patent fees; patent and trademark search
+systems.
+
+Information Required for Submission
+of Maintenance Fee Payment
+[Reserved]
+
+*****
+(b) MAINTENANCE FEES
+(1) IN GENERAL. — The Director shall charge the
+following fees for maintaining in force all patents based on
+applications filed on or after December 12, 1980:
+
+Maintenance Fee Amounts
+[Reserved]
+Methods of Payment
+[Reserved]
+
+(A) Three years and 6 months after grant, $980.
+(B) Seven years and 6 months after grant, $2,480.
+
+Special Acceptance of Maintenance Fee
+Payments Containing Informalities
+Payment Late or Insufficient
+Duplicate Payments
+[Reserved]
+Fee Address for Maintenance Fee
+Purposes
+[Reserved]
+Change of Correspondence Address
+[Reserved]
+
+(C) Eleven years and 6 months after grant, $4,110.
+(2) GRACE PERIOD; SURCHARGE. — Unless
+payment of the applicable maintenance fee under paragraph (1)
+is received in the Office on or before the date the fee is due or
+within a grace period of 6 months thereafter, the patent shall
+expire as of the end of such grace period. The Director may
+require the payment of a surcharge as a condition of accepting
+within such 6-month grace period the payment of an applicable
+maintenance fee.
+(3) NO MAINTENANCE FEE FOR DESIGN OR
+PLANT PATENT. — No fee may be established for maintaining
+a design or plant patent in force.
+(c) DELAYS IN PAYMENT OF MAINTENANCE FEES.
+—
+
+Entity Status Discounts
+[Reserved]
+
+(1) ACCEPTANCE. — The Director may accept the
+payment of any maintenance fee required by subsection (b) after
+the 6-month grace period if the delay is shown to the satisfaction
+of the Director to have been unintentional. The Director may
+require the payment of the fee specified in subsection (a)(7) as
+a condition of accepting payment of any maintenance fee after
+the 6-month grace period. If the Director accepts payment of a
+maintenance fee after the 6-month grace period, the patent shall
+be considered as not having expired at the end of the grace
+period.
+
+Revocation of Power of Attorney and
+Withdrawal of Attorney
+[Reserved]
+Maintenance Fee Payment Status
+Requests
+[Reserved]
+Notices
+[Reserved]
+Review of Decision Refusing to Accept
+and Record Payment of a Maintenance
+Fee Filed Prior to Expiration of Patent
+
+(2) EFFECT ON RIGHTS OF OTHERS.— A patent,
+the term of which has been maintained as a result of the
+acceptance of a payment of a maintenance fee under this
+subsection, shall not abridge or affect the right of any person or
+that person’s successors in business who made, purchased,
+offered to sell, or used anything protected by the patent within
+the United States, or imported anything protected by the patent
+into the United States after the 6-month grace period but prior
+to the acceptance of a maintenance fee under this subsection,
+
+2500-1
+
+Rev. 01.2024, November 2024
+
+§ 2502
+-2503
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+to continue the use of, to offer for sale, or to sell to others to be
+used, offered for sale, or sold, the specific thing so made,
+purchased, offered for sale, used, or imported. The court before
+which such matter is in question may provide for the continued
+manufacture, use, offer for sale, or sale of the thing made,
+purchased, offered for sale, or used within the United States, or
+imported into the United States, as specified, or for the
+manufacture, use, offer for sale, or sale in the United States of
+which substantial preparation was made after the 6-month grace
+period but before the acceptance of a maintenance fee under
+this subsection, and the court may also provide for the continued
+practice of any process that is practiced, or for the practice of
+which substantial preparation was made, after the 6-month grace
+period but before the acceptance of a maintenance fee under
+this subsection, to the extent and under such terms as the court
+deems equitable for the protection of investments made or
+business commenced after the 6-month grace period but before
+the acceptance of a maintenance fee under this subsection.
+*****
+
+Director of the United States Patent and Trademark
+Office
+Mail Stop Post Issue
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+
+2502-2503 [Reserved]
+
+2504 Patents Subject to Maintenance Fees
+[R-01.2024]
+37 CFR 1.362 Time for payment of maintenance fees.
+(a) Maintenance fees as set forth in §§ 1.20(e) through (g)
+are required to be paid in all patents based on applications filed
+on or after December 12, 1980, except as noted in paragraph
+(b) of this section, to maintain a patent in force beyond 4, 8 and
+12 years after the date of grant.
+
+I. MAINTENANCE FEE BRANCH
+
+(b) Maintenance fees are not required for any plant patents
+or for any design patents.
+
+The Maintenance Fee Branch of the Receipts
+Accounting Division of the Office of Finance
+provides specialized advice and guidance to the
+public on maintenance fee matters.
+
+(c) The application filing dates for purposes of payment of
+maintenance fees are as follows:
+
+The Maintenance Fee Branch determines the proper
+status of issued patents which are subject to payment
+of maintenance fees, receives and processes fee
+transmittals, updates entity status, responds to public
+inquiries on post-issuance status and maintenance
+fees, and determines if maintenance fees are timely
+and properly computed. This Branch also generates
+the data necessary to produce Official Gazette
+notices of maintenance fees due and of expiration
+of patents due to failure to pay maintenance fees.
+II. OFFICE OF PATENT APPLICATION
+PROCESSING
+
+The Office of Patent Application Processing (OPAP)
+updates patent post issuance automated files with
+the following information:
+(A) Changes of Correspondence Address
+
+(1) For an application not claiming benefit of an earlier
+application, the actual United States filing date of the application.
+(2) For an application claiming benefit of an earlier
+foreign application under 35 U.S.C. 119, the United States filing
+date of the application.
+(3) For a continuing (continuation, division,
+continuation-in-part) application claiming the benefit of a prior
+patent application under 35 U.S.C. 120, the actual United States
+filing date of the continuing application.
+(4) For a reissue application, including a continuing
+reissue application claiming the benefit of a reissue application
+under 35 U.S.C. 120, [the] United States filing date of the
+original non-reissue application on which the patent reissued is
+based.
+(5) For an international application which has entered
+the United States as a Designated Office under 35 U.S.C. 371,
+the international filing date granted under Article 11(1) of the
+Patent Cooperation Treaty which is considered to be the United
+States filing date under 35 U.S.C. 363.
+(d) Maintenance fees may be paid in patents without
+surcharge during the periods extending respectively from:
+(1) 3 years through 3 years and 6 months after grant
+for the first maintenance fee,
+
+(B) Powers of Attorney and Revocations Thereof
+
+(2) 7 years through 7 years and 6 months after grant
+for the second maintenance fee, and
+
+The official mailing address for submitting requests
+to update all post-issuance patent information is:
+
+(3) 11 years through 11 years and 6 months after grant
+for the third maintenance fee.
+(e) Maintenance fees may be paid with the surcharge set
+forth in § 1.20(h) during the respective grace periods after:
+(1) 3 years and 6 months and through the day of the
+4th anniversary of the grant for the first maintenance fee.
+
+Rev. 01.2024, November 2024
+
+2500-2
+
+MAINTENANCE FEES
+
+(2) 7 years and 6 months and through the day of the
+8th anniversary of the grant for the second maintenance fee, and
+(3) 11 years and 6 months and through the day of the
+12th anniversary of the grant for the third maintenance fee.
+(f) If the last day for paying a maintenance fee without
+surcharge set forth in paragraph (d) of this section, or the last
+day for paying a maintenance fee with surcharge set forth in
+paragraph (e) of this section, falls on a Saturday, Sunday, or a
+federal holiday within the District of Columbia, the maintenance
+fee and any necessary surcharge may be paid under paragraph
+(d) or paragraph (e) respectively on the next succeeding day
+which is not a Saturday, Sunday, or Federal holiday.
+(g) Unless the maintenance fee and any applicable
+surcharge is paid within the time periods set forth in paragraphs
+(d), (e) or (f) of this section, the patent will expire as of the end
+of the grace period set forth in paragraph (e) of this section. A
+patent which expires for the failure to pay the maintenance fee
+will expire at the end of the same date (anniversary date) the
+patent was granted in the 4th, 8th, or 12th year after grant.
+(h) The periods specified in §§ 1.362(d) and 37 CFR
+1.362(e) with respect to a reissue application, including a
+continuing reissue application thereof, are counted from the date
+of grant of the original non-reissue application on which the
+reissued patent is based.
+
+Maintenance fees are required to be paid on all
+patents based on applications filed on or after
+December 12, 1980, except for plant patents and
+design patents. Furthermore, maintenance fees are
+required for a reissue patent unless the patent being
+reissued did not require maintenance fees. See
+subsection I below for more information regarding
+the payment of maintenance fees in reissue utility
+patents and original utility patents for which a reissue
+application is pending.
+Application filing dates for purposes of determining
+whether a patent is subject to payment of
+maintenance fees are as follows:
+(A) For an application not claiming benefit of
+an earlier application, the actual United States filing
+date of the application.
+(B) For an application claiming benefit of an
+earlier foreign application under 35 U.S.C. 119(a) (d), the actual United States filing date of the
+application.
+(C) For a continuing (continuation, division,
+continuation-in-part) application claiming the benefit
+of a prior patent application under 35 U.S.C. 120,
+the actual United States filing date of the continuing
+application.
+
+§ 2504
+
+(D) For a reissue application, including a
+continuing reissue application claiming the benefit
+of a reissue application under 35 U.S.C. 120, the
+United States filing date of the original nonreissue
+application on which the patent reissued is based.
+(E) For an international application that has
+entered the United States as a Designated Office
+under 35 U.S.C. 371, the international filing date
+granted under Article 11(1) of the Patent Cooperation
+Treaty which is considered to be the United States
+filing date under 35 U.S.C. 363.
+The term of a utility patent that can be maintained
+in force by the payment of maintenance fees may be
+lengthened by any patent term extension under 35
+U.S.C. 156 or adjustment under 35 U.S.C. 154, or
+may be reduced if there is any disclaimed term.
+Subject to the payment of maintenance fees and any
+patent term extension, adjustment, or disclaimer, the
+patent term begins on the date the patent issues and
+ends 20 years from the date the application was filed,
+or if the application claims the benefit of an earlier
+filed U.S. application or applications (excluding
+provisional applications), the patent term ends 20
+years from the date the earliest such application was
+filed (hereafter, 20 year term). For utility and plant
+applications filed prior to June 8, 1995, the patent
+term is the greater of the 20 year term or 17 years
+from the patent issue date subject to any disclaimer
+or term extension.
+I. REISSUE UTILITY PATENTS AND ORIGINAL
+UTILITY PATENTS FOR WHICH AN
+APPLICATION FOR REISSUE IS PENDING
+
+Effective January 16, 2018, each reissue utility patent
+requires its own maintenance fee payment during
+the unexpired part of the term of the original patent
+(unless the original patent was filed before December
+12, 1980). This practice requires a maintenance fee
+to be paid in each reissue patent in force on (i.e.,
+issued before) the maintenance fee due date. This
+includes all reissue patents that replace the same
+original patent (“multiple reissued patents”) and have
+maintenance fees due on or after January 16, 2018.
+This practice also includes a requirement for
+maintenance fee payments in original patents that
+are not surrendered because one or more reissue
+applications of the same original patent are still
+pending on the maintenance fee due date. In
+summary, for maintenance fees due on or after
+
+2500-3
+
+Rev. 01.2024, November 2024
+
+§ 2504
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+January 16, 2018, a separate payment of the
+maintenance fee is required for each reissue patent
+based on a single original patent, and for the original
+patent if there is a pending reissue application based
+on the same original patent, to maintain each reissue
+patent and the original patent in force beyond the
+4th, 8th, or 12th anniversary of the grant date of the
+original patent. The due date for a maintenance fee
+is the last day the maintenance fee may be paid
+without a surcharge under 37 CFR 1.362(d). See
+MPEP § 2506 for more information on the times for
+submitting maintenance fee payments.
+The former practice of requiring only one
+maintenance fee in the latest issued reissue patent
+for all reissue patents based on the same original
+patent and for the original patent was discontinued
+on January 16, 2018. Accordingly, maintenance fee
+payments that were due on January 15, 2018 were
+the last maintenance fees payable under the former
+practice.
+A. Maintenance Fee Payments for Multiple Reissued
+Utility Patents
+
+Effective January 16, 2018, each reissue patent of
+an original utility patent that was issued from an
+application filed on or after December 12, 1980 and
+that is in force on the relevant maintenance fee due
+date (i.e., the 3½, 7½, or 11½ year date) requires its
+own maintenance fee payment.
+In some instances, more than one reissue patent will
+be granted to replace a single original patent.
+“Multiple reissued patents” that replace a single
+original patent are provided for in 35 U.S.C. 251(b).
+See MPEP § 1451. In these instances, each of the
+reissue utility patents requires payment of its own
+set of maintenance fees in order to prevent expiration
+of the reissue patent. The maintenance fee payment
+schedule established for the original patent continues
+to apply to each reissue patent such that the
+maintenance fee due dates are based on the date of
+the original patent grant. Based on the maintenance
+fee due dates, the time periods for paying
+maintenance fees in reissue utility patents are set
+forth in paragraphs (d) and (e) of 37 CFR 1.362. See
+MPEP § 2506 for more information on the times for
+submitting maintenance fee payments. To prevent
+expiration of any reissue patent, including each
+
+Rev. 01.2024, November 2024
+
+reissue patent based on a single original patent, any
+maintenance fee with a due date on or after January
+16, 2018 must be paid in each reissue patent in force
+on the maintenance fee due date.
+B. Maintenance Fee Payments for Original Utility
+Patents Not Surrendered by Reissue
+
+Effective January 16, 2018, the original patent
+requires a separate maintenance fee payment if at
+least one reissue application based on the original
+patent is pending on the maintenance fee due date
+(i.e., the 3½, 7½, or 11½ year date) even if a
+maintenance fee payment is made in reissue patent(s)
+that have issued from the same original patent.
+35 U.S.C. 251 permits reissue only for “the
+unexpired part of the term of the original patent.”
+An original patent is not surrendered under 35 U.S.C.
+252 until a reissue application, based on the original
+patent, issues as a reissue patent and no other reissue
+application, based on the same original patent, is
+still pending. Because it is the granting of the reissue
+patent – and not the filing of the reissue application
+- that effectuates surrender of the original patent
+under 35 U.S.C. 252, maintenance fees remain due
+in the original patent whenever an application for
+reissue of the original patent is pending on the
+maintenance fee due date. Specifically, when one or
+more reissue patents have issued and at least one
+application for reissue of the same original patent
+remains pending, the original patent is not
+surrendered and maintenance fees remain due in the
+original patent until the last remaining reissue
+application issues as a reissue patent or becomes
+abandoned. In other words, while there is an
+application for reissue pending in a reissue patent
+family, maintenance fee payments will be required
+in both the original patent and the corresponding
+reissue patent(s).
+C. Example
+
+A total of three applications were filed for reissue
+of the same original utility patent, which issued on
+August 27, 2010. The reissue applications result in
+first and second reissue patents granted on June 18,
+2013 and June 25, 2013, respectively. The third
+reissue application based on the original patent is
+scheduled to issue as the third reissue patent on
+
+2500-4
+
+MAINTENANCE FEES
+
+March 20, 2018 (after the February 27, 2018 due
+date for the 7½ year maintenance fee). The 3½ year
+maintenance fee, which was due on February 27,
+2014, was paid in the second reissue patent on
+December 6, 2013, under the former practice that
+required only one set of maintenance fees in the
+latest issued reissue patent. The 7½ year maintenance
+fee due date is Tuesday, February 27, 2018, which
+is 7½ years after the August 27, 2010 issue date of
+the original patent.
+The following steps are used to determine which
+patents in the patent family (i.e., the original patent
+and all reissue patents from the original patent)
+require payment of the 7½ year maintenance fee:
+1. Determine whether the new practice applies.
+For the new practice of more than one maintenance
+fee being due to apply, the reissue patent family
+based on an original utility patent will include more
+than one reissue patent, or at least one reissue patent
+and at least one pending application for reissue, of
+the same original utility patent and have maintenance
+fees due on or after January 16, 2018.
+In this example, the patent family has two reissue
+patents and a pending reissue application. The 7½
+year maintenance fee due date is February 27, 2018,
+which is after the January 16, 2018 effective date of
+the new practice set forth in this notice. Therefore,
+the new practice applies.
+2. Determine which of the reissue patents in the
+patent family require separate payment of the
+maintenance fee.
+In this example, the first and second reissue patents
+were granted in June 2013 and remain in force on
+January 16, 2018. Therefore, to avoid expiration of
+the first and second reissue patents, the 7½ year
+maintenance fee must be separately paid in both the
+first and second reissue patents, regardless of
+whether the maintenance fee(s) are paid before, on,
+or after January 16, 2018. Note that if any of the
+required maintenance fee payments are made during
+the grace period beginning on February 28, 2018
+and ending on August 27, 2018, the surcharge under
+37 CFR 1.20(h) must be included with each
+maintenance fee payment made during the grace
+period.
+
+§ 2504
+
+3. Determine whether the original utility patent
+requires separate payment of the maintenance fee.
+The maintenance fee must be paid if the maintenance
+fee due date is before the date the original patent is
+surrendered (i.e., the date the last remaining
+application for reissue of the original patent issues
+as a reissue patent or becomes abandoned). Any time
+an application for reissue of the original patent is
+still pending on the maintenance fee due date, the
+maintenance fee must be paid in the original patent.
+In this example, the third reissue application is still
+pending on the February 27, 2018 maintenance fee
+due date and is not scheduled to issue as a reissue
+patent until March 20, 2018. Therefore, the 7½ year
+maintenance fee must be paid in the original patent
+to avoid expiration of the third reissue patent. To
+avoid any uncertainty in the record about payment
+of the maintenance fee, payment should be made
+prior to March 20, 2018 because when the third
+reissue application issues as a reissue patent, the
+original patent is surrendered and ceases to exist. If
+the maintenance fee is paid on or after March 20,
+2018, payment must still be made in the original
+patent because the maintenance fee was due before
+surrender of the original patent. In addition, if the
+7½ year maintenance fee is paid during the grace
+period beginning on February 28, 2018 and ending
+on August 27, 2018, the maintenance fee payment
+must include the surcharge under 37 CFR 1.20(h).
+In the example above, note that the 7½ year
+maintenance fee would be the first maintenance fee
+ever paid in both the original patent and the first
+reissue patent because the 3½ year maintenance fee
+was paid (four years ago) in only the second reissue
+patent under the former practice that required
+maintenance fee payment in only the latest issued
+reissue patent. Also, note that if the original utility
+patent, which issued on August 27, 2010 in the
+example, was instead issued on June 15, 2010, the
+7½ year maintenance fee would be due prior to the
+January 16, 2018 effective date. In this situation, the
+7½ year maintenance fee would only be due in the
+latest issued reissue patent under the former practice,
+even if the 7½ year maintenance fee and surcharge
+under 37 CFR 1.20(h) are paid on or after the
+January 16, 2018 effective date during the grace
+period.
+
+2500-5
+
+Rev. 01.2024, November 2024
+
+§ 2505
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+2505 [Reserved]
+
+2506 Times for Submitting Maintenance Fee
+Payments [R-10.2019]
+Maintenance fees cannot be paid in advance since
+35 U.S.C. 41(f) permits maintenance fees to be
+adjusted every year on October 1 to reflect any
+fluctuations during the previous 12 months in the
+Consumer Price Index as determined by the
+Secretary of Labor.
+37 CFR 1.362(d) sets forth the time periods when
+the maintenance fees for a utility patent can be paid
+without surcharge. Those periods, referred to
+generally as the “window period,” are the 6-month
+periods preceding each due date. The “due dates”
+are defined in 35 U.S.C. 41(b). The window periods
+are (1) 3 years to 3 1/2 years after the date of issue
+for the first maintenance fee payment, (2) 7 years to
+7 1/2 years after the date of issue for the second
+maintenance fee payment, and (3) 11 years to 11 1/2
+years after the date of issue for the third and final
+maintenance fee payment. A maintenance fee paid
+on the last day of a window period can be paid
+without surcharge. The last day of a window period
+is the same day of the month the patent was granted
+3 years and 6 months, 7 years and 6 months, or 11
+years and 6 months after grant of the patent.
+37 CFR 1.362(e) sets forth the time periods when
+the maintenance fees for a utility patent can be paid
+with surcharge. Those periods, referred to generally
+as the “grace period,” are the 6-month periods
+immediately following each due date. The grace
+periods are (1) 3 1/2 years and through the day of
+the 4th anniversary of the grant of the patent, (2) 7
+1/2 years and through the day of the 8th anniversary
+of the grant of the patent and, (3) 11 1/2 years and
+through the day of the 12th anniversary of the grant
+of the patent. A maintenance fee may be paid with
+the surcharge on the same date (anniversary date)
+the patent was granted in the 4th, 8th, or 12th year
+after grant to prevent the patent from expiring.
+Maintenance fees for all reissue patents are due
+based upon the schedule established for the original
+utility patent. The filing of a request for ex parte or
+
+Rev. 01.2024, November 2024
+
+inter partes reexamination and/or the publication
+of a reexamination certificate does not alter the
+schedule of maintenance fee payments of the original
+patent.
+If the day for paying a maintenance fee falls on a
+Saturday, Sunday, or a federal holiday within the
+District of Columbia, the maintenance fee may be
+paid on the next succeeding day that is not a
+Saturday, Sunday, or federal holiday. For example,
+if the window period for paying a maintenance fee
+without a surcharge ended on a Saturday, Sunday,
+or a federal holiday within the District of Columbia,
+the maintenance fee can be paid without surcharge
+on the next succeeding day that is not a Saturday,
+Sunday, or a federal holiday within the District of
+Columbia. Likewise, if the grace period for paying
+a maintenance fee with a surcharge ended on a
+Saturday, Sunday, or a federal holiday within the
+District of Columbia, the maintenance fee can be
+paid with surcharge on the next succeeding day that
+is not a Saturday, Sunday, or a federal holiday within
+the District of Columbia. In the latter situation, the
+failure to pay the maintenance fee and surcharge on
+the next succeeding day that is not a Saturday,
+Sunday, or a federal holiday within the District of
+Columbia will result in the patent expiring on a date
+(4, 8, or 12 years after the date of grant) earlier than
+the last date on which the maintenance fee and
+surcharge could be paid. This situation results from
+the provisions of 35 U.S.C. 21, but those provisions
+do not extend the expiration date of the patent if the
+maintenance fee and any required surcharge are not
+paid when required. For example, if the grace period
+for paying a maintenance fee with a surcharge ended
+on a Saturday, the maintenance fee and surcharge
+could be paid on the next succeeding business day,
+e.g., Monday, but the patent will have expired after
+midnight on Saturday (e.g., on Sunday) if the
+maintenance fee and surcharge were not paid on the
+following Monday. Therefore, if the maintenance
+fee and any applicable surcharge are not paid, the
+patent will expire as of the end of the grace period
+as listed above. A patent that expires for failure of
+payment will expire on the day following the
+anniversary date the patent was granted in the 4th,
+8th, or 12th year after the grant.
+
+2500-6
+
+MAINTENANCE FEES
+
+§ 2510
+
+payments should be addressed to the Customer
+Service Window (see MPEP § 501, subsection III)
+with “Mail Stop Maintenance Fee” included in the
+address.
+
+2507-2509 [Reserved]
+
+2510 Submission of Maintenance Fee
+Payments and Documents [R-01.2024]
+A listing of available payment options and current
+mailing addresses is available on the USPTO website
+at www.uspto.gov/PatentMaintenanceFees.
+I. SUBMISSION OVER THE INTERNET
+
+Maintenance fee payments can be made quickly and
+easily over the internet at www.uspto.gov by
+electronic funds transfer (EFT), credit card, debit
+card, or deposit account payment methods.
+Maintenance fees paid online must be paid only
+through the Patent Maintenance Fees Storefront
+(https://fees.uspto.gov/MaintenanceFees). See
+MPEP § 509 and § 2522 for additional information
+pertaining to payments by credit card and payments
+by deposit account. Payment receipts for all
+payments submitted over the internet are available
+immediately in the Patent Maintenance Fees
+Storefront after the payment is processed. Receipts
+for bulk file payments of maintenance fees will
+include a listing of accepted payments for each
+patent maintained in force as well as a listing of any
+payments that could not be accepted with an
+explanation why. Note that the bulk file payment
+option can only be done online using the Patent
+Maintenance Fees Storefront.
+
+37 CFR 1.366(b) provides that the certificate of
+mailing procedures of 37 CFR 1.8 or the mailing by
+Priority Mail Express® provisions of 37 CFR 1.10
+may be utilized in paying maintenance fees. The
+specific requirements of either 37 CFR 1.8 or 1.10
+must be fully complied with if the benefits of either
+are desired. See MPEP § 512 and § 513.
+III. SUBMISSION BY FACSIMILE
+
+Payment of a maintenance fee is accepted via
+facsimile to the fax number stated on the
+Maintenance Fee Transmittal Form (SB/45), when
+charged to a deposit account or to a credit card.
+Credit Card Payment Form (PTO-2038) should be
+used if payment is made by credit card. See MPEP
+§ 509 and § 2522. In addition, requests pertaining
+to post-issuance documents, such as change of
+correspondence address, assignment of fee address,
+etc., may be submitted by facsimile.
+37 CFR 1.366(b) provides that the certificate of
+transmission procedure of 37 CFR 1.8 may be
+utilized in paying maintenance fees. The specific
+requirements of 37 CFR 1.8 must be fully complied
+with if the benefits thereof are desired. See MPEP
+§ 512.
+
+II. SUBMISSION BY MAIL
+
+IV. SUBMISSION BY HAND-DELIVERY
+
+Maintenance fee payments not electronically
+submitted over the internet, and correspondence
+related to maintenance fees may be addressed to:
+
+Maintenance fee payments may be hand-carried to
+the Patent Customer Service Window. See MPEP §
+501, subsection III for information regarding
+hand-delivery of papers. Although the receptionist
+will not process the maintenance fee payment, if the
+payment is delivered with an itemized postcard, the
+receptionist will provide a delivery receipt by date
+stamping the postcard. The maintenance fee payment
+should be placed in an envelope with
+MAINTENANCE FEE written in dark ink across
+the envelope.
+
+Mail Stop Maintenance Fee
+Director of the United States Patent and Trademark
+Office
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+For maintenance fee payments to be delivered by
+mail to the USPTO by a delivery service (e.g.
+Federal Express (Fed Ex), UPS, DHL, Laser, Action,
+Purolator, etc.), rather than by the United States
+Postal Service (USPS), the maintenance fee
+
+2500-7
+
+Rev. 01.2024, November 2024
+
+§ 2511
+-2514
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+2511-2514 [Reserved]
+
+2515 Information Required for Submission
+of Maintenance Fee Payment [R-07.2015]
+37 CFR 1.366 Submission of maintenance fees.
+(a) The patentee may pay maintenance fees and any
+necessary surcharges, or any person or organization may pay
+maintenance fees and any necessary surcharges on behalf of a
+patentee. A maintenance fee transmittal letter may be signed by
+a juristic applicant or patent owner. A patentee need not file
+authorization to enable any person or organization to pay
+maintenance fees and any necessary surcharges on behalf of the
+patentee.
+(b) A maintenance fee and any necessary surcharge
+submitted for a patent must be submitted in the amount due on
+the date the maintenance fee and any necessary surcharge are
+paid. A maintenance fee or surcharge may be paid in the manner
+set forth in § 1.23 or by an authorization to charge a deposit
+account established pursuant to § 1.25. Payment of a
+maintenance fee and any necessary surcharge or the
+authorization to charge a deposit account must be submitted
+within the periods set forth in § 1.362(d), (e), or (f). Any
+payment or authorization of maintenance fees and surcharges
+filed at any other time will not be accepted and will not serve
+as a payment of the maintenance fee except insofar as a delayed
+payment of the maintenance fee is accepted by the Director in
+an expired patent pursuant to a petition filed under § 1.378. Any
+authorization to charge a deposit account must authorize the
+immediate charging of the maintenance fee and any necessary
+surcharge to the deposit account. Payment of less than the
+required amount, payment in a manner other than that set forth
+in § 1.23, or in the filing of an authorization to charge a deposit
+account having insufficient funds will not constitute payment
+of a maintenance fee or surcharge on a patent. The procedures
+set forth in § 1.8 or § 1.10 may be utilized in paying maintenance
+fees and any necessary surcharges.
+(c) In submitting maintenance fees and any necessary
+surcharges, identification of the patents for which maintenance
+fees are being paid must include the patent number, and the
+application number of the United States application for the patent
+on which the maintenance fee is being paid. If the payment
+includes identification of only the patent number (i.e., does not
+identify the application number of the United States application
+for the patent on which the maintenance fee is being paid), the
+Office may apply the payment to the patent identified by patent
+number in the payment or may return the payment.
+(d) Payment of maintenance fees and any surcharges should
+identify the fee being paid for each patent as to whether it is the
+3 1/2-, 7 1/2-, or 11 1/2-year fee, whether small entity status is
+being changed or claimed, the amount of the maintenance fee
+and any surcharge being paid, and any assigned customer
+number. If the maintenance fee and any necessary surcharge is
+being paid on a reissue patent, the payment must identify the
+reissue patent by reissue patent number and reissue application
+number as required by paragraph (c) of this section and should
+also include the original patent number.
+
+Rev. 01.2024, November 2024
+
+(e) Maintenance fee payments and surcharge payments
+relating thereto must be submitted separate from any other
+payments for fees or charges, whether submitted in the manner
+set forth in § 1.23 or by an authorization to charge a deposit
+account. If maintenance fee and surcharge payments for more
+than one patent are submitted together, they should be submitted
+on as few sheets as possible with the patent numbers listed in
+increasing patent number order. If the payment submitted is
+insufficient to cover the maintenance fees and surcharges for
+all the listed patents, the payment will be applied in the order
+the patents are listed, beginning at the top of the listing.
+(f) Notification of any change in status resulting in loss of
+entitlement to small entity status must be filed in a patent prior
+to paying, or at the time of paying, the earliest maintenance fee
+due after the date on which status as a small entity is no longer
+appropriate. See § 1.27(g).
+(g) Maintenance fees and surcharges relating thereto will
+not be refunded except in accordance with §§ 1.26 and 1.28(a).
+
+37 CFR 1.366 establishes the guidelines and
+procedures for submission of maintenance fees,
+including any necessary surcharges. The patentee
+may pay maintenance fees and any necessary
+surcharges or any person or organization may pay
+maintenance fees and any necessary surcharges on
+behalf of the patentee without filing in the Office
+evidence of authorization by the patentee to pay
+maintenance fees. This will enable patentees to pay
+the maintenance fees and any necessary surcharges
+themselves or authorize some person or organization
+to pay maintenance fees and any necessary
+surcharges on their behalf. No verification of the
+authority to pay maintenance fees and any necessary
+surcharges in a particular patent will be made by the
+Office. While anyone may pay the maintenance fees
+and any necessary surcharges on a patent, if the
+payment is accepted by the Office, any Office notices
+relating to maintenance fees and any necessary
+surcharges will be mailed to the “fee address” set
+forth in 37 CFR 1.363. If the payment is not accepted
+by the Office, it will be returned to the person who
+submitted the payment if a return address is
+available. It is strongly recommended that the payor
+should include a return address along with his or her
+telephone number since the Office may contact the
+payor in some instances when it is unclear to which
+patent the fees are to be applied. See MPEP § 2530.
+A maintenance fee and any necessary surcharge for
+a patent must be submitted in the amount due on the
+date the maintenance fee and any necessary
+surcharge are paid, and at the proper time, i.e., within
+the periods set forth in 37 CFR 1.362. If the amount
+
+2500-8
+
+MAINTENANCE FEES
+
+of the maintenance fee is correct on the date it is
+paid and credited to the patent, a later change in the
+maintenance fees to reflect a new fee amount will
+not require a modification in the amount paid.
+37 CFR 1.366(c) provides that a maintenance fee
+payment must include the patent number and the
+application number on which the maintenance fee
+is being paid. If the payment includes identification
+of only the patent number (i.e., does not identify the
+application number for the patent on which the
+maintenance fee is being paid), the Office may apply
+the payment to the patent identified by patent number
+in the payment or may return the payment. See
+MPEP § 2530. The application number required to
+be submitted is not that of a prior parent application,
+but rather the application number of the actual
+application that matured into the patent for which
+maintenance fees are to be paid. If the maintenance
+fee and any necessary surcharge is being paid on a
+reissue patent, the application number required is
+that of the reissue application.
+
+§ 2520
+
+to the information requested for all payments, it is
+requested that the original patent number be
+furnished. Although the submission of the
+information requested under 37 CFR 1.366(d) is not
+mandatory, it would expedite the processing of
+maintenance fee payments.
+The Maintenance Fee Transmittal Form, PTO/SB/45
+should be used when submitting maintenance fees
+by mail or by facsimile transmission. This form is
+available, upon request, from the Maintenance Fee
+Branch. It is also available from the USPTO website
+(www.uspto.gov/patent/patents-forms#patent).
+The Office processes fees in the order in which they
+are presented. If the payment submitted is
+insufficient to cover the maintenance fees and
+surcharges for all patents listed, and there is no
+general authorization to charge a deposit account,
+the payment will be applied in the order the patents
+are listed, beginning at the top of the listing.
+
+2516-2519 [Reserved]
+If a patent expires because the maintenance fee and
+any necessary surcharge have not been paid in the
+manner required by 37 CFR 1.366, the patentee
+could proceed under 37 CFR 1.378 (see MPEP §
+2590), if appropriate, or could file a petition under
+37 CFR 1.377 (see MPEP § 2580) within the period
+set therein seeking to have the maintenance fee
+accepted as timely even though not all of the required
+identifying data was present prior to expiration of
+the grace period.
+Under 37 CFR 1.366(d), the following information
+should also be submitted for each patent on which
+a maintenance fee or surcharge is paid (37 CFR
+1.366(d)):
+(A) the fee year (i.e., 3 1/2, 7 1/2, or 11 1/2 year
+fee);
+(B) the amount of the maintenance fee and any
+surcharge being submitted;
+(C) any assigned customer number; and
+(D) whether entity status is being changed or
+claimed with the payment.
+Where the payment is a maintenance fee and any
+necessary surcharge on a reissue patent, in addition
+
+2520 Maintenance Fee Amounts [R-01.2024]
+37 CFR 1.20(e)-(h) sets the fee amounts for the
+maintenance fees and the grace period surcharge.
+The maintenance fee amounts are subject to
+adjustment to reflect fluctuations occurring in the
+Consumer Price Index pursuant to 35 U.S.C. 41(f).
+The maintenance fee amounts (37 CFR 1.20(e)-(h))
+are subject to a 60% reduction for small entities
+pursuant to 35 U.S.C. 41(h) and an 80% reduction
+for micro entities. The Maintenance Fee Branch may
+be contacted or the USPTO Fee Information website
+(www.uspto.gov/Fees) may be accessed for the
+current maintenance fee amounts.
+The term of a patent might be shortened, e.g., by a
+terminal disclaimer. If a patent will expire part way
+between the due dates set in 35 U.S.C. 41(b), or
+between the latest due date and the term set in 35
+U.S.C. 154, it is still required that the entire
+maintenance fee amount for the due date be paid.
+The maintenance fee amount cannot be prorated to
+cover only the amount of time past the due date
+before the patent expires.
+
+2500-9
+
+Rev. 01.2024, November 2024
+
+§ 2521
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+37 CFR 1.366(g) provides that maintenance fees and
+surcharges relating thereto will not be refunded
+except in accordance with 37 CFR 1.26 and 1.28(a).
+A patentee cannot obtain a refund of a maintenance
+fee that was due and payable on the patent. Any
+duplicate payment will be refunded to the fee
+submitter.
+
+2521 [Reserved]
+
+2522 Methods of Payment [R-10.2019]
+The method of payment for the maintenance fee and
+any necessary surcharge is set forth in 37 CFR 1.23.
+The payment shall be made in U.S. dollars and in
+the form of a cashier’s or certified check, Treasury
+note, national bank notes, or United States Postal
+Service money order as provided in 37 CFR 1.23(a).
+If the maintenance fee and any necessary surcharge
+is sent in any other form, the Office may delay or
+cancel the credit until collection is made. For
+example, a personal or other uncertified check drawn
+on a U.S. bank that is not immediately negotiable,
+e.g., because it lacks a signature or due to insufficient
+funds, will not constitute payment of a maintenance
+fee and/or surcharge.
+The maintenance fee can be charged to a credit card
+as set forth in 37 CFR 1.23(b), but credit for the
+payment is subject to actual receipt of the fee by the
+Office. Credit Card Payment Form (PTO-2038)
+should be used for payment of fees by credit card
+unless the payment is submitted over the internet. If
+credit card information is provided on a form or
+document other than the form provided by the Office
+for the payment of fees by credit card, the Office
+will not be liable if the credit card number becomes
+public knowledge. See MPEP § 509.
+Any remittance from a foreign country must be
+payable and immediately negotiable in the United
+States for the full amount of the maintenance fee
+and/or surcharge required.
+37 CFR 1.366(b) provides that maintenance fees and
+any necessary surcharge may be paid by
+authorization to charge a deposit account established
+pursuant to 37 CFR 1.25. The authorization to charge
+
+Rev. 01.2024, November 2024
+
+the deposit account must be submitted within an
+appropriate window or grace period and must be
+limited to maintenance fees and surcharges payable
+on the date of submission. The authorization to
+charge the deposit account cannot be submitted prior
+to the third, seventh, or eleventh year after grant of
+the patent. If an authorization to charge a deposit
+account were submitted to pay the maintenance fee
+due at 3 years and 6 months after grant, a new
+authorization to charge a deposit account or other
+form of payment will have to be submitted at the
+appropriate time for each of the maintenance fees
+due at 7 years and 6 months and 11 years and 6
+months. Any payment or authorization filed at any
+time other than that set forth in 37 CFR 1.362(d),
+(e), or (f) will not serve as a payment of the
+maintenance fee, except insofar as a delayed
+payment of the maintenance fee is accepted by the
+Director pursuant to 37 CFR 1.378. See MPEP §
+2590. A payment of less than the required amount,
+a payment in a manner other than that set forth in
+37 CFR 1.23, or the filing of an authorization to
+charge a deposit account having insufficient funds,
+will not constitute payment of a maintenance fee on
+a patent. The authorization is required to permit the
+immediate charging of the maintenance fee to the
+deposit account. An authorization would be improper
+if it only authorized the maintenance fee to be
+charged at a later date, e.g., on the last possible day
+of payment without surcharge. Such an authorization
+would not serve as payment of the maintenance fee.
+Any payment which fails to result in the entire proper
+amount of the maintenance fee being present on the
+due date will not constitute payment of the
+maintenance fee.
+Maintenance fee payments and any surcharges
+relating thereto must be submitted separately from
+any other payments for fees or charges, whether
+submitted in the manner set forth in 37 CFR 1.23 or
+by authorization to charge a deposit account. See 37
+CFR 1.366(e). Maintenance fee payments and
+surcharge payments relating thereto that are
+commingled with payments for other fees or charges,
+e.g., application filing fees, issue fees, document
+supply fees, etc., will not be accepted. Maintenance
+fees require processing by a separate area of the
+Office and are not processed in the same manner as
+other fees and charges. Maintenance fees for a
+number of patents can be submitted together in one
+
+2500-10
+
+MAINTENANCE FEES
+
+submission and one payment. 37 CFR 1.366(e)
+specifies that if maintenance fee payments for more
+than one patent are submitted together, they should
+be submitted on as few sheets as possible, listing the
+patent numbers in increasing patent number order.
+If the payment submitted is insufficient to cover the
+maintenance fees and any surcharges for all the listed
+patents, the payment will be applied in the order the
+patents are listed. In such a circumstance the
+maintenance fee and any surcharge for one or more
+of the last listed patents will not be paid.
+Money orders and checks must be made payable to
+the Director of the United States Patent and
+Trademark Office. (Checks made payable to the
+Commissioner of Patents and Trademarks will
+continue to be accepted. See 37 CFR 1.23(a)).
+Remittances from foreign countries must be payable
+and immediately negotiable in the United States for
+the full amount required.
+
+2523-2529 [Reserved]
+
+2530 Special Acceptance of Maintenance Fee
+Payments Containing Informalities
+[R-07.2015]
+It is strongly recommended that a maintenance fee
+submission by mail or facsimile include both a
+telephone number and a mailing address for the fee
+submitter because, provided the fee is sufficient, the
+Office may attempt to contact the submitter by
+telephone and/or by mail to confirm the patent to
+which the fee is to be applied. If the Office specially
+accepts a payment under any one of scenarios I – III
+below, a Notice of Special Acceptance of Patent
+Maintenance Fee (PTO-2143) will be mailed to the
+submitter that identifies the patent number and
+application number to which the maintenance fee
+was applied and requests the submitter to verify that
+the payment was applied as intended. If the payment
+was not applied to the intended patent, a petition
+(such as a petition under 37 CFR 1.377) must be
+filed. If the petition is not filed within 2 months of
+the date of the notice (PTO-2143), the petition may
+be dismissed as untimely, and relief may have to be
+pursued under 37 CFR 1.378(a) - (c).
+
+§ 2531
+
+I. PATENT NUMBER SUPPLIED BUT NO
+APPLICATION NUMBER SUPPLIED
+
+If a maintenance fee payment identifies only the
+patent number (i.e., does not identify the application
+number for the patent on which the maintenance fee
+is being paid), the Office may apply the payment to
+the patent identified by the patent number in the
+payment or may return the payment. See 37 CFR
+1.366(c).
+II. PATENT NUMBER AND APPLICATION
+NUMBER SUPPLIED BUT THEY DO NOT
+CORRESPOND
+
+When a patent number and an application number
+are both supplied, but they do not correspond to the
+same patent, the Office will generally apply the
+payment to the patent identified by the patent
+number, if possible. Even if the payment is sufficient
+and timely to pay the maintenance fee due in the
+patent identified by the patent number, the Office
+may return the payment if additional information on
+the payment submission is inconsistent with the
+patent identified by the patent number. The Office
+may even apply the payment to the patent identified
+by the application number if the additional
+information corroborates that patent. Such may be
+the case, for example, where the fee submitter is the
+addressee named in the correspondence address or
+fee address of the patent identified by the application
+number.
+III. NO PATENT NUMBER SUPPLIED BUT
+APPLICATION NUMBER SUPPLIED
+
+If a maintenance fee is due on the patent identified
+by the application number and the payment
+submitted is sufficient, the Office may apply the
+payment to the patent (provided additional
+corroborating information is present) or may return
+the payment.
+
+2531 Payment Late or Insufficient
+[R-07.2015]
+Examples of when a payment of maintenance fees
+and any necessary surcharges will be considered to
+be late or insufficient include instances when:
+
+2500-11
+
+Rev. 01.2024, November 2024
+
+§ 2532
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+(A) Though a payment was received, additional
+funds are required due to surcharge or fee increase;
+(B) Though a payment was received in an
+amount for small entity, the patented file records do
+not indicate that an assertion of small entity status
+was received; or
+(C) The payment was received after the patent
+expired.
+If the Office considers a payment to be late or
+insufficient, a notice (e.g., a Notice of
+Non-Acceptance of Patent Maintenance Fee
+(PTO-2142)) will be sent to the “fee submitter.”
+Reply to the notice is required prior to expiration of
+the grace period provided by 37 CFR 1.362(e) in
+order to avoid the expiration of the patent. If a reply
+is not received prior to expiration of the patent, then
+an appropriate petition under 37 CFR 1.377 or 37
+CFR 1.378 is required. See MPEP § 2580 and §
+2590.
+If a payment is deemed insufficient because the
+payment was submitted in a discounted amount but
+entitlement to the entity status (small or micro)
+corresponding to the discounted amount was not
+established, an Underpayment Notice or
+Non-Acceptance Notice will be mailed to the fee
+submitter. See MPEP § 2550 for information on
+establishing or changing an entity status for the
+purpose of paying a maintenance fee.
+
+(B) If the duplicate payment does comply with
+37 CFR 1.366(c) by containing both the patent
+number and the corroborating application number,
+the Office will verify that the first payment was
+properly processed.
+(1) If the first payment was properly
+processed, the Office will return the duplicate
+payment to the second fee submitter. In this event
+the returned payment will be accompanied by
+identification of the first fee submitter.
+(2) If a review of the Office record of the
+first maintenance fee payment reveals that the first
+payment was not properly processed (e.g., did not
+comply with 37 CFR 1.366(c) or was not specially
+accepted in accordance with MPEP § 2530), the
+Office will attempt to determine whether the first
+payment should have been applied to a patent other
+than the patent identified under 37 CFR 1.366(c) by
+the second fee submitter. Based on this determination
+the Office will: (a) attempt to apply the duplicate
+payment (and retract the first payment); or (b) return
+the duplicate payment to the second fee submitter
+with identification of the first fee submitter.
+
+2533-2539 [Reserved]
+
+2540 Fee Address for Maintenance Fee
+Purposes [R-08.2017]
+37 CFR 1.363 Fee address for maintenance fee purposes.
+
+2532 Duplicate Payments [R-08.2017]
+In the event a maintenance fee is submitted
+(hereafter, duplicate payment) in the required amount
+(including any necessary surcharge) within the
+payment window for the patent identified for
+payment, but the same maintenance fee for that
+patent was already paid by a previous fee submitter
+(hereafter, first fee submitter), the Office intends to
+treat the duplicate payment from the second fee
+submitter as follows:
+(A) If the duplicate payment does not comply
+with 37 CFR 1.366(c) by not containing both the
+patent number and the corroborating application
+number, the Office will return the duplicate payment
+to the second fee submitter with an indication that
+the maintenance fee for the patent was already paid.
+
+Rev. 01.2024, November 2024
+
+(a) All notices, receipts, refunds, and other communications
+relating to payment or refund of maintenance fees will be
+directed to the correspondence address used during prosecution
+of the application as indicated in § 1.33(a) unless:
+(1) A fee address for purposes of payment of
+maintenance fees is set forth when submitting the issue fee, or
+(2) A change in the correspondence address for all
+purposes is filed after payment of the issue fee, or
+(3) A fee address or a change in the “fee address” is
+filed for purposes of receiving notices, receipts and other
+correspondence relating to the payment of maintenance fees
+after the payment of the issue fee, in which instance, the latest
+such address will be used.
+(b) An assignment of a patent application or patent does
+not result in a change of the “correspondence address” or “fee
+address” for maintenance fee purposes.
+(c) A fee address must be an address associated with a
+Customer Number.
+
+Generally,
+notices,
+receipts,
+and
+other
+communications relating to the payment of a
+
+2500-12
+
+MAINTENANCE FEES
+
+maintenance fee will be directed to the
+correspondence address used during the prosecution
+of the application, unless a “fee address” for the
+purpose of payment of the maintenance fee has been
+designated or a change in the correspondence address
+has been made (see MPEP § 2542). 37 CFR 1.33(d)
+allows a correspondence address or change thereto
+to be filed during the enforceable life of the patent.
+Patentees should ensure that the Office is properly
+notified of the proper “fee address” to which all
+maintenance fee communications are to be directed.
+Under the statutes and rules, the Office has no duty
+to notify patentee of the requirement to pay
+maintenance fees or to notify patentee when the
+maintenance fee is due. It is solely the responsibility
+of the patentee to ensure that the maintenance fee is
+paid timely to prevent expiration of the patent. The
+failure to receive the reminder notice will not shift
+the burden of monitoring the time for paying a
+maintenance fee from the patentee to the Office. The
+Office will attempt to assist patentees through the
+mailing of a Maintenance Fee Reminder in the grace
+period. However, the failure to receive a
+Maintenance Fee Reminder will not relieve the
+patentee of the obligation to timely pay the
+appropriate maintenance fee to prevent expiration
+of the patent. See Rydeen v. Quigg, 748 F. Supp.
+900, 16 USPQ2d 1876 (D.D.C. 1990), aff’d 937
+F.2d 623 (Fed. Cir. 1991) (table), cert. denied, 502
+U.S. 1075 (1992). Maintenance fee correspondence
+will not be directed to more than one address.
+37 CFR 1.363(c) states that “[a] fee address must be
+an address associated with a Customer Number.”
+Only an address represented by a customer number
+can be established as the fee address for maintenance
+fee purposes. The use of the following form(s) is
+suggested when requesting establishment of a fee
+address: a current version of the “Fee Address”
+Indication Form (PTO/SB/47), and if necessary, a
+Request for Customer Number (PTO/SB/125). If a
+customer number was previously acquired from the
+Office for the address being designated as the fee
+address, that customer number should be entered on
+the “Fee Address” Indication Form (PTO/SB/47) to
+make the fee address designation. If no customer
+number was previously acquired from the Office for
+the address being designated as the fee address, then
+the “Fee Address” Indication Form (PTO/SB/47)
+
+§ 2540
+
+should be accompanied by a completed Request for
+Customer Number (form PTO/SB/125). See MPEP
+§ 403 concerning customer number practice.
+It is recommended that only a current version of the
+“Fee Address” Indication Form (PTO/SB/47)
+available
+from
+the
+USPTO
+website
+(www.uspto.gov/patent/patents-forms) be used
+when designating a fee address.
+At the time of issue fee payment, applicants may
+designate a fee address by submitting a “Fee
+Address” Indication Form (PTO/SB/47) as an
+attachment to the Issue Fee Transmittal (PTOL-85B).
+After issue fee payment, applicants may designate
+a fee address by submitting a “Fee Address”
+Indication Form (PTO/SB/47), and if necessary, a
+Request for Customer Number (PTO/SB/125), to
+the address specified on the “Fee Address” Indication
+Form (PTO/SB/47).
+All fee addresses established at the Office will be
+represented by a customer number, even if the fee
+address designation lacks an explicit request that a
+customer number be used for this purpose (e.g., in
+the event that an outdated “Fee Address” Indication
+Form (PTO/SB/47), or equivalent form, is submitted
+without an accompanying Request for Customer
+Number (PTO/SB/125)).
+The current version of the “Fee Address” Indication
+Form (PTO/SB/47) is available upon request from
+the Maintenance Fee Branch and from the USPTO
+website (www.uspto.gov). The Request for
+Customer Number (PTO/SB/125) is available upon
+request from the Electronic Business Center and
+from the USPTO website (www.uspto.gov).
+Requests for the establishment of a fee address
+should be submitted to the Maintenance Fee Branch
+prior to or at the time of payment of maintenance
+fees in order to ensure that receipt of payment is
+directed to the fee address.
+Additional patent numbers may be assigned to a
+customer number at any time, upon written request.
+
+2500-13
+
+Rev. 01.2024, November 2024
+
+§ 2541
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+2541 [Reserved]
+
+2543-2549 [Reserved]
+
+2542 Change of Correspondence Address
+[R-07.2015]
+
+2550 Entity Status Discounts [R-01.2024]
+
+Unless a fee address has been designated, notices,
+receipts, and other communications relating to the
+patent will generally be directed to the
+correspondence address (37 CFR 1.33) used during
+the prosecution of the application. Practitioners of
+record when the patent issues who do not wish to
+receive correspondence relating to maintenance fees
+must change the correspondence address in the
+patented file or provide a fee address to which such
+correspondence should be sent. It is not required that
+a practitioner file a request for permission to
+withdraw pursuant to 37 CFR 1.36 solely for the
+purpose of changing the correspondence address in
+a patented file.
+The correspondence address should be updated or
+changed as necessary to ensure that all
+communications are received in a timely manner. A
+change of correspondence address may be made as
+provided in pre-AIA 37 CFR 1.33(a) or 37 CFR
+1.33(a). The correspondence address may be changed
+as provided in pre-AIA 37 CFR 1.33(a)(1) prior to
+the filing of an oath or declaration. After an oath or
+declaration has been executed and filed by at least
+one inventor, the correspondence address may be
+changed as provided in pre-AIA 37 CFR 1.33(a)(2).
+Requests for a change of the correspondence address
+may be sent to the Office of Patent Application
+Processing during the enforceable life of the patent.
+To ensure accuracy and to expedite requests for
+change to the correspondence address, it is suggested
+that the request include both the patent number and
+the application number. The Office form, Change
+of
+Correspondence
+Address,
+Application
+(PTO/SB/122) may be used to request a change of
+correspondence address in a patent application. The
+Office form, Change of Correspondence Address,
+Patent (PTO/SB/123) may be used to request a
+change of correspondence address for an issued
+patent.
+
+Rev. 01.2024, November 2024
+
+Reduced maintenance fees are available for patentees
+that can establish entitlement to small or micro entity
+status.
+A paper changing the entity status of the patent can
+be included with a maintenance fee payment
+submitted by mail, facsimile, or hand delivery. For
+maintenance fee payments to be made over the
+internet using the Patent Maintenance Fees
+Storefront (https://fees.uspto.gov/ Maintenance
+Fees), any change in entity status must be made prior
+to submitting the payment. Before submitting a
+payment via the Patent Maintenance Fees Storefront
+in an entity status different from the entity status of
+record, it is suggested that the entity status
+entitlement document (i.e., the certification of micro
+entity status or written assertion of small entity
+status) or the document for removal of entity status
+(i.e., notification of loss of entitlement to micro
+entity status under 37 CFR 1.29(i) and/or notification
+of loss of entitlement to small entity status under 37
+CFR 1.27(g)(2)) as appropriate, be filed by either
+making the entity status change as a registered user
+of the USPTO patent electronic filing system or by
+faxing the document to 571-273-6500 (the
+maintenance fee transmittal fax number). For
+information relating to the USPTO patent electronic
+filing system, including how to update entity status,
+contact the Electronic Business Center (EBC) at
+866-217-9197 or ebc@uspto.gov.
+I. CLAIMING ENTITLEMENT TO AN ENTITY
+STATUS DISCOUNT
+
+In order to establish small entity status for the
+purpose of paying a maintenance fee, a written
+assertion of entitlement to small entity status must
+be filed prior to or with the maintenance fee paid as
+a small entity. 37 CFR 1.27(c)(2) specifies who can
+sign and file the written assertion of small entity
+status. A written assertion of small entity status is
+only required to be filed once and will remain
+effective until changed. See MPEP §§ 509.02 and
+509.03 regarding the requirements for qualifying as
+
+2500-14
+
+MAINTENANCE FEES
+
+a small entity and the requirements for making an
+assertion of small entity status.
+In order to establish micro entity status for the
+purpose of paying a maintenance fee, a written
+certification of micro entity status must be filed prior
+to or at the time the maintenance fee is paid in the
+micro entity amount. A certification of micro entity
+status must be signed by a person authorized under
+37 CFR 1.33(b). See MPEP § 509.04 regarding the
+requirements for qualifying as a micro entity as well
+as the requirements for certifying micro entity status.
+The refund provisions of 37 CFR 1.28(a) for later
+submitted small entity assertions do apply to
+maintenance fees. However, the process in 37 CFR
+1.28(a) for later establishment of small entity status
+is not applicable to later submitted micro entity
+certifications. Accordingly, no refunds are available
+for later establishment of micro entity status.
+II. REMOVAL OF ENTITY STATUS
+
+Notification of any change in status resulting in loss
+of entitlement to an entity status must be filed in a
+patent prior to paying, or at the time of paying, the
+earliest maintenance fee due after the date on which
+status as a small or micro entity is no longer
+appropriate. 37 CFR 1.27(g)(2) requires that a
+notification of loss of entitlement to small entity
+status be in the form of a specific written
+notification, rather than only payment of the
+undiscounted fee. See MPEP § 509.03(b). Similarly,
+37 CFR 1.29(i) provides that notification of a loss
+of entitlement to micro entity status must be filed in
+the application or patent prior to paying, or at the
+time of paying, any fee after the date on which status
+as a micro entity is no longer appropriate. Form
+SB/460 “Notification of Loss of Micro Entity Status”
+may be used to notify the Office of a loss of
+entitlement to micro entity status. See MPEP §
+509.04(e) for further information regarding notifying
+the Office of a loss of entitlement to micro entity
+status, including notifying the Office of a loss of
+entitlement to both micro and small entity status. All
+notifications to the Office regarding loss of entity
+status must be signed by a party identified in 37 CFR
+1.33(b). 37 CFR 1.366(f) serves as a reminder to
+patentees of the necessity to check for the loss of
+small entity status prior to paying each maintenance
+
+§ 2550
+
+fee on a patent. This is also a requirement of 37 CFR
+1.27(g). Similarly 37 CFR 1.29(g) serves as a
+reminder of the necessity to check for the loss of
+micro entity status prior to paying any fee in the
+micro entity amount.
+If status as a small or micro entity has been
+previously established by filing an assertion of small
+entity status or certification of micro entity status,
+and such status is checked and found to be proper,
+no notification is required. It is not necessary to file
+a new assertion establishing small or micro entity
+status at this point if the status as a small or micro
+entity has been established and is still proper. After
+establishing small or micro entity status, it is not
+necessary to file a new assertion of small entity status
+or certification of micro entity status, even if rights
+have been transferred from one small entity to
+another, or from one micro entity to another. The
+requirement is to notify the Office of the loss of
+entitlement and to pay the maintenance fee in the
+proper amount, where appropriate.
+III. PAYMENTS NOT MATCHING THE ENTITY
+STATUS OF RECORD
+
+If a payment is submitted that conflicts with the
+Office record of the patentee’s entity status, a notice
+relating to entity status will be sent to the fee
+submitter. An Overpayment Notice will be sent if
+Office records indicate establishment of an entity
+status (small or micro) entitling the patentee to a
+reduction in the fee amount submitted. An
+Underpayment Notice will be sent if Office records
+indicate that the patentee has not established
+entitlement to the entity status (small or micro)
+corresponding to the discounted amount submitted.
+Where an Overpayment Notice is sent, the required
+reply depends on whether the entity status of record
+is correct. If the patentee determines entitlement to
+the entity status of record no longer exists or cannot
+be verified, the appropriate loss of entitlement
+notification must be filed. See 37 CFR 1.27(g)(2)
+regarding notification of loss of entitlement to small
+entity status. See 37 CFR 1.29(i) regarding
+notification of loss of entitlement to micro entity
+status. The loss of entitlement notification must be
+filed by mail, facsimile, or via the USPTO patent
+electronic filing system because the online payment
+
+2500-15
+
+Rev. 01.2024, November 2024
+
+§ 2551
+-2559
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+system cannot accept entity status documents. A
+non-extendable ONE MONTH period from the
+mailing date of the notice will be provided for filing
+a notification of loss of entitlement to small or micro
+entity status. However, if additional money is
+required to complete an undiscounted payment of
+the maintenance fee and any required surcharge
+under 37 CFR 1.362(e), the reply (including the
+additional money and the loss of entity status
+entitlement notice) must be filed within the earlier
+of: (A) the non-extendable ONE MONTH period
+from the mailing date of the notice; or (B) any time
+remaining under 37 CFR 1.362, including the grace
+period provided by 37 CFR 1.362(e). Absent a timely
+reply to the Overpayment Notice, the Office will
+apply the maintenance fee in the reduced amount
+corresponding to the entity status of record and
+refund the overpayment amount. Accordingly, if the
+patentee is actually entitled to the entity status of
+record, no reply to the Overpayment Notice is
+necessary.
+
+payment of the surcharge as well as any additional
+money required to complete the required
+maintenance fee amount. Absent a timely reply to
+the Underpayment Notice, the Office will return the
+amount received. If the amount received was
+returned, payment of the maintenance fee and any
+necessary surcharge in the correct amount must be
+filed within the time remaining under 37 CFR 1.362,
+including the grace period provided by 37 CFR
+1.362(e). Note that an entity status document may
+also be required to be filed with the payment in order
+to establish what the correct amount is (e.g., if the
+patentee determines that the entity status of record
+is not correct). If the payment was returned and there
+is no time remaining in the grace period provided
+by 37 CFR 1.362(e), a petition under 37 CFR 1.378
+for acceptance of a delayed maintenance fee payment
+must be filed in order to seek acceptance of an
+unintentionally delayed maintenance fee. See MPEP
+§ 2590.
+
+2551-2559 [Reserved]
+Where an Underpayment Notice is sent, the required
+reply depends on whether the entity status of record
+is correct. If the patentee determines that the entity
+status of record is correct, the reply including the
+additional money required for a sufficient payment
+in the correct higher amount, including any necessary
+surcharge under 37 CFR 1.362(e), must be timely
+filed. If the patentee determines the entity status of
+record is not correct, the reply must include any
+additionally required money including any necessary
+surcharge under 37 CFR 1.362(e), and the
+appropriate entity status document (e.g., written
+assertion of small entity status under 37 CFR 1.27
+or certification of micro entity status under 37 CFR
+1.29). The entity status document must be filed by
+mail, facsimile, or via the USPTO patent electronic
+filing system because the online payment system
+(i.e., the Patent Maintenance Fees Storefront
+(https://fees.uspto.gov/Maintenance Fees)) cannot
+accept entity status documents. Whether or not the
+entity status of record is correct, the reply must be
+filed within the earlier of: (A) a non-extendable ONE
+MONTH period from the mailing date of the notice;
+or (B) any time remaining under 37 CFR 1.362,
+including the grace period provided by 37 CFR
+1.362(e). Note that if a previously unpaid surcharge
+under 37 CFR 1.362(e) has come due by the time
+the reply is filed, sufficient payment will require
+
+Rev. 01.2024, November 2024
+
+2560 Revocation of Power of Attorney and
+Withdrawal of Attorney [R-07.2015]
+The revocation or withdrawal of an attorney may be
+submitted at any time; however, a revocation or
+withdrawal of an attorney filed after issuance of a
+patent is not normally processed.
+It should be noted that an assignment does not act
+as a revocation of power of attorney for authorization
+previously given. However, the assignee may revoke
+a previous power of attorney. See 37 CFR 3.71 and
+3.73.
+
+2561-2569 [Reserved]
+
+2570 Maintenance Fee Payment Status
+Requests [R-08.2017]
+The Maintenance Fee Branch will respond to
+requests for the maintenance fee payment status of
+patents. Maintenance fee status information for a
+patent of interest can be obtained over the internet
+by entering the patent number and the corresponding
+
+2500-16
+
+MAINTENANCE FEES
+
+application number in the appropriate spaces on the
+webpage available at https://fees.uspto.gov/
+MaintenanceFees. In addition, maintenance fee
+status can be requested by telephone. Telephone
+status requests are limited to two patent numbers per
+telephone call. See MPEP § 1730 for the telephone
+number.
+
+2571-2574 [Reserved]
+
+2575 Notices [R-01.2024]
+Under the statutes and the regulations, the Office
+has no duty to notify patentees when their
+maintenance fees are due. It is the responsibility of
+the patentee to ensure that the maintenance fees are
+paid to prevent expiration of the patent. The Office
+will, however, provide some notices as reminders
+that maintenance fees are due, but the notices, errors
+in the notices or in their delivery, or the lack or
+tardiness of notices will in no way relieve a patentee
+from the responsibility to make timely payment of
+each maintenance fee to prevent the patent from
+expiring by operation of law. The notices provided
+by the Office are courtesies in nature and intended
+to aid patentees. The Office’s provision of notices
+in no way shifts the burden of monitoring the time
+for paying maintenance fees on patents from the
+patentee to the Office.
+
+§ 2580
+
+maintenance fees and any patents which have been
+reinstated. An annual compilation of such expirations
+and reinstatements will also be published.
+III. MAINTENANCE FEE REMINDERS
+
+Since patentees are expected to maintain their own
+record and docketing systems and since it is expected
+that most patentees will pay their maintenance fees
+during the window period to avoid payment of a
+surcharge, the Office will not send any reminder
+notices to the patentee until after the grace period
+has begun. This will reduce and simplify the mailing
+of notices but still give patentees an opportunity to
+pay their maintenance fee with surcharge during the
+grace period before expiration of their patents. The
+Office will mail any Maintenance Fee Reminder to
+the fee address as set forth in 37 CFR 1.363. See
+MPEP § 2540.
+IV. RECEIPT NOTICES
+
+Upon request, the Office will issue a receipt for
+payment of maintenance fees submitted by mail or
+facsimile after entry of the maintenance fee payment.
+Such a receipt, which is sent to the fee address (if
+no fee address, then the correspondence address),
+will provide an opportunity for the patentee or fee
+submitter to check if the Office has properly credited
+the payment.
+
+I. STANDARD NOTICES
+
+V. EXPIRATION NOTICES
+
+The patent grant currently includes a reminder notice
+that maintenance fees may be due. The Notice of
+Allowance currently includes a reminder notice that
+maintenance fees may be due.
+
+The Office will mail a Notice of Patent Expiration
+to the fee address as set forth in 37 CFR 1.363 when
+Office records indicate that a patent has expired for
+failure to pay a required maintenance fee.
+
+II. OFFICIAL GAZETTE NOTICE
+
+2576-2579 [Reserved]
+
+A notice will appear in each issue of the Official
+Gazette which will indicate which patents have been
+granted 3, 7, and 11 years earlier, that the window
+period has opened, and that maintenance fee
+payments will now be accepted for those patents.
+
+2580 Review of Decision Refusing to Accept
+and Record Payment of a Maintenance Fee
+Filed Prior to Expiration of Patent
+[R-10.2019]
+37 CFR 1.377 Review of decision refusing to accept and
+record payment of a maintenance fee filed prior to expiration
+of patent.
+
+Another Official Gazette notice published after
+expiration of the grace period will indicate any patent
+which has expired due to nonpayment of
+
+(a) Any patentee who is dissatisfied with the refusal of the
+Patent and Trademark Office to accept and record a maintenance
+2500-17
+
+Rev. 01.2024, November 2024
+
+§ 2581
+-2589
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+fee which was filed prior to the expiration of the patent may
+petition the Director to accept and record the maintenance fee.
+(b) Any petition under this section must be filed within two
+months of the action complained of, or within such other time
+as may be set in the action complained of, and must be
+accompanied by the fee set forth in § 1.17(g). The petition may
+include a request that the petition fee be refunded if the refusal
+to accept and record the maintenance fee is determined to result
+from an error by the Patent and Trademark Office.
+(c) Any petition filed under this section must comply with
+the requirements of § 1.181(b) and must be signed by an attorney
+or agent registered to practice before the Patent and Trademark
+Office, or by the patentee, the assignee, or other party in interest.
+
+37 CFR 1.377 provides a mechanism for review of
+a decision refusing to accept and record payment of
+a maintenance fee filed prior to the expiration of a
+patent. 37 CFR 1.377(a) permits a patentee who is
+dissatisfied with the refusal of the Office to accept
+and record a maintenance fee which was filed prior
+to the expiration of the patent to petition the Director
+to accept and record the maintenance fee. This
+petition may be used, for example, in situations
+where an error is present in the identifying data
+required by 37 CFR 1.366(c) with the maintenance
+fee payment, i.e., either the patent number or the
+application number is incorrect. See MPEP § 2515
+and § 2530. A petition under 37 CFR 1.377 would
+not be appropriate where there is a complete failure
+to include at least one correct mandatory identifier
+as required by 37 CFR 1.366(c) for the patent since
+no evidence would be present as to the patent on
+which the maintenance fee was intended to be paid.
+If the maintenance fee payment with an incorrect
+mandatory identifier was made near the end of the
+grace period, the patent might expire since the Office
+would not credit the fee to the patent. A petition
+under 37 CFR 1.377 would not be appropriate where
+the patentee paid a maintenance fee on one patent
+when the patentee intended to pay the maintenance
+fee on a different patent but through error identified
+the wrong patent number and application number.
+Likewise, a petition under 37 CFR 1.377 would not
+be appropriate where the entire maintenance fee
+payment, including any necessary surcharge, was
+not filed prior to expiration of the patent.
+Any petition filed under 37 CFR 1.377 must be filed
+within 2 months of the action complained of, or
+within such other time as may be set in the action
+complained of. The petition must be accompanied
+by the proper petition fee (37 CFR 1.17(g)). The
+
+Rev. 01.2024, November 2024
+
+petition may include a request that the petition fee
+be refunded if the refusal to accept and record the
+maintenance fee is determined to have resulted from
+an error by the Office.
+Any petition filed under 37 CFR 1.377 must comply
+with the requirements of 37 CFR 1.181(b) and must
+be signed by an attorney or agent registered to
+practice before the Office, or by the patentee, the
+assignee, or other party in interest. A person or
+organization whose only responsibility insofar as
+the patent is concerned is the payment of a
+maintenance fee is not a party in interest for purposes
+of 37 CFR 1.377. If the petition is signed by a person
+not registered to practice before the Office, the
+petition must indicate whether the person signing
+the petition is the patentee, assignee, or other party
+in interest. An assignee must comply with the
+requirements of pre-AIA 37 CFR 3.73(b), for
+applications filed prior to September 16, 2012 or 37
+CFR 3.73(c) for applications filed on or after
+September 16, 2012, which are discussed in MPEP
+§§ 324 and 325, respectively.
+Any petition under 37 CFR 1.377 should be marked
+on the front page of the communication to the
+attention of the Office of Petitions and addressed as
+follows:
+Mail Stop Petition
+Commissioner for Patents
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+
+2581-2589 [Reserved]
+
+2590 Acceptance of Delayed Payment of
+Maintenance Fee in Expired Patent to
+Reinstate Patent [R-01.2024]
+37 CFR 1.378 Acceptance of delayed payment of maintenance
+fee in expired patent to reinstate patent.
+(a) The Director may accept the payment of any
+maintenance fee due on a patent after expiration of the patent
+if, upon petition, the delay in payment of the maintenance fee
+is shown to the satisfaction of the Director to have been
+unintentional. If the Director accepts payment of the maintenance
+fee upon petition, the patent shall be considered as not having
+expired, but will be subject to the conditions set forth in 35
+U.S.C. 41(c)(2).
+(b) Any petition to accept an unintentionally delayed
+payment of a maintenance fee must include:
+
+2500-18
+
+MAINTENANCE FEES
+
+(1) the required maintenance fee set forth in § 1.20(e)
+through (g);
+(2) the petition fee as set forth in § 1.17(m); and
+(3) A statement that the delay in payment of the
+maintenance fee was unintentional. The Director may require
+additional information where there is a question whether the
+delay was unintentional.
+
+§ 2590
+
+Any petition under 37 CFR 1.378(b) should be
+marked on the front page of the communication to
+the attention of the Office of Petitions and addressed
+as follows:
+Mail Stop Petition
+Commissioner for Patents
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+
+(c) Any petition under this section must be signed in
+compliance with § 1.33(b).
+(d) Reconsideration of a decision refusing to accept a
+delayed maintenance fee may be obtained by filing a petition
+for reconsideration within two months of the decision, or such
+other time as set in the decision refusing to accept the delayed
+payment of the maintenance fee.
+(e) If the delayed payment of the maintenance fee is not
+accepted, the maintenance fee will be refunded following the
+decision on the petition for reconsideration, or after the
+expiration of the time for filing such a petition for
+reconsideration, if none is filed.
+
+37 CFR 1.378(a) provides that the Director of the
+Office may accept the payment of any maintenance
+fee due on a patent based on an expiration of the
+patent if, upon petition, the delay in payment of the
+maintenance fee is shown to the satisfaction of the
+Director of the Office to have been unintentional.
+See subsection I below for explanation. The
+appropriate petition fee set forth in 37 CFR 1.17(m)
+must be paid as a condition of accepting payment of
+the maintenance fee. If multiple maintenance fees
+due on a single patent have not been paid, a separate
+petition fee is required for each delayed maintenance
+fee payment. A statement that the delay in payment
+of the maintenance fee was unintentional is also
+required with respect to each delayed maintenance
+fee payment (a delay of more than two years after
+the date of nonpayment of a maintenance fee requires
+additional information of the facts and circumstances
+surrounding the entire delay to support a conclusion
+that the entire delay was indeed ‘‘unintentional.’’).
+See Clarification of the Practice for Requiring
+Additional Information in Petitions Filed in Patent
+Applications and Patents Based on Unintentional
+Delay, 85 FR 12222-24 (March 2, 2020). While the
+patentee can include the statements of unintentional
+delay in a single petition (if desired), a separate
+petition fee is required for each delayed maintenance
+fee payment. If the Director of the Office accepts
+payment of the maintenance fee upon petition, the
+patent shall be considered as not having expired but
+will be subject to the intervening rights and
+provisions of 35 U.S.C. 41(c)(2).
+
+For applications filed on or after September 16,
+2012, 37 CFR 1.33(b) requires that amendments and
+other papers be signed by: (1) a patent practitioner
+of record; (2) a patent practitioner not of record who
+acts in a representative capacity under the provisions
+of 37 CFR 1.34; or (3) the applicant (37 CFR 1.42).
+37 CFR 1.33(b) further provides that, unless
+otherwise specified, all papers submitted on behalf
+of a juristic entity must be signed by a patent
+practitioner.
+For applications filed prior to September 16, 2012,
+pre-AIA 37 CFR 1.33(b) requires that amendments
+and other papers be signed by: (1) A patent
+practitioner of record appointed in compliance with
+pre-AIA 37 CFR 1.32(b); (2) A patent practitioner
+not of record who acts in a representative capacity
+under the provisions of 37 CFR 1.34; (3) An assignee
+as provided for under pre-AIA 37 CFR 3.71(b) of
+this chapter; or (4) All of the applicants (pre-AIA
+37 CFR 1.41(b)) for patent, unless there is an
+assignee of the entire interest and such assignee has
+taken action in the application in accordance with
+pre-AIA 37 CFR 3.71 of this chapter. Pursuant to
+37 CFR 1.31 as revised effective September 16,
+2012, a juristic entity (e.g., organizational assignee)
+must be represented by a patent practitioner and
+therefore, unless otherwise specified, all papers
+submitted on behalf of a juristic entity on or after
+September 16, 2012 must be signed by a patent
+practitioner.
+37 CFR 1.378(d) provides a mechanism for obtaining
+reconsideration of a decision refusing to accept a
+maintenance fee upon petition filed pursuant to
+paragraph (a). This mechanism is a petition for
+reconsideration which may be filed within 2 months
+of, or such other time as set in, the decision refusing
+to accept the delayed payment of the maintenance
+fee. The decision on the petition for reconsideration,
+may provide that no further reconsideration or review
+
+2500-19
+
+Rev. 01.2024, November 2024
+
+§ 2591
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+of the matter will be undertaken by the Director of
+the Office. The maintenance fee submitted will be
+refunded if the delayed payment of the maintenance
+fee is not accepted. The refund will be made
+following the decision on the petition for
+reconsideration if the decision provides that no
+further reconsideration or review of the matter will
+be undertaken, or, upon request, after the expiration
+of the time for filing a petition for reconsideration,
+if none is filed.
+I. UNINTENTIONAL DELAY
+
+Under 35 U.S.C. 41(c)(1), the Director of the Office
+may accept late payment of any maintenance fee
+filed after the 6-month grace period, if the delay in
+payment is shown to the satisfaction of the Director
+of the Office to have been unintentional. See MPEP
+§ 711.03(c) for a general discussion of the
+“unintentional” delay standard.
+In addition to the timeliness deadline set forth in the
+preceding paragraph, a petition filed under the
+unintentional standard of 37 CFR 1.378(b) must
+include:
+(A) the required maintenance fee set forth in 37
+CFR 1.20(e) through (g);
+(B) the petition fee set forth in 37 CFR 1.17(m);
+and
+(C) a statement that the delay in payment of the
+maintenance fee was unintentional.
+A person seeking reinstatement of an expired patent
+should not make a statement that the delay in
+payment of the maintenance fee was unintentional
+unless the entire delay was unintentional, including
+the period from discovery that the maintenance fee
+was not timely paid until payment of the
+maintenance fee. See Rembrandt Technologies LP
+v. Comcast of Fla./Pa., LP , 899 F.3d 1254, 1273,
+127 USPQ2d 1826, 1838 (Fed. Cir. 2018). For
+example, a statement that the delay in payment of
+the maintenance fee was unintentional would not be
+proper when the patentee becomes aware of an
+unintentional failure to timely pay the maintenance
+fee and then intentionally delays filing a petition for
+reinstatement of the patent under 37 CFR 1.378.
+While the Office reserves the right to request
+additional information whenever there is a question
+
+Rev. 01.2024, November 2024
+
+as to whether the delay is unintentional, a person
+filing a petition seeking reinstatement of an expired
+patent more than two years after the date of
+expiration for nonpayment of a maintenance fee is
+required to provide additional explanation of the
+circumstances surrounding the delay that establishes
+that the entire delay was unintentional. See also
+MPEP § 711.03(c) for further discussion of the
+“unintentional” delay standard.
+When a petition to accept unintentionally delayed
+payment of a maintenance fee in an expired patent
+is filed no more than two years from the date the
+patent expired, the petition may be automatically
+processed and immediately decided using the
+web-based ePetition process via the UPSTO patent
+electronic filing system. If the ePetition process is
+not available or desired, petitioner should use
+PTO/SB/66 form found on the USPTO forms website
+at www.uspto.gov/PatentForms to file a petition
+to accept unintentionally delayed payment of a
+maintenance fee in an expired patent. The petition
+will be processed by the Office of Petitions.
+
+2591 Intervening Rights in Reinstated
+Patents [R-08.2012]
+Intervening rights in reinstated patents are provided
+by 35 U.S.C. 41(c)(2) which is reproduced in MPEP
+§ 2501. No patent, the term of which has been
+maintained as a result of the acceptance of a late
+payment of a maintenance fee, shall abridge or affect
+the right of any person or his or her successors in
+business who made, purchased, imported, or used
+after the 6-month grace period but prior to the
+acceptance of the late maintenance fee anything
+protected by the patent, to continue the use or
+importation of, or to sell to others to be used or sold,
+the specific things made, purchased, imported, or
+used. A court before which such matter is in question
+may provide for the continued manufacture, use,
+importation, or sale of the thing made, purchased,
+imported, or used as specified, or for the
+manufacture, use, importation, or sale of which
+substantial preparation was made after the 6-month
+grace period but before the acceptance of the late
+maintenance fee, and it may also provide for the
+continued practice of any process, practiced, or for
+the practice of which substantial preparation was
+made, after the 6-month grace period but prior to the
+
+2500-20
+
+MAINTENANCE FEES
+
+acceptance of the late maintenance fee, to the extent
+and under such terms as the court deems equitable
+for the protection of investments made or business
+commenced after the 6-month grace period but
+before the acceptance of the late maintenance fee.
+
+2592-2594 [Reserved]
+
+2595 Forms [R-01.2024]
+
+§ 2595
+
+maintenance fee purposes. “Maintenance Fee
+Transmittal Form,” Form PTO/SB 45; and “‘Fee
+Address’ Indication Form,” Form PTO/SB/47.
+Form PTO/SB/125 (“Request for Customer
+Number”) may be used to request a customer
+number. Form PTO/SB/66 (“Petition to Accept
+Unintentionally Delayed Payment of Maintenance
+Fee in an Expired Patent (37 CFR 1.378(b))”) may
+be used to file a petition under 37 CFR 1.378(b).
+
+The following forms are suggested when submitting
+a maintenance fee or establishing a fee address for
+
+2500-21
+
+Rev. 01.2024, November 2024
+
+§ 2595
+
+Rev. 01.2024, November 2024
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+2500-22
+
+MAINTENANCE FEES
+
+2500-23
+
+§ 2595
+
+Rev. 01.2024, November 2024
+
+§ 2595
+
+Rev. 01.2024, November 2024
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+2500-24
+
+MAINTENANCE FEES
+
+2500-25
+
+§ 2595
+
+Rev. 01.2024, November 2024
+
+§ 2595
+
+Rev. 01.2024, November 2024
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+2500-26
+
+MAINTENANCE FEES
+
+2500-27
+
+§ 2595
+
+Rev. 01.2024, November 2024
+
+§ 2595
+
+Rev. 01.2024, November 2024
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+2500-28
+
+MAINTENANCE FEES
+
+2500-29
+
+§ 2595
+
+Rev. 01.2024, November 2024
+
+§ 2595
+
+Rev. 01.2024, November 2024
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+2500-30
+
+MAINTENANCE FEES
+
+2500-31
+
+§ 2595
+
+Rev. 01.2024, November 2024
+
+§ 2595
+
+Rev. 01.2024, November 2024
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+2500-32
+
+MAINTENANCE FEES
+
+2500-33
+
+§ 2595
+
+Rev. 01.2024, November 2024
+

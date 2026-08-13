@@ -1,0 +1,1480 @@
+Chapter 2600 Optional Inter Partes Reexamination
+2601
+2601.01
+2602
+2603
+-2608
+2609
+2610
+2611
+
+Introduction
+Flowcharts
+Citation of Prior Art
+[Reserved]
+
+2642
+2643
+2644
+
+Inter Partes Reexamination
+Request for Inter Partes Reexamination
+Time for Requesting Inter Partes
+Reexamination
+2612
+Persons Who May File a Request
+2613
+Representative of Requester
+2614
+Content of Request for Inter Partes
+Reexamination
+2615
+Fee for Requesting Inter Partes
+Reexamination
+2616
+Substantial New Question of
+Patentability/Reasonable Likelihood
+That Requester Will Prevail
+2617
+Statement in the Request Applying
+Prior Art
+2618
+Copies of Prior Art (Patents and
+Printed Publications)
+2619
+Copy of Printed Patent
+2620
+Certificate of Service
+2621
+[Reserved]
+2622
+Address of Patent Owner
+2623
+Withdrawal of Attorney or Agent
+2624
+Correspondence
+2625
+Untimely Paper Filed Prior to First
+Office Action
+2626
+Initial Processing of Request for Inter
+Partes Reexamination
+2627
+Incomplete Request for Inter Partes
+Reexamination
+2628
+[Reserved]
+2629
+Notice of Request for Inter Partes
+Reexamination in Official Gazette
+2630
+Constructive Notice to Patent Owner
+2631
+Processing of Request Corrections
+2632
+Public Access
+2632.01
+Determining If a Reexamination
+Request Was Filed for a Patent
+2633
+[Reserved]
+2634
+Fee Processing and Procedure
+2635
+Record Systems
+2636
+Assignment of Reexamination
+2637
+[Reserved]
+2638
+Time Reporting
+2639
+[Reserved]
+2640
+Decision on Request
+2641
+Time for Deciding Request
+
+Criteria for Deciding Request
+Claims Considered in Deciding Request
+Prior Art on Which the Determination
+Is Based
+2645
+[Reserved]
+2646
+Decision Ordering Reexamination
+2647
+Decision Denying Reexamination
+2647.01
+Examples of Decisions on Requests
+2647.02
+Processing of Decision
+2648
+Petition From Denial of Request
+2649
+[Reserved]
+-2653
+2654
+Conduct of Inter Partes Reexamination
+Proceedings
+2655
+Who Reexamines
+2656
+Prior Art Patents and Printed
+Publications Reviewed by Examiner in
+Reexamination
+2657
+Listing of Prior Art
+2658
+Scope of Inter Partes Reexamination
+2659
+Res Judicata and Collateral Estoppel
+in Reexamination Proceedings
+2660
+First Office Action
+2660.01
+[Reserved]
+2660.02
+The Title
+2660.03
+Dependent Claims
+2661
+Special Status for Action
+2662
+Time for Response and Comments
+2663
+[Reserved]
+2664
+Mailing of Office Action
+2665
+Extension of Time for Patent Owner
+Response
+2666
+Patent Owner Response to Office
+Action
+2666.01
+Amendment by Patent Owner
+2666.02
+Correction of Patent Drawings
+2666.03
+Correction of Inventorship
+2666.04
+Fees for Adding Claims
+2666.05
+Third Party Comments After Patent
+Owner Response
+2666.06
+Service of Papers
+2666.07
+[Reserved]
+-2666.09
+2666.10
+Patent Owner Does Not Respond to
+Office Action
+2666.11
+[Reserved]
+-2666.19
+2666.20
+Third Party Does Not Comment After
+Patent Owner Response
+2666.21
+[Reserved]
+-2666.29
+
+2600-1
+
+Rev. 01.2024, November 2024
+
+§ 2601
+
+2666.30
+2666.31
+-2666.39
+2666.40
+
+2666.41
+-2666.49
+2666.50
+2666.51
+-2666.59
+2666.60
+2667
+2668
+2669
+2670
+2671
+
+2671.01
+2671.02
+2671.03
+2672
+
+2673
+2673.01
+2673.02
+2674
+2674.01
+2675
+2675.01
+2675.02
+2676
+2677
+2678
+2679
+2680
+2681
+2682
+2683
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+Submission Not Fully Responsive to
+Non-final Office Action
+[Reserved]
+
+2684
+
+Patent Owner Completion of
+Response and Third Party Comments
+Thereon
+[Reserved]
+
+2686
+
+Examiner Issues Notice of Defective
+Paper in Inter Partes Reexamination
+[Reserved]
+
+2686.02
+
+Response by Patent Owner/Third
+Party to Notice of Defective Paper
+Handling of Inappropriate or Untimely
+Filed Papers
+Petition for Entry of Late Papers for
+Revival of Reexamination Proceeding
+[Reserved]
+Clerical Handling
+Examiner Action Following
+Response/Comments or Expiration of
+Time for Same
+Examiner Issues Action on Merits
+That Does Not Close Prosecution
+Examiner Issues Action Closing
+Prosecution (ACP)
+Panel Review
+Patent Owner Comments/Amendment
+After ACP and Third Party Requester
+Responsive Comments
+Examiner Consideration of Submissions
+After ACP and Further Action
+Reopening Prosecution After ACP
+Examiner Issues Right of Appeal
+Notice (RAN)
+Appeal in Inter Partes Reexamination
+Cross Appeal After Original Appeal
+Appellant Brief
+Respondent Brief
+Informalities in One or More of the
+Briefs
+Appeal Conference
+Examiner’s Answer
+Rebuttal Briefs
+Office Treatment of Rebuttal Brief
+Oral Hearing
+Board Decision
+Action Following Decision
+Appeal to Courts
+
+2686.04
+
+Rev. 01.2024, November 2024
+
+2685
+
+2686.01
+
+2686.03
+
+2686.05
+
+2687
+
+2687.01
+2688
+2689
+2690
+2691
+2692
+2693
+2694
+2695
+2696
+
+Information Material to Patentability
+in Reexamination Proceeding
+No Interviews on Merits in Inter Partes
+Reexamination Proceedings
+Notification of Existence of Prior or
+Concurrent Proceedings and Decisions
+Thereon
+Multiple Copending Reexamination
+Proceedings
+Copending Reexamination and
+Interference Proceedings
+Copending Reexamination and
+Reissue Proceedings
+Reexamination and Litigation
+Proceedings
+Reexamination and Inter Partes
+Review Proceedings, Post-Grant
+Review, and Covered Business
+Method Patent Review
+Notice of Intent to Issue Inter Partes
+Reexamination Certificate (NIRC) and
+Conclusion of Reexamination
+Proceeding
+Examiner Consideration of
+Submissions After NIRC
+Issuance of Inter Partes Reexamination
+Certificate
+Reexamination Review
+Format of Inter Partes Reexamination
+Certificate
+Notice of Inter Partes Reexamination
+Certificate Issuance in Official Gazette
+Distribution of Certificate
+Intervening Rights
+Concluded Reexamination Proceedings
+Reexamination of a Reexamination
+USPTO Forms To Be Used in Inter
+Partes Reexamination
+
+2601 Introduction [R-01.2024]
+The optional inter partes reexamination procedure
+was added to the existing ex parte reexamination
+procedure on November 29, 1999 in the American
+Inventors Protection Act of 1999 (the AIPA), Public
+Law 106-113, app. I, title IV, 113 Stat. 1501,
+1501A-552 through 1501A-591. Sections 311 – 318
+of title 35 of the United States Code were added by
+the AIPA and were subsequently amended on
+November 2, 2002 by Public Law 107-273, div. C,
+
+2600-2
+
+OPTIONAL INTER PARTES REEXAMINATION
+
+title III, subtitles A and B, 116 Stat. 1758, 1899
+through 1906. The Leahy-Smith America Invents
+Act (the AIA), Public Law 112-29, 125 Stat. 284,
+was enacted on September 16, 2011 and replaced
+the optional inter partes reexamination procedure
+with the inter partes review process. Pursuant to
+the AIA, the Office does not accept requests for inter
+partes reexamination filed on or after September
+16, 2012 (see 37 CFR 1.913(b)), but instead accepts
+petitions to conduct inter partes review. For any
+inter partes reexamination filed prior to September
+16, 2012, the provisions of 35 U.S.C. 311 – 35
+U.S.C. 318 as they were in effect prior to September
+16, 2012 continue to apply to the inter partes
+reexamination proceedings.
+Guidance on the optional inter partes reexamination
+procedure is no longer being reproduced in the
+Manual of Patent Examining Procedure (MPEP).
+For more information on the former practice, see
+revision 07.2022 of the 9th Edition of the MPEP.
+The ex parte reexamination option is still available.
+See MPEP §§ 2209 to 2296 for guidance on the
+procedures for ex parte reexamination proceedings.
+
+2601.01 Flowcharts [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+§ 2613
+
+available in revision 07.2022 of the 9th Edition of
+the MPEP.
+
+2603 - 2608 [Reserved]
+
+2609 Inter Partes Reexamination [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2610 Request for Inter Partes Reexamination
+[R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 7 of the 8th Edition
+of the MPEP.
+
+2611 Time for Requesting Inter Partes
+Reexamination [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 7 of the 8th Edition
+of the MPEP.
+
+2612 Persons Who May File a Request
+[R-01.2024]
+
+2602 Citation of Prior Art [R-01.2024]
+Citations of prior art continue to be allowed under
+37 CFR 1.501. See MPEP §§ 2202 through 2206
+and 2208 for the manner of making such citations
+and Office handling of the same. However, the
+Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012,
+and therefore any filed citation of prior art under 37
+CFR 1.501 will only be processed in accordance
+with 37 CFR 1.902 in an inter partes reexamination
+request filed prior to September 16, 2012. See 37
+CFR 1.913(b). Guidance on the former practice is
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 7 of the 8th Edition
+of the MPEP.
+
+2613 Representative of Requester
+[R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+
+2600-3
+
+Rev. 01.2024, November 2024
+
+§ 2614
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 7 of the 8th Edition
+
+Edition of the MPEP.
+
+of the MPEP.
+
+2614 Content of Request for Inter Partes
+Reexamination [R-01.2024]
+
+2619 Copy of Printed Patent [R-01.2024]
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 7 of the 8th Edition
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 7 of the 8th Edition
+of the MPEP.
+
+of the MPEP.
+
+2620 Certificate of Service [R-01.2024]
+2615 Fee for Requesting Inter Partes
+Reexamination [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 7 of the 8th Edition
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 7 of the 8th Edition
+of the MPEP.
+
+of the MPEP.
+
+2621 [Reserved]
+
+2616 Substantial New Question of
+Patentability/Reasonable Likelihood That
+Requester Will Prevail [R-01.2024]
+
+2622 Address of Patent Owner [R-01.2024]
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 7 of the 8th Edition
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+of the MPEP.
+
+2623 Withdrawal of Attorney or Agent
+[R-01.2024]
+
+2617 Statement in the Request Applying
+Prior Art [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 7 of the 8th Edition
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+of the MPEP.
+
+2624 Correspondence [R-01.2024]
+2618 Copies of Prior Art (Patents and
+Printed Publications) [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+
+Rev. 01.2024, November 2024
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+
+2600-4
+
+OPTIONAL INTER PARTES REEXAMINATION
+
+§ 2634
+
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2630 Constructive Notice to Patent Owner
+[R-01.2024]
+
+2625 Untimely Paper Filed Prior to First
+Office Action [R-01.2024]
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in the original 9th Edition of
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2626 Initial Processing of Request for Inter
+Partes Reexamination [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 7 of the 8th Edition
+
+the MPEP.
+
+2631 Processing of Request Corrections
+[R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in the original 9th Edition of
+the MPEP.
+
+2632 Public Access [R-01.2024]
+
+of the MPEP.
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+2627 Incomplete Request for Inter Partes
+Reexamination [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in the original 9th Edition of
+
+Edition of the MPEP.
+
+2632.01 Determining If a Reexamination
+Request Was Filed for a Patent [R-01.2024]
+
+the MPEP.
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+2628 [Reserved]
+
+Edition of the MPEP.
+
+2629 Notice of Request for Inter Partes
+Reexamination in Official Gazette
+[R-01.2024]
+
+2633 [Reserved]
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 7 of the 8th Edition
+of the MPEP.
+
+2634 Fee Processing and Procedure
+[R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2600-5
+
+Rev. 01.2024, November 2024
+
+§ 2635
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+2635 Record Systems [R-01.2024]
+
+2642 Criteria for Deciding Request
+[R-01.2024]
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2636 Assignment of Reexamination
+[R-01.2024]
+
+2643 Claims Considered in Deciding Request
+[R-01.2024]
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2637 [Reserved]
+2644 Prior Art on Which the Determination
+Is Based [R-01.2024]
+2638 Time Reporting [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+Edition of the MPEP.
+
+2645 [Reserved]
+2639 [Reserved]
+
+2640 Decision on Request [R-01.2024]
+
+2646 Decision Ordering Reexamination
+[R-01.2024]
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+Edition of the MPEP.
+
+Edition of the MPEP.
+
+2641 Time for Deciding Request [R-01.2024]
+
+2647 Decision Denying Reexamination
+[R-01.2024]
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in the original 9th Edition of
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+
+the MPEP.
+
+Rev. 01.2024, November 2024
+
+2600-6
+
+OPTIONAL INTER PARTES REEXAMINATION
+
+§ 2660
+
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2647.01 Examples of Decisions on Requests
+[R-01.2024]
+
+2656 Prior Art Patents and Printed
+Publications Reviewed by Examiner in
+Reexamination [R-01.2024]
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2647.02 Processing of Decision [R-01.2024]
+2657 Listing of Prior Art [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2648 Petition From Denial of Request
+[R-01.2024]
+
+2658 Scope of Inter Partes Reexamination
+[R-01.2024]
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2649 - 2653 [Reserved]
+2659 Res Judicata and Collateral Estoppel
+in Reexamination Proceedings [R-01.2024]
+2654 Conduct of Inter Partes Reexamination
+Proceedings [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+Edition of the MPEP.
+
+2660 First Office Action [R-01.2024]
+
+2655 Who Reexamines [R-01.2024]
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+
+Edition of the MPEP.
+
+2600-7
+
+Rev. 01.2024, November 2024
+
+§ 2660.01
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+2660.01 [Reserved]
+
+2665 Extension of Time for Patent Owner
+Response [R-01.2024]
+
+2660.02 The Title [R-01.2024]
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+Edition of the MPEP.
+
+2666 Patent Owner Response to Office
+Action [R-01.2024]
+
+Edition of the MPEP.
+
+2660.03 Dependent Claims [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+Edition of the MPEP.
+
+2661 Special Status for Action [R-01.2024]
+
+2666.01 Amendment by Patent Owner
+[R-01.2024]
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+Edition of the MPEP.
+
+Edition of the MPEP.
+
+2662 Time for Response and Comments
+[R-01.2024]
+
+2666.02 Correction of Patent Drawings
+[R-01.2024]
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+Edition of the MPEP.
+
+Edition of the MPEP.
+
+2663 [Reserved]
+
+2666.03 Correction of Inventorship
+[R-01.2024]
+
+2664 Mailing of Office Action [R-01.2024]
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+Edition of the MPEP.
+
+Edition of the MPEP.
+
+Rev. 01.2024, November 2024
+
+2600-8
+
+OPTIONAL INTER PARTES REEXAMINATION
+
+2666.04 Fees for Adding Claims [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2666.05 Third Party Comments After Patent
+Owner Response [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+§ 2666.50
+
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2666.21 - 2666.29 [Reserved]
+
+2666.30 Submission Not Fully Responsive to
+Non-final Office Action [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2666.31 - 2666.39 [Reserved]
+
+2666.06 Service of Papers [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2666.07-2666.09 [Reserved]
+
+2666.40 Patent Owner Completion of
+Response and Third Party Comments
+Thereon [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2666.10 Patent Owner Does Not Respond to
+Office Action [R-01.2024]
+
+2666.41-2666.49 [Reserved]
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+2666.50 Examiner Issues Notice of Defective
+Paper in Inter Partes Reexamination
+[R-01.2024]
+
+Edition of the MPEP.
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+2666.11 - 2666.19 [Reserved]
+
+Edition of the MPEP.
+
+2666.20 Third Party Does Not Comment
+After Patent Owner Response [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+
+2600-9
+
+Rev. 01.2024, November 2024
+
+§ 2666.51
+-2666.59
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+2666.51-2666.59 [Reserved]
+
+2671 Examiner Action Following
+Response/Comments or Expiration of Time
+for Same [R-01.2024]
+
+2666.60 Response by Patent Owner/Third
+Party to Notice of Defective Paper
+[R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2667 Handling of Inappropriate or Untimely
+Filed Papers [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2671.01 Examiner Issues Action on Merits
+That Does Not Close Prosecution [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2671.02 Examiner Issues Action Closing
+Prosecution (ACP) [R-01.2024]
+
+2668 Petition for Entry of Late Papers for
+Revival of Reexamination Proceeding
+[R-01.2024]
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+Edition of the MPEP.
+
+Edition of the MPEP.
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+2669 [Reserved]
+
+2671.03 Panel Review [R-01.2024]
+
+Edition of the MPEP.
+
+2670 Clerical Handling [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2672 Patent Owner Comments/Amendment
+After ACP and Third Party Requester
+Responsive Comments [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+Rev. 01.2024, November 2024
+
+2600-10
+
+OPTIONAL INTER PARTES REEXAMINATION
+
+2673 Examiner Consideration of Submissions
+After ACP and Further Action [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+§ 2678
+
+2675 Appellant Brief [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+Edition of the MPEP.
+
+2675.01 Respondent Brief [R-01.2024]
+2673.01 Reopening Prosecution After ACP
+[R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2675.02 Informalities in One or More of the
+Briefs [R-01.2024]
+
+Edition of the MPEP.
+
+2673.02 Examiner Issues Right of Appeal
+Notice (RAN) [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+Edition of the MPEP.
+
+2676 Appeal Conference [R-01.2024]
+
+2674 Appeal in Inter Partes Reexamination
+[R-01.2024]
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+Edition of the MPEP.
+
+2677 Examiner’s Answer [R-01.2024]
+
+Edition of the MPEP.
+
+2674.01 Cross Appeal After Original Appeal
+[R-01.2024]
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+Edition of the MPEP.
+
+Edition of the MPEP.
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+
+2678 Rebuttal Briefs [R-01.2024]
+
+2600-11
+
+Rev. 01.2024, November 2024
+
+§ 2679
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2684 Information Material to Patentability
+in Reexamination Proceeding [R-01.2024]
+
+2679 Office Treatment of Rebuttal Brief
+[R-01.2024]
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2680 Oral Hearing [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+Edition of the MPEP.
+
+2685 No Interviews on Merits in Inter Partes
+Reexamination Proceedings [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2681 Board Decision [R-01.2024]
+
+2686 Notification of Existence of Prior or
+Concurrent Proceedings and Decisions
+Thereon [R-01.2024]
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+Edition of the MPEP.
+
+Edition of the MPEP.
+
+2682 Action Following Decision [R-01.2024]
+
+2686.01 Multiple Copending Reexamination
+Proceedings [R-01.2024]
+
+Edition of the MPEP.
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2683 Appeal to Courts [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2686.02 Copending Reexamination and
+Interference Proceedings [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+Rev. 01.2024, November 2024
+
+2600-12
+
+OPTIONAL INTER PARTES REEXAMINATION
+
+§ 2692
+
+2686.03 Copending Reexamination and
+Reissue Proceedings [R-01.2024]
+
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+2688 Issuance of Inter Partes Reexamination
+Certificate [R-01.2024]
+
+Edition of the MPEP.
+
+2686.04 Reexamination and Litigation
+Proceedings [R-01.2024]
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2686.05 Reexamination and Inter Partes
+Review Proceedings, Post-Grant Review, and
+Covered Business Method Patent Review
+[R-01.2024]
+
+2689 Reexamination Review [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2690 Format of Inter Partes Reexamination
+Certificate [R-01.2024]
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+Edition of the MPEP.
+
+Edition of the MPEP.
+
+2687 Notice of Intent to Issue Inter Partes
+Reexamination Certificate (NIRC) and
+Conclusion of Reexamination Proceeding
+[R-01.2024]
+
+2691 Notice of Inter Partes Reexamination
+Certificate Issuance in Official Gazette
+[R-01.2024]
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+Edition of the MPEP.
+
+2692 Distribution of Certificate [R-01.2024]
+2687.01 Examiner Consideration of
+Submissions After NIRC [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2600-13
+
+Rev. 01.2024, November 2024
+
+§ 2693
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+2693 Intervening Rights [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2694 Concluded Reexamination Proceedings
+[R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2695 Reexamination of a Reexamination
+[R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+2696 USPTO Forms To Be Used in Inter
+Partes Reexamination [R-01.2024]
+The Office does not accept requests for inter partes
+reexamination filed on or after September 16, 2012.
+See 37 CFR 1.913(b). Guidance on the former
+practice is available in revision 07.2022 of the 9th
+Edition of the MPEP.
+
+Rev. 01.2024, November 2024
+
+2600-14
+

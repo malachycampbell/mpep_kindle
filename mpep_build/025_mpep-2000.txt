@@ -1,0 +1,2363 @@
+Chapter 2000 Duty of Disclosure
+2000
+Duty of Disclosure
+2000.01
+Introduction
+2001
+Duty of Disclosure, Candor, and Good
+Faith
+2001.01
+Who Has Duty To Disclose
+2001.02
+[Reserved]
+2001.03
+To Whom Duty of Disclosure Is
+Owed
+2001.04
+Information Under 37 CFR 1.56(a)
+2001.05
+Materiality Under 37 CFR 1.56(b)
+2001.06
+Sources of Information under 37 CFR
+1.56
+2001.06(a)
+Prior Art Cited in Related Foreign
+Applications
+2001.06(b)
+Information Relating to or From
+Copending United States Patent
+Applications
+2001.06(c)
+Information From Related
+Litigation and/or Trial
+Proceedings
+2001.06(d)
+Information Relating to Claims
+Copied From a Patent
+2001.06(e)
+Information Relating to
+Regulatory Review
+2002
+Disclosure — By Whom and How Made
+2002.01
+By Whom Made
+2002.02
+Must be in Writing
+2003
+Disclosure __ When Made
+2003.01
+Disclosure After Patent Is Granted
+2004
+Aids to Compliance With Duty of
+Disclosure
+2005
+Comparison to Requirements for
+Information
+2006-2009 [Reserved]
+2010
+Office Handling of Duty of
+Disclosure/Inequitable Conduct Issues
+2011
+Correction of Errors in Application
+2012
+Reissue Applications Involving Issues
+of Fraud, Inequitable Conduct, and/or
+Violation of Duty of Disclosure
+2012.01
+Collateral Estoppel
+2013
+Protests Involving Issues of Fraud,
+Inequitable Conduct, and/or Violation
+of Duty of Disclosure
+2014
+Duty of Disclosure in Reexamination
+Proceedings and Supplemental
+Examination
+2015
+Duties of Disclosure and Reasonable
+Inquiry Arise in Dealings With Other
+Government Agencies
+
+2016
+
+Fraud, Inequitable Conduct, or
+Violation of Duty of Disclosure Affects
+All Claims
+2017-2022 [Reserved]
+
+2000 Duty of Disclosure [R-07.2022]
+2000.01 Introduction [R-07.2022]
+This Chapter deals with the duties owed toward the
+U.S. Patent and Trademark Office by each individual
+who is associated with the preparation or prosecution
+of the application. Each individual associated with
+the filing and prosecution of a patent application,
+supplemental examination, or patent reexamination
+has a duty to disclose to the Office all information
+known to that individual to be material to
+patentability as defined in this section. These duties,
+of candor and good faith and disclosure, have been
+codified in 37 CFR 1.56 and 37 CFR 1.555, as
+promulgated pursuant to carrying out the duties of
+the Director under Sections 2, 3, 131, and 132 of
+Title 35 of the United States Code.
+In some instances, the duty to disclose may constitute
+correcting erroneous material information in the
+record. Effective September 16, 2012, the America
+Invents Act (AIA) amended the patent laws to
+modify notable aspects of the duty of disclosure.
+Specifically, the AIA eliminated the requirement
+that applicants disclose that an error in a patent (e.g.,
+change in inventorship) was made without any
+deceptive intent before correction is permitted. See
+35 U.S.C. 116, 35 U.S.C. 251, and 35 U.S.C. 256.
+This does not negate, however, the continuing
+obligation to practice candor and good faith in all
+dealings before the Office.
+On October 28, 2016, the Office issued a Notice of
+Proposed Rulemaking proposing revisions to the
+materiality standard for the duty to disclose
+information in patent applications and reexamination
+proceedings (duty of disclosure) in light of the
+decision by the U.S. Court of Appeals for the Federal
+Circuit (Federal Circuit) in Therasense, Inc. v.
+Becton, Dickinson & Co., 649 F.3d 1276, 1288, 99
+USPQ2d 1065 (Fed. Cir. 2011)(en banc ).
+Specifically, the Office is considering harmonizing
+the materiality standard for the duty of disclosure to
+
+2000-1
+
+Rev. 07.2022, February 2023
+
+§ 2001
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+adopt the “but-for” materiality standard for
+inequitable conduct as set forth in Therasense and
+adopted in subsequent inequitable conduct cases,
+which will result in revisions to 37 CFR 1.56 and
+37 CFR 1.555. While these proposed rule changes
+have not yet been finalized, it is still important for
+Office stakeholders to recognize the split in how
+materiality may be considered within the Office and
+in the courts. Some of the more instructive recent
+cases on inequitable conduct have been incorporated
+in the discussion below to provide guidance on
+compliance with the duty of disclosure regardless
+of the materiality standard.
+On July 29, 2022, the Office issued a Federal
+Register Notice reinforcing the importance of “duty
+of disclosure” and “duty of reasonable inquiry”, and
+clarifying the scope of these duties as they relate to
+information and statements material to patentability
+including, but not limited to, those received from or
+submitted to the Food and Drug Administration
+(FDA) and other governmental agencies. These
+duties apply during examination of patent
+applications, including continuation applications,
+and after issuance during any post-grant examination
+or proceeding to review the issued patent. See
+Duties of Disclosure and Reasonable Inquiry During
+Examination, Reexamination, and Reissue, and for
+Proceedings Before the Patent Trial and Appeal
+Board, 87 FR 45764 (July 29, 2022).
+
+2001 Duty of Disclosure, Candor, and Good
+Faith [R-08.2017]
+37 CFR 1.56 Duty to disclose information material to
+patentability.
+
+[Editor Note: Para. (c)(3) below is applicable only
+to patent applications filed under 35 U.S.C. 111(a)
+or 363 on or after September 16, 2012.]
+
+(1) Prior art cited in search reports of a foreign patent
+office in a counterpart application, and
+(2) The closest information over which individuals
+associated with the filing or prosecution of a patent application
+believe any pending claim patentably defines, to make sure that
+any material information contained therein is disclosed to the
+Office.
+(b) Under this section, information is material to
+patentability when it is not cumulative to information already
+of record or being made of record in the application, and
+(1) It establishes, by itself or in combination with other
+information, a prima facie case of unpatentability of a claim;
+or
+(2) It refutes, or is inconsistent with, a position the
+applicant takes in:
+(i) Opposing an argument of unpatentability relied
+on by the Office, or
+(ii) Asserting an argument of patentability.
+(3) A prima facie case of unpatentability is established
+when the information compels a conclusion that a claim is
+unpatentable under the preponderance of evidence,
+burden-of-proof standard, giving each term in the claim its
+broadest reasonable construction consistent with the
+specification, and before any consideration is given to evidence
+which may be submitted in an attempt to establish a contrary
+conclusion of patentability.
+(c) Individuals associated with the filing or prosecution of
+a patent application within the meaning of this section are:
+(1) Each inventor named in the application;
+
+(a) A patent by its very nature is affected with a public
+interest. The public interest is best served, and the most effective
+patent examination occurs when, at the time an application is
+being examined, the Office is aware of and evaluates the
+teachings of all information material to patentability. Each
+individual associated with the filing and prosecution of a patent
+application has a duty of candor and good faith in dealing with
+the Office, which includes a duty to disclose to the Office all
+information known to that individual to be material to
+patentability as defined in this section. The duty to disclose
+information exists with respect to each pending claim until the
+claim is cancelled or withdrawn from consideration, or the
+application becomes abandoned. Information material to the
+
+Rev. 07.2022, February 2023
+
+patentability of a claim that is cancelled or withdrawn from
+consideration need not be submitted if the information is not
+material to the patentability of any claim remaining under
+consideration in the application. There is no duty to submit
+information which is not material to the patentability of any
+existing claim. The duty to disclose all information known to
+be material to patentability is deemed to be satisfied if all
+information known to be material to patentability of any claim
+issued in a patent was cited by the Office or submitted to the
+Office in the manner prescribed by §§ 1.97(b)-(d) and 1.98.
+However, no patent will be granted on an application in
+connection with which fraud on the Office was practiced or
+attempted or the duty of disclosure was violated through bad
+faith or intentional misconduct. The Office encourages applicants
+to carefully examine:
+
+(2) Each attorney or agent who prepares or prosecutes
+the application; and
+(3) Every other person who is substantively involved
+in the preparation or prosecution of the application and who is
+associated with the inventor, the applicant, an assignee, or
+anyone to whom there is an obligation to assign the application.
+(d) Individuals other than the attorney, agent or inventor
+may comply with this section by disclosing information to the
+attorney, agent, or inventor.
+(e) In any continuation-in-part application, the duty under
+this section includes the duty to disclose to the Office all
+information known to the person to be material to patentability,
+
+2000-2
+
+DUTY OF DISCLOSURE
+
+as defined in paragraph (b) of this section, which became
+available between the filing date of the prior application and the
+national or PCT international filing date of the
+continuation-in-part application.
+37 CFR 1.56 (pre-AIA) Duty to disclose information material
+to patentability.
+
+[Editor Note: Para. (c)(3) below is not applicable
+to patent applications filed under 35 U.S.C. 111(a)
+or 363 on or after Sept. 16, 2012.]
+*****
+(c) Individuals associated with the filing or prosecution of
+a patent application within the meaning of this section are:
+*****
+(3) Every other person who is substantively involved
+in the preparation or prosecution of the application and who is
+associated with the inventor, with the assignee or with anyone
+to whom there is an obligation to assign the application.
+*****
+
+37 CFR 1.56 defines the duty to disclose information
+to the Office.
+
+2001.01 Who Has Duty To Disclose
+[R-07.2022]
+37 CFR 1.56 Duty to disclose information material to
+patentability.
+*****
+(c) Individuals associated with the filing or prosecution of
+a patent application within the meaning of this section are:
+(1) Each inventor named in the application;
+(2) Each attorney or agent who prepares or prosecutes
+the application; and
+(3) Every other person who is substantively involved
+in the preparation or prosecution of the application and who is
+associated with the inventor, the applicant, an assignee, or
+anyone to whom there is an obligation to assign the application.
+*****
+
+§ 2001.03
+
+The duty to disclose applies to matters pending
+before the USPTO and extends broadly to “[e]ach
+individual associated with the filing and prosecution
+of a patent application” and “[e]ach individual
+associated with the patent owner in a reexamination
+proceeding.” 37 CFR 1.56(c) and 1.555(a). For
+patent applications, including reissue applications,
+these individuals include each inventor named in the
+application, each attorney or agent who prepares or
+prosecutes the application, and “[e]very other person
+who is substantively involved in the preparation or
+prosecution of the application and who is associated
+with the inventor, the applicant, an assignee, or
+anyone to whom there is an obligation to assign the
+application.” This is intended to make clear that the
+duty does not extend to typists, clerks, and similar
+personnel who assist with an application. For
+reexamination proceedings, these individuals include
+“the patent owner, each attorney or agent who
+represents the patent owner, and every other
+individual who is substantively involved on behalf
+of the patent owner in a reexamination proceeding.”
+37 CFR 1.555(a).
+The duty of disclosure applies only to individuals,
+not to organizations. For instance, the duty of
+disclosure would not apply to a corporation or
+institution as such. However, it would apply to
+individuals within the corporation or institution who
+were substantively involved in the preparation or
+prosecution of the application, and actions by such
+individuals may affect the rights of the corporation
+or institution.
+
+2001.02 [Reserved]
+
+37 CFR 1.56 (pre-AIA) Duty to disclose information material
+to patentability.
+*****
+
+2001.03 To Whom Duty of Disclosure Is
+Owed [R-08.2017]
+
+(c) Individuals associated with the filing or prosecution of
+a patent application within the meaning of this section are:
+
+37 CFR 1.56(a) states that the “duty of candor and
+good faith” is owed “in dealing with the Office” and
+that all associated with the filing and prosecution of
+a patent application have a “duty to disclose to the
+Office” material information. This duty “in dealing
+with” and “to” the Office extends, of course, to all
+dealings which such individuals have with the
+Office, and is not limited to representations to or
+dealings with the examiner. For example, the duty
+would extend to proceedings before the Patent Trial
+
+(1) Each inventor named in the application;
+(2) Each attorney or agent who prepares or prosecutes
+the application; and
+(3) Every other person who is substantively involved
+in the preparation or prosecution of the application and who is
+associated with the inventor, with the assignee or with anyone
+to whom there is an obligation to assign the application.
+*****
+
+2000-3
+
+Rev. 07.2022, February 2023
+
+§ 2001.04
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+and Appeal Board and the Office of the
+Commissioner for Patents.
+
+applies to positions taken by applicants or parties
+involving the claimed subject matter.
+
+2001.04 Information Under 37 CFR 1.56(a)
+[R-07.2022]
+
+If a party to a USPTO proceeding discovers that an
+earlier position taken in a submission to the USPTO
+or another Government agency was incorrect or
+inconsistent with other statements made by the party,
+the party must promptly correct the record. See, e.g.,
+In re Tendler, Proceeding No. D2013-17 (USPTO
+Jan. 1, 2014) (suspending a practitioner for four
+years for failure to correct the written record after
+learning of inaccuracies in a declaration the
+practitioner had filed). In the context of prosecution,
+an applicant must disclose to the USPTO any
+information that refutes, or is inconsistent with, a
+position the applicant takes in: (i) opposing an
+argument of unpatentability relied on by the Office,
+or (ii) asserting an argument of patentability. See 37
+CFR 1.56(b)(2). Patent owners may bring
+information, including prior art and incorrect or
+inconsistent positions, to the attention of the USPTO
+through supplemental examination, ex parte
+reexamination, reissue applications, or submissions
+under 37 CFR 1.501. During prosecution, third
+parties may have an opportunity to disclose
+information to the USPTO through third party
+submissions under 37 CFR 1.290 and protests under
+37 CFR 1.291. After issuance, third parties may
+disclose information directed to issued patents to the
+USPTO via submissions under 37 CFR 1.501, or in
+ex parte reexamination. A finding of “fraud,”
+“inequitable conduct,” or violation of duty of
+disclosure through bad faith or intentional
+misconduct with respect to any claim in an
+application or patent, renders all the claims thereof
+unpatentable or invalid. See MPEP § 2016.
+
+37 CFR 1.56 Duty to disclose information material to
+patentability.
+(a) A patent by its very nature is affected with a public
+interest. The public interest is best served, and the most effective
+patent examination occurs when, at the time an application is
+being examined, the Office is aware of and evaluates the
+teachings of all information material to patentability. Each
+individual associated with the filing and prosecution of a patent
+application has a duty of candor and good faith in dealing with
+the Office, which includes a duty to disclose to the Office all
+information known to that individual to be material to
+patentability as defined in this section. The duty to disclose
+information exists with respect to each pending claim until the
+claim is cancelled or withdrawn from consideration, or the
+application becomes abandoned. Information material to the
+patentability of a claim that is cancelled or withdrawn from
+consideration need not be submitted if the information is not
+material to the patentability of any claim remaining under
+consideration in the application. There is no duty to submit
+information which is not material to the patentability of any
+existing claim. The duty to disclose all information known to
+be material to patentability is deemed to be satisfied if all
+information known to be material to patentability of any claim
+issued in a patent was cited by the Office or submitted to the
+Office in the manner prescribed by §§ 1.97(b)-(d) and 1.98.
+However, no patent will be granted on an application in
+connection with which fraud on the Office was practiced or
+attempted or the duty of disclosure was violated through bad
+faith or intentional misconduct. The Office encourages applicants
+to carefully examine:
+(1) Prior art cited in search reports of a foreign patent
+office in a counterpart application, and
+(2) The closest information over which individuals
+associated with the filing or prosecution of a patent application
+believe any pending claim patentably defines, to make sure that
+any material information contained therein is disclosed to the
+Office.
+*****
+
+The language of 37 CFR 1.56 (and 37 CFR 1.555)
+emphasizes that there is a duty of candor and good
+faith which is broader than the duty to disclose
+material information. 37 CFR 1.56 further states that
+“no patent will be granted on an application in
+connection with which fraud on the Office was
+practiced or attempted or the duty of disclosure was
+violated through bad faith or intentional
+misconduct.” Specifically, the duty of candor and
+good faith, and by extension the duty to disclose,
+
+Rev. 07.2022, February 2023
+
+The Office strives to issue valid patents. The Office
+has both an obligation not to unjustly issue patents
+and an obligation not to unjustly deny patents.
+Innovation and technological advancement are best
+served when an inventor is issued a patent with the
+scope of protection that is deserved. The rules serve
+to remind individuals associated with the preparation
+and prosecution of patent applications of their duty
+of candor and good faith in their dealings with the
+Office, and will aid the Office in receiving, in a
+timely manner, the information it needs to carry out
+effective and efficient examination of patent
+applications. Moreover, an incentive exists to submit
+
+2000-4
+
+DUTY OF DISCLOSURE
+
+material information to the Office because it may
+result in enhanced patent quality and may avoid later
+questions of materiality and intent to deceive.
+The definition of materiality in 37 CFR 1.56 is
+intended to provide the Office with the information
+it needs in order for the examiner to make a proper
+and independent determination on patentability. The
+patent examiner should make the patentability
+determination after considering the relevant facts
+properly of record in the particular case.
+37 CFR 1.56 states that each individual associated
+with the filing and prosecution of a patent application
+has a duty to disclose all information known to that
+individual to be material to patentability as defined
+in the section. Thus, the duty applies to
+contemporaneously or presently known information.
+The fact that information was known years ago does
+not mean that it was recognized that the information
+is material to the present application.
+The term “information” as used in 37 CFR 1.56
+means all of the kinds of information required to be
+disclosed and includes any information which is
+“material to patentability.” Materiality is defined in
+37 CFR 1.56(b) and discussed herein at MPEP
+§ 2001.05. In addition to prior art such as patents
+and publications, 37 CFR 1.56 includes, for example,
+information on enablement, possible prior public
+uses, sales, offers to sell, derived knowledge, prior
+invention by another, inventorship conflicts,
+litigation statements, and the like. “Materiality is not
+limited to prior art but embraces any information
+that a reasonable examiner would be substantially
+likely to consider important in deciding whether to
+allow an application to issue as a patent.”
+Bristol-Myers Squibb Co. v. Rhone-Poulenc Rorer,
+Inc., 326 F.3d 1226, 1234, 66 USPQ2d 1481, 1486
+(Fed. Cir. 2003) (emphasis in original) (finding
+article which was not prior art to be material to
+enablement issue).
+Patent examiners also have the ability to require
+submission of information that may be reasonably
+necessary to properly examine or treat a matter in a
+pending or abandoned application, but not
+necessarily “material to patentability.” 37 CFR
+1.105(a)(1). The information that must be submitted
+to comply with a requirement for information under
+
+§ 2001.04
+
+37 CFR 1.105 may not be material to patentability
+in itself under 37 CFR 1.56, but it is necessary to
+obtain a complete record from which a determination
+of patentability may be made. See MPEP §
+704.12(a). Therefore, when an examiner has a
+reasonable basis to conclude that an individual
+identified under 37 CFR 1.56(c) or any assignee has
+information that would aid in the examination of the
+application or treatment of some matter, the
+examiner may require submission of information
+that is not necessarily material to patentability. This
+requirement could include statements made or
+information submitted to other Government agencies
+such as the FDA. See MPEP § 2015. For example,
+when examining a claim directed to a process of
+manufacturing a particular drug product that was
+effectively filed more than one year after FDA
+approval of the drug product, an examiner may
+appropriately require an applicant to submit to the
+USPTO information submitted to the FDA (e.g., in
+a New Drug Application or Biologics License
+Application) on how the drug product was
+manufactured.
+The term “information” is intended to be all
+encompassing, similar to the scope of the term as
+discussed with respect to 37 CFR 1.291(a) (see
+MPEP § 1901.02). 37 CFR 1.56(a) also states: “The
+Office encourages applicants to carefully examine:
+(1) prior art cited in search reports of a foreign patent
+office in a counterpart application, and (2) the closest
+information over which individuals associated with
+the filing or prosecution of a patent application
+believe any pending claim patentably defines, to
+make sure that any material information contained
+therein is disclosed to the Office.”
+It should be noted that the rules are not intended to
+require information favorable to patentability such
+as, for example, evidence of commercial success of
+the invention. Similarly, the rules are not intended
+to require, for example, disclosure of information
+concerning the level of skill in the art for purposes
+of determining obviousness.
+37 CFR 1.56(a) states that the duty to disclose
+information exists until the application becomes
+abandoned. The duty to disclose information,
+however, does not end when an application becomes
+allowed but extends until a patent is granted on that
+
+2000-5
+
+Rev. 07.2022, February 2023
+
+§ 2001.05
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+application. The rules provide for information being
+considered after a notice of allowance is mailed and
+before the issue fee is paid (37 CFR 1.97(d)) (see
+MPEP § 609.04(b), subsection III). The rules also
+provide for an application to be withdrawn from
+issue:
+
+under 35 U.S.C. 257, information material to
+patentability is defined by 37 CFR 1.56. See 37 CFR
+1.625(d)(4) and MPEP § 2820.
+
+(A) because one or more claims are unpatentable
+(37 CFR 1.313(c)(1));
+
+37 CFR 1.56 Duty to disclose information material to patent
+ability.
+*****
+
+(B) for express abandonment so that information
+may be considered in a continuing application before
+a patent issues (37 CFR 1.313(c)(3)); or
+(C) for consideration of a request for continued
+examination (RCE) under 37 CFR 1.114 (37 CFR
+1.313(a) and (c)(2)). Note that RCE practice does
+not apply to utility or plant applications filed before
+June 8, 1995 or to design applications. See MPEP §
+706.07(h).
+See MPEP § 1308 for additional information
+pertaining to withdrawal of an application from
+issue.
+In a continuation-in-part application, individuals
+covered by 37 CFR 1.56 have a duty to disclose to
+the Office all information known to be material to
+patentability which became available between the
+filing date of the prior application and the national
+or PCT international filing date of the
+continuation-in-part application. See 37 CFR 1.56(e).
+37 CFR 1.56 provides that the duty of disclosure can
+be met by submitting information to the Office in
+the manner prescribed by 37 CFR 1.97 and 1.98. See
+MPEP § 609 et seq. Applicants are provided
+certainty as to when information will be considered,
+and applicants will be informed when information
+is not considered. Note, however, if even a document
+was cited to or considered in a prior examination or
+related Office proceeding, the Office may order
+reexamination based on the document if it raises a
+substantial new question of patentability. See MPEP
+§ 2242 and MPEP § 2258.01.
+37 CFR 1.555 provides for the duty of disclosure in
+reexamination proceedings. For a discussion of
+information material to patentability in a
+reexamination proceeding, see MPEP § 2280 or
+MPEP § 2684. For supplemental examination and
+any ex parte reexamination proceeding ordered
+
+Rev. 07.2022, February 2023
+
+2001.05 Materiality Under 37 CFR 1.56(b)
+[R-07.2022]
+
+(b) Under this section, information is material to
+patentability when it is not cumulative to information already
+of record or being made of record in the application, and
+(1) It establishes, by itself or in combination with other
+information, a prima facie case of unpatentability of a claim;
+or
+(2) It refutes, or is inconsistent with, a position the
+applicant takes in:
+(i) Opposing an argument of unpatentability relied
+on by the Office, or
+(ii) Asserting an argument of patentability.
+A prima facie case of unpatentability is established when the
+information compels a conclusion that a claim is unpatentable
+under the preponderance of evidence, burden-of-proof standard,
+giving each term in the claim its broadest reasonable construction
+consistent with the specification, and before any consideration
+is given to evidence which may be submitted in an attempt to
+establish a contrary conclusion of patentability.
+*****
+
+Under the rule, information is not material unless it
+comes within the definition of 37 CFR 1.56(b)(1) or
+(2). Generally, when information is clearly
+cumulative or not material, there is no duty to
+disclose the information to the Office. “[I]nformation
+is material to patentability when it is not cumulative
+to information already of record or being made of
+record in the application, and (1) It establishes, by
+itself or in combination with other information, a
+prima facie case of unpatentability of a claim; or
+(2) It refutes, or is inconsistent with, a position the
+applicant takes in: (i) Opposing an argument of
+unpatentability relied on by the Office, or (ii)
+Asserting an argument of patentability.” 37 CFR
+1.56(b). In close cases where the materiality or
+consistency of the information is in question, the
+applicant should consider submitting this information
+to the USPTO. The Office believes that most
+applicants will wish to submit the information even
+though they may not be required to do so, to
+strengthen the patent and avoid the risks of an
+
+2000-6
+
+DUTY OF DISCLOSURE
+
+incorrect judgment on their part on materiality. The
+USPTO holds those individuals subject to this duty
+to the highest standards.
+
+2001.06 Sources of Information under 37
+CFR 1.56 [R-07.2022]
+All individuals covered by 37 CFR 1.56 (reproduced
+in MPEP § 2001.01) have a duty to disclose to the
+U.S. Patent and Trademark Office all material
+information they are aware of regardless of the
+source of or how they become aware of the
+information. See Brasseler, U.S.A. I, L.P. v. Stryker
+Sales Corp., 267 F.3d 1370, 1383, 60 USPQ2d 1482,
+1490 (Fed. Cir. 2001) (“Once an attorney, or an
+applicant has notice that information exists that
+appears material and questionable, that person cannot
+ignore that notice in an effort to avoid his or her duty
+to disclose.”). Materiality controls whether
+information must be disclosed to the Office, not the
+circumstances under which or the source from which
+the information is obtained. If material, the
+information must be disclosed to the Office. The
+duty to disclose material information extends to
+information such individuals are aware of prior to
+or at the time of filing the application or become
+aware of during the prosecution thereof before the
+application is granted.
+Individuals covered by 37 CFR 1.56 may be or
+become aware of material information from various
+sources such as, for example, co-workers, trade
+shows, communications from or with competitors,
+potential infringers, or other third parties, related
+foreign applications (see MPEP § 2001.06(a)), prior
+or copending United States patent applications (see
+MPEP § 2001.06(b)), related litigation and/or
+post-grant proceedings (see MPEP § 2001.06(c)),
+preliminary examination searches and supporting
+information related to regulatory review (see MPEP
+§ 2001.06(e)).
+
+2001.06(a) Prior Art Cited in Related
+Foreign Applications [R-08.2012]
+Applicants and other individuals, as set forth in
+37 CFR 1.56, have a duty to bring to the attention
+of the Office any material prior art or other
+information cited or brought to their attention in any
+
+§ 2001.06(b)
+
+related foreign application. The inference that such
+prior art or other information is material is especially
+strong where it has been used in rejecting the same
+or similar claims in the foreign application or where
+it has been identified in some manner as particularly
+relevant. See Gemveto Jewelry Co. v. Lambert Bros.,
+Inc., 542 F. Supp. 933, 216 USPQ 976 (S.D. N.Y.
+1982) wherein a patent was held invalid or
+unenforceable because patentee’s foreign counsel
+did not disclose to patentee’s United States counsel
+or to the Office prior art cited by the Dutch Patent
+Office in connection with the patentee’s
+corresponding Dutch application. The court stated,
+542 F. Supp. at 943, 216 USPQ at 985:
+Foreign patent attorneys representing applicants
+for U.S. patents through local correspondent
+firms surely must be held to the same standards
+of conduct which apply to their American
+counterparts; a double standard of
+accountability would allow foreign attorneys
+and their clients to escape responsibility for
+fraud or inequitable conduct merely by
+withholding from the local correspondent
+information unfavorable to patentability and
+claiming ignorance of United States disclosure
+requirements.
+
+2001.06(b) Information Relating to or From
+Copending United States Patent Applications
+[R-08.2017]
+The individuals covered by 37 CFR 1.56 have a duty
+to bring to the attention of the examiner, or other
+Office official involved with the examination of a
+particular application, information within their
+knowledge as to other copending United States
+applications which are “material to patentability” of
+the application in question. This may include
+providing the identification of pending or abandoned
+applications filed by at least one of the inventors or
+assigned to the same assignee as the current
+application that disclose similar subject matter that
+are not otherwise identified in the current
+application. As set forth by the court in Armour &
+Co. v. Swift & Co., 466 F.2d 767, 779, 175 USPQ
+70, 79 (7th Cir. 1972):
+
+2000-7
+
+Rev. 07.2022, February 2023
+
+§ 2001.06(c)
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+2001.06(c) Information From Related
+Litigation and/or Trial Proceedings
+[R-08.2017]
+
+[W]e think that it is unfair to the busy examiner,
+no matter how diligent and well informed he
+may be, to assume that he retains details of
+every pending file in his mind when he is
+reviewing a particular application . . . [T]he
+applicant has the burden of presenting the
+examiner with a complete and accurate record
+to support the allowance of letters patent.
+See also MPEP § 2004, paragraph 9.
+Accordingly, the individuals covered by 37 CFR
+1.56 cannot assume that the examiner of a particular
+application is necessarily aware of other applications
+which are “material to patentability” of the
+application in question, but must instead bring such
+other applications to the attention of the examiner.
+See Regeneron Pharm., Inc. v. Merus B.V., 144 F.
+Supp. 3d 530, 560 (S.D.N.Y. 2015), and Dayco
+Prod., Inc. v. Total Containment, Inc., 329 F.3d
+1358, 1365-69, 66 USPQ2d 1801, 1806-08 (Fed.
+Cir. 2003). For example, if a particular inventor has
+different applications pending which disclose similar
+subject matter but claim patentably indistinct
+inventions, the existence of other applications must
+be disclosed to the examiner of each of the involved
+applications. Similarly, the prior art references from
+one application must be made of record in another
+subsequent application if such prior art references
+are “material to patentability” of the subsequent
+application. See Dayco Prod., 329 F.3d at 1369, 66
+USPQ2d at 1808.
+If the application under examination is identified as
+a continuation, divisional, or continuation-in-part of
+an earlier application, the examiner will consider the
+prior art properly cited in the earlier application. See
+MPEP § 609 and MPEP § 719.05, subsection (II)(A),
+example J. The examiner must indicate in the first
+Office action whether the prior art in a related earlier
+application has been reviewed. Accordingly, no
+separate citation of the same prior art need be made
+in the later application, unless applicant wants a
+listing of the prior art printed on the face of the
+patent.
+
+Rev. 07.2022, February 2023
+
+The America Invents Act (AIA) added trial
+proceedings to be conducted by the Patent Trial and
+Appeal Board (PTAB) including inter partes review
+proceedings, post-grant review, covered business
+method reviews, and derivation. In many instances,
+these trial proceedings yield information that may
+be considered material to pending related patent
+applications. Where the subject matter for which a
+patent is being sought is or has been involved in
+litigation and/or a trial proceeding, or the litigation
+and/or trial proceeding yields information material
+to currently pending applications, the existence of
+such litigation and any other material information
+arising therefrom must be brought to the attention
+of the examiner or other appropriate official at the
+U.S. Patent and Trademark Office. In particular,
+material information that is raised in trial
+proceedings that is relevant to related applications
+undergoing examination should be submitted on an
+Information Disclosure Statement for the examiner’s
+consideration. Examples of such material
+information include evidence of possible prior public
+use or sales, questions of inventorship, prior art,
+allegations of “fraud,” “inequitable conduct,” and
+“violation of duty of disclosure.” Another example
+of such material information is any assertion that is
+made during litigation and/or trial proceeding which
+is contradictory to assertions made to the examiner.
+Environ Prods., Inc. v. Total Containment, Inc., 43
+USPQ2d 1288, 1291 (E.D. Pa. 1997). Such
+information might arise during litigation and/or trial
+proceeding in, for example, pleadings, admissions,
+discovery including interrogatories, depositions, and
+other documents and testimony.
+Where a patent for which reissue is being sought is,
+or has been, involved in litigation and/or trial
+proceeding which raised a question material to
+examination of the reissue application, such as the
+validity of the patent, or any allegation of “fraud,”
+“inequitable conduct,” or “violation of duty of
+disclosure,” the existence of such litigation and/or
+trial proceeding must be brought to the attention of
+the examiner by the applicant at the time of, or
+shortly after, filing the application. Such information
+can be disclosed either in the reissue oath or
+
+2000-8
+
+DUTY OF DISCLOSURE
+
+declaration, or in a separate paper, preferably
+accompanying the application, as filed. Litigation
+and/or trial proceedings that begin after filing of the
+reissue application should be promptly brought to
+the attention of the Office. The details and
+documents from the litigation and/or trial
+proceedings, insofar as they are “material to
+patentability” of the reissue application as defined
+in 37 CFR 1.56, should accompany the application
+as filed, or be submitted as promptly thereafter as
+possible. See Critikon, Inc. v. Becton Dickinson
+Vascular Access, Inc., 120 F.3d 1253, 1258-59, 43
+USPQ2d 1666, 1670-71 (Fed. Cir. 1997) (patent
+held unenforceable due to inequitable conduct based
+on patentee's failure to disclose a relevant reference
+and for failing to disclose ongoing litigation).
+For example, the defenses raised against validity of
+the patent, or charges of “fraud” or “inequitable
+conduct” in the litigation, would normally be
+“material to the examination” of the reissue
+application. It would, in most situations, be
+appropriate to bring such defenses to the attention
+of the Office by filing in the reissue application a
+copy of the court papers raising such defenses. At a
+minimum, the applicant should call the attention of
+the Office to the litigation, the existence and the
+nature of any allegations relating to validity and/or
+“fraud,” or “inequitable conduct” relating to the
+original patent, and the nature of litigation materials
+relating to these issues. Enough information should
+be submitted to clearly inform the Office of the
+nature of these issues so that the Office can
+intelligently evaluate the need for asking for further
+materials in the litigation. See MPEP § 1442.04.
+If litigation papers of a live litigation relating to a
+pending reissue application are filed with the Office,
+the Solicitor’s Office should be notified of the filing
+of the litigation papers in the application file. If the
+litigation is not live, the litigation papers are
+processed by the Technology Center assigned the
+reissue application.
+
+2001.06(d) Information Relating to Claims
+Copied From a Patent [R-08.2017]
+Where claims are copied or substantially copied from
+a patent, 37 CFR 41.202(a) requires the applicant,
+at the time he or she presents the claim(s), to identify
+
+§ 2001.06(e)
+
+the patent and the numbers of the patent claims.
+Clearly, the information required by 37 CFR
+41.202(a) as to the source of copied claims is
+material information under 37 CFR 1.56 and failure
+to inform the USPTO of such information may
+violate the duty of disclosure.
+
+2001.06(e) Information Relating to
+Regulatory Review [R-07.2022]
+Where relevant documentation is submitted to a
+regulatory review body, such as the U.S. Food &
+Drug Administration (FDA), and is material to any
+pending patent application or reexamination
+proceeding, such documentation should be submitted
+for Office review. While the considerations made
+by the FDA for approving clinical trials are different
+from those made by the USPTO in determining
+whether a claim is patentable, submissions,
+particularly any assertion that is made which is
+contradictory to assertions made to the examiner,
+may be material to ongoing patent proceedings.
+Belcher Pharmaceuticals, LLC v. Hospira, Inc., 11
+F.4th 1345, 1353-54, 2021 USPQ2d 909 (Fed. Cir.
+2021). See also MPEP § 2164.05. Duty of disclosure
+may require that if the actual filing date of an
+application is after the date of the applicant’s date
+of marketing approval by FDA, and the applicant
+intends to list any resulting patent in the orange book
+for that product, informing the USPTO during
+examination of the application of that intent and
+applicant should consider providing the Paragraph
+IV “factual and legal basis” notice to USPTO.
+Accordingly, each party presenting a paper to the
+USPTO, whether a practitioner or non-practitioner,
+has a duty to perform an inquiry that is reasonable
+under the circumstances. This reasonable inquiry
+may comprise reviewing documents that are
+submitted to or received from other Government
+agencies, including the FDA. If any reviewed
+document is material to the patentability of a pending
+matter before the Office, such as a patent application
+(including a reissue application), or a reexamination
+proceeding, the party has a duty to submit the
+information to the USPTO. 37 CFR 1.56, 1.555, and
+11.18(b)(2). A duty of reasonable inquiry may exist
+based on circumstances known to the party
+presenting the paper to the USPTO. Failing to inquire
+when the circumstances warrant it could result in
+
+2000-9
+
+Rev. 07.2022, February 2023
+
+§ 2002
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+sanctions or other action under 37 CFR 11.18(c),
+which may include: (1) striking the offending paper;
+(2) referring a practitioner’s conduct to the Director
+of Enrollment and Discipline for appropriate action;
+(3) precluding a party or practitioner from submitting
+a paper, or presenting or contesting an issue; (4)
+affecting the weight given to the offending paper;
+or (5) terminating the proceedings in the Office. See,
+e.g., In re Hao, Proceeding No. D2021-14 (USPTO
+Apr. 27, 2022) (involving disciplinary sanctions
+predicated on non-compliance with 37 CFR 11.18).
+See also MPEP § 2015.
+
+2002 Disclosure — By Whom and How Made
+[R-08.2012]
+37 CFR 1.56 Duty to disclose information material to
+patentability.
+*****
+(d) Individuals other than the attorney, agent or inventor
+may comply with this section by disclosing information to the
+attorney, agent, or inventor.
+*****
+
+file, or other proceeding must be furnished for each file to which
+the paper pertains, even though the contents of the papers filed
+in two or more files may be identical. The filing of duplicate
+copies of correspondence in the file of an application, patent,
+or other proceeding should be avoided, except in situations in
+which the Office requires the filing of duplicate copies. The
+Office may dispose of duplicate copies of correspondence in
+the file of an application, patent, or other proceeding.
+*****
+
+A disclosure under 37 CFR 1.56 must be in writing
+as prescribed by 37 CFR 1.2, and a copy of any such
+disclosure must be filed in each application or other
+proceeding to which the disclosure pertains (37 CFR
+1.4(b)). “The presentation to the Office (whether by
+signing, filing, or submitting) of any paper by a
+party, whether a practitioner or non-practitioner,
+constitutes a certification under § 11.18(b).” 37 CFR
+1.4(d)(4)(i). 37 CFR 11.18(b) includes paragraph
+(b)(2), which calls for a duty of reasonable inquiry
+to ensure that the paper is not being presented for
+any improper purpose, the legal contentions are
+warranted by law, the allegations and other factual
+contentions have evidentiary support, and the denials
+of factual contentions are warranted on the evidence.
+
+2002.01 By Whom Made [R-08.2012]
+2003 Disclosure __ When Made [R-07.2022]
+37 CFR 1.56(d) makes clear that information may
+be disclosed to the Office through an attorney or
+agent of record or through a pro se inventor, and
+that other individuals may satisfy their duty of
+disclosure to the Office by disclosing information
+to such an attorney, agent, or inventor who then is
+responsible for disclosing the same to the Office.
+Information that is not material need not be passed
+along to the Office.
+
+(a) In order for an applicant for a patent or for a reissue of
+a patent to have an information disclosure statement in
+compliance with § 1.98 considered by the Office during the
+pendency of the application, the information disclosure statement
+must satisfy one of paragraphs (b), (c), or (d) of this section.
+
+2002.02 Must be in Writing [R-07.2022]
+
+(1) Within three months of the filing date of a national
+application other than a continued prosecution application under
+§ 1.53(d);
+
+37 CFR 1.2 Business to be transacted in writing.
+All business with the Patent and Trademark Office should be
+transacted in writing. The personal attendance of applicants or
+their attorneys or agents at the Patent and Trademark Office is
+unnecessary. The action of the Patent and Trademark Office
+will be based exclusively on the written record in the Office.
+No attention will be paid to any alleged oral promise, stipulation,
+or understanding in relation to which there is disagreement or
+doubt.
+37 CFR 1.4 Nature of correspondence and signature
+requirements.
+*****
+(b) Since each file must be complete in itself, a separate
+copy of every paper to be filed in a patent application, patent
+
+Rev. 07.2022, February 2023
+
+37 CFR 1.97 Filing of information disclosure statement.
+
+(b) An information disclosure statement shall be considered
+by the Office if filed by the applicant within any one of the
+following time periods:
+
+(2) Within three months of the date of entry of the
+national stage as set forth in § 1.491 in an international
+application;
+(3) Before the mailing of a first Office action on the
+merits;
+(4) Before the mailing of a first Office action after the
+filing of a request for continued examination under § 1.114; or
+(5) Within three months of the date of publication of
+the international registration under Hague Agreement Article
+10(3) in an international design application.
+(c) An information disclosure statement shall be considered
+by the Office if filed after the, period specified in paragraph (b)
+of this section, provided that the information disclosure statement
+is filed before the mailing date of any of a final action under §
+
+2000-10
+
+DUTY OF DISCLOSURE
+
+1.113, a notice of allowance under § 1.311, or an action that
+otherwise closes prosecution in the application, and it is
+accompanied by one of:
+
+§ 2003.01
+
+possible for reissue applications, and reexamination
+proceedings.
+
+(1) The statement specified in paragraph (e) of this
+section; or
+(2) The fee set forth in § 1.17(p).
+(d) An information disclosure statement shall be considered
+by the Office if filed by the applicant after the period specified
+in paragraph (c) of this section, provided that the information
+disclosure statement is filed on or before payment of the issue
+fee and is accompanied by:
+(1) The statement specified in paragraph (e) of this
+section; and
+(2) The fee set forth in § 1.17(p).
+
+The presumption of validity is generally strong when
+prior art was before and considered by the Office
+and weak when it was not. See Bolkcom v.
+Carborundum Co., 523 F.2d 492, 498, 186 USPQ
+466, 471 (6th Cir. 1975).
+
+2003.01 Disclosure After Patent Is Granted
+[R-07.2022]
+I. BY CITATIONS OF PRIOR ART AND WRITTEN
+STATEMENTS UNDER 37 CFR 1.501
+
+(e) A statement under this section must state either:
+(1) That each item of information contained in the
+information disclosure statement was first cited in any
+communication from a foreign patent office in a counterpart
+foreign application not more than three months prior to the filing
+of the information disclosure statement; or
+(2) That no item of information contained in the
+information disclosure statement was cited in a communication
+from a foreign patent office in a counterpart foreign application,
+and, to the knowledge of the person signing the certification
+after making reasonable inquiry, no item of information
+contained in the information disclosure statement was known
+to any individual designated in § 1.56(c) more than three months
+prior to the filing of the information disclosure statement.
+*****
+
+The provisions of 37 CFR 1.97 specify when an
+information disclosure statement will be considered
+as a matter of right and when a certification must be
+made and/or fee submitted in order to have the
+information disclosure statement considered. In any
+circumstance, information should be submitted
+promptly.
+
+Where a patentee or any member of the public
+(including private persons, corporate entities, and
+government agencies) has certain information which
+they desire to have made of record in the patent file,
+they may file a citation of such information with the
+Office pursuant to 35 U.S.C. 301 and 37 CFR 1.501.
+Such citations will be entered in the patent file
+without comment by the Office. Information which
+may be filed under 37 CFR 1.501 is limited to prior
+art patents, printed publications or written statements
+of the patent owner filed by the patent owner in a
+proceeding before a federal court or the Office in
+which the patent owner took a position on the scope
+of any patent claim. Any citations which include
+items other than those items expressly enumerated
+in 37 CFR 1.501 will not be entered in the patent
+file. See MPEP § 2202 through § 2208.
+II. BY EX PARTE REEXAMINATION
+
+An applicant, attorney, or agent who is aware of
+material prior art or other information and its
+significance should submit the information as early
+as possible in prosecution, e.g., before the first Office
+action, and not wait until after allowance. However,
+potentially material information discovered late in
+the prosecution should be promptly submitted. That
+the issue fee has been paid is no reason or excuse
+for failing to submit information. See MPEP §
+609.04(b). Additionally, applicant should be mindful
+of the incentives of prompt filing of information as
+set forth in 37 CFR 1.704(d)(1).
+
+Where any person, including patentee, has prior art
+patents and/or printed publications which the person
+desires to have the U.S. Patent and Trademark Office
+consider after a patent has issued, such person may
+file a request for ex parte reexamination of the
+patent (see 37 CFR 1.510 and MPEP § 2209 through
+§ 2220). Patent owners or third party requesters may
+bring information, including prior art and incorrect
+or inconsistent positions, to the attention of the
+USPTO through ex parte reexamination.
+
+Likewise, material prior art or other information and
+its significance should be submitted as soon as
+
+Where a patent owner desires that the Office
+consider, reconsider, or correct information,
+
+III. BY SUPPLEMENTAL EXAMINATION
+
+2000-11
+
+Rev. 07.2022, February 2023
+
+§ 2004
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+including prior art and incorrect or inconsistent
+positions, believed to be relevant to the patent, the
+patent owner may file a request for supplemental
+examination. See 37 CFR 1.601-1.625 and MPEP
+Chapter 2800. Supplemental examination became
+available on September 16, 2012, as a result of
+section 257 of Title 35, United States Code, which
+was added by Public Law 112-29, enacted on
+September 16, 2011, known as the Leahy-Smith
+America Invents Act (AIA). In particular, 35 U.S.C.
+257(c)(1) states that “[a] patent shall not be held
+unenforceable on the basis of conduct relating to
+information that had not been considered, was
+inadequately considered, or was incorrect in a prior
+examination of the patent if the information was
+considered, reconsidered, or corrected during a
+supplemental examination of the patent.” Therefore,
+a patent owner may insulate the patent from being
+held unenforceable based on information submitted
+in a properly filed supplemental examination request.
+Unlike ex parte reexamination practice, the
+information that the patent owner may request to be
+considered, reconsidered, or corrected in a
+supplemental examination proceeding is not limited
+to patents, printed publications, and patent owner
+written statements under 35 U.S.C. 301. The
+“information” may include any information that the
+patent owner believes to be relevant to the patent.
+For example, the information may include not only
+a patent or a journal article, but also a sales invoice,
+or a transcript of an audio or video recording. In
+addition, the information submitted as part of a
+request for supplemental examination may involve
+any ground of patentability, such as, for example,
+patent eligible subject matter, anticipation, public
+use or sale, obviousness, written description,
+enablement, and indefiniteness.
+IV. REISSUE
+
+Patent owners may bring information, including prior
+art and incorrect or inconsistent positions, to the
+attention of the USPTO through reissue applications.
+If any reviewed document is material to the
+patentability (i.e., those submitted to another
+Government entity) of a pending matter before the
+Office, such as reissue application, there is a duty
+to submit the information to the USPTO. 37 CFR
+1.56 and 11.18(b)(2). See MPEP § 2015.
+
+Rev. 07.2022, February 2023
+
+2004 Aids to Compliance With Duty of
+Disclosure [R-07.2022]
+While it is not appropriate to attempt to set forth
+procedures by which attorneys, agents, and other
+individuals may ensure compliance with the duty of
+disclosure, the items listed below are offered as
+examples of possible procedures which could help
+avoid problems with the duty of disclosure. Though
+compliance with these procedures may not be
+required, they are presented as helpful suggestions
+or best practices to avoid duty of disclosure
+problems.
+1. Many attorneys, both corporate and private, are
+using letters and questionnaires for applicants and
+others involved with the filing and prosecution of
+the application and checklists for themselves and
+applicants to ensure compliance with the duty of
+disclosure. The letter generally explains the duty of
+disclosure and what it means to the inventor and
+assignee. The questionnaire asks the inventor and
+assignee questions about:
+__ the origin of the invention and its point of
+departure from what was previously known and in
+the prior art,
+__ possible public uses and sales (See GS Cleantech
+Corp. v. Adkins Energy LLC, 951 F.3d 1310, 2020
+USPQ2d 10092 (Fed. Cir. 2020)),
+__ prior publication, knowledge, patents, foreign
+patents, etc.
+The checklist is used by the attorney to ensure that
+the applicant has been informed of the duty of
+disclosure and that the attorney has inquired of and
+cited material prior art.
+The use of these types of aids would appear to be
+most helpful, though not required, in identifying
+prior art and may well help the attorney and the
+client avoid or more easily explain a potentially
+embarrassing and harmful “fraud” allegation.
+2. It is desirable to ask questions about inventorship.
+Who is the proper inventor? Are there disputes or
+
+2000-12
+
+DUTY OF DISCLOSURE
+
+§ 2004
+
+possible disputes about inventorship? If there are
+questions, call them to the attention of the U.S.
+Patent and Trademark Office.
+
+1.56 may still require the submission of prior art or
+other information which is not as close as that of
+record.
+
+3. It is desirable to ask questions of the inventor
+about the disclosure of the best mode. Make sure
+that the best mode is described. See MPEP §§ 2165
+- 2165.04.
+
+7. Care should be taken to see that prior art or other
+information cited in a specification or in an
+information disclosure statement is properly
+described and that the information is not incorrectly
+or incompletely characterized. See Apotex v. UCB,
+Inc., 763 F.3d 1354, 1361-62, 112 USPQ2d 1081,
+1087-88 (Fed. Cir. 2014)(finding that the patent
+specification omitted material information was
+among the facts that supported a conclusion that the
+patent is unenforceable due to inequitable conduct).
+It is particularly important for an attorney or agent
+to review, before filing, an application which was
+prepared by someone else, e.g., a foreign applicant
+or practitioner. It is also important that an attorney
+or agent make sure that foreign clients, including
+foreign applicants, attorneys, and agents understand
+the requirements of the duty of disclosure, and that
+the U.S. attorney or agent review any information
+disclosure statements or citations to ensure that
+compliance with 37 CFR 1.56 is present. See
+Semiconductor Energy Laboratory Co. v. Samsung
+Electronics Co., 204 F.3d 1368, 54 USPQ2d 1001
+(Fed. Cir. 2000). In this case, during prosecution the
+patentee submitted an untranslated 29-page Japanese
+reference as well as a concise explanation of its
+relevance and an existing one-page partial English
+translation, both of which were directed to less
+material portions of the reference. The untranslated
+portions of the Japanese reference “contained a more
+complete combination of the elements claimed [in
+the patent] than anything else before the PTO.” 204
+F.3d at 1374, 54 USPQ2d at 1005. The patentee,
+whose native language was Japanese, was held to
+have understood the materiality of the reference.
+“The duty of candor does not require that the
+applicant translate every foreign reference, but only
+that the applicant refrain from submitting partial
+translations and concise explanations that it knows
+will misdirect the examiner’s attention from the
+reference’s relevant teaching.” 204 F.3d at 1378,
+54 USPQ2d at 1008. See also Gemveto Jewelry Co.
+v. Lambert Bros., Inc., 542 F. Supp. 933, 216 USPQ
+976 (S.D.N.Y. 1982) wherein a patent was held
+invalid or unenforceable because patentee’s foreign
+counsel did not disclose to patentee’s United States
+counsel or to the Office prior art cited by the Dutch
+
+4. It is desirable for an attorney or agent to make
+certain that the inventor, especially a foreign
+inventor, recognizes his or her responsibilities in
+signing the oath or declaration. See 37 CFR 1.69(a).
+37 CFR 1.69 Foreign language oaths and declarations.
+(a) Whenever an individual making an oath or declaration
+cannot understand English, the oath or declaration must be in a
+language that such individual can understand and shall state that
+such individual understands the content of any documents to
+which the oath or declaration relates.
+*****
+
+Note MPEP § 602.06 for a more detailed discussion.
+5. It is desirable for an attorney or agent to carefully
+evaluate and explain to the applicant and others
+involved the scope of the claims, particularly the
+broadest claims. Ask specific questions about
+possible prior art which might be material in
+reference to the broadest claim or claims. There is
+some tendency to mistakenly evaluate prior art in
+the light of the gist of what is regarded as the
+invention or narrower interpretations of the claims,
+rather than measuring the art against the broadest
+claim with all of its reasonable interpretations. It is
+desirable to pick out the broadest claim or claims
+and measure the materiality of prior art against a
+reasonably broad interpretation of these claims.
+6. It may be useful to evaluate the materiality of prior
+art or other information from the viewpoint of
+whether it is the closest prior art or other
+information. This will tend to put the prior art or
+other information in better perspective. See
+Semiconductor Energy Laboratory Co. v. Samsung
+Electronics Co., 204 F.3d 1368, 1374, 54 USPQ2d
+1001, 1005 (Fed. Cir. 2000) (“A withheld reference
+may be highly material when it discloses a more
+complete combination of relevant features, even if
+those features are before the patent examiner in other
+references.” (citations omitted)). However, 37 CFR
+
+2000-13
+
+Rev. 07.2022, February 2023
+
+§ 2004
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+Patent Office in connection with the patentee’s
+corresponding Dutch application. The court stated,
+542 F. Supp. at 943, 216 USPQ at 985:
+Foreign patent attorneys representing applicants
+for U.S. patents through local correspondent
+firms surely must be held to the same standards
+of conduct which apply to their American
+counterparts; a double standard of
+accountability would allow foreign attorneys
+and their clients to escape responsibility for
+fraud or inequitable conduct merely by
+withholding from the local correspondent
+information unfavorable to patentability and
+claiming ignorance of United States disclosure
+requirements.
+8. Care should be taken to see that inaccurate
+statements, inaccurate evidence or inaccurate
+experiments are not introduced into the record, either
+inadvertently or intentionally. For example, stating
+that an experiment “was run” or “was conducted”
+when, in fact, the experiment was not run or
+conducted is a misrepresentation of the facts. See
+Apotex v. UCB, Inc., 763 F.3d 1359, 112 USPQ2d
+1085 (Fed. Cir. 2014). No results should be
+represented as actual results unless they have actually
+been achieved. Paper or prophetic examples should
+not be described using the past tense. Hoffman-La
+Roche, Inc. v. Promega Corp., 323 F.3d 1354, 1367,
+66 USPQ2d 1385, 1394 (Fed. Cir. 2003); see also
+MPEP § 608.01(p), subsection II and § 707.07(l).
+Also, misrepresentations can occur when
+experiments which were run or conducted are
+inaccurately reported in the specification, e.g., an
+experiment is changed by leaving out one or more
+ingredients. See Steierman v. Connelly, 192 USPQ
+433 (Bd. Pat. Int. 1975); 192 USPQ 446 (Bd. Pat.
+Int. 1976). Misrepresentations can also occur in
+declarations submitted to the Office. See Intellect
+Wireless v. HTC Corp., 732 F. 3d 1339, 1342, 108
+USPQ2d 1563, 1565 (Fed. Cir. 2013) wherein
+applicants submitted a declaration under 37 CFR
+1.131 containing false statements regarding reduction
+to practice of the claimed invention.
+When drafting a patent application, it is a best
+practice to take care to ensure the proper tense is
+employed to describe experiments and test results
+so readers can readily distinguish between actual
+
+Rev. 07.2022, February 2023
+
+results and predicted results. Any ambiguities should
+be resolved so a person having ordinary skill in the
+art reading the disclosure, including those who may
+not have the level of skill of the inventor, can rely
+on the disclosure as an accurate description of
+experiments that support the patent claim coverage.
+It is a best practice to label examples as prophetic
+or otherwise separate them from working examples
+to avoid ambiguities. Such presentation will help a
+reader easily distinguish prophetic examples from
+working examples with actual experimental results
+and will enhance the public’s ability to rely on the
+patent disclosure. See
+Properly Presenting
+Prophetic and Working Examples in a Patent
+Application, 86 Fed. Reg. 35074, 5 (July 1, 2021).
+9. Do not rely on the examiner of a particular
+application to be aware of other applications
+belonging to the same applicant or assignee. It is
+desirable to call such applications to the attention of
+the examiner even if there is only a question that
+they might be “material to patentability” of the
+application the examiner is considering. See Dayco
+Prod., Inc. v. Total Containment, Inc., 329 F.3d
+1358, 1365-69, 66 USPQ2d 1801, 1806-08 (Fed.
+Cir. 2003) (contrary decision of another examiner
+reviewing substantially similar claims is ‘material’;
+copending application may be ‘material’ even though
+it cannot result in a shorter patent term, when it could
+affect the rights of the patentee to assign the issued
+patents). It is desirable to be particularly careful that
+prior art or other information in one application is
+cited to the examiner in other applications to which
+it would be material. Do not assume that an examiner
+will necessarily remember, when examining a
+particular application, other applications which the
+examiner is examining, or has examined. A “lapse
+on the part of the examiner does not excuse the
+applicant.” KangaROOS U.S.A., Inc. v. Caldor, Inc.,
+778 F.2d 1571, 1576, 228 USPQ 32, 35 (Fed. Cir.
+1985); see also MPEP § 2001.06(b).
+10. When in doubt, it is desirable and safest to
+submit information. Even though the attorney, agent,
+or applicant does not consider it necessarily material,
+someone else may see it differently and embarrassing
+questions can be avoided. The court in U.S.
+Industries v. Norton Co., 210 USPQ 94, 107 (N.D.
+N.Y. 1980) stated “[i]n short, the question of
+relevancy in close cases, should be left to the
+
+2000-14
+
+DUTY OF DISCLOSURE
+
+examiner and not the applicant.” See also LaBounty
+Mfg., Inc. v. U.S. Int’l Trade Comm’n, 958 F.2d
+1066, 22 USPQ2d 1025 (Fed. Cir. 1992).
+11. It is desirable to submit material information
+about prior uses and sales even if it appears that they
+may have been experimental, not involve the
+specifically claimed invention, or not encompass a
+completed invention. See TransWeb v. 3M, 812 F.3d
+1295, 1300, 117 USPQ2d 1617, 1619-20 (Fed. Cir.
+2016). See also Hycor Corp. v. The Schlueter Co.,
+740 F.2d 1529, 1534-37, 222 USPQ 553, 557-59
+(Fed. Cir. 1984), LaBounty Mfg., Inc. v. U.S. Int’l
+Trade Comm’n, 958 F.2d 1066, 22 USPQ2d 1025
+(Fed. Cir. 1992), and GS Cleantech Corp. v. Adkins
+Energy LLC, 951 F.3d 1310, 2020 USPQ2d 10092
+(Fed. Cir. 2020).
+12. Submit information promptly. An applicant,
+attorney, or agent who is aware of prior art or other
+information and its significance should submit the
+same early in prosecution, e.g., before the first action
+by the examiner, and not wait until after allowance.
+Potentially material information discovered late in
+the prosecution should be immediately submitted.
+That the issue fee has been paid is no reason or
+excuse for failing to submit information. See
+Elmwood Liquid Products, Inc. v. Singleton Packing
+Corp., 328 F. Supp. 974, 170 USPQ 398 (M.D. Fla.
+1971).
+13. It is desirable to avoid the submission of long
+lists of documents if it can be avoided. Eliminate
+clearly irrelevant and marginally pertinent
+cumulative information. If a long list is submitted,
+highlight those documents which have been
+specifically brought to applicant’s attention and/or
+are known to be of most significance. See Penn Yan
+Boats, Inc. v. Sea Lark Boats, Inc., 359 F. Supp. 948,
+175 USPQ 260 (S.D. Fla. 1972), aff’d, 479 F.2d
+1338, 178 USPQ 577 (5th Cir. 1973), cert. denied,
+414 U.S. 874 (1974). But cf. Molins PLC v. Textron
+Inc., 48 F.3d 1172, 33 USPQ2d 1823 (Fed. Cir.
+1995).
+14. Watch out for continuation-in-part (CIP)
+applications where intervening material information
+or documents may exist; particularly watch out for
+foreign patents and publications related to the parent
+application and dated more than 1 year before the
+
+§ 2004
+
+filing date of the CIP. These and other intervening
+documents may be material information. See In re
+Ruscetta, 255 F.2d 687, 690-91, 118 USPQ 101, 104
+(CCPA 1958); In re van Langenhoven, 458 F.2d
+132, 173 USPQ 426 (CCPA 1972); Chromalloy
+American Corp. v. Alloy Surfaces Co., 339 F. Supp.
+859, 173 USPQ 295 (D. Del. 1972).
+15. Watch out for information that might be deemed
+to be prior art under pre-AIA 35 U.S.C. 102(f) and
+(g).
+Prior art under pre-AIA 35 U.S.C. 102(f) may be
+available under pre-AIA 35 U.S.C. 103. See
+OddzOn Products, Inc. v. Just Toys, Inc., 122 F.3d
+1396, 1401, 43 USPQ2d 1641, 1644 (Fed. Cir.
+1997)(35 U.S.C. “102(f) is a prior art provision for
+purposes of § 103”); Dale Electronics v. R.C.L.
+Electronics, 488 F.2d 382, 386, 180 USPQ 225, 227
+(1st. Cir. 1973); and Ex parte Andresen, 212 USPQ
+100, 102 (Bd. App. 1981).
+Note also that evidence of prior invention under
+pre-AIA 35 U.S.C. 102(g) may be available under
+pre-AIA 35 U.S.C. 103, such as in In re Bass, 474
+F.2d 1276, 177 USPQ 178 (CCPA 1973). In
+addition, the AIA provides that the provisions of
+pre-AIA 35 U.S.C. 102(g) apply to each claim of an
+AIA application for patent if the patent application:
+(1) contains or contained at any time a claim to a
+claimed invention having an effective filing date as
+defined in 35 U.S.C. 100(i) that occurs before March
+16, 2013; or (2) is ever designated as a continuation,
+divisional, or continuation-in-part of an application
+that contains or contained at any time a claim to a
+claimed invention that has an effective filing date
+before March 16, 2013.
+Note pre-AIA 35 U.S.C. 103(c) disqualifies pre-AIA
+35 U.S.C. 102(f)/103 or 102(g)/103 prior art which
+was, at the time the second invention was made,
+owned by or subject to an obligation of assignment
+to, the person who owned the first invention. Further
+note that pre-AIA 35 U.S.C. 103(c) disqualifies
+pre-AIA 35 U.S.C. 102(e)/103 prior art for
+applications filed on or after November 29, 1999.
+See MPEP §§ 2146 - 2146.02.
+16. Watch out for information picked up or disclosed
+by the inventors and others at conventions, plant
+
+2000-15
+
+Rev. 07.2022, February 2023
+
+§ 2005
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+visits, in-house reviews, etc. See, for example, Dale
+Electronics v. R.C.L. Electronics, 488 F.2d 382,
+386-87, 180 USPQ 225, 228 (1st Cir. 1973).
+17. Make sure that all of the individuals who are
+subject to the duty of disclosure, such as spelled out
+in 37 CFR 1.56, are informed of and fulfill their
+duty.
+18. If information was specifically considered and
+discarded as not material, this fact might be recorded
+in an attorney’s file or applicant’s file, including the
+reason for discarding it. If judgment might have been
+bad or something might have been overlooked
+inadvertently, a note made at the time of evaluation
+might be an invaluable aid in explaining that the
+mistake was honest and excusable. Though such
+records are not required, they could be helpful in
+recalling and explaining actions in the event of a
+question of “fraud” or “inequitable conduct” raised
+at a later time.
+19. Finally, where relevant documentation is
+submitted to a regulatory review body, such as the
+Food & Drug Administration (FDA), and is material
+to a pending patent application, such documentation
+should be submitted for examiner review. While the
+considerations made by the FDA for approving
+clinical trials are different from those made by the
+USPTO in determining whether a claim is patentable,
+submissions, particularly opposing arguments, may
+be material to ongoing patent prosecution. Belcher
+Pharmaceuticals, LLC v. Hospira, Inc., 11 F.4th
+1345, 1353-54, 2021 USPQ2d 909 (Fed. Cir. 2021).
+
+2005 Comparison to Requirements for
+Information [R-07.2022]
+Under 37 CFR 1.56, each individual associated with
+the filing and prosecution of a patent application has
+a duty to disclose on their own initiative information
+material to patentability under 37 CFR 1.56. By
+contrast, under 37 CFR 1.105, an examiner or other
+Office employee is authorized to require, from
+parties identified in 37 CFR 1.56, information
+reasonably necessary to examine or treat a matter in
+an application. The provisions of 37 CFR 1.105 are
+detailed in MPEP § 704.10 - MPEP § 704.14 et seq.
+The criteria for requiring information under
+37 CFR 1.56, i.e., materiality to the patentability of
+
+Rev. 07.2022, February 2023
+
+claimed subject matter, is substantially higher than
+the criteria for requiring information under 37 CFR
+1.105, i.e., reasonable necessity to the examination
+of the application. See, e.g., Star Fruits S.N.C. v.
+United States, 61393 F.3d 1277, 1282, 73 USPQ2d
+1409, 1413 (Fed. Cir. 2005) (“We think it clear that
+‘such information as may be reasonably necessary
+to properly examine or treat the matter,’ 37 C.F.R.
+1.105(a)(1), contemplates information relevant to
+examination either procedurally or substantively. It
+includes a zone of information beyond that defined
+by section 1.56 as material to patentability, and
+beyond that which is directly useful to support a
+rejection or conclusively decide the issue of
+patentability.”). See also Hyatt v. USPTO, 797 F.3d
+1374, 116 USPQ2d 1331 (Fed. Cir. 2015).
+Information required by the examiner pursuant to
+37 CFR 1.105 would not necessarily be considered
+material to patentability in itself, but would be
+necessary to obtain a complete record from which a
+determination of patentability will be made.
+Therefore, when an examiner has a reasonable basis
+to conclude that an individual identified under 37
+CFR 1.56(c) or any assignee has information that
+would aid in the examination of the application or
+treatment of some matter, the examiner may require
+additional information. This requirement could
+include statements made or information submitted
+to other Government agencies such as the FDA. For
+example, when examining a claim directed to a
+process of manufacturing a particular drug product
+that was effectively filed more than one year after
+FDA approval of the drug product, an examiner may
+appropriately require an applicant to submit to the
+USPTO information submitted to the FDA (e.g., in
+a New Drug Application or Biologics License
+Application) on how the drug product was
+manufactured.
+
+2006-2009 [Reserved]
+
+2010 Office Handling of Duty of
+Disclosure/Inequitable Conduct Issues
+[R-08.2017]
+It is the courts and not the Office that are in the best
+position to fashion an equitable remedy to fit the
+
+2000-16
+
+DUTY OF DISCLOSURE
+
+precise facts in those cases where inequitable
+conduct is established. Furthermore, inequitable
+conduct is not set by statute as a criteria for
+patentability but rather is a judicial application of
+the doctrine of unclean hands which is appropriate
+to be handled by the courts rather than by an
+administrative body. Because of the lack of tools in
+the Office to deal with this issue and because of its
+sensitive nature and potential impact on a patent,
+examiner determinations generally will not deter
+subsequent litigation of the same issue in the courts
+on appeal or in separate litigation. In addition,
+examiner determinations would significantly add to
+the expense and time involved in obtaining a patent
+with little or no benefit to the patent owner or any
+other parties with an interest.
+Accordingly, the examiner does not investigate and
+reject original or reissue applications under 37 CFR
+1.56. Likewise, the examiner will not comment upon
+duty of disclosure issues which are brought to the
+attention of the Office except to note, in appropriate
+circumstances, that such issues are not considered
+by the examiner during examination of patent
+applications, or during reexamination proceedings
+or supplemental examination.
+Issues of fraud and/or inequitable conduct in an
+interference proceeding before the Board may be
+considered by the Board if there is a showing of good
+cause.
+
+2011 Correction of Errors in Application
+[R-07.2022]
+In some instances an application may be filed
+containing an error. For example, an application may
+be filed with an inventorship error.
+35 U.S.C. 116 Inventors.
+*****
+(c) CORRECTION OF ERRORS IN APPLICATION.—
+Whenever through error a person is named in an application for
+patent as the inventor, or through an error an inventor is not
+named in an application, the Director may permit the application
+to be amended accordingly, under such terms as he prescribes.
+
+§ 2011
+
+had to specify that such changes “arose without any
+deceptive intent”. Even though the “deceptive intent”
+language has been removed from the law, applicants
+still have a duty to exercise candor and good faith
+in all dealings with the Office. When an error is
+discovered, applicant should take steps to ensure
+that the error is corrected as soon as possible. See
+MPEP § 602.01 et seq. and MPEP § 602.09 for
+additional information.
+In instances when an applicant submits other
+information (i.e., errors other than inventorship) to
+the Office that is incorrectly or incompletely
+characterized, applicant should:
+expressly advise the PTO of [the
+misrepresentation’s]
+existence,
+stating
+specifically wherein it resides. . . . It does not
+suffice that one knowing of misrepresentations
+in an application or in its prosecution merely
+supplies the examiner with accurate facts
+without calling his attention to the untrue or
+misleading assertions sought to be overcome,
+leaving him to formulate his own conclusions.
+See Intellect Wireless v. HTC Corp. , 732 F.3d 1339,
+1343, 108 USPQ2d 1563, 1565 (Fed. Cir. 2013).
+Applicants should disclose to the USPTO any
+information that refutes, or is inconsistent with, a
+position the applicant takes in: (i) opposing an
+argument of unpatentability relied on by the Office,
+or (ii) asserting an argument of patentability. See 37
+CFR 1.56(b)(2).
+In order to assure that any correction is fully
+considered by the examiner, applicants should file
+the correction “openly”, as in filing the correction
+under separate cover so that the examiner will not
+be left to determine what is correct. Id. See also
+Rohm & Haas Co. v. Crystal Chemical Co., 722
+F.2d 1556, 1572, 220 USPQ 289, 301 (Fed. Cir.
+1983). 37 CFR 1.4(c) requires that each distinct
+subject must be contained in a separate paper to
+avoid confusion and delay in responding.
+
+For applications filed on or after September 16,
+2012, an inventorship error may be corrected without
+disclosure of the circumstances of the error.
+Previously under pre-AIA 35 U.S.C. 116, applicants
+
+2000-17
+
+Rev. 07.2022, February 2023
+
+§ 2012
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+It is clear that “fraud” cannot be purged through the
+reissue process. See conclusions of Law 89 and 91
+in Intermountain Research and Eng’g Co. v.
+Hercules Inc., 171 USPQ 577, 631-32 (C.D. Cal.
+1971).
+
+2012 Reissue Applications Involving Issues
+of Fraud, Inequitable Conduct, and/or
+Violation of Duty of Disclosure [R-08.2017]
+[Editor Note: This MPEP section is only applicable
+to reissue applications filed before September 16,
+2012. For reissue applications filed on or after
+September 16, 2012, the requirement to state that
+the errors arose "without any deceptive intention"
+was eliminated consistent with the America Invents
+Act (AIA) amendments to 35 U.S.C. 251.]
+
+Questions of “fraud,” “inequitable conduct,” or
+violation of “duty of disclosure” or “candor and good
+faith” can arise in reissue applications.
+“ERROR WITHOUT ANY DECEPTIVE
+INTENTION”
+
+For reissue applications filed prior to September 16,
+2012, both pre-AIA 35 U.S.C. 251 and pre-AIA 37
+CFR 1.175 require that the reissue oath or declaration
+must state that the error arose “without any deceptive
+intention.” Further, the examiner should determine
+whether applicant has averred in the reissue oath or
+declaration, as required by pre-AIA 37 CFR
+1.175(a)(2), (b)(1), and (b)(2), that all “errors” arose
+“without any deceptive intention.” However, the
+examiner should not normally comment or question
+as to whether the averred statement as to lack of
+deceptive intention appears correct or true. See
+MPEP § 1414.
+In re Heany, 1911 C.D. 138, 180 (1911),
+unequivocally states:
+
+Clearly, where several patents or applications stem
+from an original application which contained
+fraudulent claims ultimately allowed, the doctrine
+of unclean hands bars allowance or enforcement of
+any of the claims of any of the applications or
+patents. See Keystone Driller Co. v. General
+Excavator Co., 290 U.S. 240, 245, 19 USPQ 228,
+230 (1933); East Chicago Machine Tool Corp. v.
+Stone Container Corp., 181 USPQ 744, 748 (N.D.
+Ill.), modified, 185 USPQ 210 (N.D. Ill. 1974). See
+also Chromalloy American Corp. v. Alloy Surfaces
+Co., 339 F. Supp. 859, 173 USPQ 295 (D.Del. 1972)
+and Strong v. General Electric Co., 305 F. Supp.
+1084, 162 USPQ 141 (N.D. Ga. 1969), aff’d, 434
+F.2d 1042, 168 USPQ 8 (5th Cir. 1970), cert.
+denied, 403 U.S. 906 (1971) where fraud or
+inequitable conduct affecting only certain claims or
+only one of related patents was held to affect the
+other claims or patent. Clearly, “fraud” practiced or
+attempted in an application which issues as a patent
+is “fraud” practiced or attempted in connection with
+any subsequent application to reissue that patent.
+The reissue application and the patent are inseparable
+as far as questions of “fraud,” “inequitable conduct,”
+or “violation of the duty of disclosure” are
+concerned. See In re Heany, supra; and Norton v.
+Curtiss, 433 F.2d 779, 792, 167 USPQ 532, 543
+(CCPA 1970), wherein the court stated:
+We take this to indicate that any conduct which
+will prevent the enforcement of a patent after
+the patent issues should, if discovered earlier,
+prevent the issuance of the patent.
+
+Where such a condition [fraudulent or deceptive
+intention] is shown to exist the right to reissue
+the patent is forfeited.
+Similarly, the court in In re Clark, 522 F.2d 623,
+627, 187 USPQ 209, 213 (CCPA 1975) indicated:
+Reissue is not available to rescue a patentee
+who had presented claims limited to avoid
+particular prior art and then had failed to
+disclose that prior art . . . after that failure to
+disclose has resulted in invalidating of the
+claims.
+
+Rev. 07.2022, February 2023
+
+Clearly, if a reissue patent would not be enforceable
+after reissue because of “fraud,” “inequitable
+conduct” or “violation of the duty of disclosure”
+during the prosecution of the patent sought to be
+reissued, the reissue patent application should not
+be allowed. Where no investigation is needed to
+establish such circumstances, an appropriate remedy
+would be to reject the claims in the reissue
+application in accordance with 35 U.S.C. 251.
+
+2000-18
+
+DUTY OF DISCLOSURE
+
+See MPEP § 1448 for information pertaining to the
+examination of a resissue application when there is
+an admission or judicial determination of fraud,
+inequitable conduct or violation of the duty of
+disclosure.
+
+procuring of said patent. It was held in In re Kahn,
+202 USPQ 772, 773 (Comm’r Pat. 1979):
+Therefore, since the Kahn patent was held
+invalid, inter alia, for “failure to disclose
+material facts of which * * * [Kahn] was
+aware” this application may be stricken under
+37 CFR 1.56 via the doctrine of collateral
+estoppel as set forth in Blonder-Tongue, supra.
+*****
+The Patent and Trademark Office . . . has found
+no clear justification for not adhering to the
+doctrine of collateral estoppel under
+Blonder-Tongue in this case. Applicant has had
+his day in court. He appears to have had a full
+and fair chance to litigate the validity of his
+patent.
+
+2012.01 Collateral Estoppel [R-08.2017]
+[Editor Note: This MPEP section is only applicable
+to reissue applications filed before September 16,
+2012. For reissue applications filed on or after
+September 16, 2012, the requirement to state that
+the errors arose "without any deceptive intention"
+was eliminated consistent with the America Invents
+Act (AIA) amendments to 35 U.S.C. 251.]
+
+The Supreme Court in Blonder-Tongue Labs., Inc.
+v. Univ. of Ill. Found., 402 U.S. 313, 169 USPQ 513
+(1971) set forth the rule that once a patent has been
+declared invalid via judicial inquiry, a collateral
+estoppel barrier is created against further litigation
+involving the patent, unless the patentee-plaintiff
+can demonstrate “that he did not have” a full and
+fair chance to litigate the validity of his patent in
+“the earlier case.” See also Ex parte Varga, 189
+USPQ 209 (Bd. App. 1973). As stated in Kaiser
+Industries Corp. v. Jones & Laughlin Steel Corp.,
+515 F.2d 964, 987, 185 USPQ 343, 362 (3rd Cir.
+1975):
+In fashioning the rule of Blonder-Tongue,
+Justice White for a unanimous Court made it
+clear that a determination of patent invalidity,
+after a thorough and equitable judicial inquiry,
+creates a collateral estoppel barrier to further
+litigation to enforce that patent.
+Under pre-AIA 35 U.S.C. 251, the Director can
+reissue a patent only if there is “error without any
+deceptive intention.” The Director is without
+authority to reissue a patent when “deceptive
+intention” was present during prosecution of the
+parent application. See In re Clark, 522 F.2d 62,
+187 USPQ 209 (CCPA 1975) and In re Heany, 1911
+C.D. 138, 180 (1911). Thus, the collateral estoppel
+barrier applies where reissue is sought of a patent
+which has been held invalid or unenforceable for
+“fraud” or “violation of duty of disclosure” in
+
+§ 2013
+
+See MPEP § 2259 for collateral estoppel in
+reexamination proceedings.
+
+2013 Protests Involving Issues of Fraud,
+Inequitable Conduct, and/or Violation of
+Duty of Disclosure [R-08.2017]
+37 CFR 1.291 permits protests by the public against
+pending applications.
+Submissions under 37 CFR 1.291 are not limited to
+prior art documents such as patents and publications,
+but are intended to include any information, which
+in the protestor’s opinion, would make or have made
+the grant of the patent improper (see MPEP §
+1901.02). This includes, of course, information
+indicating the presence of “fraud” or “inequitable
+conduct” or “violation of the duty of disclosure,”
+which will be entered in the application file,
+generally without comment on the inequitable
+conduct issues raised in it.
+Protests should be in conformance with 37 CFR
+1.291(a) and (b), and include a statement of the
+alleged facts involved, the point or points to be
+reviewed, and the action requested. Any briefs or
+memoranda in support of the petition, and any
+affidavits, declarations, depositions, exhibits, or other
+material in support of the alleged facts, should
+accompany the protest.
+
+2000-19
+
+Rev. 07.2022, February 2023
+
+§ 2014
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+2014 Duty of Disclosure in Reexamination
+Proceedings and Supplemental Examination
+[R-08.2017]
+37 CFR 1.555 Information material to patentability in ex
+parte reexamination and inter partes reexamination
+proceedings.
+(a) A patent by its very nature is affected with a public
+interest. The public interest is best served, and the most effective
+reexamination occurs when, at the time a reexamination
+proceeding is being conducted, the Office is aware of and
+evaluates the teachings of all information material to
+patentability in a reexamination proceeding. Each individual
+associated with the patent owner in a reexamination proceeding
+has a duty of candor and good faith in dealing with the Office,
+which includes a duty to disclose to the Office all information
+known to that individual to be material to patentability in a
+reexamination proceeding. The individuals who have a duty to
+disclose to the Office all information known to them to be
+material to patentability in a reexamination proceeding are the
+patent owner, each attorney or agent who represents the patent
+owner, and every other individual who is substantively involved
+on behalf of the patent owner in a reexamination proceeding.
+The duty to disclose the information exists with respect to each
+claim pending in the reexamination proceeding until the claim
+is cancelled. Information material to the patentability the
+patentability of a cancelled claim need not be submitted if the
+information is not material to patentability of any claim
+remaining under consideration in the reexamination proceeding.
+The duty to disclose all information known to be material to
+patentability in a reexamination proceeding is deemed to be
+satisfied if all information known to be material to patentability
+of any claim in the patent after issuance of the reexamination
+certificate was cited by the Office or submitted to the Office in
+an information disclosure statement. However, the duties of
+candor, good faith, and disclosure have not been complied with
+if any fraud on the Office was practiced or attempted or the duty
+of disclosure was violated through bad faith or intentional
+misconduct by, or on behalf of, the patent owner in the
+reexamination proceeding. Any information disclosure statement
+must be filed with the items listed in § 1.98(a) as applied to
+individuals associated with the patent owner in a reexamination
+proceeding, and should be filed within two months of the date
+of the order for reexamination, or as soon thereafter as possible.
+*****
+(c) The responsibility for compliance with this section rests
+upon the individuals designated in paragraph (a) of this section
+and no evaluation will be made by the Office in the
+reexamination proceeding as to compliance with this section.
+If questions of compliance with this section are raised by the
+patent owner or the third party requester during a reexamination
+proceeding, they will be noted as unresolved questions in
+accordance with § 1.552(c).
+
+part of the patent owner throughout the proceedings.
+Any fraud practiced or attempted on the Office or
+any violation of the duty of disclosure through bad
+faith or intentional misconduct by any such
+individual results in noncompliance with 37 CFR
+1.555(a). Any such issues raised by the patent owner
+or the third party requester during a reexamination
+proceeding will merely be noted as unresolved
+questions under 37 CFR 1.552(c). See MPEP § 2258
+for information material to patentability in ex parte
+reexamination proceedings and MPEP § 2658 for
+inter partes reexamination proceedings.
+For the patent owner’s duty to disclose prior or
+concurrent proceedings in which the patent is or was
+involved, see MPEP § 2282 (for ex parte
+reexamination), § 2686 (for
+inter partes
+reexamination), and § 2001.06(c).
+In supplemental examination, the duty of disclosure
+applies to the patent owner and individuals
+associated with the patent owner as defined in 37
+CFR 1.555. However, as provided by 37 CFR
+1.625(d)(4), information material to patentability is
+defined by 37 CFR 1.56 in supplemental examination
+and any ex parte reexamination proceeding ordered
+under 35 U.S.C. 257. Furthermore, 37 CFR 1.620(g)
+provides that, if the Office becomes aware, during
+the course of a supplemental examination or of any
+ex parte reexamination ordered under 35 U.S.C.
+257 as a result of the supplemental examination
+proceeding, that a material fraud on the Office may
+have been committed in connection with the patent
+requested to be examined, the supplemental
+examination proceeding or any
+ex parte
+reexamination proceeding ordered under 35 U.S.C.
+257 will continue. The matter will be referred to the
+U.S. Attorney General in accordance with 35 U.S.C.
+257(e).
+For the patent owner’s duty to disclose prior or
+concurrent proceedings in which the patent is or was
+involved in supplemental examination, see MPEP §
+2820.
+
+As provided in 37 CFR 1.555, the duty of disclosure
+in reexamination proceedings applies to the patent
+owner and individuals associated with the patent
+owner. That duty is a continuing obligation on the
+
+Rev. 07.2022, February 2023
+
+2000-20
+
+DUTY OF DISCLOSURE
+
+2015 Duties of Disclosure and Reasonable
+Inquiry Arise in Dealings With Other
+Government Agencies [R-07.2022]
+Each individual with a duty to disclose, or party with
+a duty of reasonable inquiry, should ensure that the
+statements made to the USPTO and other
+Government agencies, or any statements made on
+their behalf to other Government agencies regarding
+the claimed subject matter, are consistent. See
+Belcher Pharms., LLC v. Hospira, Inc., 11 F.4th
+1345, 2021 USPQ2d 909 (Fed. Cir. 2021) (affirming
+a district court’s determination of inequitable
+conduct because the patent owner’s Chief Science
+Officer failed to provide to the USPTO submissions
+he made to the FDA about the prior art that were
+inconsistent with positions taken before the USPTO
+during the prosecution of a pending patent
+application). Furthermore, providing material
+information to other Government agencies, including
+the FDA, while simultaneously withholding the same
+information from the USPTO undermines both the
+intent and spirit of the duty of disclosure and violates
+those duties. For example, in Bruno Independent
+Living Aids, Inc. v. Acorn Mobility Services, Ltd.,
+394 F.3d 1348, 1354, 73 USPQ2d 1593, 1598 (Fed.
+Cir. 2005), the U.S. Court of Appeals for the Federal
+Circuit inferred intent to deceive and found
+inequitable conduct occurred when an official
+involved in both the FDA and the USPTO
+submissions chose to disclose material prior art to
+the FDA but not to the USPTO.
+Activities or documents associated with market
+testing, marketing, or commercialization by the
+patent applicant can also be material to patentability,
+and therefore, when material, should be disclosed
+to the USPTO. See GS Cleantech Corp. v. Adkins
+Energy LLC, 951 F.3d 1310, 1330-1332, 2020
+USPQ2d 10092 (Fed. Cir. 2020) (finding that a
+district court did not abuse its discretion in reaching
+its inequitable conduct determination where the
+district court concluded that the inventors and their
+lawyers made a deliberate decision to withhold
+material information from the USPTO regarding an
+offer for sale and reduction to practice of the claimed
+invention that would have implicated an on-sale bar
+to the granting of a patent; the lawyers filed with the
+USPTO a declaration containing a false statement
+about the timing of an offer for sale despite having
+
+§ 2015
+
+in their possession materials that would call into
+question the veracity of the statement; and the
+inventors and lawyers subsequently failed to correct
+the false declaration). By following this guidance,
+it is expected that patent applicants can obtain more
+reliable patent protection and avoid the findings of
+inequitable conduct and sanctions.
+Similarly, each individual with a duty to disclose,
+or party with a duty of reasonable inquiry, should
+review documents it receives from other Government
+agencies to determine whether the information
+should be submitted to the USPTO. For example,
+when a company seeks FDA approval to market a
+generic drug before the expiration of patents related
+to the drug, the generic drug application (e.g., an
+Abbreviated New Drug Application (ANDA)) must
+contain a “paragraph IV certification” that the patents
+submitted to the FDA by the brand-name drug’s
+sponsor, listed in the FDA’s Approved Drug
+Products with Therapeutic Equivalence Evaluations
+(the Orange Book), and related to the drug are
+invalid, are unenforceable, or will not be infringed
+by the generic product. Except in limited
+circumstances, notice of a paragraph IV certification
+must also be communicated to the owner of the
+patent subject to the certification and to the New
+Drug Application holder. Such a notice includes a
+detailed statement providing factual and legal bases
+for the paragraph IV certification. 21 CFR
+314.95(c)(7). Consequently, to assist USPTO staff
+in evaluating patentability effectively and efficiently,
+the party receiving a paragraph IV certification
+should review such documents to determine whether
+they are material to the patentability of any pending
+matters before the USPTO, such as pending patent
+applications, reexamination proceedings, or issues
+in proceedings pending before the PTAB. If the
+content of the detailed statement, or other
+information that is part of the ANDA process, is
+deemed material to patentability in a pending
+USPTO matter, then such information must be
+submitted to the USPTO during the pendency of the
+matter, to meet the duties of candor and good faith
+and disclosure under 37 CFR 1.56, 1.555, 42.11(a)
+or (c), or 11.18(b)(2).
+Deliberate schemes or established practices to
+prevent individuals with a duty to disclose under 37
+CFR 1.56(c) from obtaining knowledge of material
+
+2000-21
+
+Rev. 07.2022, February 2023
+
+§ 2016
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+information is not acting in accordance with candor
+and good faith under 37 CFR 1.56(a). For example,
+walling off the patent prosecution practitioners from
+the attorneys seeking FDA approval, as a way to
+prevent material information from being exchanged
+between the practitioners and attorneys, is
+inappropriate. The U.S. Supreme Court has refused
+to enforce patents where deliberate steps were taken
+to suppress material information. See, e.g., Keystone
+Driller Co. v. Gen. Excavator Co., 290 U.S. 240, 19
+USPQ 228 (1933) (patent owner’s suit dismissed
+where the patent owner paid a third party to keep a
+prior use secret); Precision Instruments Mfg. Co. v.
+Auto. Maint. Mach. Co., 324 U.S. 806, 65 USPQ
+133 (1945) (suit dismissed where patent owner
+actively suppressed evidence of perjury to the
+USPTO).
+
+& Co. v. Lex Tex Ltd., 747 F.2d 1553, 1561, 223
+USPQ 1089, 1093-94 (Fed. Cir. 1984), the court
+stated:
+
+Though the FDA compiles paragraph IV
+certifications and publishes a list on its website,
+submitting this list to the USPTO does not satisfy
+the duty of disclosure for any material information
+submitted with the paragraph IV certification. These
+lists do not include patent numbers, relevant claims,
+or an explanation of the basis for the certification.
+Therefore, information and documents submitted
+with the paragraph IV certification that are material
+to patentability or to issues in proceedings pending
+before the USPTO, including the PTAB, must be
+submitted directly to the USPTO and as described
+above, the examiner may appropriately require
+submission of information concerning the
+certifications in certain situations.
+
+In In re Multiple Litigation Involving Frost
+Patent, 540 F.2d 601, 611, 191 USPQ 241, 249
+(3rd. Cir. 1976), some claims were upheld
+despite nondisclosure with respect to others.
+The case is not precedent in this court.
+
+Once a court concludes that inequitable conduct
+occurred, all the claims — not just the particular
+claims in which the inequitable conduct is
+directly connected — are unenforceable. See
+generally, cases collected in 4 Chisum,
+PATENTS, paragraph 19.03[6] at 19-85 n. 10
+(1984). Inequitable conduct “goes to the patent
+right as a whole, independently of particular
+claims.” In re Clark, 522 F.2d 623, 626, 187
+USPQ 209, 212 (CCPA).
+The court noted in footnote 8 of Stevens:
+
+As stated in Gemveto Jewelry Co. v. Lambert Bros.,
+Inc., 542 F. Supp. 933, 943, 216 USPQ 976, 984
+(S. D. N. Y. 1984) (quoting Patent Law Perspectives,
+1977 Developments, § G.1 [1]-189):
+The gravamen of the fraud defense is that the
+patentee has failed to discharge his duty of
+dealing with the examiner in a manner free
+from the taint of “fraud or other inequitable
+conduct.” If such conduct is established in
+connection with the prosecution of a patent, the
+fact that the lack of candor did not directly
+affect all the claims in the patent has never
+been the governing principle. It is the
+inequitable conduct that generates the
+unenforceability of the patent and we cannot
+think of cases where a patentee partially
+escaped the consequences of his wrongful acts
+by arguing that he only committed acts of
+omission or commission with respect to a
+limited number of claims. It is an all or nothing
+proposition. [Emphasis in original.]
+
+2016 Fraud, Inequitable Conduct, or
+Violation of Duty of Disclosure Affects All
+Claims [R-08.2017]
+A finding of “fraud,” “inequitable conduct,” or
+violation of duty of disclosure with respect to any
+claim in an application or patent, renders all the
+claims thereof unpatentable or invalid. See
+Therasense Inc. v. Becton Dickinson and Co., 649
+F.3d 1276, 1288, 99 USPQ2d 1065, 1071 (Fed. Cir.
+2011), Chromalloy American Corp. v. Alloy
+Surfaces Co., 339 F. Supp. 859, 173 USPQ 295
+(D.Del. 1972) and Strong v. General Electric Co.,
+305 F. Supp. 1084, 162 USPQ 141 (N.D. Ga. 1969),
+aff’d, 434 F.2d 1042, 168 USPQ 8 (5th Cir. 1970),
+cert. denied, 403 U.S. 906 (1971). In J. P. Stevens
+
+Rev. 07.2022, February 2023
+
+2017-2022 [Reserved]
+
+2000-22
+

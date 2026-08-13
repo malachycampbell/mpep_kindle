@@ -1,0 +1,4706 @@
+Chapter 400 Representative of Applicant or Owner
+401
+
+U.S. Patent and Trademark Office
+Cannot Aid in Selection of Patent
+Practitioner
+402
+Power of Attorney; Naming
+Representative
+402.01
+Limited Recognition in Patent Matters
+402.02
+Appointment of Power of Attorney
+402.02(a)
+Appointment in Application Filed
+On or After September 16, 2012
+402.02(b)
+Appointment in Application Filed
+Before September 16, 2012
+402.03
+Signature Requirements for Papers
+Filed in an Application
+402.04
+Acting in a Representative Capacity
+402.05
+Revocation of Power of Attorney
+402.05(a)
+Applicant Revocation Application Filed On or After
+September 16, 2012
+402.05(b)
+Applicant Revocation Application Filed Before
+September 16, 2012
+402.06
+Attorney or Agent Withdraws
+402.07
+Assignee Revocation of Power of
+Attorney of Applicant and
+Appointment of New Power of
+Attorney
+402.08
+Application in Interference or
+Derivation Proceeding
+402.09
+International Application
+402.10
+Appointment/Revocation by Less
+Than All Applicants or Owners
+403
+Correspondence — With Whom Held;
+Customer Number Practice
+403.01
+Correspondence in Applications
+403.01(a)
+Correspondence in Applications
+Filed On or After September 16,
+2012
+403.01(b)
+Correspondence in Applications
+Filed Before September 16, 2012
+403.02
+Two Patent Practitioners for Same
+Application
+404
+[Reserved]
+405
+Interviews With Patent Practitioner
+Not of Record
+406
+Death of Patent Practitioner
+407
+Suspended or Excluded Patent
+Practitioner
+408
+Interviews With Patent Practitioner of
+Record
+409
+Death, Legal Incapacity, or
+Unavailability of Inventor
+
+409.01
+
+Deceased or Legally Incapacitated
+Inventor
+409.01(a)
+Deceased or Legally
+Incapacitated Inventor Application Filed on or After
+September 16, 2012
+409.01(b)
+Deceased or Legally
+Incapacitated InventorApplication Filed Before
+September 16, 2012
+409.02
+Unavailable Joint Inventor –
+Application Filed on or after
+September 16, 2012
+409.03
+Unavailability of Inventor –
+Application Filed Before September
+16, 2012
+409.03(a)
+At Least One Joint Inventor
+Available
+409.03(b)
+No Inventor Available
+409.03(c)
+Unavailable Legal Representative
+of Deceased Inventor
+409.03(d)
+Proof of Unavailability or Refusal
+409.03(e)
+Statement of Last Known
+Address
+409.03(f)
+Proof of Proprietary Interest
+409.03(g)
+Proof of Irreparable Damage
+409.03(h)
+Processing and Acceptance of a
+Pre-AIA 37 CFR 1.47
+Application
+409.03(i)
+Rights of the Nonsigning Inventor
+409.03(j)
+Action Following Acceptance of
+a Pre-AIA 37 CFR 1.47
+Application
+409.04
+[Reserved]
+409.05
+Application For Patent by an
+Assignee, Obligated Assignee, or a
+Person Who Otherwise Shows
+Sufficient Proprietary Interest –
+Application Filed On or After
+September 16, 2012
+410
+Representations to the U.S. Patent and
+Trademark Office
+
+401 U.S. Patent and Trademark Office
+Cannot Aid in Selection of Patent Practitioner
+[R-01.2024]
+37 CFR 1.31 Applicant may be represented by one or more
+patent practitioners or joint inventors.
+An applicant for patent may file and prosecute the applicant's
+own case, or the applicant may give power of attorney so as to
+400-1
+
+Rev. 01.2024, November 2024
+
+§ 402
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+upon skilled preparation and prosecution. The Office cannot aid
+in selecting a patent practitioner.
+
+be represented by one or more patent practitioners or joint
+inventors, except that a juristic entity (e.g., organizational
+assignee) must be represented by a patent practitioner even if
+the juristic entity is the applicant. The Office cannot aid in the
+selection of a patent practitioner.
+
+A listing of registered patent practitioners is available at
+www.uspto.gov/FindPatentAttorney. Applicants may also
+obtain a list of registered patent practitioners located in their
+area by writing to Mail Stop OED, Director of the U.S. Patent
+and Trademark Office, P.O. Box 1450, Alexandria, VA
+22313-1450.
+
+An applicant who is a juristic entity must be
+represented by a patent practitioner. An applicant
+for patent, other than a juristic entity (e.g.,
+organizational assignee), may file and prosecute their
+own application, and thus act as their own
+representative (pro se ) before the Office. See 37
+CFR 1.31. In presenting (whether by signing, filing,
+submitting, or later advocating) papers to the Office,
+a pro se applicant is making the certifications under
+37 CFR 11.18(b), and may be subject to sanctions
+under 37 CFR 11.18(c) for violations of 37 CFR
+11.18(b)(2). See 37 CFR 1.4(d)(4). See also MPEP
+§§ 402.03 and 410.
+
+Examiner Note:
+The examiner should not suggest that applicant employ an
+attorney or agent if the application appears to contain no
+patentable subject matter.
+
+402 Power of Attorney; Naming
+Representative [R-01.2024]
+37 CFR 1.32 Power of attorney.
+(a) Definitions.
+(1) Patent practitioner means a registered patent
+attorney or registered patent agent under § 11.6. An attorney or
+agent registered under § 11.6(d) may only act as a practitioner
+in design patent applications or other design patent matters or
+design patent proceedings.
+*****
+
+If patentable subject matter appears to be disclosed
+in a pro se application and it is apparent that the
+applicant is unfamiliar with the proper preparation
+and prosecution of patent applications, the examiner
+may suggest to the applicant that it may be desirable
+to employ a registered patent attorney or agent, but
+the Office cannot aid in selecting a patent
+practitioner. A listing of registered patent attorneys
+and
+agents
+is
+available
+at
+www.uspto.gov/FindPatentAttorney. Interested
+parties may also obtain a list of registered patent
+practitioners located in their area by writing to the
+Office of Enrollment and Discipline (OED) at Mail
+Stop OED, Director of the U.S. Patent and
+Trademark Office, P.O. Box 1450, Alexandria, VA
+22313-1450. The examiner should not suggest that
+applicant employ a patent practitioner if the
+application appears to contain no patentable subject
+matter. It is suggested that form paragraph 4.10 be
+incorporated in an Office action if the use of a patent
+practitioner is considered desirable and if patentable
+subject matter exists in the application.
+
+(c) A power of attorney may only name as representative:
+(1) One or more joint inventors (§ 1.45);
+(2) Those registered patent practitioners associated
+with a Customer Number;
+(3) Ten or fewer patent practitioners, stating the name
+and registration number of each patent practitioner. Except as
+provided in paragraph (c)(1) or (c)(2) of this section, the Office
+will not recognize more than ten patent practitioners as being
+of record in an application or patent. If a power of attorney
+names more than ten patent practitioners, such power of attorney
+must be accompanied by a separate paper indicating which ten
+patent practitioners named in the power of attorney are to be
+recognized by the Office as being of record in the application
+or patent to which the power of attorney is directed.
+*****
+
+I. NAMING REPRESENTATIVE IN A POWER OF
+ATTORNEY
+
+An applicant may give a power of attorney to one
+or more patent practitioners or one or more joint
+inventors. A power of attorney to a joint inventor
+will be recognized even though the one to whom it
+is given is not a registered practitioner. See 37 CFR
+1.31 and 37 CFR 1.32(c)(1).
+
+¶ 4.10 Employ Services of Attorney or Agent
+It appears the inventor(s) filed the current application pro se
+(i.e., without the benefit of representation by a registered patent
+practitioner). While inventors named as applicants in a patent
+application may prosecute the application pro se, lack of
+familiarity with patent examination practice and procedure may
+result in missed opportunities in obtaining optimal protection
+for the invention disclosed. The inventor(s) may wish to secure
+the services of a registered patent practitioner to prosecute the
+application, because the value of a patent is largely dependent
+
+Rev. 01.2024, November 2024
+
+Powers of attorney naming firms of attorneys or
+agents filed in patent applications will not be
+
+400-2
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+§ 402
+
+II. REGISTERED PRACTITIONERS
+
+recognized. Furthermore, a power of attorney that
+names more than ten patent practitioners will only
+be entered if Customer Number practice is used or
+if such power of attorney is accompanied by a
+separate paper indicating which ten patent
+practitioners named in the power of attorney are to
+be recognized by the Office as being of record in the
+application or patent to which the power of attorney
+is directed. If a power of attorney is not entered
+because more than ten patent practitioners were
+named, a copy of the power of attorney should be
+refiled with the separate paper as set forth in 37 CFR
+1.32(c)(3).
+
+Effective January 2, 2024, the USPTO created the
+design patent practitioner bar for practicing before
+the Office in design patent matters. Design patent
+practitioners are registered under 37 CFR 11.6(d)
+and can only practice in design patent matters. 37
+CFR 1.32(a)(1). In contrast, patent practitioners
+registered under 37 CFR 11.6(a)-(c) can practice in
+all patent matters, which includes design patent
+matters. See MPEP § 1502.02.
+For a power of attorney to be valid, the attorney or
+agent appointed must be registered to practice before
+the U.S. Patent and Trademark Office in accordance
+with 37 CFR 11.6. The appointed attorney or agent
+must also be authorized to act as a practitioner in the
+type of patent matter for which representation is
+sought. In other words, design patent practitioners
+can only be listed on power of attorneys in design
+patent matters. Additionally, a customer number
+which includes a design patent practitioner can only
+be used in a power of attorney in design patent
+matters. See MPEP § 403, subsection I.
+
+Powers of attorney naming joint inventors, one or
+more registered individuals, or all registered
+practitioners associated with a Customer Number,
+may be made. See MPEP § 403 for Customer
+Number practice. Where a power of attorney is given
+to ten or fewer patent practitioners, 37 CFR
+1.32(c)(3) requires the name and registration number
+of each patent practitioner to be stated in the power
+of attorney. If the name submitted on the power of
+attorney does not match the name associated with
+the registration number provided in the Office of
+Enrollment and Discipline records for patent
+practitioners, the person that the Office will
+recognize as being of record will be the person
+associated with the registration number provided,
+because the Office enters the registration number,
+not the name, when making the practitioner of
+record. Accordingly, if the wrong registration
+number is provided, a new power of attorney will
+be required to correct the error.
+
+Note that under 37 CFR 11.6(c), certain foreigners
+who are in good standing before the patent office of
+the country in which they reside and practice may
+be registered as a patent agent to practice before the
+Office for the limited purpose of presenting and
+prosecuting patent applications of applicants located
+in such country.
+Any power of attorney given to a practitioner who
+has been suspended or disbarred by the Office is
+ineffective, and does not authorize the person to
+practice before the Office or to represent applicants
+or patentees in patent matters.
+
+See MPEP § 601.03(a) for change of correspondence
+address in applications filed on or after September
+16, 2012; see MPEP § 601.03(b) for change of
+correspondence address in applications filed before
+September 16, 2012. See MPEP §§ 201.06(c),
+402.02(a), and 402.02(b) for change in the power of
+attorney in continuation or divisional applications
+filed under 37 CFR 1.53(b). See MPEP § 403 for
+the addition and/or deletion of a practitioner from
+the list of practitioners associated with a Customer
+Number. For a representative of a requester of
+reexamination, see MPEP § 2213.
+
+III. INEFFECTIVE POWER OF ATTORNEY
+
+When an application for patent is filed accompanied
+by a power of attorney to a person who is neither
+registered to practice before the United States Patent
+and Trademark Office for the type of application in
+which it is filed nor named as the inventor or a joint
+inventor in the application, the correspondence
+address of record will not be the address indicated
+on the ineffective power of attorney. The Office of
+Patent Application Processing will select an official
+
+400-3
+
+Rev. 01.2024, November 2024
+
+§ 402.01
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+should be contacted to determine the current “recognition” status
+of the individual named by the applicant in a “power of
+attorney.” If the named individual is NOT registered or otherwise
+recognized by the Office, the correspondence address of record
+should be promptly changed to that of the first named applicant
+unless applicant specifically provides a different
+“correspondence address.” A copy of the Office communication
+incorporating this form paragraph should also be mailed to the
+unregistered individual named by the applicant in the “power
+of attorney.”
+
+correspondence address in accordance with MPEP
+§ 403.01.
+Form paragraph 4.09 may be used to notify applicant
+that the attorney or agent is not registered.
+¶ 4.09 Unregistered Attorney or Agent
+An examination of this application reveals that applicant has
+attempted to appoint an attorney or agent who is neither
+registered to practice before the U.S. Patent and Trademark
+Office in patent matters nor named as an inventor in the
+application, contrary to the Code of Federal Regulations, 37
+CFR 1.31 and 1.32. Therefore, the appointment is void, ab
+initio, and the Office will not recognize the appointment. All
+communications from the Office will be addressed to the first
+named applicant, unless specific instructions to the contrary are
+supplied by the applicant(s) for patent or owner(s).
+
+402.01 Limited Recognition in Patent
+Matters [R-01.2024]
+37 CFR 11.9 Limited recognition in patent matters.
+(a) Any individual not registered under §11.6 may, upon a
+showing of circumstances that render it necessary or justifiable
+and that the individual is of good moral character and reputation,
+be given limited recognition by the OED Director to prosecute
+as attorney or agent a specified patent application or specified
+patent applications. Limited recognition under this paragraph
+shall not extend further than the application or applications
+specified. Limited recognition shall not be granted to individuals
+who have passed the examination or to those for whom the
+examination has been waived while such individual’s application
+for registration to practice before the Office in patent matters is
+pending.
+
+For applications filed before September 16, 2012, in the absence
+of the appointment of a registered practitioner, all papers filed
+in the application must be signed: (1) by all named applicants
+unless one named applicant has been given a power of attorney
+to sign on behalf of the remaining applicants, and the power of
+attorney is of record in the application; or (2) if there is an
+assignee of record of an undivided part interest, by all named
+applicants retaining an interest and such assignee; or (3) if there
+is an assignee of the entire interest, by such assignee; or (4) by
+a registered patent attorney or agent not of record who acts in
+a representative capacity under the provisions of 37 CFR 1.34
+
+(b) An individual ineligible to become registered under
+§11.6 because of their immigration status may be granted limited
+recognition to practice before the Office in patent matters,
+provided the U.S. Government authorizes employment or
+training in the United States for the individual to represent a
+patent applicant by preparing or prosecuting a patent application,
+and the individual fulfills the provisions of paragraphs(d) and
+(e) of this section. Limited recognition shall be granted only for
+a period consistent with the terms of the immigration status and
+employment or training authorized. Limited recognition is
+subject to United States immigration rules, statutes, laws, and
+regulations. If granted, limited recognition shall automatically
+terminate if the individual ceases to: lawfully reside in the United
+States, maintain authorized employment or training, or maintain
+their immigration status. Limited recognition shall not be granted
+or extended to a non-U.S. citizen residing outside the United
+States.
+
+For applications filed on or after September 16, 2012, all papers
+must be signed by: (1) a patent practitioner of record; (2) a patent
+practitioner not of record who acts in a representative capacity
+under the provisions of 37 CFR 1.34; or (3) the applicant, except
+that papers submitted on behalf of a juristic entity applicant
+must be signed by a patent practitioner.
+While an applicant (other than a juristic entity) may prosecute
+the application, lack of skill in this field usually acts as a liability
+in affording the maximum protection for the invention disclosed.
+Applicant is, therefore, encouraged to secure the services of a
+registered patent attorney or agent (i.e., registered to practice
+before the U.S. Patent and Trademark Office) to prosecute the
+application, since the value of a patent is largely dependent upon
+skillful preparation and prosecution.
+
+(c) An individual not registered under §11.6 may, if
+appointed by an applicant, prosecute an international patent
+application only before the United States International Searching
+Authority and the United States International Preliminary
+Examining Authority, provided that the individual has the right
+to practice before the national office with which the international
+application is filed as provided in PCT Art. 49, Rule 90 and §
+1.455 of this subchapter, or before the International Bureau
+when the USPTO is acting as Receiving Office pursuant to PCT
+Rules 83.1 bis and 90.1.
+*****
+
+The Office cannot aid you in selecting a registered attorney or
+agent, however, a list of attorneys and agents registered to
+practice before the U.S. Patent and Trademark Office is available
+at www.uspto.gov/FindPatentAttorney. For assistance locating
+this information, contact the Office of Enrollment and Discipline
+at (571) 272-4097 or call the Inventors Assistance Center
+toll-free number, 1(800)786-9199.
+Examiner Note:
+This form paragraph is to be used ONLY after ensuring that the
+named representative is not registered with the Office. An
+inquiry through the Patent Data Portal should be first made and
+if no listing is given, the Office of Enrollment and Discipline
+
+Rev. 01.2024, November 2024
+
+37 CFR 11.10 Restrictions on practice in patent matters;
+former and current Office employees; government employees.
+
+400-4
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+(a) Only practitioners registered under § 11.6; individuals
+given limited recognition under § 11.9(a) or (b) or § 11.16; or
+individuals admitted pro hac vice as provided in § 41.5(a) or
+42.10(c) of this chapter are permitted to represent others before
+the Office in patent matters.
+*****
+
+§ 402.02(a)
+
+29865 (May 2004). The Office no longer accepts a
+power of attorney signed by a principal to name an
+associate power of attorney. Appointment of an
+associate power of attorney filed on or after June 25,
+2004 are not accepted. See also MPEP § 406.
+
+Only registered practitioners and individuals granted
+limited recognition are permitted to prosecute patent
+applications of others before the Office or represent
+others in patent proceedings before the Office. See
+37 CFR 11.10(a). Persons granted limited
+recognition are considered practitioners under 37
+CFR 11.1 and thus permitted to perform the same
+patent prosecution functions of registered patent
+agents and registered patent attorneys when
+prosecuting a specified patent application or
+specified patent applications. See 37 CFR 11.5(b)(1).
+This includes the filing of (A) a power of attorney
+(37 CFR 1.32(b)(4)), (B) a document granting access
+to an application (37 CFR 1.14(c)), (C) a change of
+correspondence address (37 CFR 1.33(a)), (D) a
+terminal disclaimer (37 CFR 1.321(b)(1)), or (E) a
+request for an express abandonment (37 CFR
+1.138(b)). However, persons granted limited
+recognition are still subject to the restrictions
+expressed in their grant, including temporal,
+employer, and visa limitations.
+
+402.02(a) Appointment in Application Filed
+On or After September 16, 2012 [R-10.2019]
+[Editor Note: See MPEP § 402.02(b) for
+information pertaining to appointment of a power
+of attorney in an application filed before September
+16, 2012.]
+37 CFR 1.32 Power of attorney.
+*****
+(b) A power of attorney must:
+(1) Be in writing;
+(2) Name one or more representatives in compliance
+with paragraph (c) of this section;
+(3) Give the representative power to act on behalf of
+the principal; and
+(4) Be signed by the applicant for patent (§ 1.42) or
+the patent owner. A patent owner who was not the applicant
+under § 1.46 must appoint any power of attorney in compliance
+with §§ 3.71 and 3.73 of this chapter.
+*****
+(d) A power of attorney from a prior national application
+for which benefit is claimed under 35 U.S.C. 120, 121, 365(c),
+or 386(c) in a continuing application may have effect in the
+continuing application if a copy of the power of attorney from
+the prior application is filed in the continuing application unless:
+
+If a request for limited recognition under 37 CFR
+11.9 accompanies the application, the Office of
+Patent Application Processing will forward the file
+to the Director of the Office of Enrollment and
+Discipline.
+
+(1) The power of attorney was granted by the inventor;
+and
+
+See MPEP § 1807 for representation in international
+applications (PCT) and MPEP § 2911 for
+representation in international design applications.
+
+(2) The continuing application names an inventor who
+was not named as an inventor in the prior application.
+(e) If the power of attorney was granted by the originally
+named inventive entity, and an added inventor pursuant to §
+1.48 does not provide a power of attorney consistent with the
+power of attorney granted by the originally named inventive
+entity, the addition of the inventor results in the loss of that
+power of attorney upon grant of the § 1.48 request. This
+provision does not preclude a practitioner from acting pursuant
+to § 1.34, if applicable.
+
+402.02 Appointment of Power of Attorney
+[R-10.2019]
+For appointment of a power of attorney in
+applications filed on or after September 16, 2012,
+see MPEP § 402.02(a). For appointment of a power
+of attorney in applications filed before September
+16, 2012, see MPEP § 402.02(b).
+
+I. GENERAL REQUIREMENTS FOR POWERS OF
+ATTORNEY
+
+For applications filed on or after September 16,
+2012, 37 CFR 1.32(b)(4) sets forth that a power of
+attorney must be signed by the applicant for patent
+(i.e., all parties identified as the applicant as defined
+
+Effective June 25, 2004, the associate power of
+attorney practice was eliminated. See Revision of
+Power of Attorney and Assignment Practice, 69 FR
+
+400-5
+
+Rev. 01.2024, November 2024
+
+§ 402.02(a)
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+by 37 CFR 1.42(a)) or the patent owner (for reissue
+applications, reexamination proceedings and
+supplemental examination proceedings). An assignee
+who is not an applicant cannot revoke or appoint
+power of attorney in a patent application.
+
+The power of attorney must be signed by someone
+who is authorized to act on behalf of the
+assignee-applicant (i.e., a person with a title that
+carries apparent authority, or a person who includes
+a statement of authorization to act.). A patent
+practitioner is not authorized to act on behalf of an
+assignee simply by existence of authority to
+prosecute an application.
+
+Pursuant to 37 CFR 1.42, the word “applicant” refers
+to the inventor or all of the joint inventors or to the
+person applying for a patent as provided in 37 CFR
+1.43 (legal representative of a deceased or legally
+incapacitated inventor), 1.45 (joint inventor(s) on
+behalf of themselves and an omitted inventor) or
+1.46 (assignee, obligated assignee, or person who
+otherwise shows sufficient proprietary interest).
+Where the applicant is all of the joint inventors under
+37 CFR 1.45, one or more of the joint
+inventor-applicants may be appointed to represent
+all of the joint inventor-applicants. The power of
+attorney must be signed by parties identified as the
+applicant in order to be effective.
+
+II. POWERS OF ATTORNEY IN CONTINUING
+APPLICATIONS
+
+Pursuant to 37 CFR 1.32(d), a power of attorney
+from a prior national application for which benefit
+is claimed under 35 U.S.C. 120, 121, 365(c), or
+386(c) in a continuing application may have effect
+in the continuing application if a copy of the power
+of attorney from the prior application is filed in the
+continuing application unless: (1) The power of
+attorney was granted by the inventor; and (2) the
+continuing application names an inventor who was
+not named as an inventor in the prior application.
+Thus 37 CFR 1.32(d) specifically requires that a
+copy of the power of attorney from the prior
+application be filed in the continuing application to
+have effect (even where a change in power did not
+occur in the prior application). Additionally, the copy
+of the power of attorney must comply with 37 CFR
+1.32(b) in the continuing application in order to be
+accepted, meaning that it must be signed by the
+applicant for patent named in the continuing
+application.
+
+As set forth in 37 CFR 1.42(b), if a person is
+applying for a patent as provided in 37 CFR 1.46,
+that person (which may be a juristic entity), and not
+the inventor, is the applicant. In this situation, the
+Office would not accept a power of attorney from
+the inventor. An assignee or obligated assignee who
+is the applicant may appoint an effective power of
+attorney without the need to establish the right to
+take action under 37 CFR 3.71. See also MPEP §
+325. Persons who otherwise show sufficient
+proprietary interest in the matter may supply a power
+of attorney along with a petition under 37 CFR
+1.46(b)(2), which power would be effective once
+the petition is granted.
+
+III. POWER OF ATTORNEY FORMS FOR
+APPLICATIONS FILED ON OR AFTER
+SEPTEMBER 16, 2012
+
+An assignee who is not the applicant may sign a
+power of attorney only if the assignee becomes the
+applicant per 37 CFR 1.46(c) (which requires
+compliance with 37 CFR 3.71 and 3.73). See MPEP
+§ 325. A patent owner who was not the applicant
+under 37 CFR 1.46 must appoint any power of
+attorney in compliance with 37 CFR 3.71 and 3.73.
+This covers a patent owner in a reissue application
+who was not the applicant under 37 CFR 1.46 in the
+application for the original patent, as well as a patent
+owner in a supplemental examination or
+reexamination proceeding who was not the applicant
+under 37 CFR 1.46.
+
+Rev. 01.2024, November 2024
+
+The following forms, available on the USPTO
+website at www.uspto.gov/patent/patents-forms,
+are for use in applications filed on or after September
+16, 2012: PTO/AIA/80, PTO/AIA/81, and
+PTO/AIA/82. Form PTO/AIA/81A may be used in
+a patent that issued from an application filed on or
+after September 16, 2012.
+PTO/AIA/80
+Form PTO/AIA/80 may be used by assignees who
+either are the named applicant or are becoming the
+applicant by filing a request to change the applicant
+
+400-6
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+under 37 CFR 1.46(c). In either situation, this form
+must be accompanied by a statement under 37 CFR
+3.73(c) (Form PTO/AIA/96 or equivalent). The Form
+PTO/AIA/80 must be signed by the named assignee
+or, where the assignee is a juristic entity, by a person
+who is authorized to act on behalf of the assignee.
+Where an assignee gives the practitioner specific
+authority to act on behalf of the assignee (e.g.,
+authority given by organizational resolution), a
+practitioner may sign the PTO/AIA/80 on behalf of
+the assignee. Where an assignee is named as the
+applicant in the patent application, the
+assignee-applicant can appoint a power of attorney
+using the PTO/AIA/82 form instead of Form
+PTO/AIA/80.
+
+§ 402.02(a)
+
+Part B must be signed by the applicant. Where there
+are multiple applicant parties, a power of attorney
+signed by each party must be submitted, and the
+powers must make the same appointment. For
+information about powers of attorney by less than
+all applicants, see MPEP § 402.10. Part C is an
+optional page that may be used to appoint up to 10
+patent practitioners by name and registration number.
+PTO/AIA/82 may be used like a general power of
+attorney, if desired. For example, where the applicant
+is a juristic entity assignee, an officer of the company
+could sign Part B, leaving the optional “Application
+Number” and “Filing Date” boxes empty, and then
+the patent practitioner could complete and sign one
+Part A for each respective application and file a copy
+of Part B with each Part A. If Part A or an equivalent
+is not filed with Part B, then the “Application
+Number” and “Filing Date” boxes on Part B must
+be completed to identify the application to which
+the power is being directed. See 37 CFR 1.5. Note
+that the “Application Number” and “Filing Date”
+boxes of Part B may not be filled in by a patent
+practitioner after Part B has been signed by the
+applicant (i.e., the form may not be altered once it
+has been signed).
+
+PTO/AIA/81
+Form PTO/AIA/81 may be used by joint inventors
+who are the applicant to give one or more joint
+inventor-applicants power of attorney to sign on
+behalf of all joint inventor-applicants. Since powers
+of attorney must be signed by “the applicant,” all
+joint inventor-applicants must sign a power of
+attorney, including the joint inventor(s) who are
+being given power of attorney. For example, if the
+applicant is four joint inventors, A, B, C. and D, and
+all four wish to appoint inventor-applicant C as
+having power of attorney, A, B, C and D must all
+sign a power of attorney that appoints C.
+
+Note that the Office does not recommend that
+practitioners use a combined declaration and power
+of attorney document, and no longer provides such
+a form on the USPTO website.
+
+PTO/AIA/82
+PTO/AIA/81A
+Form PTO/AIA/82 may be used by the applicant for
+patent to appoint one or more patent practitioners.
+The form has three pages, PTO/AIA/82A (Part A),
+PTO/AIA/82B (Part B), and PTO/AIA/82C (Part
+C). Part A is a transmittal page used to identify the
+application (e.g., application number, if known, filing
+date, first named inventor) to which the power of
+attorney is directed and must be signed by a proper
+37 CFR 1.33(b) party. Part B is the power of attorney
+and may also specify the correspondence address.
+
+Form PTO/AIA/81A may be used to appoint a power
+of attorney in a patent resulting from an application
+filed on or after September 16, 2012 and must be
+signed by the applicant or the current patent owner.
+If the form is signed by the current patent owner,
+compliance with 37 CFR 3.71 and 3.73 is required
+by filing a Statement Under 37 CFR 3.73(c) (Form
+PTO/AIA/96 or equivalent).
+
+400-7
+
+Rev. 01.2024, November 2024
+
+§ 402.02(a)
+
+Rev. 01.2024, November 2024
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+400-8
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+400-9
+
+§ 402.02(a)
+
+Rev. 01.2024, November 2024
+
+§ 402.02(a)
+
+Rev. 01.2024, November 2024
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+400-10
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+400-11
+
+§ 402.02(a)
+
+Rev. 01.2024, November 2024
+
+§ 402.02(a)
+
+Rev. 01.2024, November 2024
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+400-12
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+400-13
+
+§ 402.02(a)
+
+Rev. 01.2024, November 2024
+
+§ 402.02(a)
+
+Rev. 01.2024, November 2024
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+400-14
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+400-15
+
+§ 402.02(a)
+
+Rev. 01.2024, November 2024
+
+§ 402.02(a)
+
+Rev. 01.2024, November 2024
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+400-16
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+400-17
+
+§ 402.02(a)
+
+Rev. 01.2024, November 2024
+
+§ 402.02(b)
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+402.02(b) Appointment in Application Filed
+Before September 16, 2012 [R-10.2019]
+[Editor Note: See MPEP § 402.02(a) for
+information pertaining to appointment of a power
+of attorney in an application filed on or after
+September 16, 2012.]
+I. GENERAL REQUIREMENTS FOR POWERS OF
+ATTORNEY
+37 CFR 1.32 (pre-AIA) Power of attorney.
+*****
+(b) A power of attorney must:
+
+exists. Otherwise, the assignee may be paying the
+bill, while the inventor is providing the power of
+attorney, thereby possibly raising an issue as to who
+is the practitioner’s client. Additionally, relationships
+between an assignee and the inventors may
+deteriorate. It is not uncommon in these situations
+for inventors to stop cooperating and in some cases
+file powers of attorney in an attempt to control
+prosecution of the application. A power of attorney
+by the assignee of the entire interest revokes all
+powers given by the applicant and prior assignees
+if the assignee establishes their right to take action
+as provided in pre-AIA 37 CFR 3.71 and pre-AIA
+37 CFR 3.73(b). See MPEP § 324.
+
+(1) Be in writing;
+
+II. POWERS OF ATTORNEY IN CONTINUING
+APPLICATIONS
+
+(2) Name one or more representatives in compliance
+with paragraph (c) of this section;
+(3) Give the representative power to act on behalf of
+the principal; and
+(4) Be signed by the applicant for patent (§ 1.41(b)) or
+the assignee of the entire interest of the applicant.
+*****
+
+For applications filed before September 16, 2012,
+pre-AIA 37 CFR 1.32(b) sets forth that a power of
+attorney must be signed by the applicant for patent
+or the assignee of the entire interest of the applicant.
+Pursuant to pre-AIA 37 CFR 1.41(b), the word
+“applicant” refers to the inventor or all of the joint
+inventors or to the person applying for a patent in
+place of the inventor under pre-AIA 37 CFR 1.42
+(legal representative of deceased inventor), 1.43
+(legal representative of a deceased or legally
+incapacitated inventor), 1.47(a) (joint inventor(s) on
+behalf of themselves and joint inventor(s) who refuse
+to join or cannot be reached or found after diligent
+effort) or 1.47(b) (by assignee, obligated assignee,
+or person who otherwise shows sufficient proprietary
+interest whenever all of the inventors refuse to sign
+or cannot be found or reached after diligent effort).
+Note that the Office does not recommend that
+practitioners use a combined declaration and power
+of attorney document, and no longer provides a
+combined declaration and power of attorney form
+on the USPTO website.
+While a power of attorney may be signed by the
+inventor(s), the power of attorney should be signed
+by the assignee of the entire interest where one
+
+Rev. 01.2024, November 2024
+
+When filing a continuation or divisional application
+with a copy of a declaration from the parent
+application in accordance with pre-AIA 37 CFR
+1.63(d), applicants are required to identify in the
+continuation or divisional application any change in
+power of attorney that occurred after the filing of
+the parent application. See pre-AIA 37 CFR
+1.63(d)(4). The Office suggests doing so by
+submitting a copy of the most recent power of
+attorney from the parent application in the continuing
+application to ensure that the Office recognizes the
+correct power of attorney.
+III. POWER OF ATTORNEY FORMS FOR
+APPLICATIONS FILED BEFORE SEPTEMBER
+16, 2012
+
+Form PTO/SB/80 or PTO/SB/81 (available at
+www.uspto.gov/patent/patents-forms) should be
+used for powers of attorney in applications filed
+before September 16, 2012. Note that the Office
+does not recommend that practitioners use a
+combined declaration and power of attorney
+document, and no longer provides such a form on
+the USPTO website. Form PTO/SB/81A may be
+used in a patent that issued from an application filed
+before September 16, 2012.
+
+402.03 Signature Requirements for Papers
+Filed in an Application [R-07.2022]
+
+400-18
+
+37 CFR 11.18 Signature and certificate for correspondence
+filed in the Office.
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+(a) For all documents filed in the Office in patent,
+trademark, and other non-patent matters, and all documents filed
+with a hearing officer in a disciplinary proceeding, except for
+correspondence that is required to be signed by the applicant or
+party, each piece of correspondence filed by a practitioner in
+the Office must bear a signature, personally signed or inserted
+by such practitioner, in compliance with § 1.4(d) or § 2.193(a)
+of this chapter.
+(b) By presenting to the Office or hearing officer in a
+disciplinary proceeding (whether by signing, filing, submitting,
+or later advocating) any paper, the party presenting such paper,
+whether a practitioner or non-practitioner, is certifying that—
+(1) All statements made therein of the party’s own
+knowledge are true, all statements made therein on information
+and belief are believed to be true, and all statements made therein
+are made with the knowledge that whoever, in any matter within
+the jurisdiction of the Office, knowingly and willfully falsifies,
+conceals, or covers up by any trick, scheme, or device a material
+fact, or knowingly and willfully makes any false, fictitious, or
+fraudulent statements or representations, or knowingly and
+willfully makes or uses any false writing or document knowing
+the same to contain any false, fictitious, or fraudulent statement
+or entry, shall be subject to the penalties set forth under 18
+U.S.C. 1001 and any other applicable criminal statute, and
+violations of the provisions of this section may jeopardize the
+probative value of the paper; and
+(2) To the best of the party’s knowledge, information
+and belief, formed after an inquiry reasonable under the
+circumstances,
+
+§ 402.04
+
+(5) Terminating the proceedings in the Office.
+(d) Any practitioner violating the provisions of this section
+may also be subject to disciplinary action.
+
+37 CFR 11.18(a) emphasizes that every paper filed
+by a practitioner must be personally signed by the
+practitioner, except those required to be signed by
+the applicant or party.
+37 CFR 11.18(b) provides that, by presenting any
+paper to the Office, the party presenting such paper
+(whether a practitioner or non-practitioner) is: (1)
+certifying that the statements made therein are
+subject to the declaration clause of 37 CFR 1.68;
+and (2) making the certifications required for papers
+filed in a federal court under Rule 11(b) of the
+Federal Rules of Civil Procedure. See MPEP § 410.
+37 CFR 11.18(d) provides that any practitioner
+violating the provisions of 37 CFR 11.18 may also
+be subject to disciplinary action, thus clarifying that
+a practitioner may be subject to disciplinary action
+in lieu of, or in addition to, the sanctions set forth in
+37 CFR 11.18(c) for violations of 37 CFR 11.18.
+See also 37 CFR 1.4(d)(4).
+The certifications in 37 CFR 11.18(b) apply to all
+papers filed in the Office, including allegations of
+improper conduct made by a registered practitioner
+in any Office proceeding.
+
+(i) The paper is not being presented for any
+improper purpose, such as to harass someone or to cause
+unnecessary delay or needless increase in the cost of any
+proceeding before the Office;
+(ii) The other legal contentions therein are
+warranted by existing law or by a nonfrivolous argument for
+the extension, modification, or reversal of existing law or the
+establishment of new law;
+
+402.04 Acting in a Representative Capacity
+[R-01.2024]
+
+(iii) The allegations and other factual contentions
+have evidentiary support or, if specifically so identified, are
+likely to have evidentiary support after a reasonable opportunity
+for further investigation or discovery; and
+(iv) The denials of factual contentions are
+warranted on the evidence, or if specifically so identified, are
+reasonably based on a lack of information or belief.
+(c) Violations of any of paragraphs (b)(2)(i) through (iv)
+of this section are, after notice and reasonable opportunity to
+respond, subject to such sanctions or actions as deemed
+appropriate by the USPTO Director, which may include, but
+are not limited to, any combination of—
+
+37 CFR 1.34 Acting in a representative capacity
+When a patent practitioner acting in a representative capacity
+appears in person or signs a paper in practice before the United
+States Patent and Trademark Office in a patent case, his or her
+personal appearance or signature shall constitute a representation
+to the United States Patent and Trademark Office that under the
+provisions of this subchapter and the law, he or she is authorized
+to represent the particular party on whose behalf he or she acts.
+In filing such a paper, the patent practitioner must set forth his
+or her registration number, his or her name and signature. Further
+proof of authority to act in a representative capacity may be
+required.
+
+(1) Striking the offending paper;
+(2) Referring a practitioner’s conduct to the Director
+of the Office of Enrollment and Discipline for appropriate action;
+(3) Precluding a party or practitioner from submitting
+a paper, or presenting or contesting an issue;
+(4) Affecting the weight given to the offending paper;
+or
+
+In accordance with 37 CFR 1.34, a paper filed by a
+registered patent attorney or agent in an application
+in which they are not of record must include their
+name, registration number, and signature.
+Acceptance of papers filed in patent applications
+and reexamination proceedings by registered
+
+400-19
+
+Rev. 01.2024, November 2024
+
+§ 402.05
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+attorneys and agents upon a representation that the
+attorney or agent is authorized to act in a
+representative capacity is for the purpose of
+facilitating replies on behalf of applicants in patent
+applications and, further, to obviate the need for
+filing powers of attorney in individual applications
+or patents when there has been a change in
+composition of law firms or corporate patent staffs.
+It is noted that design patent practitioners acting in
+a representative capacity may only do so in design
+patent matters. See MPEP § 1502.02.
+When a patent practitioner acts in a representative
+capacity by filing a paper in an application filed on
+or after September 16, 2012, they must be submitting
+the paper on behalf of all parties identified as the
+applicant. The provisions of 37 CFR 1.34 in no way
+convey authority for a patent practitioner to submit
+papers in an application only on behalf of some of
+the parties identified as the applicant. For example,
+where the applicant is three joint inventors who do
+not agree about how to proceed in the application,
+a patent practitioner who only represents one of the
+joint inventors may not file papers in the application
+to the exclusion of the other joint inventors.
+Likewise, where there are multiple assignees
+identified as the applicant, a patent practitioner may
+not file papers only on behalf of some of the parties.
+Powers of attorney by less than all applicants or
+owners are not accepted by the Office unless a
+petition under 37 CFR 1.36(a) or 37 CFR 1.183 is
+granted in the application, and the granted petition
+results in more than one attorney, agent, applicant
+or owner prosecuting the application at the same
+time and signing correspondence. See MPEP §
+402.10. Acting in a representative capacity under 37
+CFR 1.34 is not a means of prosecuting an
+application only on behalf of some of the applicant
+parties.
+For an application filed before September 16, 2012,
+a patent practitioner may act in a representative
+capacity on behalf of the applicant or the assignee
+of the entire right who has properly established its
+right to take action under 37 CFR 3.71 and 3.73.
+See MPEP § 405 for information concerning
+interviews with a patent practitioner not of record.
+
+Rev. 01.2024, November 2024
+
+Except as noted below, a person acting in a
+representative capacity may not sign (A) a power of
+attorney (37 CFR 1.32), (B) a document granting
+access to an application, (C) a change of
+correspondence address), (D) a terminal disclaimer
+(37 CFR 1.321(b)(1)), or (E) a request for an express
+abandonment without filing a continuing application
+(37 CFR 1.138(b)). In an application filed on or after
+September 16, 2012, a person acting in a
+representative capacity may sign a document
+granting access to an application or a change of
+correspondence address if (1) a power of attorney
+has not been appointed under 37 CFR 1.32(b) and
+(2) the patent practitioner was named in the
+application transmittal papers. See 37 CFR 1.14(c)
+and 1.33(a). In an application filed before September
+16, 2012, a person acting in a representative capacity
+may sign a document granting access to an
+application or a change of correspondence address
+if (1) an executed oath or declaration under pre-AIA
+37 CFR 1.63 has not been filed and (2) the patent
+practitioner was named in the application transmittal
+papers. See pre-AIA 37 CFR 1.14(c) and pre-AIA
+37 CFR 1.33(a).
+
+402.05 Revocation of Power of Attorney
+[R-10.2019]
+Revocation of a power of attorney becomes effective
+on the date that the revocation is RECEIVED in the
+Office (not on the date of ACCEPTANCE). Upon
+revocation of the power of attorney, appropriate
+notification is sent by the Office. While an
+application is involved in an interference or
+derivation proceeding, any power of attorney or
+revocation of power of attorney should be forwarded
+to the Patent Trial and Appeal Board for
+consideration. See MPEP § 402.08.
+See MPEP § 402.05(a) for applicant revocation of
+powers of attorney in applications filed on or after
+September 16, 2012. See MPEP § 402.05(b) for
+applicant revocation of powers of attorney in
+applications filed before September 16, 2012. See
+MPEP § 402.07 for assignee revocation of a power
+of attorney.
+All of the Office’s power of attorney forms include
+revocation language on them and will revoke any
+existing power of attorney.
+
+400-20
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+402.05(a) Applicant Revocation - Application
+Filed On or After September 16, 2012
+[R-10.2019]
+37 CFR 1.36 Revocation of power of attorney; withdrawal
+of patent attorney or agent.
+(a) A power of attorney, pursuant to § 1.32(b), may be
+revoked at any stage in the proceedings of a case by the applicant
+or patent owner. A power of attorney to the patent practitioners
+associated with a Customer Number will be treated as a request
+to revoke any powers of attorney previously given. Fewer than
+all of the applicants (or fewer than all patent owners in a
+supplemental examination or reexamination proceeding) may
+revoke the power of attorney only upon a showing of sufficient
+cause, and payment of the petition fee set forth in § 1.17(f). A
+patent practitioner will be notified of the revocation of the power
+of attorney. Where power of attorney is given to the patent
+practitioners associated with a Customer Number (§ 1.32(c)(2)),
+the practitioners so appointed will also be notified of the
+revocation of the power of attorney when the power of attorney
+to all of the practitioners associated with the Customer Number
+is revoked. The notice of revocation will be mailed to the
+correspondence address for the application (§ 1.33) in effect
+before the revocation. An assignment will not of itself operate
+as a revocation of a power previously given, but the assignee
+may become the applicant under § 1.46(c) and revoke any
+previous power of attorney and grant a power of attorney as
+provided in § 1.32(b).
+*****
+
+A power of attorney may be revoked only by the
+applicant or patent owner. An assignee who is not
+the applicant may revoke a power of attorney only
+if the assignee becomes the applicant per 37 CFR
+1.46(c) (which requires compliance with 37 CFR
+3.71 and 3.73).
+If the power of attorney was granted by the originally
+named inventive entity and an added inventor
+pursuant to § 1.48 does not provide a power of
+attorney consistent with the power of attorney
+granted by the originally named inventive entity, the
+addition of the inventor results in the loss of that
+power of attorney upon grant of the § 1.48 request.
+This provision does not preclude a practitioner from
+acting pursuant to 37 CFR 1.34, if applicable. See
+MPEP § 402.04 for information pertaining to acting
+in a representative capacity.
+A nonsigning inventor or legal representative may
+subsequently join in the application by submitting
+an oath or declaration under 37 CFR 1.63. However,
+37 CFR 1.64(f) provides that the submission of an
+
+§ 402.05(b)
+
+oath or declaration by a nonsigning inventor or legal
+representative in an application filed under 37 CFR
+1.43, 1.45 or 1.46 will not permit the nonsigning
+inventor or legal representative to revoke or grant a
+power of attorney.
+See MPEP § 402.02(a) for appointment of a new
+power of attorney in an application filed on or after
+September 16, 2012.
+When an original power of attorney is filed giving
+power of attorney to attorneys A, B, and C, and the
+same principal subsequently files another power of
+attorney, giving power of attorney to D without
+revoking all prior powers of attorney, the
+subsequently filed power of attorney will be treated
+as a revocation of the original power of attorney.
+Similarly, if the applicant signed the original power
+of attorney, and an assignee of the entire interest of
+the applicant later takes action and files a new power
+of attorney, the original power of attorney is revoked
+and replaced by the power of attorney filed by the
+assignee. In addition, if a power of attorney is given
+to the practitioners associated with a Customer
+Number, and a (second) power of attorney is later
+received giving power of attorney to patent
+practitioners associated with a different Customer
+Number, the second power of attorney will be
+processed, with the first Customer Number being
+replaced with the second. The power of attorney to
+the practitioners associated with the first Customer
+Number is automatically revoked in this situation.
+In all of these situations, the most recently filed
+power of attorney will control.
+
+402.05(b) Applicant Revocation - Application
+Filed Before September 16, 2012 [R-10.2019]
+37 CFR 1.36 (pre-AIA) Revocation of power of attorney;
+withdrawal of patent attorney or agent.
+(a) A power of attorney, pursuant to § 1.32(b), may be
+revoked at any stage in the proceedings of a case by an applicant
+for patent (§ 1.41(b)) or an assignee of the entire interest of the
+applicant, or the owner of the entire interest of a patent. A power
+of attorney to the patent practitioners associated with a Customer
+Number will be treated as a request to revoke any powers of
+attorney previously given. Fewer than all of the applicants (or
+fewer than all of the assignees of the entire interest of the
+applicant or, in a reexamination proceeding, fewer than all the
+owners of the entire interest of a patent) may revoke the power
+of attorney only upon a showing of sufficient cause, and payment
+of the petition fee set forth in § 1.17(f). A patent practitioner
+will be notified of the revocation of the power of attorney. Where
+
+400-21
+
+Rev. 01.2024, November 2024
+
+§ 402.06
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+power of attorney is given to the patent practitioners associated
+with a Customer Number (§ 1.32(c)(2)), the practitioners so
+appointed will also be notified of the revocation of the power
+of attorney when the power of attorney to all of the practitioners
+associated with the Customer Number is revoked. The notice
+of revocation will be mailed to the correspondence address for
+the application (§ 1.33) in effect before the revocation. An
+assignment will not of itself operate as a revocation of a power
+previously given, but the assignee of the entire interest of the
+applicant may revoke previous powers of attorney and give
+another power of attorney of the assignee’s own selection as
+provided in § 1.32(b).
+*****
+
+See MPEP § 402.07 for revocation of a power
+attorney by the assignee. Form PTO/SB/81 may be
+used to revoke a power of attorney in an application
+filed before September 16, 2012. See also MPEP §
+402.02(b).
+If the power of attorney was granted by the originally
+named inventive entity and an added inventor
+pursuant to § 1.48 does not provide a power of
+attorney consistent with the power of attorney
+granted by the originally named inventive entity, the
+addition of the inventor results in the loss of that
+power of attorney upon grant of the § 1.48 request.
+This provision does not preclude a practitioner from
+acting pursuant to 37 CFR 1.34, if applicable. See
+MPEP § 402.04 for information pertaining to acting
+in a representative capacity.
+When an original power of attorney is filed giving
+power of attorney to attorneys A, B, and C, and the
+same principal subsequently files another power of
+attorney, giving power of attorney to D without
+revoking all prior powers of attorney, the
+subsequently filed power of attorney will be treated
+as a revocation of the original power of attorney.
+Similarly, if the applicant signed the original power
+of attorney, and an assignee of the entire interest of
+the applicant later takes action and files a new power
+of attorney, the original power of attorney is revoked
+and replaced by the power of attorney filed by the
+assignee. In addition, if a power of attorney is given
+to the practitioners associated with a Customer
+Number, and a (second) power of attorney is later
+received giving power of attorney to patent
+practitioners associated with a different Customer
+Number, the second power of attorney will be
+processed, with the first Customer Number being
+replaced with the second. The power of attorney to
+the practitioners associated with the first Customer
+
+Rev. 01.2024, November 2024
+
+Number is automatically revoked in this situation.
+In all of these situations, the most recently filed
+power of attorney will control.
+A nonsigning inventor may subsequently join in a
+pre-AIA 37 CFR 1.47 application by submitting an
+oath or declaration under pre-AIA 37 CFR 1.63.
+However, even if the nonsigning inventor joins in
+the application, he or she cannot revoke or give a
+power of attorney without agreement of the pre-AIA
+37 CFR 1.47 applicant.
+
+402.06 Attorney or Agent Withdraws
+[R-01.2024]
+37 CFR 1.36 Revocation of power of attorney; withdrawal
+of patent attorney or agent.
+*****
+(b) A registered patent attorney or patent agent who has
+been given a power of attorney pursuant to § 1.32(b) may
+withdraw as attorney or agent of record upon application to and
+approval by the Director. The applicant or patent owner will be
+notified of the withdrawal of the registered patent attorney or
+patent agent. Where power of attorney is given to the patent
+practitioners associated with a Customer Number, a request to
+delete all of the patent practitioners associated with the Customer
+Number may not be granted if an applicant has given power of
+attorney to the patent practitioners associated with the Customer
+Number in an application that has an Office action to which a
+reply is due, but insufficient time remains for the applicant to
+file a reply. See § 41.5 of this title for withdrawal during
+proceedings before the Patent Trial and Appeal Board.
+37 CFR 11.116 Declining or terminating representation.
+(a) Except as stated in paragraph (c) of this section, a
+practitioner shall not represent a client, or where representation
+has commenced, shall withdraw from the representation of a
+client if:
+(1) The representation will result in violation of the
+USPTO Rules of Professional Conduct or other law;
+(2) The practitioner’s physical or mental condition
+materially impairs the practitioner’s ability to represent the
+client; or
+(3) The practitioner is discharged.
+(b) Except as stated in paragraph (c) of this section, a
+practitioner may withdraw from representing a client if:
+(1) Withdrawal can be accomplished without material
+adverse effect on the interests of the client;
+(2) The client persists in a course of action involving
+the practitioner’s services that the practitioner reasonably
+believes is criminal or fraudulent;
+(3) The client has used the practitioner’s services to
+perpetrate a crime or fraud;
+
+400-22
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+(4) A client insists upon taking action that the
+practitioner considers repugnant or with which the practitioner
+has a fundamental disagreement;
+(5) The client fails substantially to fulfill an obligation
+to the practitioner regarding the practitioner’s services and has
+been given reasonable warning that the practitioner will
+withdraw unless the obligation is fulfilled;
+(6) The representation will result in an unreasonable
+financial burden on the practitioner or has been rendered
+unreasonably difficult by the client; or
+(7) Other good cause for withdrawal exists.
+(c) A practitioner must comply with applicable law
+requiring notice to or permission of a tribunal when terminating
+a representation. When ordered to do so by a tribunal, a
+practitioner shall continue representation notwithstanding good
+cause for terminating the representation.
+(d) Upon termination of representation, a practitioner shall
+take steps to the extent reasonably practicable to protect a
+client’s interests, such as giving reasonable notice to the client,
+allowing time for employment of other counsel, surrendering
+papers and property to which the client is entitled and refunding
+any advance payment of fee or expense that has not been earned
+or incurred. The practitioner may retain papers relating to the
+client to the extent permitted by other law.
+
+See MPEP § 402.05(a) for applicant revocation of
+power of attorney in applications filed on or after
+September 16, 2012. For revocation of power of
+attorney in applications filed before September 16,
+2012, see MPEP § 402.05(b) for revocation by the
+applicant and MPEP § 402.07 for revocation by the
+assignee. See 37 CFR 11.116 for information
+regarding permissive and mandatory withdrawal.
+When filing a request to withdraw as attorney or
+agent of record, the patent attorney or agent should
+briefly state the reason(s) for which the attorney or
+agent is withdrawing so that the Office can determine
+whether to grant the request. Among several
+scenarios addressed in 37 CFR 11.116(b),
+subsections (5) and (6) permit withdrawal when after
+reasonable warning the client fails to compensate
+the practitioner, or when the representation “has been
+rendered unreasonably difficult by the client.” When
+preparing a request for withdrawal for such reasons,
+the practitioner should also be mindful of 37 CFR
+11.106, which requires a practitioner to maintain the
+confidentiality of client information (except in
+limited circumstances). Where withdrawal is
+predicated upon such reasons, the practitioner, rather
+than divulging confidential or secret information
+about the client, should identify the reason(s) for
+requesting to withdraw as being based on
+“irreconcilable differences.” An explanation of and
+
+§ 402.06
+
+the evidence supporting “irreconcilable differences”
+should be submitted as proprietary material in
+accordance with MPEP § 724.02 to ensure that the
+client’s confidences are maintained.
+In the event that a notice of withdrawal is filed by
+the attorney or agent of record, the file will be
+forwarded to the appropriate official for decision on
+the request. The withdrawal is effective when
+approved rather than when received.
+Each attorney of record must sign the notice of
+withdrawal, or the notice of withdrawal must contain
+a clear indication of one attorney signing on behalf
+of themselves and another. A withdrawal of another
+attorney or agent of record, without also withdrawing
+the attorney or agent signing the request is a
+revocation, not a withdrawal.
+Pursuant to 37 CFR 11.116(c), when terminating a
+representation a practitioner must provide notice to,
+or request permission from, a tribunal when required
+by applicable law. Pursuant to 37 CFR 11.116(d), a
+practitioner is required to take steps to the extent
+reasonably practicable to protect a client’s interests,
+such as giving reasonable notice to the client,
+allowing time for employment of other counsel,
+surrendering papers and property to which the client
+is entitled and refunding any advance payment of
+fee or expense that has not been earned or incurred.
+The Request for Withdrawal As Attorney or Agent
+and Change of Correspondence Address forms
+(PTO/SB/83 or PTO/AIA/83, available at
+www.uspto.gov/PatentForms) provide a section
+wherein practitioners may certify the completion of
+activities necessary for the request to withdraw from
+representation to be granted. A Request for
+Withdrawal As Attorney or Agent may alternatively
+be filed as a Web-based ePetition (see
+www.uspto.gov/patents-application-process/
+petitions/15-attorney-or-agent-withdrawals for
+more information). When the correspondence
+address will change as a result of withdrawal, the
+withdrawing practitioner(s) must request that the
+Office direct all future correspondence to (i) the first
+named inventor or assignee that has properly made
+itself of record pursuant to 37 CFR 3.71 (for
+applications filed before September 16, 2012), or
+(ii) the applicant (for applications filed on or after
+
+400-23
+
+Rev. 01.2024, November 2024
+
+§ 402.06
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+September 16, 2012), or (iii) the assignee of record
+(for proceedings involving issued patents).
+Practitioners may do so by specifying either the
+correspondence address of, or the address associated
+with the Customer Number of, any appropriate party
+as specified above. Withdrawing practitioner(s)
+cannot change the correspondence address to the
+address associated with the Customer Number of
+another law firm, or any other address except as
+noted above.
+
+time period which can be obtained by a petition and
+fee for an extension of time under 37 CFR 1.136
+will simply be placed in the application file. The
+only exception will be a revocation and power of
+attorney accompanied with a petition to revive.
+
+As long as the request is filed prior to the expiration
+date of a time period for reply or the expiration date
+of a time period which can be obtained by a petition
+and fee for extension of time under 37 CFR 1.136(a),
+the Office will review the request and render a
+decision, even if the decision on the request is
+decided after the stated period for reply, after the
+application is abandoned, or after proceedings have
+terminated. In contrast, the Office will not decide
+requests to withdraw from representation as
+practitioner of record which are filed after the
+expiration date of a time period for reply or the
+expiration date of a time period which can be
+obtained by a petition and fee for extension of time
+under 37 CFR 1.136(a). These requests will be
+placed in the application but will not be treated on
+their merits. In a similar situation, a revocation of
+power of attorney filed after the expiration date of
+a time period for reply or the expiration date of a
+
+The Office will not approve requests from
+practitioners to withdraw from applications where
+the requesting practitioner is acting, or has acted, in
+a representative capacity pursuant to 37 CFR 1.34.
+In these situations, the practitioner is responsible for
+the correspondence the practitioner files in the
+application while acting in a representative capacity.
+As such, there is no need for the practitioner to
+obtain the Office's permission to withdraw from
+representation. However, practitioners acting in a
+representative capacity, like practitioners who have
+a power of attorney in the application, remain
+responsible for noncompliance with 37 CFR 1.56,
+as well as 37 CFR 11.18, with respect to documents
+they file.
+
+Rev. 01.2024, November 2024
+
+For withdrawal during reexamination proceedings,
+see MPEP § 2223. Requests for withdrawal filed
+after a patent has issued will be placed in the file but
+will generally not be treated on their merits.
+
+Form PTO/AIA/83 may be used to request
+withdrawal of attorney or agent of record.
+
+400-24
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+400-25
+
+§ 402.06
+
+Rev. 01.2024, November 2024
+
+§ 402.06
+
+Rev. 01.2024, November 2024
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+400-26
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+400-27
+
+§ 402.06
+
+Rev. 01.2024, November 2024
+
+§ 402.07
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+402.07 Assignee Revocation of Power of
+Attorney of Applicant and Appointment of
+New Power of Attorney [R-10.2019]
+
+entire right, title and interest in the application or patent being
+reexamined.
+(c) Patents — Becoming of record. An assignee becomes
+of record either in a national patent application or a
+reexamination proceeding by filing a statement in compliance
+with § 3.73(b) that is signed by a party who is authorized to act
+on behalf of the assignee.
+
+I. APPLICATION FILED ON OR AFTER
+SEPTEMBER 16, 2012
+
+In applications filed on or after September 16, 2012,
+any power of attorney must be signed by the
+applicant or patent owner (for a patent, including a
+patent in a supplemental examination or
+reexamination proceeding). See 37 CFR 1.32(b). For
+an assignee to revoke a previously given power of
+attorney and/or grant a power of attorney, the
+assignee must become the applicant under 37 CFR
+1.46(c). See MPEP §§ 402.02(a) and 402.05(a). See
+MPEP § 325 for details pertaining to establishing
+the right of an assignee to take action in an
+application filed on or after September 16, 2012.
+II. APPLICATION FILED BEFORE SEPTEMBER
+16, 2012
+
+In applications filed before September 16, 2012, the
+assignee of record of the entire interest can revoke
+the power of attorney of the applicant unless an
+“irrevocable” right to prosecute the application had
+been given as in some government owned
+applications.
+37 CFR 3.71 (pre-AIA) Prosecution by assignee.
+(a) Patents — conducting of prosecution. One or more
+assignees as defined in paragraph (b) of this section may, after
+becoming of record pursuant to paragraph (c) of this section,
+conduct prosecution of a national patent application or a
+reexamination proceeding to the exclusion of either the inventive
+entity, or the assignee(s) previously entitled to conduct
+prosecution.
+(b) Patents — assignee(s) who can prosecute. The
+assignee(s) who may conduct either the prosecution of a national
+application for patent or a reexamination proceeding are:
+(1) A single assignee. An assignee of the entire right,
+title and interest in the application or patent being reexamined
+who is of record, or
+(2) Partial assignee(s) together or with inventor(s).
+All partial assignees, or all partial assignees and inventors who
+have not assigned their right, title and interest in the application
+or patent being reexamined, who together own the entire right,
+title and interest in the application or patent being reexamined.
+A partial assignee is any assignee of record having less than the
+
+Rev. 01.2024, November 2024
+
+(d) Trademarks. The assignee of a trademark application
+or registration may prosecute a trademark application, submit
+documents to maintain a trademark registration, or file papers
+against a third party in reliance on the assignee’s trademark
+application or registration, to the exclusion of the original
+applicant or previous assignee. The assignee must establish
+ownership in compliance with § 3.73(b).
+
+See pre-AIA 37 CFR 1.36 in MPEP § 402.05(b).
+A power of attorney by the assignee of the entire
+interest revokes all powers given by the applicant
+and prior assignees if the assignee establishes their
+right to take action as provided in pre-AIA 37 CFR
+3.73(b). See MPEP § 324. Ordinarily, the applicant
+will still have access to the application (MPEP §
+106).
+In an application that has been accorded status under
+pre-AIA 37 CFR 1.47(a), or for which status under
+pre-AIA 37 CFR 1.47(a) has been requested, a power
+of attorney given by the inventors who have signed
+the declaration (available inventors) may be revoked
+by an assignee of the entire interest of the available
+inventors (i.e., the applicant). See pre-AIA 37 CFR
+1.32(b)(4). Rights of the assignee to take action may
+be established as provided in pre-AIA 37 CFR
+3.73(b) and MPEP § 324.
+Form PTO/SB/80 may be used by an assignee of the
+entire interest of the applicant to revoke a power of
+attorney and appoint a new power of attorney. The
+assignee would sign the power of attorney, and either
+the assignee or the newly appointed practitioner,
+having authority to take action on behalf of the
+assignee would sign a statement under pre-AIA 37
+CFR 3.73(b) for the application in which the general
+power of attorney is to be used. See MPEP § 324,
+subsection V. for who can sign the Statement Under
+pre-AIA 37 CFR 3.73(b) (Form PTO/SB/96 or
+equivalent).
+
+400-28
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+400-29
+
+§ 402.07
+
+Rev. 01.2024, November 2024
+
+§ 402.07
+
+Rev. 01.2024, November 2024
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+400-30
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+402.08 Application in Interference or
+Derivation Proceeding [R-11.2013]
+While an application is involved in an interference
+or derivation proceeding, any power of attorney of
+or revocation of power of attorney should be
+forwarded to the Patent Trial and Appeal Board for
+consideration.
+
+402.09 International Application [R-01.2024]
+37 CFR 11.9 Limited recognition in patent matters.
+(a) Any individual not registered under § 11.6 may, upon
+a showing of circumstances that render it necessary or justifiable
+and that the individual is of good moral character and reputation,
+be given limited recognition by the OED Director to prosecute
+as attorney or agent a specified patent application or specified
+patent applications. Limited recognition under this paragraph
+shall not extend further than the application or applications
+specified. Limited recognition shall not be granted to individuals
+who have passed the examination or to those for whom the
+examination has been waived while such individual’s application
+for registration to practice before the Office in patent matters is
+pending.
+(b) An individual ineligible to become registered under
+§11.6 because of their immigration status may be granted limited
+recognition to practice before the Office in patent matters,
+provided the U.S. Government authorizes employment or
+training in the United States for the individual to represent a
+patent applicant by preparing or prosecuting a patent application,
+and the individual fulfills the provisions of paragraphs(d) and
+(e) of this section. Limited recognition shall be granted only for
+a period consistent with the terms of the immigration status and
+employment or training authorized. Limited recognition is
+subject to United States immigration rules, statutes, laws, and
+regulations. If granted, limited recognition shall automatically
+terminate if the individual ceases to: lawfully reside in the United
+States, maintain authorized employment or training, or maintain
+their immigration status. Limited recognition shall not be granted
+or extended to a non-U.S. citizen residing outside the United
+States.
+(c) An individual not registered under § 11.6 may, if
+appointed by an applicant, prosecute an international patent
+application only before the United States International Searching
+Authority and the United States International Preliminary
+Examining Authority, provided that the individual has the right
+to practice before the national office with which the international
+application is filed as provided in PCT Art. 49, Rule 90 and §
+1.455 of this subchapter, or before the International Bureau
+when the USPTO is acting as Receiving Office pursuant to PCT
+Rules 83.1 bis and 90.1.
+*****
+37 CFR 1.455 Representation in international applications.
+(a) Applicants of international applications may be
+represented by attorneys or agents registered to practice before
+the United States Patent and Trademark Office or by an applicant
+
+§ 402.10
+
+appointed as a common representative (PCT Art. 49, Rules 4.8
+and 90 and § 11.9). If applicants have not appointed an attorney
+or agent or one of the applicants to represent them, and there is
+more than one applicant, the applicant first named in the request
+and who is entitled to file in the U.S. Receiving Office shall be
+considered to be the common representative of all the applicants.
+An attorney or agent having the right to practice before a national
+office with which an international application is filed and for
+which the United States is an International Searching Authority
+or International Preliminary Examining Authority may be
+appointed to represent the applicants in the international
+application before that authority. An attorney or agent may
+appoint an associate attorney or agent who shall also then be of
+record (PCT Rule 90.1(d)). The appointment of an attorney or
+agent, or of a common representative, revokes any earlier
+appointment unless otherwise indicated (PCT Rule 90.6(b) and
+(c)).
+(b) Appointment of an agent, attorney or common
+representative (PCT Rule 4.8) must be effected either in the
+Request form, signed by applicant, in the Demand form, signed
+by applicant, or in a separate power of attorney submitted either
+to the United States Receiving Office or to the International
+Bureau.
+(c) Powers of attorney and revocations thereof should be
+submitted to the United States Receiving Office until the
+issuance of the international search report.
+(d) The addressee for correspondence will be as indicated
+in section 108 of the Administrative Instructions.
+
+For representation in international applications, see
+MPEP § 1807.
+
+402.10 Appointment/Revocation by Less
+Than All Applicants or Owners [R-10.2019]
+Papers giving or revoking a power of attorney in an
+application generally require signature by all the
+applicants or owners of the application. Papers
+revoking a power of attorney in an application will
+not be accepted by the Office when signed by less
+than all of the applicants or owners of the application
+unless they are accompanied by a petition under 37
+CFR 1.36(a) and fee under 37 CFR 1.17(f) with a
+showing of sufficient cause. Papers giving a power
+of attorney in an application will not be accepted by
+the Office when signed by less than all of the
+applicants or owners of the application unless they
+are accompanied by a petition under 37 CFR 1.183
+and fee under 37 CFR 1.17(f) demonstrating the
+extraordinary situation where justice requires waiver
+of the requirement of 37 CFR 1.32(b)(4). The
+petition should be directed to the Office of Petitions.
+The appointment and/or revocation are not accepted
+until the petition under 37 CFR 1.36(a) or 1.183 is
+
+400-31
+
+Rev. 01.2024, November 2024
+
+§ 403
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+granted. Therefore, the attorney or agent newly
+appointed by such papers is not permitted to submit
+any documents (such as an information disclosure
+statement (IDS)) into the application file until the
+petition under 37 CFR 1.36(a) or 1.183 is granted.
+The acceptance of such papers by petition under 37
+CFR 1.36(a) or 1.183 will result in more than one
+attorney, agent, applicant, or owner prosecuting the
+application at the same time. Therefore, each of these
+parties must sign all subsequent replies submitted
+to the Office. See In re Goldstein, 16 USPQ2d 1963
+(Dep. Assist. Comm’r Pat. 1988).
+In an application filed under pre-AIA 37 CFR
+1.47(a), an assignee of the entire interest of the
+available inventors (i.e., the applicant) who has
+signed the declaration may appoint or revoke a
+power of attorney without a petition under 37 CFR
+1.36(a) or 1.183. See MPEP § 402.07. However, in
+applications accepted under pre-AIA 37 CFR 1.47,
+such a petition under 37 CFR 1.36(a) or 1.183
+submitted by a previously nonsigning inventor who
+has now joined in the application will not be granted.
+See MPEP § 409.03(i). Upon accepting papers
+appointing and/or revoking a power of attorney that
+are signed by less than all of the applicants or
+owners, the Office will indicate to applicants who
+must sign subsequent replies. Double correspondence
+will still not be permitted. Accordingly, when the
+acceptance of such papers results in an attorney or
+agent and at least one applicant or owner prosecuting
+the application, correspondence will be mailed to
+the attorney or agent. When the acceptance of such
+papers results in more than one attorney or agent
+prosecuting the application, the correspondence
+address will continue to be that of the attorney or
+agent first named in the application, unless all parties
+agree to a different correspondence address. Each
+attorney or agent signing subsequent papers must
+indicate whom he or she represents.
+
+(B) If coinventors A and B have each appointed
+their own patent practitioner, replies must be signed
+by both patent practitioners.
+
+403 Correspondence — With Whom Held;
+Customer Number Practice [R-01.2024]
+37 CFR 1.33 states that when an attorney or agent
+has been duly appointed to prosecute an application,
+correspondence will be held with the attorney or
+agent unless some other correspondence address has
+been given. If an attorney or agent of record assigns
+a correspondence address which is different than an
+address where the attorney or agent normally
+receives mail, the attorney or agent is reminded that
+(1) 37 CFR 11.106 requires the attorney or agent to
+keep information obtained by attorney/agent – client
+relationship in confidence; and (2) the attorney or
+agent is still responsible for responding to any notice
+or action from the Office. See 37 CFR 11.101,
+11.103 and 11.804. Double correspondence with an
+applicant and their attorney, or with two
+representatives, will not be undertaken. See MPEP
+§§ 403.01(a), 403.01(b), 403.02, and 714.01(d).
+If double correspondence is attempted, form
+paragraph 4.01 should be included in the next Office
+action.
+¶ 4.01 Double Correspondence
+Applicant has appointed an attorney or agent to conduct all
+business before the Patent and Trademark Office. Double
+correspondence with an applicant and applicant's attorney or
+agent will not be undertaken. Accordingly, applicant is required
+to conduct all future correspondence with this Office through
+the attorney or agent of record. See 37 CFR 1.33.
+Examiner Note:
+1. The first time a reply is received directly from applicant,
+include this paragraph in the Office action and send a copy of
+the action to the applicant. See MPEP §§ 403 and 714.01.
+2. Should applicant file additional replies, do not send copies
+of subsequent Office actions to the applicant.
+
+The following are examples of who must sign replies
+when there is more than one person responsible for
+prosecuting the application:
+
+3. Status letters from the applicant may be acknowledged in
+isolated instances.
+
+(A) If coinventor A has given a power of
+attorney to a patent practitioner and coinventor B
+has not, replies must be signed by the patent
+practitioner of A and by coinventor B.
+
+See MPEP § 403.01(a) for additional information
+pertaining to correspondence in applications filed
+on or after September 16, 2012. See MPEP §
+403.01(b) for additional information pertaining to
+correspondence in applications filed before
+September 16, 2012.
+
+Rev. 01.2024, November 2024
+
+400-32
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+I. CUSTOMER NUMBER PRACTICE
+
+A Customer Number (previously a “Payor Number”)
+may be used to:
+(A) designate the correspondence address of a
+patent application or patent such that the
+correspondence address for the patent application
+or patent would be the address associated with the
+Customer Number (37 CFR 1.32(a)(5)(i));
+(B) designate the fee address (37 CFR 1.363) of
+a patent such that the fee address for the patent
+would be the address associated with the Customer
+Number (37 CFR 1.32(a)(5)(ii)); and
+(C) submit a list of practitioners such that those
+practitioners associated with the Customer Number
+would have power of attorney (37 CFR
+1.32(a)(5)(iii)).
+
+§ 403
+
+(B) the “Request for Customer Number Data
+Change” (PTO/SB/124) to request a change in the
+data (address or list of practitioners) associated with
+an existing Customer Number;
+(C) the “Change of Correspondence Address,
+Application” (PTO/AIA/122 for applications filed
+on or after September 16, 2012, or PTO/SB/122 for
+applications filed before September 16, 2012) to
+change the correspondence address of an individual
+application to the address associated with a Customer
+Number; and
+(D) the “Change of Correspondence Address,
+Patent” (PTO/AIA/123 for applications filed on or
+after September 16, 2012, or PTO//SB/123 for
+applications filed before September 16, 2012) to
+change the correspondence address of an individual
+patent to the address associated with a Customer
+Number.
+
+Thus, a Customer Number may be used to designate
+the address associated with the Customer Number
+as the correspondence address of an application (or
+patent) or the fee address of a patent, and may also
+be used to submit a power of attorney in the
+application (or patent) to the registered practitioners
+associated with the Customer Number.
+
+The Office will also accept requests on electronic
+storage media submitted electronically to change the
+correspondence address of a list of applications or
+patents or the fee address for a list of patents to the
+address associated with a Customer Number.
+Instructions for submitting such requests are
+available on the “Customer Number Upload
+Spreadsheet” available at www.uspto.gov/Ebc.
+
+Applicant may use either the same or different
+customer number(s) for the correspondence address,
+the fee address and/or a list of practitioners. The
+customer number associated with the
+correspondence address is the Customer Number
+that can be used to obtain full access to the
+USPTO patent electronic filing system at
+www.uspto.gov/PatentCenter . See MPEP § 1730
+for additional information regarding the USPTO
+patent electronic filing system.
+
+Such electronic requests must comply with the
+requirements set forth in the Notice entitled
+“Extension of the Payor Number Practice (through
+“Customer Numbers”) to Matters Involving Pending
+Patent Applications,” published in the Federal
+Register at 61 FR 54622, 54623-24 (October 21,
+1996), and in the Official Gazette at 1191 O. G. 187,
+188-89 (October 29, 1996).
+
+The Office will accept requests for changes to the
+Customer Number information through the USPTO
+patent electronic filing system. See MPEP § 502.05
+for information pertaining to the USPTO patent
+electronic filing system.
+The following forms are suggested for use with the
+Customer Number practice:
+(A) the “Request for Customer Number”
+(PTO/SB/125) to request a Customer Number;
+
+With Customer Number practice, a patentee is also
+able to designate a “fee address” for the receipt of
+maintenance fee correspondence, and a different
+address for the receipt of all other correspondence.
+The designation of a “fee address” by reference to
+a Customer Number will not affect or be affected
+by the designation of a correspondence address by
+reference to another Customer Number, in that the
+Office will send maintenance fee correspondence to
+the address associated with the Customer Number
+designated as the “fee address” and will send all
+other correspondence to the address associated with
+
+400-33
+
+Rev. 01.2024, November 2024
+
+§ 403
+
+the Customer Number
+correspondence address.
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+designated
+
+as
+
+the
+
+The association of a list of practitioners with a
+Customer Number will permit an applicant to appoint
+all of the practitioners associated with the Customer
+Number merely by reference to the Customer
+Number in the Power of Attorney (i.e., without
+individually listing the practitioners in the Power of
+Attorney). The addition and/or deletion of a
+practitioner from the list of practitioners associated
+with a Customer Number by submitting a
+corresponding “Request for Customer Number Data
+Change” (PTO/SB/124) will result in the addition
+or deletion of such practitioner from the list of
+persons authorized to represent any applicant or
+assignee of the entire interest of the applicant who
+appointed all of the practitioners associated with
+such Customer Number. This will avoid the necessity
+for the filing of additional papers in each patent
+application affected by a change in the practitioners
+of the law firm prosecuting the application. The
+appointment of practitioners associated with a
+Customer Number is optional, in that any applicant
+may continue to individually name those
+practitioners to represent the applicant in a patent
+application, so long as fewer than ten patent
+practitioners are named. See 37 CFR 1.32(c)(3).
+Effective January 2, 2024, the USPTO created the
+design patent practitioner bar for practicing before
+the Office in design patent matters. Design patent
+practitioners are registered under 37 CFR 11.6(d)
+and can only practice in design patent matters. 37
+CFR 1.32(a)(1). In contrast, patent practitioners
+registered under 37 CFR 11.6(a)-(c) can practice in
+all patent matters, which includes design patent
+matters. See MPEP § 1502.02. A power of attorney
+naming the practitioners associated with a Customer
+Number may only include practitioners who are
+authorized to practice in the applicable patent matter.
+Therefore, if a design patent practitioner is associated
+with a Customer Number, that Customer Number
+can only be used to establish power of attorney in
+design patent matters. This applies even if a
+practitioner that is authorized to practice in all patent
+matters is also associated with the same Customer
+Number.
+
+Rev. 01.2024, November 2024
+
+The Customer Number practice does not affect the
+prohibition against, and does not amount to, an
+appointment of a law firm (rather than specified
+practitioners). The Office prohibits an appointment
+of a specified law firm because the Office cannot
+ascertain from its records whether a particular
+practitioner submitting a paper to the Office is
+associated with the law firm specified in an
+appointment. The Office will permit an appointment
+of all of the practitioners associated with a specified
+Customer Number because the Office can ascertain
+from its records for the specified Customer Number
+whether a particular practitioner is associated with
+that Customer Number.
+A law firm should promptly remove any practitioner
+who leaves the firm from the list of practitioners
+associated with any Customer Number used by the
+law firm, so that the practitioner will not have access
+to the applications associated with the Customer
+Number. A practitioner leaving a law firm can also
+remove themselves from any Customer Number used
+by the law firm. In order to continue representing
+an applicant who had appointed the practitioners
+associated with the Customer Number of a law firm,
+a practitioner leaving the law firm must obtain a new
+power of attorney.
+Similarly, a practitioner who has a USPTO patent
+electronic filing system account should remove
+sponsorship of any support staff individual when
+that individual leaves the firm so that the support
+staff individual will not have access to any
+applications associated with any Customer Number
+linked to the practitioner.
+As the Office will not recognize more than one
+correspondence address (37 CFR 1.33(a)), any
+inconsistencies between the correspondence address
+resulting from a Customer Number being provided
+in an application for the correspondence address and
+any other correspondence address provided in that
+application will generally be resolved in favor of the
+address of the Customer Number or the application
+data sheet (37 CFR 1.76(d)). Due to the prohibition
+against double correspondence in an application (37
+CFR 1.33(a)), an applicant will be permitted to
+provide only a single number at a time as the
+Customer Number for the correspondence address.
+Applicants are strongly cautioned not to attempt to
+
+400-34
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+appoint more than one Customer Number for a
+particular purpose (e.g., correspondence address) in
+a single communication, as such action will not have
+a cumulative effect.
+Where an applicant appoints all of the practitioners
+associated with a Customer Number as well as a list
+of individually named practitioners, such action
+would be treated as only an appointment of all of
+the practitioners associated with a Customer Number
+due to the potential for confusion and data entry
+errors in entering registration numbers from plural
+sources. Furthermore, Office computer systems do
+not allow for entry of both a power of attorney to a
+list of practitioners associated with a Customer
+Number and a list of practitioners.
+Although Customer Numbers are designed to
+designate both a correspondence address and to
+associate one or more patent practitioners with an
+application, one Customer Number may be used for
+the correspondence address, and another Customer
+Number may be used for the power of attorney. As
+stated previously, the customer number associated
+with the correspondence address is the Customer
+Number that can be used to obtain full access to the
+USPTO patent electronic filing system. For example,
+where one customer number is associated with the
+correspondence address (e.g., a customer number
+that lists all of the practitioners at a particular firm)
+and a different customer number is used to appoint
+practitioners as having power of attorney (e.g., a
+customer number that lists a small number of
+practitioners from the particular firm as well as a
+few practitioners who are employees of the
+applicant), only the practitioners associated with the
+customer number being used for the correspondence
+address will be able to access the application in the
+USPTO patent electronic filing system.
+The Office has created a Mail Stop designation for
+correspondence related to a Customer Number
+(“Mail Stop EBC”), and all correspondence related
+to a Customer Number (e.g., requests for a Customer
+Number) should be addressed to this mail stop
+designation.
+The following persons are authorized to change the
+information associated with an established Customer
+Number: (1) a registered practitioner associated with
+
+§ 403.01(a)
+
+the Customer Number; and (2) the person who
+requested the Customer Number (signed the Request
+for Customer Number, Form PTO/SB/125).
+II. PATENT APPLICATION FILED WITHOUT
+CORRESPONDENCE ADDRESS
+
+If a patent application as filed has been accorded a
+filing date but is not complete, the applicant is
+notified and given a period of time within which to
+file the missing parts to complete the application and
+pay the applicable surcharge. See MPEP § 601.01 et
+seq. for a discussion of the requirements for a
+complete application. In order for the Office to so
+notify the applicant, a correspondence address must
+also be provided by the applicant. The address may
+be different from the post office address of the
+applicant. For example, the address of the applicant’s
+registered attorney or agent may be used as the
+correspondence address. If the applicant fails to
+provide the Office with a correspondence address,
+the Office will be unable to provide the applicant
+with notification to complete the application and to
+pay the surcharge as set forth in 37 CFR 1.16(f) for
+nonprovisional applications and 37 CFR 1.16(g) for
+provisional applications. In such a case, the applicant
+will be considered to have constructive notice as of
+the filing date that the application must be completed
+and the applicant will have 2 months from the filing
+date in which to do so before abandonment occurs.
+The periods of time within which the applicant must
+complete the application may be extended under the
+provisions of 37 CFR 1.136. Applications which are
+not completed in a timely manner will be abandoned.
+
+403.01 Correspondence in Applications
+[R-07.2022]
+
+403.01(a) Correspondence in Applications
+Filed On or After September 16, 2012
+[R-01.2024]
+37 CFR 1.33 Correspondence respecting patent applications,
+reexamination proceedings, and other proceedings.
+(a) Correspondence address and daytime telephone
+number. When filing an application, a correspondence address
+must be set forth in either an application data sheet (§ 1.76), or
+elsewhere, in a clearly identifiable manner, in any paper
+submitted with an application filing. If no correspondence
+
+400-35
+
+Rev. 01.2024, November 2024
+
+§ 403.01(a)
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+address is specified, the Office may treat the mailing address of
+the first named inventor (if provided, see §§ 1.76(b)(1) and
+1.63(b)(2)) as the correspondence address. The Office will direct,
+or otherwise make available, all notices, official letters, and
+other communications relating to the application to the person
+associated with the correspondence address. For correspondence
+submitted via the USPTO patent electronic filing system,
+however, an electronic acknowledgment receipt will be sent to
+the submitter. The Office will generally not engage in double
+correspondence with an applicant and a patent practitioner, or
+with more than one patent practitioner except as deemed
+necessary by the Director. If more than one correspondence
+address is specified, the Office will select one of the specified
+addresses for use as the correspondence address and, if given,
+may select the address associated with a Customer Number over
+a typed correspondence address. For the party to whom
+correspondence is to be addressed, a daytime telephone number
+should be supplied in a clearly identifiable manner and may be
+changed by any party who may change the correspondence
+address. The correspondence address may be changed by the
+parties set forth in paragraph (b)(1) or (b)(3) of this section.
+Prior to the appointment of any power of attorney under §
+1.32(b), the correspondence address may also be changed by
+any patent practitioner named in the application transmittal
+papers who acts in a representative capacity under the provisions
+of § 1.34.
+(b) Amendments and other papers. Amendments and other
+papers, except for written assertions pursuant to § 1.27(c)(2)(iii)
+or (c)(2)(iv), filed in the application must be signed by:
+(1) A patent practitioner of record;
+(2) A patent practitioner not of record who acts in a
+representative capacity under the provisions of § 1.34; or
+(3) The applicant (§ 1.42). Unless otherwise specified,
+all papers submitted on behalf of a juristic entity must be signed
+by a patent practitioner.
+(c) All notices, official letters, and other communications
+for the patent owner or owners in a reexamination or
+supplemental examination proceeding will be directed to the
+correspondence address in the patent file. Amendments filed in
+a reexamination proceeding, and other papers filed in a
+reexamination or supplemental examination proceeding, on
+behalf of the patent owner must be signed by the patent owner,
+or if there is more than one owner by all the owners, or by an
+attorney or agent of record in the patent file, or by a registered
+attorney or agent not of record who acts in a representative
+capacity under the provisions of § 1.34. Double correspondence
+with the patent owner or owners and the patent owner’s attorney
+or agent, or with more than one attorney or agent, will not be
+undertaken.
+(d) A “correspondence address” or change thereto may be
+filed with the Patent and Trademark Office during the
+enforceable life of the patent. The “correspondence address”
+will be used in any correspondence relating to maintenance fees
+unless a separate “fee address” has been specified. See § 1.363
+for “fee address” used solely for maintenance fee purposes.
+(e) A change of address filed in a patent application or
+patent does not change the address for a patent practitioner in
+the roster of patent attorneys and agents. See § 11.11 of this
+title.
+
+Rev. 01.2024, November 2024
+
+(f) Where application papers from a prior application are
+used in a continuing application and the correspondence address
+was changed during the prosecution of the prior application, an
+application data sheet or separate paper identifying the
+correspondence address to be used for the continuing application
+must be submitted. Otherwise, the Office may not recognize the
+change of correspondence address effected during the
+prosecution of the prior application.
+(g) A patent practitioner acting in a representative capacity
+whose correspondence address is the correspondence address
+of record in an application may change the correspondence
+address after the patent has issued, provided that the change of
+correspondence address is accompanied by a statement that
+notice has been given to the patentee or owner.
+
+37 CFR 1.33(a) specifies that if an applicant provides
+more than one correspondence address (in a single
+paper or in different papers), the Office will select
+one of the specified addresses for use as the
+correspondence address and, if given, may select the
+correspondence address associated with a Customer
+Number over a typed correspondence address.
+However, the hierarchy provided in 37 CFR 1.76(d)
+for inconsistencies between an application data sheet
+and other documents will still apply.
+37 CFR 1.33(a) also provides that the
+correspondence address may be changed by the
+parties set forth in 37 CFR 1.33(b)(1) (a patent
+practitioner of record) or 37 CFR 1.33(b)(3) (the
+applicant under 37 CFR 1.42)). Prior to the
+appointment of any power of attorney under 37 CFR
+1.32(b), the correspondence address may also be
+changed by any patent practitioner named in the
+application transmittal papers who acts in a
+representative capacity under the provisions of 37
+CFR 1.34. While a practitioner acting in a
+representative capacity cannot change the
+correspondence address in an application after a
+power of attorney has been appointed, 37 CFR
+1.33(g) provides that a practitioner acting in a
+representative capacity whose correspondence
+address is the correspondence address of record in
+an application may change the correspondence
+address after the patent has issued, provided that the
+change of correspondence address is accompanied
+by a statement that notice has been given to the
+patentee or owner.
+Amendments and other papers, except for written
+assertions pursuant to 37 CFR 1.27(c)(2)(iii) or
+(c)(2)(iv), filed in the application must be signed by:
+(1) A patent practitioner of record; (2) a patent
+
+400-36
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+practitioner not of record who acts in a representative
+capacity under the provisions of 37 CFR 1.34; or (3)
+the applicant (37 CFR 1.42). Pursuant to 37 CFR
+1.33(b)(3), unless otherwise specified (e.g., terminal
+disclaimers and 37 CFR 3.73(c) statements; see
+MPEP § 325), all papers submitted on behalf of a
+juristic entity must be signed by a patent practitioner,
+as 37 CFR 1.31 provides that a juristic entity may
+prosecute a patent application only through a patent
+practitioner.
+Where application papers (e.g., the inventor’s oath
+or declaration) from a prior application are used in
+a continuing application and the correspondence
+address was changed during the prosecution of the
+prior application, an application data sheet or
+separate paper identifying the correspondence
+address to be used for the continuing application
+must be submitted. See 37 CFR 1.33(f). Otherwise,
+the Office may not recognize the change of
+correspondence address effected during the
+prosecution of the prior application.
+
+403.01(b) Correspondence in Applications
+Filed Before September 16, 2012 [R-10.2019]
+37 CFR 1.33 (pre-AIA) Correspondence respecting patent
+applications, reexamination proceedings, and other
+proceedings.
+(a) Correspondence address and daytime telephone
+number. When filing an application, a correspondence address
+must be set forth in either an application data sheet (§ 1.76), or
+elsewhere, in a clearly identifiable manner, in any paper
+submitted with an application filing. If no correspondence
+address is specified, the Office may treat the mailing address of
+the first named inventor (if provided, see §§ 1.76(b)(1) and
+1.63(c)(2)) as the correspondence address. The Office will direct,
+or otherwise make available, all notices, official letters, and
+other communications relating to the application to the person
+associated with the correspondence address. For correspondence
+submitted via the Office’s electronic filing system, however, an
+electronic acknowledgment receipt will be sent to the submitter.
+The Office will generally not engage in double correspondence
+with an applicant and a patent practitioner, or with more than
+one patent practitioner except as deemed necessary by the
+Director. If more than one correspondence address is specified
+in a single document, the Office will select one of the specified
+addresses for use as the correspondence address and, if given,
+will select the address associated with a Customer Number over
+a typed correspondence address. For the party to whom
+correspondence is to be addressed, a daytime telephone number
+should be supplied in a clearly identifiable manner and may be
+changed by any party who may change the correspondence
+address. The correspondence address may be changed as follows:
+
+§ 403.01(b)
+
+(1) Prior to filing of § 1.63 oath or declaration by any
+of the inventors. If a § 1.63 oath or declaration has not been
+filed by any of the inventors, the correspondence address may
+be changed by the party who filed the application. If the
+application was filed by a patent practitioner, any other patent
+practitioner named in the transmittal papers may also change
+the correspondence address. Thus, the inventor(s), any patent
+practitioner named in the transmittal papers accompanying the
+original application, or a party that will be the assignee who
+filed the application, may change the correspondence address
+in that application under this paragraph.
+(2) Where a § 1.63 oath or declaration has been filed
+by any of the inventors. If a § 1.63 oath or declaration has been
+filed, or is filed concurrent with the filing of an application, by
+any of the inventors, the correspondence address may be changed
+by the parties set forth in paragraph (b) of this section, except
+for paragraph (b)(2).
+(b) Amendments and other papers. Amendments and other
+papers, except for written assertions pursuant to § 1.27(c)(2)(ii)
+of this part, filed in the application must be signed by:
+(1) A patent practitioner of record appointed in
+compliance with § 1.32(b);
+(2) A patent practitioner not of record who acts in a
+representative capacity under the provisions of § 1.34;
+(3) An assignee as provided for under § 3.71(b) of this
+chapter; or
+(4) All of the applicants (§ 1.41(b)) for patent, unless
+there is an assignee of the entire interest and such assignee has
+taken action in the application in accordance with § 3.71 of this
+chapter.
+(c) All notices, official letters, and other communications
+for the patent owner or owners in a reexamination proceeding
+will be directed to the correspondence address. Amendments
+and other papers filed in a reexamination proceeding on behalf
+of the patent owner must be signed by the patent owner, or if
+there is more than one owner by all the owners, or by an attorney
+or agent of record in the patent file, or by a registered attorney
+or agent not of record who acts in a representative capacity under
+the provisions of § 1.34. Double correspondence with the patent
+owner or owners and the patent owner’s attorney or agent, or
+with more than one attorney or agent, will not be undertaken.
+(d) A “correspondence address” or change thereto may be
+filed with the Patent and Trademark Office during the
+enforceable life of the patent. The “correspondence address”
+will be used in any correspondence relating to maintenance fees
+unless a separate “fee address” has been specified. See § 1.363
+for “fee address” used solely for maintenance fee purposes.
+(e) A change of address filed in a patent application or
+patent does not change the address for a patent practitioner in
+the roster of patent attorneys and agents. See § 11.11 of this
+title.
+
+Pre-AIA 37 CFR 1.33(a) provides for an applicant
+to supply an address to receive correspondence from
+the U.S. Patent and Trademark Office so that the
+Office may direct mail to any address of applicant’s
+
+400-37
+
+Rev. 01.2024, November 2024
+
+§ 403.01(b)
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+selection, such as a corporate patent department, a
+firm of attorneys or agents, or an individual attorney,
+agent, or other person.
+Pre-AIA 37 CFR 1.33(a) provides that when filing
+a patent application the applicant must specify a
+correspondence address to which the Office will
+send notices, letters and other communications
+relating to the application. The correspondence
+address must appear either in an application data
+sheet (37 CFR 1.76) or in a clearly identifiable
+manner elsewhere in any papers submitted with an
+application filing. Where more than one
+correspondence address is specified, the Office will
+select one of the correspondence addresses for use
+as the correspondence address. This is intended to
+cover, for example, the situation where an
+application is submitted with multiple addresses,
+such as one correspondence address being given in
+the application transmittal letter, and a different one
+in an accompanying pre-AIA 37 CFR 1.63 oath or
+declaration, or other similar situations. The Office
+will select which of the multiple correspondence
+addresses to use according to the following order:
+(A) application data sheet (ADS); (B) application
+transmittal; (C) oath or declaration (unless power of
+attorney is more current); and (D) power of attorney.
+If more than one correspondence address is specified
+in a single document, the Office will select the
+address associated with a Customer Number over a
+typed correspondence address.
+Pre-AIA 37 CFR 1.33(a) requests the submission of
+a daytime telephone number of the party to whom
+correspondence is to be addressed. While business
+is to be conducted on the written record (37 CFR
+1.2), a daytime telephone number would be useful
+in initiating contact that could later be reduced to
+writing. The telephone number would be changeable
+by any party who could change the correspondence
+address.
+Pre-AIA 37 CFR 1.33(a)(1) provides that any party
+filing the application and setting forth a
+correspondence address could later change the
+correspondence address provided that a pre-AIA 37
+CFR 1.63 oath/declaration by any of the inventors
+has not been submitted. If one joint inventor filed
+an application, the person who may change the
+correspondence address would include only the one
+
+Rev. 01.2024, November 2024
+
+inventor who filed the application, even if another
+inventor was identified on the application transmittal
+letter. If two of three inventors filed the application,
+the two inventors filing the application would be
+needed to change the correspondence address.
+Additionally, any registered practitioner named in
+the application transmittal letter, or a person who
+has the authority to act on behalf of the party that
+will be the assignee (if the application was filed by
+the party that will be the assignee), could change the
+correspondence address. A registered practitioner
+named in a letterhead would not be sufficient, but
+rather a clear identification of the individual as being
+a representative would be required. A company (to
+whom the invention has been assigned, or to whom
+there is an obligation to assign the invention) who
+files an application, is permitted to designate the
+correspondence address, and to change the
+correspondence address, until such time as a (first)
+pre-AIA 37 CFR 1.63 oath/declaration is filed. The
+mere filing of a pre-AIA 37 CFR 1.63
+oath/declaration that does not include a
+correspondence address does not affect any
+correspondence address previously established on
+the filing of the application, or changed per pre-AIA
+37 CFR 1.63(a)(1), even if the application was filed
+by a company that is only a partial assignee. The
+expression “party that will be the assignee,” rather
+than assignee, is used in that until a declaration is
+submitted, inventors have only been identified, and
+any attempted assignment, or partial assignment,
+cannot operate for Office purposes until the
+declaration is supplied. Hence, if the application
+transmittal letter indicates that the application is
+being filed on behalf of XYZ company, with an
+assignment to be filed later, XYZ company would
+be allowed to change the correspondence address
+without resort to pre-AIA 37 CFR 3.73 (b) until an
+executed oath or declaration is filed, and with resort
+to pre-AIA 37 CFR 3.73(b) after the oath or
+declaration is filed.
+Where a correspondence address was set forth or
+changed pursuant to pre-AIA 37 CFR 1.33(a)(1)
+(prior to the filing of a pre-AIA 37 CFR 1.63 oath
+or declaration), that correspondence address remains
+in effect upon filing of a pre-AIA 37 CFR 1.63
+declaration and can then only be changed pursuant
+to pre-AIA 37 CFR 1.33(a)(2).
+
+400-38
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+In a joint application with no power of attorney to
+either a registered practitioner or joint inventor, the
+applicant whose name first appears in the papers
+receives the correspondence, unless other
+instructions are given. All applicants must sign the
+replies. See MPEP §§ 402 and 714.01(a). If the
+assignee of the entire interest of the applicant is
+prosecuting the application (MPEP § 402.07), the
+assignee may specify a correspondence address.
+Pre-AIA 37 CFR 1.33(c) relates to which address
+communications for the patent owner will be sent in
+reexamination proceedings. See also MPEP § 2224.
+Powers of attorney to firms are not recognized by
+the U.S. Patent and Trademark Office. See MPEP
+§ 402. However, the firm’s address may be used for
+the correspondence address. The address should
+appear as follows:
+John Doe (inventor)
+In care of Able, Baker, and Charlie (firm)
+1234 Main Street
+Arlington, Virginia 22202
+Patent practitioners are reminded that the attorney
+and agent roster must be updated separately from
+and in addition to any change of address filed in
+individual patent applications.
+See MPEP § 601.03 for change of correspondence
+address.
+See MPEP § 201.06(c) regarding change of
+correspondence address in continuation or divisional
+applications filed under 37 CFR 1.53(b).
+
+403.02 Two Patent Practitioners for Same
+Application [R-10.2019]
+If the applicant simultaneously appoints two patent
+practitioners, applicant should indicate with whom
+correspondence is to be conducted by specifying a
+correspondence address. See MPEP §§ 403,
+403.01(a), and MPEP § 403.01(b).
+If, after one patent practitioner is appointed, a second
+patent practitioner is later added by submission of a
+new power of attorney appointing both practitioners,
+correspondence will be mailed to the latest
+
+§ 405
+
+correspondence address of record. See 37 CFR 1.33
+and 1.76. Note that if the later-filed power of
+attorney only lists the second practitioner, the
+later-filed power of attorney serves as a revocation
+of the earlier-filed power of attorney, even without
+an express revocation of the power of the first patent
+practitioner.
+
+404 [Reserved]
+
+405 Interviews With Patent Practitioner Not
+of Record [R-01.2024]
+Papers may be filed in patent applications and
+reexamination proceedings by registered attorneys
+or agents not of record under 37 CFR 1.34. Filing
+of such papers is considered to be a representation
+that the attorney or agent is authorized to act in a
+representative capacity on behalf of applicant. See
+MPEP § 402.04. However, the filing of a paper is
+only a representation with respect to the concurrent
+filing, and the filing of a paper that is not related to
+an interview does not show authorization to conduct
+an interview.
+Registered practitioners can show authorization to
+act in a representative capacity for purposes of
+conducting an interview by completing, signing, and
+filing an Applicant Initiated Interview Request Form
+(PTOL-413A). See MPEP §§ 713.01 and 713.05.
+This eliminates the need to file a power of attorney
+or authorization to act in a representative capacity
+before having an interview. However, an interview
+concerning an application that has not been published
+under 35 U.S.C. 122(b) with an attorney or agent
+not of record who obtains authorization through use
+of the interview request form will be conducted
+based on the information and files supplied by the
+attorney or agent in view of the confidentiality
+requirements of 35 U.S.C. 122(a).
+Alternatively, Form/PTO/SB/84, "Authorization to
+Act in a Representative Capacity," which is available
+from
+the
+USPTO
+website
+at
+www.uspto.gov/sites/default/files/web/forms/sb0084.pdf
+may be used to establish the authority to conduct an
+interview.
+
+400-39
+
+Rev. 01.2024, November 2024
+
+§ 405
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+Design patent practitioners can only use acting in a
+representative capacity under 37 CFR 1.34 to show
+authorization to conduct interviews in design patent
+matters. See MPEP §§ 402.04 and 1502.02. Also,
+the use of the provisions of 37 CFR 1.34 by a third
+
+Rev. 01.2024, November 2024
+
+party or its representative to conduct an interview,
+or take other action not specifically permitted by the
+rules of practice in an application for patent, is
+considered a violation of 37 CFR 11.18 and may
+result in disciplinary action if done by a practitioner.
+
+400-40
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+400-41
+
+§ 405
+
+Rev. 01.2024, November 2024
+
+§ 405
+
+Rev. 01.2024, November 2024
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+400-42
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+See MPEP § 402.03 for information regarding when
+a change of correspondence address or a document
+granting access (i.e., a power to inspect) may be
+signed by an attorney or agent who is not of record.
+
+406 Death of Patent Practitioner [R-11.2013]
+The power of attorney of a patent practitioner will
+be revoked or terminated by his or her death. The
+patent practitioner may not appoint a “substitute”
+and any attempt by the patent practitioner to appoint
+a “substitute” patent practitioner whose power is
+intended to survive his or her own will not be
+recognized by the Office.
+If notification of the death of the sole practitioner of
+record is received by the Office, correspondence
+continues to be held with the office of the deceased
+practitioner but a copy of the Office action is also
+mailed to the person who originally appointed the
+practitioner. In such an Office action, the examiner
+should add form paragraph 4.03.
+¶ 4.03 Death of Patent Practitioner
+Notice of the death of the attorney or agent of record has come
+to the attention of this Office. Since the power of attorney is
+therefore terminated, this action is being mailed to the office of
+the patent practitioner and to the party who originally appointed
+the deceased patent practitioner. A new registered attorney or
+agent may be appointed.
+
+§ 407
+
+¶ 4.07 Attorney/Agent Suspended (Sole Practitioner)
+The instant application contains a power of attorney to [1] who
+has been [2] from practice before the Patent and Trademark
+Office (Office). The Office does not communicate with attorneys
+or agents who have been suspended or excluded from practice.
+Accordingly, the Office action is being mailed to the address of
+the applicant first named in the application. Applicant(s) may
+file a new power of attorney in the application to have a
+registered attorney or agent represent them before the Office.
+In the absence of an attorney or agent of record, for applications
+filed before September 16, 2012, all papers filed in the
+application must be signed: (1) by all named applicants unless
+one named applicant has been given a power of attorney to sign
+on behalf of the remaining applicants, and the power of attorney
+is of record in the application; or (2) if there is an assignee of
+record of an undivided part interest, by all named applicants
+retaining an interest and such assignee; or (3) if there is an
+assignee of the entire interest, by such assignee; or (4) by a
+registered patent attorney or agent not of record who acts in a
+representative capacity under the provisions of 37 CFR 1.34.
+For applications filed on or after September 16, 2012, all papers
+must be signed by: (1) a patent practitioner of record; (2) a patent
+practitioner not of record who acts in a representative capacity
+under the provisions of 37 CFR 1.34; or (3) the applicant, except
+that papers submitted on behalf of a juristic entity applicant
+must be signed by a patent practitioner.
+Applicants may obtain a list of registered patent attorneys and
+agents located in their area by consulting the USPTO website,
+https://oedci.uspto.gov/OEDCI/, or by calling the Office of
+Enrollment and Discipline at (571) 272-4097.
+Examiner Note:
+
+Note MPEP § 405.
+
+1. In bracket 1, insert the name of the suspended or excluded
+practitioner.
+
+407 Suspended or Excluded Patent
+Practitioner [R-11.2013]
+
+2.
+
+Any power of attorney given to a practitioner who
+has been suspended or disbarred by the Office is
+ineffective, and does not authorize the person to
+practice before the Office or to represent applicants
+or patentees in patent matters.
+
+4. The Office action is to be mailed only to the applicant first
+named in the application at that applicant’s current address of
+record.
+
+In bracket 2, insert either --suspended-- or --excluded--.
+
+3. This form paragraph should be used when the suspended
+or excluded practitioner is the only practitioner of record.
+
+¶ 4.08 Attorney/Agent Suspended (Plural Practitioners)
+
+See MPEP § 105.
+
+The present application was filed containing a power of attorney
+to [1] and [2]. A correspondence address was supplied for [3].
+No address was supplied for [4].
+
+Form paragraphs 4.07, and 4.08 should be used
+where power of attorney is given to an attorney or
+agent who has been suspended from practice before
+the Office.
+
+[5] was [6] from practice before the Patent and Trademark Office
+(Office). The Office does not communicate with attorneys or
+agents who have been suspended or excluded from practice.
+As a correspondence address, other than to [7], is not of record,
+this Office action is being mailed to [8] at his/her last known
+address as listed on the register of patent attorneys and agents.
+
+400-43
+
+Rev. 01.2024, November 2024
+
+§ 408
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+To ensure that a copy of this Office action is received in a timely
+manner to allow for a timely reply, a copy of the Office action
+is being mailed directly to the address of the applicant first
+named in the application. Any reply by applicant(s) should be
+by way of the remaining practitioner(s) of record and should
+include a new correspondence address.
+Examiner Note:
+1. In brackets 1, 3, 5 and 7 insert the name of the suspended
+or excluded practitioner.
+2. In brackets 2, 4 and 8, insert the name of the first named
+unsuspended (unexcluded) registered practitioner of record.
+3.
+
+In bracket 6, insert either --suspended-- or --excluded--.
+
+4. This form paragraph should be used when there is at least
+one registered practitioner still of record who has not been
+suspended or excluded from practice. Use form paragraph 4.07
+if there are no remaining registered attorneys or agents of record.
+5. The Office action is to be mailed both to the first named
+registered attorney or agent of record (who is not suspended or
+excluded) at the address currently listed in the Attorney’s Roster,
+and to the applicant first named in the application at that
+applicant’s current address of record.
+
+408 Interviews With Patent Practitioner of
+Record [R-10.2019]
+The Office encourages the use of interviews to
+expedite prosecution. When the examiner believes
+the progress of the application would be advanced
+by an interview, the examiner may contact the patent
+practitioner of record in the application (in
+accordance with MPEP § 713) and suggest a
+telephonic, personal, or video conference interview.
+Registered attorneys or agents not of record in a
+patent application (i.e., there is no power of attorney
+present in the file that appoints the patent
+practitioner(s)) and acting in a representative
+capacity under 37 CFR 1.34 should not be contacted
+for restriction requirements or approval of examiner's
+amendments.
+In
+addition,
+non-registered
+representatives of the practitioner of record should
+not be contacted for such actions, even if apparently
+authorized by the attorney or agent of record. Office
+employees are forbidden from holding either oral or
+written communication with an unregistered,
+suspended or excluded attorney or agent regarding
+an application unless it is one in which said attorney
+or agent is the applicant. See MPEP §§ 105 and
+713.05. See MPEP § 812.01 for telephone restriction
+practice. See MPEP § 405 for interviews with a
+patent practitioner not of record. See also MPEP §§
+
+Rev. 01.2024, November 2024
+
+101-104 for information regarding access to
+application information by persons other than a
+patent practitioner of record.
+When applicant is initiating a request for an
+interview, an “Applicant Initiated Interview Request”
+form (PTOL-413A) should be submitted to the
+examiner prior to the interview in order to permit
+the examiner to prepare in advance for the interview
+and to focus on the issues to be discussed. This form
+should identify the participants of the interview, the
+proposed date of the interview, whether the interview
+will be personal, telephonic, or video conference,
+and should include a brief description of the issues
+to be discussed. See MPEP §§ 713.01 and 713.05.
+
+409 Death, Legal Incapacity, or
+Unavailability of Inventor [R-11.2013]
+For information regarding applications for patent
+filed on or after September 16, 2012 on behalf of a
+deceased or legally incapacitated inventor, see MPEP
+§ 409.01(a). For information regarding applications
+for patent filed on or after September 16, 2012 where
+the inventor or at least one joint inventor is
+unavailable, see MPEP §§ 409.02, 604, and 605.
+For information regarding applications for patent
+filed before September 16, 2012 on behalf of a
+deceased inventor or legally incapacitated inventor,
+see MPEP § 409.01(b). For information regarding
+applications for patent filed before September 16,
+2012 where at least one inventor is unavailable, see
+MPEP §§ 409.03 – 409.03(j).
+
+409.01 Deceased or Legally Incapacitated
+Inventor [R-07.2022]
+
+409.01(a) Deceased or Legally Incapacitated
+Inventor - Application Filed on or After
+September 16, 2012 [R-01.2019]
+[Editor Note: See MPEP § 409.01(b) for
+information pertaining to a deceased or legally
+incapacitated inventor in an application filed before
+September 16, 2012.]
+
+400-44
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+35 U.S.C. 117 Death or incapacity of inventor.
+Legal representatives of deceased inventors and of those under
+legal incapacity may make application for patent upon
+compliance with the requirements and on the same terms and
+conditions applicable to the inventor.
+37 CFR 1.43 Application for patent by a legal representative
+of a deceased or legally incapacitated inventor.
+If an inventor is deceased or under legal incapacity, the legal
+representative of the inventor may make an application for patent
+on behalf of the inventor. If an inventor dies during the time
+intervening between the filing of the application and the granting
+of a patent thereon, the letters patent may be issued to the legal
+representative upon proper intervention. See § 1.64 concerning
+the execution of a substitute statement by a legal representative
+in lieu of an oath or declaration.
+
+I. TERMINATION OF POWER OF ATTORNEY –
+DECEASED INVENTOR
+
+Unless a power of attorney is coupled with an
+interest (i.e., a patent practitioner is assignee or
+part-assignee), the death of an inventor who is an
+applicant party terminates the power of attorney
+given by the deceased inventor in an application
+filed on or after September 16, 2012. A new power
+from the heirs, administrators, executors, or
+assignees is necessary if the deceased inventor is the
+sole inventor-applicant or all powers of attorney in
+the application have been terminated.
+II. PROSECUTION BY ASSIGNEE, OBLIGATED
+ASSIGNEE OR SUFFICIENT PROPRIETARY
+INTEREST PARTY
+
+Under 37 CFR 1.46, a person to whom the inventor
+assigned (“assignee”), to whom the inventor was
+under an obligation to assign (“obligated assignee”),
+or a person who otherwise shows sufficient
+proprietary interest in the matter may make an
+application for patent on behalf of the deceased or
+legally incapacitated inventor. See 35 U.S.C. 118.
+If the 37 CFR 1.46 applicant is the assignee or
+obligated assignee of the deceased or legally
+incapacitated inventor’s interest, or a party who
+showed/can show a sufficient proprietary interest in
+the claimed invention, there is no need to involve
+the legal representative as the 37 CFR 1.46 applicant
+can execute the substitute statement. See MPEP §
+409.05 for more information. See 37 CFR 1.64 and
+MPEP § 604 concerning the execution of a substitute
+
+§ 409.01(a)
+
+statement by a 37 CFR 1.46 applicant in lieu of an
+oath or declaration.
+III. PROSECUTION BY LEGAL
+REPRESENTATIVE, ADMINISTRATOR OR
+EXECUTOR
+
+If an inventor is deceased or under legal incapacity,
+the legal representative of the inventor may make
+an application for patent on behalf of the inventor.
+If an inventor dies during the time intervening
+between the filing of the application and the granting
+of a patent thereon, the letters patent may be issued
+to the legal representative upon proper intervention.
+See 35 U.S.C. 117. See 37 CFR 1.64 and MPEP §
+604 concerning the execution of a substitute
+statement by a legal representative in lieu of an oath
+or declaration.
+Proof of authority of the legal representative of a
+deceased or incapacitated inventor is not required.
+Although the Office does not require proof of
+authority to be filed, any person acting as a legal
+representative of a deceased or incapacitated inventor
+should ensure that he or she is properly acting in
+such a capacity.
+When an administrator or executor has performed
+his or her functions and has been discharged and it
+is desired to make an application for an invention of
+the deceased, it is necessary for the administrator or
+executor to take out new letters of administration in
+order that he or she may file a new application for
+an invention of the deceased inventor.
+The terms “Executor” and “Administrator” do not
+have exact counterparts in all foreign countries, and
+therefore, those terms must be construed to fit the
+circumstances of the case. Hence, the person or
+persons having authority corresponding to that of
+executor or administrator are permitted to make an
+application.
+IV. PROSECUTION BY SURVIVING JOINT
+INVENTOR-APPLICANTS
+
+When an application is being prosecuted by joint
+inventor-applicants without a joint inventor-applicant
+or patent practitioner having been granted a power
+of attorney, and a joint inventor-applicant dies after
+
+400-45
+
+Rev. 01.2024, November 2024
+
+§ 409.01(b)
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+filing the application, the living joint inventor(s)
+who are the applicant must submit proof that the
+other joint inventor-applicant is dead. Upon
+submission of such proof, only the signatures of the
+living joint inventor-applicants are required on the
+papers filed with the USPTO if the legal
+representative of the deceased inventor does not
+intervene. If the legal representative of the deceased
+inventor wishes to intervene, the legal representative
+must submit a substitute statement in compliance
+with 37 CFR 1.64. Once the legal representative of
+the deceased inventor intervenes in the pro se
+application, the signatures of the living joint
+inventors and the legal representative are required
+on the papers filed with the USPTO, until the legal
+representative and living joint inventors appoint a
+representative.
+
+409.01(b) Deceased or Legally Incapacitated
+Inventor- Application Filed Before September
+16, 2012 [R-01.2019]
+[Editor Note: See MPEP § 409.01(a) for
+information pertaining to a deceased or legally
+incapacitated inventor in an application filed on or
+after September 16, 2012.]
+
+I. TERMINATION OF POWER OF ATTORNEY –
+DECEASED INVENTOR
+
+Unless a power of attorney is coupled with an
+interest (i.e., a patent practitioner is assignee or
+part-assignee), the death of the inventor (or one of
+the joint inventors) terminates the power of attorney
+given by the deceased inventor in an application
+filed before September 16, 2012. A new power from
+the heirs, administrators, executors, or assignees is
+necessary if the deceased inventor is the sole
+inventor or all powers of attorney in the application
+have been terminated. See also pre-AIA 37 CFR
+1.422.
+II. PROSECUTION BY LEGAL
+REPRESENTATIVE, ADMINISTRATOR OR
+EXECUTOR
+
+When an inventor becomes legally incapacitated
+prior to the filing of an application and prior to
+executing the oath or declaration required by
+pre-AIA 37 CFR 1.63 and no legal representative
+has been appointed, one must be appointed by a court
+of competent jurisdiction for the purpose of
+execution of the oath or declaration of the
+application.
+
+35 U.S.C. 117 Death or incapacity of inventor.
+Legal representatives of deceased inventors and of those under
+legal incapacity may make application for patent upon
+compliance with the requirements and on the same terms and
+conditions applicable to the inventor.
+37 CFR 1.42 (pre-AIA) When the inventor is dead.
+In case of the death of the inventor, the legal representative
+(executor, administrator, etc.) of the deceased inventor may
+make the necessary oath or declaration, and apply for and obtain
+the patent. Where the inventor dies during the time intervening
+between the filing of the application and the granting of a patent
+thereon, the letters patent may be issued to the legal
+representative upon proper intervention.
+37 CFR 1.43 (pre-AIA) When the inventor is insane or legally
+incapacitated.
+In case an inventor is insane or otherwise legally incapacitated,
+the legal representative (guardian, conservator, etc.) of such
+inventor may make the necessary oath or declaration, and apply
+for and obtain the patent.
+
+Rev. 01.2024, November 2024
+
+One who has reason to believe that he or she will be
+appointed legal representative of a deceased inventor
+may apply for a patent as legal representative in
+accordance with pre-AIA 37 CFR 1.42.
+Application may be made by the heirs of the
+inventor, as such, if there is no will or the will did
+not appoint an executor and the estate was under the
+sum required by state law for the appointment of an
+administrator. The heirs should identify themselves
+as the legal representative of the deceased inventor
+in the oath or declaration submitted pursuant to
+pre-AIA 37 CFR 1.63 and 1.64.
+III. PROOF OF AUTHORITY OF
+ADMINISTRATOR OR EXECUTOR
+
+Proof of authority of the legal representative of a
+deceased or incapacitated inventor is not required.
+Although the Office does not require proof of
+authority to be filed, any person acting as a legal
+representative of a deceased or incapacitated inventor
+
+400-46
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+should ensure that he or she is properly acting in
+such a capacity.
+IV. AFTER ADMINISTRATOR OR EXECUTOR
+HAS BEEN DISCHARGED
+
+When an administrator or executor has performed
+his or her functions and has been discharged and it
+is desired to make an application for an invention of
+the deceased, it is necessary for the administrator or
+executor to take out new letters of administration in
+order that he or she may file a new application for
+an invention of the deceased inventor.
+V. EXCEPTION IN SOME FOREIGN COUNTRIES
+
+The terms “Executor” and “Administrator” do not
+have exact counterparts in all foreign countries, and
+therefore, those terms must be construed to fit the
+circumstances of the case. Hence, the person or
+persons having authority corresponding to that of
+executor or administrator are permitted to make an
+application.
+VI. IF INVENTOR OF ASSIGNED APPLICATION
+DIES
+
+When an inventor who has prosecuted an application
+after assignment, dies, the administrator of the
+deceased inventor’s estate may carry on the
+prosecution upon filing letters of administration
+unless and until the assignee intervenes (see MPEP
+§ 402.07).
+VII. INTERVENTION OF EXECUTOR NOT
+COMPULSORY
+
+When an inventor dies after filing an application and
+executing the oath or declaration required by
+pre-AIA 37 CFR 1.63, the executor or administrator
+should intervene, but the allowance of the application
+will not be withheld nor the application withdrawn
+from issue if the executor or administrator does not
+intervene.
+This practice is applicable to an application which
+has been placed in condition for allowance or passed
+to issue prior to notification of the death of the
+inventor. See MPEP § 409.01.
+
+§ 409.02
+
+When an application is being prosecuted by joint
+inventors without a joint inventor or patent
+practitioner having been granted a power of attorney,
+and a joint inventor dies after filing the application,
+the living joint inventor(s) must submit proof that
+the other joint inventor is dead. Upon submission of
+such proof, only the signatures of the living joint
+inventors are required on the papers filed with the
+USPTO if the legal representative of the deceased
+inventor does not intervene. If the legal
+representative of the deceased inventor wishes to
+intervene, the legal representative must submit an
+oath or declaration in compliance with pre-AIA 37
+CFR 1.63 and 1.64 (e.g., stating that he or she is the
+legal representative of the deceased inventor and his
+or her residence, citizenship and post office address).
+Once the legal representative of the deceased
+inventor intervenes in the pro se application, the
+signatures of the living joint inventors and the legal
+representative are required on the papers filed with
+the USPTO.
+
+409.02 Unavailable Joint Inventor –
+Application Filed on or after September 16,
+2012 [R-11.2013]
+[Editor Note: See MPEP § 409.03 et seq. for
+information pertaining to the unavailability of an
+inventor in an application filed before September
+16, 2012.]
+37 CFR 1.45 Application for patent by joint inventors.
+(a) Joint inventors must apply for a patent jointly, and each
+must make an inventor's oath or declaration as required by §
+1.63, except as provided for in § 1.64. If a joint inventor refuses
+to join in an application for patent or cannot be found or reached
+after diligent effort, the other joint inventor or inventors may
+make the application for patent on behalf of themselves and the
+omitted inventor. See § 1.64 concerning the execution of a
+substitute statement by the other joint inventor or inventors in
+lieu of an oath or declaration.
+*****
+
+Joint inventors must apply for a patent jointly, and
+each joint inventor must make the inventor’s oath
+or declaration required by 37 CFR 1.63, except as
+provided for in 37 CFR 1.64. See 35 U.S.C. 116(a)
+(“[w]hen an invention is made by two or more
+persons jointly, they shall apply for patent jointly
+and each make the required oath, except as otherwise
+provided in this title.”). 37 CFR 1.45(a) provides
+that if a joint inventor refuses to join in an
+
+400-47
+
+Rev. 01.2024, November 2024
+
+§ 409.03
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+application for patent or cannot be found or reached
+after diligent effort, the other joint inventor(s) may
+make the application for patent on behalf of
+themselves and the omitted inventor. 37 CFR 1.45(a)
+also cross-references 37 CFR 1.64 concerning the
+execution of a substitute statement by the other joint
+inventor(s) in lieu of an oath or declaration. See
+MPEP § 604 for additional information pertaining
+to substitute statements.
+
+409.03 Unavailability of Inventor –
+Application Filed Before September 16, 2012
+[R-11.2013]
+[Editor Note: MPEP §§ 409.03 – 409.03(j) are not
+applicable to patent applications filed under 35
+U.S.C. 111(a), 363, or 35 U.S.C. 385 on or after
+September 16, 2012. See MPEP § 409.02 for
+information pertaining to the unavailability of a joint
+inventor in an application filed on or after September
+16, 2012.]
+35 U.S.C. 116 (pre-AIA) Inventors.
+When an invention is made by two or more persons jointly, they
+shall apply for patent jointly and each make the required oath,
+except as otherwise provided in this title. Inventors may apply
+for a patent jointly even though (1) they did not physically work
+together or at the same time, (2) each did not make the same
+type or amount of contribution, or (3) each did not make a
+contribution to the subject matter of every claim of the patent.
+If a joint inventor refuses to join in an application for patent or
+cannot be found or reached after diligent effort, the application
+may be made by the other inventor on behalf of himself and the
+omitted inventor. The Director, on proof of the pertinent facts
+and after such notice to the omitted inventor as he prescribes,
+may grant a patent to the inventor making the application, subject
+to the same rights which the omitted inventor would have had
+if he had been joined. The omitted inventor may subsequently
+join in the application.
+Whenever through error a person is named in an application for
+patent as the inventor, or through an error an inventor is not
+named in an application, and such error arose without any
+deceptive intention on his part, the Director may permit the
+application to be amended accordingly, under such terms as he
+prescribes.
+35 U.S.C. 118 (pre-AIA) Filing by other than inventor.
+Whenever an inventor refuses to execute an application for
+patent, or cannot be found or reached after diligent effort, a
+person to whom the inventor has assigned or agreed in writing
+to assign the invention or who otherwise shows sufficient
+proprietary interest in the matter justifying such action, may
+
+Rev. 01.2024, November 2024
+
+make application for patent on behalf of and as agent for the
+inventor on proof of the pertinent facts and a showing that such
+action is necessary to preserve the rights of the parties or to
+prevent irreparable damage; and the Director may grant a patent
+to such inventor upon such notice to him as the Director deems
+sufficient, and on compliance with such regulations as he
+prescribes.
+37 CFR 1.47 (pre-AIA) Filing when an inventor refuses to
+sign or cannot be reached.
+(a) If a joint inventor refuses to join in an application for
+patent or cannot be found or reached after diligent effort, the
+application may be made by the other inventor on behalf of
+himself or herself and the nonsigning inventor. The oath or
+declaration in such an application must be accompanied by a
+petition including proof of the pertinent facts, the fee set forth
+in § 1.17(g), and the last known address of the nonsigning
+inventor. The nonsigning inventor may subsequently join in the
+application by filing an oath or declaration complying with §
+1.63 .
+(b) Whenever all of the inventors refuse to execute an
+application for patent, or cannot be found or reached after
+diligent effort, a person to whom an inventor has assigned or
+agreed in writing to assign the invention, or who otherwise
+shows sufficient proprietary interest in the matter justifying such
+action, may make application for patent on behalf of and as
+agent for all the inventors. The oath or declaration in such an
+application must be accompanied by a petition including proof
+of the pertinent facts, a showing that such action is necessary
+to preserve the rights of the parties or to prevent irreparable
+damage, the fee set forth in § 1.17(g), and the last known address
+of all of the inventors. An inventor may subsequently join in
+the application by filing an oath or declaration complying with
+§ 1.63.
+(c) The Office will send notice of the filing of the
+application to all inventors who have not joined in the
+application at the address(es) provided in the petition under this
+section, and publish notice of the filing of the application in the
+Official Gazette. The Office may dispense with this notice
+provision in a continuation or divisional application, if notice
+regarding the filing of the prior application was given to the
+nonsigning inventor(s).
+
+Application papers submitted pursuant to pre-AIA
+37 CFR 1.47 are forwarded by the Office of Patent
+Application Processing (OPAP) to the Office of
+Petitions for a determination of whether the papers
+are proper, complete, and acceptable under pre-AIA
+37 CFR 1.47 and for a decision on the petition under
+pre-AIA 37 CFR 1.47 before the application is sent
+to the Technology Center. Since an application
+without an oath or declaration executed by all of the
+inventors may be an incomplete application, an
+examiner should not mail an Office action in an
+application without a fully executed oath or
+declaration under pre-AIA 37 CFR 1.63 unless the
+
+400-48
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+application has been accorded status under pre-AIA
+37 CFR 1.47 in a written decision on the petition.
+A bona fide attempt must be made to comply with
+the provisions of pre-AIA 37 CFR 1.47 at the time
+the oath or declaration is first submitted. If the oath
+or declaration, and evidence submitted with the oath
+or declaration, are not acceptable, the pre-AIA 37
+CFR 1.47 applicant will be notified of the reasons
+why the papers are not acceptable. The pre-AIA 37
+CFR 1.47 applicant may request reconsideration and
+file supplemental evidence in a case where a bona
+fide attempt was made to comply with pre-AIA 37
+CFR 1.47 from the outset.
+A decision granting a petition under pre-AIA 37
+CFR 1.47 does not alter the ownership interest or
+title of the application. If the nonsigning inventor
+has not signed an assignment document which has
+been recorded in the USPTO, then the pre-AIA 37
+CFR 1.47 applicant (the company that files the
+petition under pre-AIA 37 CFR 1.47(b) and
+establishes proprietary interest in the application) is
+NOT the assignee of the entire interest of the
+application.
+
+409.03(a) At Least One Joint Inventor
+Available [R-11.2013]
+[Editor Note: This MPEP section is not applicable
+to applications filed on or after September 16, 2012.]
+Pre-AIA 37 CFR 1.47(a) and pre-AIA 35 U.S.C.
+116, second paragraph, requires all available joint
+inventors to file an application “on behalf of”
+themselves and on behalf of a joint inventor who
+“cannot be found or reached after diligent effort” or
+who refuses to “join in an application.”
+In addition to other requirements of law (pre-AIA
+35 U.S.C. 111(a) and 115), an application deposited
+in the U.S. Patent and Trademark Office pursuant
+to pre-AIA 37 CFR 1.47(a) must meet the following
+requirements:
+(A) All the available joint inventors must (1)
+make oath or declaration on their own behalf as
+required by pre-AIA 37 CFR 1.63 or 1.175 (see
+MPEP §§ 602, 605.01, 602.09, and 1414) and (2)
+make oath or declaration on behalf of the nonsigning
+
+§ 409.03(b)
+
+joint inventor as required by pre-AIA 37 CFR 1.64.
+An oath or declaration signed by all the available
+joint inventors with the signature block of the
+nonsigning inventor(s) left blank may be treated as
+having been signed by all the available joint
+inventors on behalf of the nonsigning inventor(s),
+unless otherwise indicated.
+(B) The application must be accompanied by
+proof that the nonsigning inventor (1) cannot be
+found or reached after diligent effort or (2) refuses
+to execute the application papers. See MPEP §
+409.03(d).
+(C) The last known address of the nonsigning
+joint inventor must be stated. See MPEP § 409.03(e).
+
+409.03(b) No Inventor Available [R-08.2012]
+[Editor Note: This MPEP section is not applicable
+to applications filed on or after September 16, 2012.]
+Filing under pre-AIA 37 CFR 1.47(b) and pre-AIA
+35 U.S.C. 118 is permitted only when no inventor
+is available to make application. These provisions
+allow a “person” with a demonstrated proprietary
+interest to make application “on behalf of and as
+agent for” an inventor who “cannot be found or
+reached after diligent effort” or who refuses to sign
+the application oath or declaration. The word
+“person” has been construed by the U.S. Patent and
+Trademark Office to include juristic entities, such
+as a corporation. Where pre-AIA 37 CFR 1.47(a) is
+available, application cannot be made under pre-AIA
+37 CFR 1.47(b).
+In addition to other requirements of law (pre-AIA
+35 U.S.C. 111(a) and 115), an application deposited
+pursuant to pre-AIA 37 CFR 1.47(b) must meet the
+following requirements:
+(A) The pre-AIA 37 CFR 1.47(b) applicant must
+make the oath required by pre-AIA 37 CFR 1.63 and
+1.64 or 1.175. Where a corporation is the pre-AIA
+37 CFR 1.47(b) applicant, an officer (President,
+Vice-President, Secretary, Treasurer, or Chief
+Executive Officer) thereof should normally sign the
+necessary oath or declaration. A corporation may
+authorize any person, including an attorney or agent
+registered to practice before the U.S. Patent and
+Trademark Office, to sign the application oath or
+declaration on its behalf. Where an oath or
+
+400-49
+
+Rev. 01.2024, November 2024
+
+§ 409.03(c)
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+declaration is signed by a registered attorney or agent
+on behalf of a corporation, either proof of the
+attorney's or agent's authority in the form of a
+statement signed by an appropriate corporate officer
+must be submitted, or the attorney or agent may
+simply state that he or she is authorized to sign on
+behalf of the corporation. Where the oath or
+declaration is being signed on behalf of an assignee,
+see MPEP § 324. An inventor may not authorize
+another individual to act as his or her agent to sign
+the application oath or declaration on his or her
+behalf. Staeger v. Commissioner, 189 USPQ 272
+(D.D.C. 1976), In re Striker, 182 USPQ 507
+(Comm'r Pat. 1973). Where an application is
+executed by one other than the inventor, the
+declaration required by pre-AIA 37 CFR 1.63 must
+state the full name, residence, post office address,
+and citizenship of the nonsigning inventor. Also, the
+title or position of the person signing must be stated
+if signing on behalf of a corporation under pre-AIA
+37 CFR 1.47(b).
+
+Pre-AIA 37 CFR 1.47 should not be considered an
+alternative to pre-AIA 37 CFR 1.42 or pre-AIA 35
+U.S.C. 117 since the language “cannot be found or
+reached after diligent effort” has no reasonable
+application to a deceased inventor. In re Application
+Papers Filed September 10, 1954, 108 USPQ 340
+(Comm’r Pat. 1955). See pre-AIA 37 CFR 1.42 and
+MPEP § 409.01. However, pre-AIA 37 CFR 1.47
+does apply where a known legal representative of a
+deceased inventor cannot be found or reached after
+diligent effort, or refuses to make application. In
+such cases, the last known address of the legal
+representative must be given (see MPEP §
+409.03(e)).
+
+(B) The pre-AIA 37 CFR 1.47(b) applicant must
+state his or her relationship to the inventor as
+required by pre-AIA 37 CFR 1.64.
+
+I. INVENTOR CANNOT BE REACHED
+
+(C) The application must be accompanied by
+proof that the inventor (1) cannot be found or
+reached after a diligent effort or (2) refuses to
+execute the application papers. See MPEP §
+409.03(d).
+(D) The last known address of the inventor must
+be stated. See MPEP § 409.03(e).
+(E) The pre-AIA 37 CFR 1.47(b) applicant must
+make out a prima facie case (1) that the invention
+has been assigned to him or her or (2) that the
+inventor has agreed in writing to assign the invention
+to him or her or (3) otherwise demonstrate a
+proprietary interest in the subject matter of the
+application. See MPEP § 409.03(f).
+(F) The pre-AIA 37 CFR 1.47(b) applicant must
+prove that the filing of the application is necessary
+(1) to preserve the rights of the parties or (2) to
+prevent irreparable damage. See MPEP § 409.03(g).
+
+409.03(c) Unavailable Legal Representative
+of Deceased Inventor [R-11.2013]
+[Editor Note: This MPEP section is not applicable
+to applications filed on or after September 16, 2012.]
+
+Rev. 01.2024, November 2024
+
+409.03(d) Proof of Unavailability or Refusal
+[R-07.2015]
+[Editor Note: This MPEP section is not applicable
+to applications filed on or after September 16, 2012.]
+
+Where inability to find or reach a nonsigning
+inventor “after diligent effort” is the reason for filing
+under pre-AIA 37 CFR 1.47, a statement of facts
+should be submitted that fully describes the exact
+facts which are relied on to establish that a diligent
+effort was made.
+The fact that a nonsigning inventor is on vacation
+or out of town and is therefore temporarily
+unavailable to sign the declaration is not an
+acceptable reason for filing under pre-AIA 37 CFR
+1.47.
+Furthermore, the fact that an inventor is hospitalized
+and/or is not conscious is not an acceptable reason
+for filing under pre-AIA 37 CFR 1.47. Pre-AIA 37
+CFR 1.43 may be available under these
+circumstances. See MPEP § 409.01(b). Such a
+petition under pre-AIA 37 CFR 1.47 will be
+dismissed as inappropriate.
+The statement of facts must be signed, where at all
+possible, by a person having firsthand knowledge
+of the facts recited therein. Statements based on
+hearsay will not normally be accepted. Copies of
+documentary evidence such as Internet searches,
+certified mail return receipts, cover letters of
+
+400-50
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+instructions, telegrams, that support a finding that
+the nonsigning inventor could not be found or
+reached should be made part of the statement. The
+steps taken to locate the whereabouts of the
+nonsigning inventor should be included in the
+statement of facts. It is important that the statement
+contain facts as opposed to conclusions.
+II. REFUSAL TO JOIN
+
+A refusal by an inventor to sign an oath or
+declaration when the inventor has not been presented
+with the application papers does not itself suggest
+that the inventor is refusing to join the application
+unless it is clear that the inventor understands exactly
+what he or she is being asked to sign and refuses to
+accept the application papers. A copy of the
+application papers should be sent to the last known
+address of the nonsigning inventor, or, if the
+nonsigning inventor is represented by counsel, to
+the address of the nonsigning inventor’s attorney.
+The fact that an application may contain proprietary
+information does not relieve the pre-AIA 37 CFR
+1.47 applicant of the responsibility to present the
+application papers to the inventor if the inventor is
+willing to receive the papers in order to sign the oath
+or declaration. It is noted that the inventor may
+obtain a complete copy of the application, unless the
+inventor has assigned his or her interest in the
+application, and the assignee has requested that the
+inventor not be permitted access. See MPEP § 106.
+It is reasonable to require that the inventor be
+presented with the application papers before a
+petition under pre-AIA 37 CFR 1.47 is granted since
+such a procedure ensures that the inventor is apprised
+of the application to which the oath or declaration
+is directed. In re Gray, 115 USPQ 80 (Comm’r Pat.
+1956).
+Where a refusal of the inventor to sign the
+application papers is alleged, the circumstances of
+the presentation of the application papers and of the
+refusal must be specified in a statement of facts by
+the person who presented the inventor with the
+application papers and/or to whom the refusal was
+made. Statements by a party not present when an
+oral refusal is made will not be accepted.
+
+§ 409.03(e)
+
+including claims, drawings, and oath or declaration)
+to the nonsigning inventor for signature, but the
+inventor refused to accept delivery of the papers or
+expressly stated that the application papers should
+not be sent, may be sufficient. When there is an
+express oral refusal, that fact along with the time
+and place of the refusal must be stated in the
+statement of facts. When there is an express written
+refusal, a copy of the document evidencing that
+refusal must be made part of the statement of facts.
+The document may be redacted to remove material
+not related to the inventor’s reasons for refusal.
+When it is concluded by the pre-AIA 37 CFR 1.47
+applicant that a nonsigning inventor’s conduct
+constitutes a refusal, all facts upon which that
+conclusion is based should be stated in the statement
+of facts in support of the petition or directly in the
+petition. If there is documentary evidence to support
+facts alleged in the petition or in any statement of
+facts, such evidence should be submitted. Whenever
+a nonsigning inventor gives a reason for refusing to
+sign the application oath or declaration, that reason
+should be stated in the petition. See also MPEP §
+1702.
+
+409.03(e) Statement of Last Known Address
+[R-08.2012]
+[Editor Note: This MPEP section is not applicable
+to applications filed on or after September 16, 2012.]
+An application filed pursuant to pre-AIA 37 CFR
+1.47 must state the last known address of the
+nonsigning inventor.
+That address should be the last known address at
+which the inventor customarily receives mail. See
+MPEP § 602.08(a). Ordinarily, the last known
+address will be the last known residence of the
+nonsigning inventor.
+Inasmuch as a nonsigning inventor is notified that
+an application pursuant to pre-AIA 37 CFR 1.47 has
+been filed on his or her behalf, other addresses at
+which the nonsigning inventor may be reached
+should also be given.
+
+Proof that a bona fide attempt was made to present
+a copy of the application papers (specification,
+
+400-51
+
+Rev. 01.2024, November 2024
+
+§ 409.03(f)
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+409.03(f) Proof of Proprietary Interest
+[R-08.2012]
+[Editor Note: This MPEP section is not applicable
+to applications filed on or after September 16, 2012.
+See MPEP §§ 325, 409.05, and 605 for information
+pertaining to applications for patent filed on or after
+September 16, 2012 by an assignee, obligated
+assignee, or a person who otherwise shows sufficient
+proprietary interest in the matter.]
+When an application is deposited pursuant to
+pre-AIA 37 CFR 1.47(b), the pre-AIA 37 CFR
+1.47(b) applicant must prove that
+(A) the invention has been assigned to the
+applicant, or
+(B) the inventor has agreed in writing to assign
+the invention to the applicant, or
+(C) the applicant otherwise has sufficient
+proprietary interest in the subject matter to justify
+the filing of the application.
+If the application has been assigned, a copy of the
+assignment (in the English language) must be
+submitted. The assignment must clearly indicate that
+the invention described in the pre-AIA 37 CFR
+1.47(b) application was assigned to the pre-AIA 37
+CFR 1.47(b) applicant. A statement under pre-AIA
+37 CFR 3.73(b) by the assignee must also be
+submitted (see MPEP § 324). An assignment of an
+application and any “reissue, division, or
+continuation of said application” does not itself
+establish an assignment of a continuation-in-part
+application. In re Gray, 115 USPQ 80 (Comm’r
+Pat. 1956). An assignment to a pre-AIA 37 CFR
+1.47(b) applicant for the sole purpose of obtaining
+a filing date for a pre-AIA 37 CFR 1.47(b)
+application is not considered an assignment within
+the meaning of pre-AIA 35 U.S.C. 118 and pre-AIA
+37 CFR 1.47(b).
+When an inventor has agreed in writing to assign an
+invention described in an application deposited
+pursuant to pre-AIA 37 CFR 1.47(b), a copy of that
+agreement should be submitted. If an agreement to
+assign is dependent on certain specified conditions
+being met, it must be established by a statement of
+facts by someone with first hand knowledge of the
+circumstances in which those conditions have been
+
+Rev. 01.2024, November 2024
+
+met. A typical agreement to assign is an employment
+agreement where an employee (nonsigning inventor)
+agrees to assign to his or her employer (pre-AIA 37
+CFR 1.47(b) applicant) all inventions made during
+employment. When such an agreement is relied on,
+it must be established by a statement of a person
+having firsthand knowledge of the facts that the
+invention was made by the employee while
+employed by the pre-AIA 37 CFR 1.47(b) applicant.
+If the invention has not been assigned, or if there is
+no written agreement to assign, the pre-AIA 37 CFR
+1.47(b) applicant must demonstrate that he or she
+otherwise has a sufficient proprietary interest in the
+matter.
+A proprietary interest obtained other than by
+assignment or agreement to assign may be
+demonstrated by an appropriate legal memorandum
+to the effect that a court of competent jurisdiction
+(federal, state, or foreign) would by the weight of
+authority in that jurisdiction award title of the
+invention to the pre-AIA 37 CFR 1.47(b) applicant.
+The facts in support of any conclusion that a court
+would award title to the pre-AIA 37 CFR 1.47(b)
+applicant should be made of record by way of an
+affidavit or declaration of the person having firsthand
+knowledge of same. The legal memorandum should
+be prepared and signed by an attorney at law familiar
+with the law of the jurisdiction involved. A copy (in
+the English language) of a statute (if other than the
+United States statute) or a court decision (if other
+than a reported decision of a federal court or a
+decision reported in the United States Patents
+Quarterly) relied on to demonstrate a proprietary
+interest should be made of record.
+
+409.03(g) Proof of Irreparable Damage
+[R-11.2013]
+[Editor Note: This MPEP section is not applicable
+to applications filed on or after September 16, 2012.]
+Irreparable damage may be established by a pre-AIA
+37 CFR 1.47(b) applicant by a showing (a statement)
+that a filing date is necessary to preserve the rights
+of the party or to prevent irreparable damage.
+
+400-52
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+409.03(h) Processing and Acceptance of a
+Pre-AIA 37 CFR 1.47 Application
+[R-08.2012]
+[Editor Note: This MPEP section is not applicable
+to applications filed on or after September 16, 2012.]
+A filing date is assigned to an application deposited
+pursuant to pre-AIA 37 CFR 1.47 provided the
+requirements of 37 CFR 1.53(b) are met. A filing
+receipt will be sent to the applicant and the
+application , or an electronic message concerning
+the petition under pre-AIA 37 CFR 1.47, will be
+forwarded to the Office of Petitions, for
+consideration of the petition filed under pre-AIA 37
+CFR 1.47.
+When papers deposited pursuant to pre-AIA 37 CFR
+1.47 are found acceptable, the Office of Petitions
+enters a decision to that effect in the file. A notice
+will be published in the Official Gazette identifying
+the application number, filing date, the title of the
+invention and the name(s) of the nonsigning
+inventor(s). The U.S. Patent and Trademark Office
+will notify the nonsigning inventor(s) or, if the
+inventor is deceased, the legal representative(s), of
+the filing of an application under pre-AIA 37 CFR
+1.47 by sending a letter to the last known address of
+the nonsigning inventor(s) or legal representative(s).
+In a continuation or divisional application filed under
+37 CFR 1.53(b) of an application accorded status
+under pre-AIA 37 CFR 1.47, if a copy of a
+declaration from a prior application and a copy of a
+decision according status under pre-AIA 37 CFR
+1.47 are filed as permitted by pre-AIA 37 CFR
+1.63(d)(3)(i), the notice will not be repeated. See
+pre-AIA 37 CFR 1.47(c). In addition, the notice is
+not repeated in continued prosecution applications
+filed under 37 CFR 1.53(d).
+
+409.03(i) Rights of the Nonsigning Inventor
+[R-08.2012]
+[Editor Note: This MPEP section is not applicable
+to applications filed on or after September 16, 2012.]
+The nonsigning inventor (also referred to as an
+“inventor designee”) may protest his or her
+designation as an inventor. The nonsigning inventor
+
+§ 409.03(i)
+
+is entitled to inspect any paper in the application,
+order copies thereof at the price set forth in 37 CFR
+1.19, and make his or her position of record in the
+file wrapper of the application. Alternatively, the
+nonsigning inventor may arrange to do any of the
+preceding through a registered patent attorney or
+agent.
+While the U.S. Patent and Trademark Office will
+grant the nonsigning inventor access to the
+application, inter partes proceedings will not be
+instituted in a pre-AIA 37 CFR 1.47 case. In re
+Hough, 108 USPQ 89 (Comm'r Pat. 1955). A
+nonsigning inventor is not entitled to a hearing
+(Cogar v. Schuyler, 464 F.2d 747, 173 USPQ 389
+(D.C. Cir. 1972)), and is not entitled to prosecute
+the application if status under pre-AIA 37 CFR 1.47
+has been accorded, or if proprietary interest of the
+pre-AIA 37 CFR 1.47(b) applicant has been shown
+to the satisfaction of the U.S. Patent and Trademark
+Office.
+A nonsigning inventor may join in a pre-AIA 37
+CFR 1.47 application. To join in the application, the
+nonsigning inventor must file an appropriate pre-AIA
+37 CFR 1.63 oath or declaration. Even if the
+nonsigning inventor joins in the application, he or
+she cannot revoke or give a power of attorney
+without agreement of the 37 CFR 1.47 applicant.
+See MPEP § 402.10.
+The rights of a nonsigning inventor are protected by
+the fact that the patent resulting from an application
+filed under pre-AIA 37 CFR 1.47(b) and pre-AIA
+35 U.S.C. 118 must issue to the inventor, and in an
+application filed under pre-AIA 37 CFR 1.47(a) and
+35 U.S.C. 116, the inventor has the same rights that
+he or she would have if he or she had joined in the
+application. In re Hough, 108 USPQ 89 (Comm'r
+Pat. 1955).
+If a nonsigning inventor feels that he or she is the
+sole inventor of an invention claimed in a pre-AIA
+37 CFR 1.47 application naming him or her as a joint
+inventor, the nonsigning inventor may file his or her
+own application and request that his or her
+application be placed in interference with the
+pre-AIA 37 CFR 1.47 application. If the claims in
+both the nonsigning inventor's application and the
+
+400-53
+
+Rev. 01.2024, November 2024
+
+§ 409.03(j)
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+pre-AIA 37 CFR 1.47 application are otherwise
+found allowable, an interference may be declared.
+
+Interest – Application Filed On or After
+September 16, 2012 [R-10.2019]
+
+409.03(j) Action Following Acceptance of a
+Pre-AIA 37 CFR 1.47 Application
+[R-11.2013]
+
+[Editor Note: This MPEP section is only applicable
+to applications filed on or after September 16, 2012.]
+
+[Editor Note: This MPEP section is not applicable
+to applications filed on or after September 16, 2012.]
+After an application deposited pursuant to pre-AIA
+37 CFR 1.47 is found acceptable by the Office, the
+examiner will act on the application in the usual
+manner. Papers filed by an inventor who did not
+originally join in the application, and papers relating
+to its pre-AIA 37 CFR 1.47 status, will be placed in
+the file wrapper.
+In the event the previously nonsigning inventor
+decides to join in the application by filing an
+executed oath or declaration complying with
+pre-AIA 37 CFR 1.63, the oath or declaration will
+be placed in the application file.
+When an examiner receives an application in which
+a petition under pre-AIA 37 CFR 1.47 has been filed,
+he or she must check the file to determine that the
+petition has been decided by the Office of Petitions.
+If the petition has not been decided by the Office of
+Petitions, the application, or an electronic message
+concerning the petition, must be forwarded to the
+Office of Petitions for appropriate action.
+An application filed under pre-AIA 37 CFR 1.47
+can be published as a Statutory Invention
+Registration (provided the request for a Statutory
+Invention Registration was filed before March 16,
+2013).
+
+37 CFR 1.46 Application for patent by an assignee, obligated
+assignee, or a person who otherwise shows sufficient
+proprietary interest in the matter.
+(a) A person to whom the inventor has assigned or is under
+an obligation to assign the invention may make an application
+for patent. A person who otherwise shows sufficient proprietary
+interest in the matter may make an application for patent on
+behalf of and as agent for the inventor on proof of the pertinent
+facts and a showing that such action is appropriate to preserve
+the rights of the parties.
+(b) If an application under 35 U.S.C. 111 is made by a
+person other than the inventor under paragraph (a) of this section,
+the application must contain an application data sheet under §
+1.76 specifying in the applicant information section (§
+1.76(b)(7)) the assignee, person to whom the inventor is under
+an obligation to assign the invention, or person who otherwise
+shows sufficient proprietary interest in the matter. If an
+application entering the national stage under 35 U.S.C. 371, or
+a nonprovisional international design application, is applied for
+by a person other than the inventor under paragraph (a) of this
+section, the assignee, person to whom the inventor is under an
+obligation to assign the invention, or person who otherwise
+shows sufficient proprietary interest in the matter must have
+been identified as the applicant for the United States in the
+international stage of the international application or as the
+applicant in the publication of the international registration under
+Hague Agreement Article 10(3).
+(1) If the applicant is the assignee or a person to whom
+the inventor is under an obligation to assign the invention,
+documentary evidence of ownership (e.g., assignment for an
+assignee, employment agreement for a person to whom the
+inventor is under an obligation to assign the invention) should
+be recorded as provided for in part 3 of this chapter no later than
+the date the issue fee is paid in the application.
+(2) If the applicant is a person who otherwise shows
+sufficient proprietary interest in the matter, such applicant must
+submit a petition including:
+(i) The fee set forth in § 1.17(g)
+(ii) A showing that such person has sufficient
+proprietary interest in the matter; and
+
+409.04 [Reserved]
+
+409.05 Application For Patent by an
+Assignee, Obligated Assignee, or a Person
+Who Otherwise Shows Sufficient Proprietary
+
+(iii) A statement that making the application for
+patent by a person who otherwise shows sufficient proprietary
+interest in the matter on behalf of and as agent for the inventor
+is appropriate to preserve the rights of the parties.
+*****
+37 CFR 1.64 Substitute statement in lieu of an oath or
+declaration.
+(a) An applicant under § 1.43, 1.45 or 1.46 may execute a
+substitute statement in lieu of an oath or declaration under §
+
+Rev. 01.2024, November 2024
+
+400-54
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+1.63 if the inventor is deceased, is under a legal incapacity, has
+refused to execute the oath or declaration under § 1.63, or cannot
+be found or reached after diligent effort.
+(b) A substitute statement under this section must:
+(1) Comply with the requirements of § 1.63(a),
+identifying the inventor or joint inventor with respect to whom
+a substitute statement in lieu of an oath or declaration is
+executed, and stating upon information and belief the facts which
+such inventor is required to state;
+(2) Identify the person executing the substitute
+statement and the relationship of such person to the inventor or
+joint inventor with respect to whom the substitute statement is
+executed, and unless such information is supplied in an
+application data sheet in accordance with § 1.76, the residence
+and mailing address of the person signing the substitute
+statement;
+(3) Identify the circumstances permitting the person to
+execute the substitute statement in lieu of an oath or declaration
+under § 1.63, namely whether the inventor is deceased, is under
+a legal incapacity, cannot be found or reached after a diligent
+effort was made, or has refused to execute the oath or declaration
+under § 1.63; and
+(4) Unless the following information is supplied in an
+application data sheet in accordance with § 1.76, also identify:
+(i) Each inventor by his or her legal name; and
+(ii) The last known mailing address where the
+inventor customarily receives mail, and last known residence,
+if an inventor lives at a location which is different from where
+the inventor customarily receives mail, for each inventor who
+is not deceased or under a legal incapacity.
+*****
+
+I. ASSIGNEE OR OBLIGATED ASSIGNEE
+
+An assignee or obligated assignee may file a patent
+application as the applicant. An assignee or obligated
+assignee doing so should record documentary
+evidence of ownership (e.g., assignment for an
+assignee, employment agreement for an obligated
+assignee) as provided for in 37 CFR part 3 no later
+than the date the issue fee is paid in the application.
+See 37 CFR 1.46(b)(1). In order to be the sole
+applicant, the party must be the assignee or obligated
+assignee of all named inventors’ interest. Because
+all parties having any portion of ownership in a
+patent property must act together as a composite
+entity in patent matters before the Office, a partial
+assignee (e.g., a party who owns 50% of the interest)
+cannot on its own file a patent application as the
+applicant. See MPEP § 301.
+See 37 CFR 1.64 concerning the execution of a
+substitute statement by an assignee or obligated
+
+§ 409.05
+
+assignee in lieu of an inventor’s oath or declaration
+(available when an inventor is deceased, is under a
+legal incapacity, cannot be found or reached after a
+diligent effort was made, or has refused to execute
+the oath or declaration under 37 CFR 1.63). See also
+MPEP § 604.
+II. SUFFICIENT PROPRIETARY INTEREST
+
+37 CFR 1.46(a) provides that a person who otherwise
+shows sufficient proprietary interest in the matter
+may make an application for patent on behalf of and
+as agent for the inventor on proof of the pertinent
+facts and a showing that such action is appropriate
+to preserve the rights of the parties. The ability for
+a person who otherwise shows sufficient proprietary
+interest in the matter to make an application for
+patent is not limited to situations in which all of the
+inventors refuse to execute the application, or cannot
+be found or reached after diligent effort.
+Section 1.46(b)(2) provides that if the applicant is a
+person who otherwise shows sufficient proprietary
+interest in the matter, such applicant must submit a
+petition including: (1) The fee set forth in § 1.17(g);
+(2) a showing that such person has sufficient
+proprietary interest in the matter; and (3) a statement
+that making the application for patent by a person
+who otherwise shows sufficient proprietary interest
+on behalf of and as agent for the inventor is
+appropriate to preserve the rights of the parties. See
+37 CFR 1.64 concerning the execution of a substitute
+statement by a person who otherwise shows
+sufficient proprietary interest in the matter in lieu of
+an inventor’s oath or declaration. See also MPEP §
+604.
+A proprietary interest obtained other than by
+assignment or agreement to assign may be
+demonstrated by an appropriate legal memorandum
+to the effect that a court of competent jurisdiction
+(federal, state, or foreign) would by the weight of
+authority in that jurisdiction award title of the
+invention to the 37 CFR 1.46 applicant. The facts in
+support of any conclusion that a court would award
+title to the 37 CFR 1.46 applicant should be made
+of record by way of an affidavit or declaration of the
+person having firsthand knowledge of same. The
+legal memorandum should be prepared and signed
+by an attorney at law familiar with the law of the
+
+400-55
+
+Rev. 01.2024, November 2024
+
+§ 410
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+jurisdiction involved. A copy (in the English
+language) of a statute (if other than the United States
+statute) or a court decision (if other than a reported
+decision of a federal court or a decision reported in
+the United States Patents Quarterly) relied on to
+demonstrate a proprietary interest should be made
+of record.
+
+410 Representations to the U.S. Patent and
+Trademark Office [R-07.2022]
+37 CFR 1.4 Nature of correspondence and signature
+requirements.
+*****
+
+(e) [Reserved]
+*****
+37 CFR 11.18 Signature and certificate for correspondence
+filed in the Office.
+(a) For all documents filed in the Office in patent,
+trademark, and other non-patent matters, and all documents filed
+with a hearing officer in a disciplinary proceeding, except for
+correspondence that is required to be signed by the applicant or
+party, each piece of correspondence filed by a practitioner in
+the Office must bear a signature, personally signed or inserted
+by such practitioner, in compliance with § 1.4(d) or § 2.193(a)
+of this chapter.
+(b) By presenting to the Office or hearing officer in a
+disciplinary proceeding (whether by signing, filing, submitting,
+or later advocating) any paper, the party presenting such paper,
+whether a practitioner or non-practitioner, is certifying that—
+
+(d)
+*****
+(4) Certifications—
+(i) Certification as to the paper presented. The
+presentation to the Office (whether by signing, filing, submitting,
+or later advocating) of any paper by a party, whether a
+practitioner or non-practitioner, constitutes a certification under
+§ 11.18(b) of this subchapter. Violations of § 11.18(b)(2) of this
+subchapter by a party, whether a practitioner or non-practitioner,
+may result in the imposition of sanctions under § 11.18(c) of
+this subchapter. Any practitioner violating § 11.18(b) of this
+subchapter may also be subject to disciplinary action. See §
+11.18(d) of this subchapter.
+(ii) Certification as to the signature. The person
+inserting a signature under paragraph (d)(2) or (d)(3) of this
+section in a document submitted to the Office certifies that the
+inserted signature appearing in the document is his or her own
+signature. A person submitting a document signed by another
+under paragraph (d)(2) or (d)(3) of this section is obligated to
+have a reasonable basis to believe that the person whose
+signature is present on the document was actually inserted by
+that person, and should retain evidence of authenticity of the
+signature. Violations of the certification as to the signature of
+another or a person’s own signature as set forth in this paragraph
+may result in the imposition of sanctions under § 11.18(c) and
+(d) of this chapter.
+(5) Forms. The Office provides forms for the public
+to use in certain situations to assist in the filing of
+correspondence for a certain purpose and to meet certain
+requirements for patent applications and proceedings. Use of
+the forms for purposes for which they were not designed is
+prohibited. No changes to certification statements on the Office
+forms (e.g., oath or declaration forms, terminal disclaimer forms,
+petition forms, and nonpublication request forms) may be made.
+The existing text of a form, other than a certification statement,
+may be modified, deleted, or added to, if all text identifying the
+form as an Office form is removed. The presentation to the
+Office (whether by signing, filing, submitting, or later
+advocating) of any Office form with text identifying the form
+as an Office form by a party, whether a practitioner or
+non-practitioner, constitutes a certification under § 37 CFR
+11.18(b) of this chapter that the existing text and any certification
+
+Rev. 01.2024, November 2024
+
+statements on the form have not been altered other than
+permitted by EFS-Web customization.
+
+(1) All statements made therein of the party’s own
+knowledge are true, all statements made therein on information
+and belief are believed to be true, and all statements made therein
+are made with the knowledge that whoever, in any matter within
+the jurisdiction of the Office, knowingly and willfully falsifies,
+conceals, or covers up by any trick, scheme, or device a material
+fact, or knowingly and willfully makes any false, fictitious, or
+fraudulent statements or representations, or knowingly and
+willfully makes or uses any false writing or document knowing
+the same to contain any false, fictitious, or fraudulent statement
+or entry, shall be subject to the penalties set forth under 18
+U.S.C. 1001 and any other applicable criminal statute, and
+violations of the provisions of this section may jeopardize the
+probative value of the paper; and
+(2) To the best of the party’s knowledge, information
+and belief, formed after an inquiry reasonable under the
+circumstances,
+(i) The paper is not being presented for any
+improper purpose, such as to harass someone or to cause
+unnecessary delay or needless increase in the cost of any
+proceeding before the Office;
+(ii) The other legal contentions therein are
+warranted by existing law or by a nonfrivolous argument for
+the extension, modification, or reversal of existing law or the
+establishment of new law;
+(iii) The allegations and other factual contentions
+have evidentiary support or, if specifically so identified, are
+likely to have evidentiary support after a reasonable opportunity
+for further investigation or discovery; and
+(iv) The denials of factual contentions are
+warranted on the evidence, or if specifically so identified, are
+reasonably based on a lack of information or belief.
+(c) Violations of any of paragraphs (b)(2)(i) through (iv)
+of this section are, after notice and reasonable opportunity to
+respond, subject to such sanctions or actions as deemed
+appropriate by the USPTO Director, which may include, but
+are not limited to, any combination of—
+
+400-56
+
+(1) Striking the offending paper;
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+(2) Referring a practitioner’s conduct to the Director
+of the Office of Enrollment and Discipline for appropriate action;
+(3) Precluding a party or practitioner from submitting
+a paper, or presenting or contesting an issue;
+(4) Affecting the weight given to the offending paper;
+or
+(5) Terminating the proceedings in the Office.
+(d) Any practitioner violating the provisions of this section
+may also be subject to disciplinary action.
+
+37 CFR 1.4(d)(4) and (5) provide that the
+presentation to the Office (whether by signing, filing,
+submitting, or later advocating) of any paper or
+Office form by a party, whether a practitioner or
+non-practitioner, constitutes a certification under 37
+CFR 11.18(b), and that violations of 37 CFR
+11.18(b)(2) may subject the party to sanctions under
+37 CFR 11.18(c). Thus, by presenting to the Office
+a paper or Office form, the party is making the
+certifications set forth in 37 CFR 11.18(b), and is
+subject to sanctions under 37 CFR 11.18(c) for
+violations of 37 CFR 11.18(b)(2), regardless of
+whether the party is a practitioner or
+non-practitioner. A practitioner violating 37 CFR
+11.18(b) may also be subject to disciplinary action
+in lieu of or in addition to sanctions under 37 CFR
+11.18(c) for violations of 37 CFR 11.18(b). See 37
+CFR 11.18(d).
+
+§ 410
+
+to the USPTO constitutes a specific certification
+under 37 CFR 11.18(b).
+The first certification has permitted the USPTO to
+eliminate the separate verification requirement
+previously contained in several rules for statements
+of facts by persons who are not registered to practice
+before the USPTO. As statements submitted to the
+USPTO by any person are now, by operation of 37
+CFR 11.18(b)(1), verified statements, a separate
+verification requirement is no longer necessary. The
+USPTO, however, has retained the verification
+requirement for a statement to be submitted under
+oath or declaration (37 CFR 1.68) in a number of
+sections (e.g., 37 CFR 1.63, 1.64, 1.130, 1.131,
+1.132, 1.495(f), and 5.25).
+The second certification is based upon Rule 11(b)
+of the Federal Rules of Civil Procedure (2007). This
+provision is promulgated pursuant to the Director’s
+authority under 35 U.S.C. 2(b)(2) to establish
+regulations for the conduct of proceedings in the
+USPTO, and is intended to discourage the filing of
+frivolous papers by practitioners or non-practitioners
+in the USPTO. Rule 11(b) of the Federal Rules of
+Civil Procedure provides:
+
+Additional certifications provided in 37 CFR
+1.4(d)(4) and (5) include that a person inserting a
+signature into a document under 37 CFR 1.4(d)(2)
+certifies that the inserted signature appearing in the
+document is their own signature. Also, a person
+filing a document signed by another under 37 CFR
+1.4(d)(2) is obligated to have a reasonable basis to
+believe that the signature present on the document
+was actually inserted by that person. The person
+filing the document should retain evidence of the
+authenticity of the signature. See 37 CFR 1.4(h).
+37 CFR 11.18(b) provides that, by presenting any
+paper to the USPTO, the party presenting such paper
+is making two certifications: (1) the first certification
+is that the statements made therein are subject to the
+declaration clause of 37 CFR 1.68; (2) the second
+certification is the certification required for papers
+filed in a federal court under Rule 11(b) of the
+Federal Rules of Civil Procedure. 37 CFR 1.4(d)(5)
+makes clear that presenting a completed Office form
+
+400-57
+
+Representations to Court. By presenting to
+the court a pleading, written motion, or other
+paper—whether by signing, filing, submitting,
+or later advocating it—an attorney or
+unrepresented party certifies that to the best of
+the person's knowledge, information, and belief,
+formed after an inquiry reasonable under the
+circumstances:
+(1) it is not being presented for any improper
+purpose, such as to harass, cause unnecessary
+delay, or needlessly increase the cost of
+litigation;
+(2) the claims, defenses, and other legal
+contentions are warranted by existing law or
+by a nonfrivolous argument for extending,
+modifying, or reversing existing law or for
+establishing new law;
+(3)the factual contentions have evidentiary
+support or, if specifically so identified, will
+likely have evidentiary support after a
+reasonable opportunity for further investigation
+or discovery; and
+
+Rev. 01.2024, November 2024
+
+§ 410
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+(4) the denials of factual contentions are
+warranted on the evidence or, if specifically so
+identified, are reasonably based on belief or a
+lack of information.
+Fed. R. Civ. P. 11(b)(2007).
+37 CFR 11.18(b)(2) includes the same substantive
+requirements as Fed. R. Civ. P. 11(b). The advisory
+committee notes to the 1993 revision of Fed. R. Civ.
+P. 11(b) provide, in part, that:
+[Fed. R. Civ. P. 11(b) and (c)] restate the
+provisions requiring attorneys and pro se
+litigants to conduct a reasonable inquiry into
+the law and facts before signing pleadings,
+written motions, and other documents, and
+prescribing sanctions for violations of these
+obligations. The [1993] revision in part expands
+the responsibilities of litigants to the court,
+while providing greater constraints and
+flexibility in dealing with infractions of the rule.
+The rule continues to require litigants to
+“stop-and-think” before initially making legal
+or factual contentions. It also, however,
+emphasizes the duty of candor by subjecting
+litigants to potential sanctions for insisting upon
+a position after it is no longer tenable and by
+generally providing protection against sanctions
+if they withdraw or correct contentions after a
+potential violation is called to their attention.
+The rule applies only to assertions contained
+in papers filed with or submitted to the court.
+It does not cover matters arising for the first
+time during oral presentations to the court,
+when counsel may make statements that would
+not have been made if there had been more time
+for study and reflection. However, a litigant's
+obligations with respect to the contents of these
+papers are not measured solely as of the time
+they are filed with or submitted to the court,
+but include reaffirming to the court and
+advocating positions contained in those
+pleadings and motions after learning that they
+cease to have any merit. For example, an
+attorney who during a pretrial conference insists
+on a claim or defense should be viewed as
+“presenting to the court” that contention and
+would be subject to the obligations of [Rule
+
+Rev. 01.2024, November 2024
+
+400-58
+
+11(b)] measured as of that time. Similarly, if
+after a notice of removal is filed, a party urges
+in federal court the allegations of a pleading
+filed in state court (whether as claims, defenses,
+or in disputes regarding removal or remand),
+it would be viewed as “presenting”-- and hence
+certifying to the district court under Rule
+11--those allegations.
+The certification with respect to allegations and
+other factual contentions is revised in
+recognition that sometimes a litigant may have
+good reason to believe that a fact is true or false
+but may need discovery, formal or informal,
+from opposing parties or third persons to gather
+and confirm the evidentiary basis for the
+allegation. Tolerance of factual contentions in
+initial pleadings by plaintiffs or defendants
+when specifically identified as made on
+information and belief does not relieve litigants
+from the obligation to conduct an appropriate
+investigation into the facts that is reasonable
+under the circumstances; it is not a license to
+join parties, make claims, or present defenses
+without any factual basis or justification.
+Moreover, if evidentiary support is not obtained
+after a reasonable opportunity for further
+investigation or discovery, the party has a duty
+under the rule not to persist with that
+contention. [Rule 11(b)] does not require a
+formal amendment to pleadings for which
+evidentiary support is not obtained, but rather
+calls upon a litigant not thereafter to advocate
+such claims or defenses.
+The certification is that there is (or likely will
+be) “evidentiary support” for the allegation, not
+that the party will prevail with respect to its
+contention regarding the fact. That summary
+judgment is rendered against a party does not
+necessarily mean, for purposes of this
+certification, that it had no evidentiary support
+for its position. On the other hand, if a party
+has evidence with respect to a contention that
+would suffice to defeat a motion for summary
+judgment based thereon, it would have
+sufficient “evidentiary support” for purposes
+of Rule 11.
+Denials of factual contentions involve
+somewhat different considerations. Often, of
+course, a denial is premised upon the existence
+of evidence contradicting the alleged fact. At
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+other times a denial is permissible because,
+after an appropriate investigation, a party has
+no information concerning the matter or,
+indeed, has a reasonable basis for doubting the
+credibility of the only evidence relevant to the
+matter. A party should not deny an allegation
+it knows to be true; but it is not required, simply
+because it lacks contradictory evidence, to
+admit an allegation that it believes is not true.
+The changes in [Rule 11(b)(3) and (4)] will
+serve to equalize the burden of the rule upon
+plaintiffs and defendants, who under Rule 8(b)
+are in effect allowed to deny allegations by
+stating that from their initial investigation they
+lack sufficient information to form a belief as
+to the truth of the allegation. If, after further
+investigation or discovery, a denial is no longer
+warranted, the defendant should not continue
+to insist on that denial. While sometimes
+helpful, formal amendment of the pleadings to
+withdraw an allegation or denial is not required
+by [Rule 11(b)].
+Arguments for extensions, modifications, or
+reversals of existing law or for creation of new
+law do not violate [Rule 11(b)(2)] provided
+they are “nonfrivolous.” This establishes an
+objective standard, intended to eliminate any
+“empty-head pure-heart” justification for
+patently frivolous arguments. However, to the
+extent to which a litigant has researched the
+issues and found some support for its theories
+even in minority opinions, in law review
+articles, or through consultation with other
+attorneys should certainly be taken into account
+in determining whether [Rule 11(b)(2)] has
+been violated. Although arguments for a change
+in law are not required to be specifically so
+identified, a contention that is so identified
+should be viewed with greater tolerance under
+[Rule 11].
+
+§ 410
+
+In requiring reasonable inquiry before the filing
+of any pleading in a civil case in federal district
+court, Rule 11 demands “an objective
+determination of whether a sanctioned party's
+conduct was reasonable under the
+circumstances.” In effect it imposes a
+negligence standard, for negligence is a failure
+to use reasonable care. The equation between
+negligence and failure to conduct a reasonable
+precomplaint inquiry is . . . that “the amount of
+investigation required by Rule 11 depends on
+both the time available to investigate and on
+the probability that more investigation will turn
+up important evidence; the Rule does not
+require steps that are not cost-justified.”
+Hays v. Sony Corp. of Am., 847 F.2d 412, 418,
+7 USPQ2d 1043, 1048 (7th. Cir. 1988) (citations
+omitted) (decided prior to the 1993 amendment to
+Fed. R. Civ. P. 11, but discussing a “reasonable
+under the circumstances” standard).
+37 CFR 1.4(d)(4) and (5) and 11.18 do not require
+a practitioner to advise the client (or third party)
+providing information of this certification effect (or
+the sanctions applicable to noncompliance), or
+question the client (or third party) when such
+information or instructions are provided. When a
+practitioner is submitting information (e.g., a
+statement of fact) from the applicant or a third party,
+or relying upon information from the applicant or a
+third party in their arguments, the Office will
+consider a practitioner's “inquiry reasonable under
+the circumstances” duty under 37 CFR 11.18 met
+so long as the practitioner has no knowledge of
+information that is contrary to the information
+provided by the applicant or third party or would
+otherwise indicate that the information provided by
+the applicant or third party was so provided for the
+purpose of a violation of 37 CFR 11.18 (e.g., was
+submitted to cause unnecessary delay).
+
+Amendments to the Federal Rules of Civil Procedure
+at 50-53 (1993). An “inquiry reasonable under the
+circumstances” requirement of 37 CFR 10.18(b)(2)
+is identical to that in Fed. R. Civ. P. 11(b). The
+federal courts have stated in regard to the
+“reasonable inquiry” requirement of Fed. R. Civ. P.
+11:
+
+Nevertheless, it is highly advisable for a practitioner
+to advise a client or third party that any information
+so provided must be reliable and not misleading.
+The submission by an applicant of misleading or
+inaccurate statements of facts during the prosecution
+of applications for patent has resulted in the patents
+issuing on such applications being held
+unenforceable. See e.g., Refac Int'l Ltd. v. Lotus
+
+400-59
+
+Rev. 01.2024, November 2024
+
+§ 410
+
+MANUAL OF PATENT EXAMINING PROCEDURE
+
+Development Corp., 81 F.3d 1576, 38 USPQ2d 1665
+(Fed. Cir. 1996); Paragon Podiatry Laboratory,
+Inc. v. KLM Laboratories, Inc., 984 F.2d 1182, 25
+USPQ2d 1561 (Fed. Cir 1993); Rohm & Haas Co.
+v. Crystal Chem. Co., 722 F.2d 1556, 200 USPQ
+289 (Fed. Cir. 1983), cert. denied, 469 U.S. 851
+(1984); Ott v. Goodpasture, 40 USPQ2d 1831 (D.N.
+Tex. 1996); Herman v. William Brooks Shoe Co.,
+39 USPQ2d 1773 (S.D.N.Y. 1996); Golden Valley
+Microwave Food Inc. v. Weaver Popcorn Co., 837
+F. Supp. 1444, 24 USPQ2d 1801 (N.D. Ind. 1992),
+aff'd, 11 F.3d 1072 (Fed. Cir. 1993)(table), cert.
+denied, 511 U.S. 1128 (1994). Likewise, false
+statements by a practitioner in a paper submitted to
+the Office during the prosecution of an application
+for patent have resulted in the patent issuing on such
+application also being held unenforceable. See
+General Electro Music Corp. v. Samick Music Corp.,
+19 F.3d 1405, 30 USPQ2d 1149 (Fed. Cir.
+1994)(false statement in a petition to make an
+application special constitutes inequitable conduct,
+and renders the patent issuing on such application
+unenforceable).
+An applicant has no duty to conduct a prior art search
+as a prerequisite to filing an application for patent.
+See Nordberg, Inc. v. Telsmith, Inc., 82 F.3d 394,
+397, 38 USPQ2d 1593, 1595-96 (Fed. Cir. 1996);
+FMC Corp. v. Hennessy Indus., Inc., 836 F.2d 521,
+526 n.6, 5 USPQ2d 1272, 1275-76 n.6 (Fed. Cir.
+1987); FMC Corp. v. Manitowoc Co., 835 F.2d
+1411, 1415, 5 USPQ2d 1112, 1115 (Fed. Cir. 1987);
+American Hoist & Derrick Co. v. Sowa & Sons, Inc.,
+725 F.2d 1350, 1362, 220 USPQ 763, 772 (Fed.
+Cir.), cert. denied, 469 U.S. 821, 224 USPQ 520
+(1984). Thus, the “inquiry reasonable under the
+circumstances” requirement of 37 CFR 11.18 does
+not create any new duty on the part of an applicant
+for patent to conduct a prior art search. See MPEP
+§ 609; cf. Judin v. United States, 110 F.3d 780, 42
+USPQ2d 1300 (Fed. Cir 1997)(the failure to obtain
+and examine the accused infringing device prior to
+bringing a civil action for infringement violates the
+1983 version of Fed. R. Civ. P. 11). The “inquiry
+reasonable under the circumstances” requirement of
+37 CFR 11.18, however, will require an inquiry into
+the underlying facts and circumstances when a
+practitioner provides conclusive statements to the
+Office (e.g., a statement that the entire delay in filing
+the required reply from the due date for the reply
+
+Rev. 01.2024, November 2024
+
+until the filing of a grantable petition pursuant to 37
+CFR 1.137(a) was unintentional).
+37 CFR 11.18(c) specifically provides that violations
+of 37 CFR 11.18(b)(1) may jeopardize the validity
+of the application or document, or the validity or
+enforceability of any patent, trademark registration,
+or certificate resulting therefrom, and that violations
+of any of 37 CFR 11.18(b)(2)(i) through (iv) are,
+after notice and reasonable opportunity to respond,
+subject to such sanctions as deemed appropriate by
+the USPTO Director, which may include, but are
+not limited to, any combination of:
+(1) Striking the offending paper;
+(2) Referring a practitioner’s conduct to the
+Director of the Office of Enrollment and Discipline
+for appropriate action;
+(3) Precluding a party or practitioner from
+submitting a paper, or presenting or contesting an
+issue;
+(4) Affecting the weight given to the offending
+paper; or
+(5) Terminating the proceedings in the Office.
+37 CFR 1.4(d)(4) and 11.18 are intended to
+discourage the filing of frivolous or clearly
+unwarranted correspondence in the Office; the Office
+does not routinely review correspondence for
+compliance with 37 CFR 11.18(b)(2) and impose
+sanctions under 37 CFR 11.18(c).
+Where the circumstances of an application or other
+proceeding warrant a determination of whether there
+has been a violation of 37 CFR 11.18(b), the file or
+the application or other proceeding may be
+forwarded to the Deputy Commissioner for Patents
+who oversees the Office of Petitions for a
+determination of whether there has been a violation
+of 37 CFR 11.18(b). See MPEP § 714.25. In the
+event that a provision of 37 CFR 11.18(b) has been
+violated, the USPTO Director will determine what
+(if any) sanction(s) under 37 CFR 11.18(c) is to be
+imposed in the application or other proceeding.
+Any practitioner violating the provisions of 37 CFR
+11.18 may be subject to disciplinary action. 37 CFR
+11.18(d) (and the corresponding provision of 37 CFR
+1.4(d)(4)) clarifies that a practitioner may be subject
+
+400-60
+
+REPRESENTATIVE OF APPLICANT OR OWNER
+
+§ 410
+
+to disciplinary action in lieu of, or in addition to, the
+sanctions set forth in 37 CFR 11.8(c) for violations
+of 37 CFR 11.18. If a provision of 37 CFR 11.18(b)
+has been violated by a practitioner, the Office of
+Enrollment and Discipline (OED) will determine
+whether such practitioner is to be subject to
+disciplinary action (see 37 CFR 1.4(d)(4) and
+11.18(d)).
+
+400-61
+
+Rev. 01.2024, November 2024
+
