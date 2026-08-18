@@ -1,14 +1,15 @@
-# MPEP Cliff Notes
+# MPEP Cliff Notes --- Explained Edition
 
 Source: the uploaded **Manual of Patent Examining Procedure (MPEP),
 Ninth Edition, Revision 01.2024 (November 2024)**.
 
-These files are organized one file per MPEP chapter, with a separate
-heading for every numbered MPEP section detected in the EPUB. The
-bullets are concise, source-grounded study notes emphasizing procedural
-rules, requirements, timing, exceptions, and consequences.
+Each numbered MPEP section contains concise source-grounded bullets.
+Directly beneath every bullet is an indented **Plain English**
+explanation intended to make the rule easier to understand while
+preserving the source's conditions, actors, and legal effect.
 
-**Important:** These are study aids, not a replacement for the MPEP.
-Patent Bar questions can turn on exceptions and exact wording, so use
-each section number to return to the source when reviewing a tested
-rule.
+> **Study note:** These are an orientation and review aid, not a
+> replacement for the MPEP. Patent Bar questions often turn on exact
+> wording, exceptions, deadlines, and procedural posture. Use the
+> section number to return to the source whenever a rule is important or
+> unclear.
