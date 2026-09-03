@@ -27,6 +27,22 @@ This repo is being extended with two GitHub Pages study modules: a mobile flashc
 
 `markdown_chapter_summaries/` and most of `MPEP_Patent_Bar_Study_Materials/` were generated with lighter verification than the flashcard/exam modules require (see `MPEP_Patent_Bar_Study_Materials/mpep-static-pdf-build-spec.md` for exactly what was and wasn't independently checked against the MPEP text). Audited study content is derived directly from `pdfs/` (the actual MPEP text) and the other sources catalogued in `reference/exam_source_manifest/manifest.json`, not from these earlier drafts.
 
+## Development environment
+
+This repo uses a conda environment (`environment.yml`) so the same tool versions (Python, `pandoc`, `poppler`) are available whether you're working locally or in a GitHub Codespace -- no more relying on `apt-get` inside the build script.
+
+**Locally (macOS):**
+
+```
+brew install miniforge   # one-time
+conda env create -f environment.yml
+conda activate mpep-kindle
+```
+
+**In a Codespace:** open this repo in GitHub Codespaces and the container builds automatically from `.devcontainer/`. It creates the `mpep-kindle` conda env from the same `environment.yml` and installs the Claude Code CLI. On first use in a new Codespace, run `claude` and follow the printed link to log in -- authentication is per-machine, so a fresh Codespace needs its own login even though your local machine is already signed in.
+
+Because both environments are built from the same `environment.yml`, adding a dependency in one place (edit the file, `conda env update -f environment.yml`, commit) keeps local and Codespaces in sync.
+
 ## Building the EPUB
 
 ```

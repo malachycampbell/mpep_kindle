@@ -1,0 +1,8 @@
+name: mpep-kindle
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandoc
+  - poppler
+  - pip

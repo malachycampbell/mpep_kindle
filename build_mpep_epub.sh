@@ -33,14 +33,19 @@ echo "Found $PDF_COUNT PDF files."
 # 2. Install dependencies
 # ------------------------------------------------------------
 
-echo
-echo "Installing dependencies..."
+if command -v pdftotext >/dev/null 2>&1 && command -v pandoc >/dev/null 2>&1 && command -v python3 >/dev/null 2>&1; then
+    echo
+    echo "Dependencies already available (pdftotext, pandoc, python3) -- skipping install."
+else
+    echo
+    echo "Installing dependencies..."
 
-sudo apt-get update
-sudo apt-get install -y \
-    poppler-utils \
-    pandoc \
-    python3
+    sudo apt-get update
+    sudo apt-get install -y \
+        poppler-utils \
+        pandoc \
+        python3
+fi
 
 # ------------------------------------------------------------
 # 3. Create build directories
