@@ -1,0 +1,141 @@
+{
+  "manifest_schema_version": "1.0",
+  "description": "Local metadata record for the Patent Bar study-tool reference library. Tracks every source document's provenance, version, and checksum. The OED exam-source manifest (item authoritative_oed_source_list below) is the sole authority on what is currently examinable; USC/CFR entries are supporting/validation sources only and do not expand exam scope.",
+  "last_updated": "2026-09-03",
+
+  "authoritative_oed_source_list": {
+    "description": "USPTO OED's own page listing the four documents that define registration-exam content. This is the controlling manifest for exam scope.",
+    "issuing_organization": "USPTO Office of Enrollment and Discipline (OED)",
+    "source_url": "https://www.uspto.gov/sites/default/files/documents/registrationexamsourcematerial.pdf",
+    "page_last_updated_per_source": "2026-05-29",
+    "retrieval_date": "2026-09-03",
+    "local_path": "reference/exam_source_manifest/registrationexamsourcematerial_uspto.pdf",
+    "sha256": "1e0ad8a07e05f1f77c02f3e9dda91067be5e32451207f2f95337827f7a6e412f",
+    "notes": "Confirmed directly from this snapshot: exactly 4 documents currently define exam content (items EXAM-1 through EXAM-4 below). Also confirmed via web research that the USPTO's Sept 23, 2026 examination update does NOT change the tested MPEP edition -- both the pre- and post-update exams test MPEP Ninth Edition, Revision 01.2024. No MPEP version change is pending as of this manifest's retrieval date."
+  },
+
+  "sources": [
+    {
+      "id": "EXAM-1",
+      "category": "mpep",
+      "exam_defining": true,
+      "source_name": "Manual of Patent Examining Procedure (MPEP), Ninth Edition, Revision 01.2024",
+      "issuing_organization": "United States Patent and Trademark Office (USPTO)",
+      "source_url": "https://www.uspto.gov/web/offices/pac/mpep/index.html",
+      "version": "Ninth Edition, Revision 01.2024",
+      "publication_date": "2024-11",
+      "content_current_as_of": "2024-01-31",
+      "retrieval_date": "2025-08-18 (pre-existing acquisition, prior to this Phase 1 session -- see repo commit history a438ee0/627397f/a260259)",
+      "local_path": "reference/mpep/ (symlinks: MPEP_combined.pdf -> ../../MPEP_combined.pdf; chapters/ -> ../../pdfs/, 39 per-chapter/appendix PDFs)",
+      "sha256_MPEP_combined_pdf": "520eeb63b8352c97565b32f36bab5963fad9c55ec168c4578237e35ae6677f14",
+      "notes": "Already present in this repository prior to the Phase 1 acquisition session; reused via symlink rather than re-downloaded or duplicated, to avoid bloating repo size with a second ~59MB copy. Confirmed current against the live OED source-materials manifest as of 2026-09-03 -- no newer revision is being tested. Per Source Policy, this version must NOT be silently replaced even if a newer MPEP revision is later published; any future OED manifest change must be presented to the user before this is updated."
+    },
+    {
+      "id": "EXAM-2",
+      "category": "trial_practice",
+      "exam_defining": true,
+      "source_name": "Consolidated Trial Practice Guide",
+      "issuing_organization": "USPTO Patent Trial and Appeal Board (PTAB)",
+      "source_url": "https://www.uspto.gov/TrialPracticeGuideConsolidated",
+      "resolved_download_url": "https://www.uspto.gov/sites/default/files/documents/tpgnov.pdf",
+      "version": "November 2019 edition",
+      "publication_date": "2019-11",
+      "retrieval_date": "2026-09-03",
+      "local_path": "reference/trial_practice/consolidated_trial_practice_guide_2019-11.pdf",
+      "sha256": "6fcdd1db0882cd2e1faed392eadeb35bb76ee0882bafd42eb83fc1c7c7a8abbf",
+      "notes": "URL matches exactly what the current OED manifest cites (November 2019). Not yet internally verified page-by-page for edition text due to lack of local PDF text-extraction tooling (poppler not installed) -- flagged for confirmation once working in Codespace."
+    },
+    {
+      "id": "EXAM-3",
+      "category": "professional_conduct",
+      "exam_defining": true,
+      "source_name": "Changes to Representation of Others Before the United States Patent and Trademark Office (Final Rule)",
+      "issuing_organization": "USPTO / Federal Register / Government Publishing Office",
+      "source_url": "https://www.govinfo.gov/content/pkg/FR-2013-04-03/pdf/2013-07382.pdf",
+      "version": "78 FR 20179; FR Doc. 2013-07382",
+      "publication_date": "2013-04-03",
+      "retrieval_date": "2026-09-03",
+      "local_path": "reference/professional_conduct/fr_2013-04-03_changes_to_representation_final_rule.pdf",
+      "sha256": "ecf6528d7606a9cbb9219e5542f1790c90d4edcbc5f82fd126ed78d8c595cb47",
+      "notes": "The OED manifest cites this document via a legacy gpo.gov/fdsys URL, which now 302-redirects to gpo.gov/fdsys/pkg/... ; govinfo.gov is GPO's current official host for the same Federal Register document (verified same FR citation/date) and was used as the actual download source. This is the final rule that adopted the USPTO Rules of Professional Conduct (37 CFR Part 11, Subpart B)."
+    },
+    {
+      "id": "EXAM-4",
+      "category": "pph",
+      "exam_defining": true,
+      "source_name": "Implementation of the Global and IP5 Patent Prosecution Highway (PPH) Pilot Programs with Participating Offices",
+      "issuing_organization": "USPTO",
+      "source_url": "https://www.uspto.gov/patents/law/notices/global-ip5.pdf",
+      "resolved_download_url": "https://www.uspto.gov/sites/default/files/documents/global-ip5.pdf",
+      "version": "as cited in current OED manifest (no separate revision number stated)",
+      "publication_date": "unconfirmed -- pending internal text verification (see notes)",
+      "retrieval_date": "2026-09-03",
+      "local_path": "reference/pph/global_ip5_pph_implementation_notice.pdf",
+      "sha256": "4fcdc0e42fecf8d42e017bd5efda78c0969d91cc2a2c829bd7a62fdd6f7582ec",
+      "notes": "URL matches exactly what the current OED manifest cites. Publication date not yet internally verified (PDF text extraction blocked locally by missing poppler tooling) -- confirm in Codespace before treating as fully validated."
+    },
+    {
+      "id": "SUPPORT-1",
+      "category": "general_requirements",
+      "exam_defining": false,
+      "source_name": "General Requirements Bulletin for Admission to the Examination for Registration to Practice in Patent Cases Before the USPTO",
+      "issuing_organization": "USPTO Office of Enrollment and Discipline (OED)",
+      "source_url": "https://www.uspto.gov/sites/default/files/documents/OED_GRB.pdf",
+      "version": "unconfirmed -- web search indicated a January 2025 edition, not yet internally verified",
+      "publication_date": "unconfirmed, see notes",
+      "retrieval_date": "2026-09-03",
+      "local_path": "reference/general_requirements/general_requirements_bulletin.pdf",
+      "sha256": "d978043d9c636594f6d38c394d87530fcb216084b0213bd6604afbdd1395436b",
+      "notes": "Administrative/eligibility document, not an exam-content source -- does not define what is examinable. Unlike the exam-defining sources, this document is expected to be periodically superseded by USPTO and should be re-checked/re-downloaded periodically rather than version-locked. Internal edition date not yet verified locally (missing PDF text-extraction tooling) -- confirm in Codespace."
+    },
+    {
+      "id": "SUPPORT-2",
+      "category": "prometric_tutorial",
+      "exam_defining": false,
+      "source_name": "Official Prometric USPTO Registration Examination computer-delivered tutorial/demo",
+      "issuing_organization": "Prometric (USPTO's test-delivery vendor)",
+      "source_url": "https://www.prometric.com/demos/uspto/htmldemo/tutpg1.htm",
+      "version": "n/a -- interactive tool, not a versioned document",
+      "publication_date": "n/a",
+      "retrieval_date": "2026-09-03",
+      "local_path": null,
+      "sha256": null,
+      "notes": "Reference-only: this is an interactive third-party tool (blocks automated fetching, HTTP 403) rather than a static document, and is not appropriate to mirror/redistribute. Recorded here as a citation only. Its purpose in this project is to inform the practice-exam UI's navigation/mark-for-review mechanics (Phase 4/5) -- intended to be reviewed manually in a browser rather than downloaded."
+    },
+    {
+      "id": "SUPPORT-3",
+      "category": "usc",
+      "exam_defining": false,
+      "source_name": "35 U.S.C. -- Patents (as reproduced in MPEP Appendix L)",
+      "issuing_organization": "Office of the Law Revision Counsel / reproduced by USPTO",
+      "source_url": "https://www.uspto.gov/web/offices/pac/mpep/index.html (MPEP Appendix L)",
+      "version": "Current as of January 31, 2024 (per in-document editor's note)",
+      "publication_date": "2024-11 (published as part of MPEP Rev. 01.2024)",
+      "retrieval_date": "2025-08-18 (pre-existing, part of the MPEP acquisition -- see EXAM-1)",
+      "local_path": "reference/usc/usc_title_35_mpep_appx_l.pdf (symlink to pdfs/mpep-9015-appx-l.pdf)",
+      "sha256": "8b300cfea0edd6d19bf0cc3dcf049516521828ddee22b8efe9c99276aab6c80c",
+      "notes": "Deliberately using the MPEP-bundled snapshot (dated exactly to the tested MPEP edition) rather than pulling live current USC text from uscode.house.gov. This avoids inadvertently validating/invalidating exam content against statutory amendments that postdate the tested MPEP edition. Supporting/validation source only -- does not expand exam scope per Source Policy."
+    },
+    {
+      "id": "SUPPORT-4",
+      "category": "cfr",
+      "exam_defining": false,
+      "source_name": "37 CFR -- Patents, Trademarks, and Copyrights (as reproduced in MPEP Appendix R, Consolidated Patent Rules)",
+      "issuing_organization": "Office of the Federal Register / reproduced by USPTO",
+      "source_url": "https://www.uspto.gov/web/offices/pac/mpep/index.html (MPEP Appendix R)",
+      "version": "Current as of January 31, 2024 (per in-document editor's note)",
+      "publication_date": "2024-11 (published as part of MPEP Rev. 01.2024)",
+      "retrieval_date": "2025-08-18 (pre-existing, part of the MPEP acquisition -- see EXAM-1)",
+      "local_path": "reference/cfr/cfr_title_37_mpep_appx_r.pdf (symlink to pdfs/mpep-9020-appx-r.pdf)",
+      "sha256": "a1980f47e03cc05ef6b38341a4c3f53acd8eee047f5088568ddfa4e28f7f16e6",
+      "notes": "Same rationale as SUPPORT-3: the MPEP-bundled snapshot is used deliberately instead of live current 37 CFR from ecfr.gov, to stay pinned to the tested edition's rule text. The MPEP build spec for Appendix R itself notes USPTO periodically updates a separate 'Consolidated Rules' PDF between MPEP publications -- that live document is NOT used here for the same reason. Supporting/validation source only."
+    }
+  ],
+
+  "open_items_for_next_session": [
+    "Verify General Requirements Bulletin (SUPPORT-1) exact edition date once PDF text tooling is available (Codespace).",
+    "Verify Global/IP5 PPH notice (EXAM-4) exact publication date once PDF text tooling is available (Codespace).",
+    "Manually review Prometric tutorial (SUPPORT-2) in a browser and write a short internal description of the interface for later use in the practice-exam UI design (Phase 4).",
+    "Phase 2 will require locating and acquiring the historical USPTO exam question/answer corpus (1997-2003 sessions) -- preliminary research found USPTO's original hosting pattern at uspto.gov/ip/boards/oed/exam/past/ (no longer live) with at least 2002-2003 AM/PM sessions recoverable via the Internet Archive Wayback Machine; full year coverage (1997-2001) not yet confirmed. This is explicitly out of scope for Phase 1."
+  ]
+}
