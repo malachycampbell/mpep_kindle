@@ -3,7 +3,22 @@
   "description": "Provenance record for the historical USPTO patent bar (registration examination) sessions used as raw material for Phase 2 (historical exam extraction & current-law audit). These are the only registration-examination question sets USPTO is known to have ever officially released to the public. They predate the America Invents Act (2011) and the current MPEP edition, so questions here are NOT assumed to reflect current law -- see 'current_law_caveat' below. Do not treat this manifest's sources as exam-defining; the authoritative exam-defining sources remain those in reference/exam_source_manifest/manifest.json.",
   "last_updated": "2026-09-03",
 
-  "current_law_caveat": "All three sessions below predate the America Invents Act (enacted 2011) and reflect the pre-AIA, first-to-invent patent system, older interference practice, and MPEP/37 CFR section numbering that has since changed or been repealed. Many questions and model answers are therefore obsolete under current law. Extraction (Phase 2, this pass) captures the raw question/answer/rationale text only, with no current-law judgment applied. A separate audit pass (deferred per project decision on 2026-09-03) is required before any question here is treated as valid content for the Phase 3 flashcard bank or Phase 4-5 practice-exam generator.",
+  "current_law_caveat": "All three sessions below predate the America Invents Act (enacted 2011) and reflect the pre-AIA, first-to-invent patent system, older interference practice, and MPEP/37 CFR section numbering that has since changed or been repealed. Many questions and model answers are therefore obsolete under current law. Extraction (Phase 2, this pass) captures the raw question/answer/rationale text only, with no current-law judgment applied.",
+
+  "current_law_audit": {
+    "status": "In progress -- 1 of 3 sessions audited (pilot)",
+    "methodology": "reference/historical_exams/audit/METHODOLOGY.md",
+    "sessions": [
+      {
+        "session_date": "2002-10-16",
+        "status": "Audited (pilot) 2026-09-03",
+        "results_file": "reference/historical_exams/audit/2002-10-16_audit.json",
+        "summary": "100/100 questions individually assessed against current law (MPEP 9th Ed. Rev. 01.2024, current USC/CFR, and post-2002 case law). 56 STILL_VALID, 24 PARTIALLY_OBSOLETE (doctrine intact, citation/terminology stale), 20 OBSOLETE (tested legal framework no longer applies, overwhelmingly due to the America Invents Act)."
+      },
+      {"session_date": "2003-04-15", "status": "Not yet audited"},
+      {"session_date": "2003-10-15", "status": "Not yet audited"}
+    ]
+  },
 
   "acquisition_method": "USPTO originally hosted these PDFs at http://www.uspto.gov/ip/boards/oed/exam/past/ ; that path is no longer live on uspto.gov. All 12 files below were recovered from the Internet Archive Wayback Machine (web.archive.org) on 2026-09-03, using the CDX API (http://web.archive.org/cdx/search/cdx?url=uspto.gov/ip/boards/oed/exam/past/...) to find the archived snapshot timestamp for each file, then fetching the raw archived content via the 'id_' Wayback URL modifier (http://web.archive.org/web/<timestamp>id_/<original_url>), which serves the captured file without the Wayback toolbar/banner injection. Every fetched PDF was validated with pdfinfo (non-zero page count) and spot-checked with pdftotext against expected exam content before being committed.",
 
