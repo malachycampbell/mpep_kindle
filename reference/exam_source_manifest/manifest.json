@@ -43,7 +43,7 @@
       "retrieval_date": "2026-09-03",
       "local_path": "reference/trial_practice/consolidated_trial_practice_guide_2019-11.pdf",
       "sha256": "6fcdd1db0882cd2e1faed392eadeb35bb76ee0882bafd42eb83fc1c7c7a8abbf",
-      "notes": "URL matches exactly what the current OED manifest cites (November 2019). Not yet internally verified page-by-page for edition text due to lack of local PDF text-extraction tooling (poppler not installed) -- flagged for confirmation once working in Codespace."
+      "notes": "URL matches exactly what the current OED manifest cites (November 2019). Verified 2026-09-03 via pdftotext in Codespace: page 1 header reads 'Consolidated Trial Practice Guide / November 2019' and 'TRIAL PRACTICE GUIDE / NOVEMBER 2019 EDITION' -- matches version/publication_date above exactly."
     },
     {
       "id": "EXAM-3",
@@ -68,11 +68,11 @@
       "source_url": "https://www.uspto.gov/patents/law/notices/global-ip5.pdf",
       "resolved_download_url": "https://www.uspto.gov/sites/default/files/documents/global-ip5.pdf",
       "version": "as cited in current OED manifest (no separate revision number stated)",
-      "publication_date": "unconfirmed -- pending internal text verification (see notes)",
+      "publication_date": "2014-01 (approx.; see notes)",
       "retrieval_date": "2026-09-03",
       "local_path": "reference/pph/global_ip5_pph_implementation_notice.pdf",
       "sha256": "4fcdc0e42fecf8d42e017bd5efda78c0969d91cc2a2c829bd7a62fdd6f7582ec",
-      "notes": "URL matches exactly what the current OED manifest cites. Publication date not yet internally verified (PDF text extraction blocked locally by missing poppler tooling) -- confirm in Codespace before treating as fully validated."
+      "notes": "URL matches exactly what the current OED manifest cites. Verified 2026-09-03 via pdftotext/pdfinfo in Codespace: body text states the Global/IP5 PPH pilot programs 'commenced on January 6, 2014'; the PDF's embedded scan metadata (Adobe Paper Capture) shows CreationDate 2014-02-18, consistent with a notice published around that program launch. The document itself carries no printed issue date (signature block is a blank/illegible OCR field, signed by then-Deputy Director Michelle K. Lee) -- publication_date recorded as an approximation, not an exact printed date."
     },
     {
       "id": "SUPPORT-1",
@@ -81,12 +81,12 @@
       "source_name": "General Requirements Bulletin for Admission to the Examination for Registration to Practice in Patent Cases Before the USPTO",
       "issuing_organization": "USPTO Office of Enrollment and Discipline (OED)",
       "source_url": "https://www.uspto.gov/sites/default/files/documents/OED_GRB.pdf",
-      "version": "unconfirmed -- web search indicated a January 2025 edition, not yet internally verified",
-      "publication_date": "unconfirmed, see notes",
+      "version": "Issued August 2026",
+      "publication_date": "2026-08",
       "retrieval_date": "2026-09-03",
       "local_path": "reference/general_requirements/general_requirements_bulletin.pdf",
       "sha256": "d978043d9c636594f6d38c394d87530fcb216084b0213bd6604afbdd1395436b",
-      "notes": "Administrative/eligibility document, not an exam-content source -- does not define what is examinable. Unlike the exam-defining sources, this document is expected to be periodically superseded by USPTO and should be re-checked/re-downloaded periodically rather than version-locked. Internal edition date not yet verified locally (missing PDF text-extraction tooling) -- confirm in Codespace."
+      "notes": "Administrative/eligibility document, not an exam-content source -- does not define what is examinable. Unlike the exam-defining sources, this document is expected to be periodically superseded by USPTO and should be re-checked/re-downloaded periodically rather than version-locked. Verified 2026-09-03 via pdftotext in Codespace: title page reads 'Issued August 2026', superseding the earlier (unconfirmed, web-search-derived) guess of a January 2025 edition -- the file on disk was downloaded 2026-09-03 and is the current August 2026 edition, so no re-download is needed right now."
     },
     {
       "id": "SUPPORT-2",
@@ -133,8 +133,6 @@
   ],
 
   "open_items_for_next_session": [
-    "Verify General Requirements Bulletin (SUPPORT-1) exact edition date once PDF text tooling is available (Codespace).",
-    "Verify Global/IP5 PPH notice (EXAM-4) exact publication date once PDF text tooling is available (Codespace).",
     "Manually review Prometric tutorial (SUPPORT-2) in a browser and write a short internal description of the interface for later use in the practice-exam UI design (Phase 4).",
     "Phase 2 will require locating and acquiring the historical USPTO exam question/answer corpus (1997-2003 sessions) -- preliminary research found USPTO's original hosting pattern at uspto.gov/ip/boards/oed/exam/past/ (no longer live) with at least 2002-2003 AM/PM sessions recoverable via the Internet Archive Wayback Machine; full year coverage (1997-2001) not yet confirmed. This is explicitly out of scope for Phase 1."
   ]
