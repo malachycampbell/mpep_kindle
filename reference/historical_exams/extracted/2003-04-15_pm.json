@@ -1,0 +1,802 @@
+[
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 1,
+    "stem": "Harriet filed a nonprovisional patent application in the USPTO containing a written assertion of small entity status. Based upon the USPTO rules and the procedures set forth in the MPEP, which of the following statements is correct?",
+    "choices": {
+      "A": "If Harriet files a related, continuing application wherein small entity status is appropriate and desired, it will not be necessary to specifically establish assertion of such status in the continuing application.",
+      "B": "If Harriet files a related, reissue application wherein small entity status is appropriate and desired, it will be necessary to specifically establish assertion of such status in the reissue application.",
+      "C": "If Harriet files a related, divisional application under 37 CFR 1.53, wherein small entity status is appropriate and desired, it will not be necessary to specifically establish assertion of such status in the divisional application.",
+      "D": "If Harriet refiles her application as a continued prosecution application under 37 CFR 1.53(d), wherein small entity status is appropriate and desired, it will not be necessary to specifically establish assertion of such status in the continued prosecution application.",
+      "E": "If Harriet subsequently assigns her rights to another party for whom small entity status is appropriate and desired, it will be necessary to specifically re-establish assertion of such status."
+    },
+    "answer": "B",
+    "rationale": "ANSWER: (B) is correct and (A), (C) and (D) are wrong. 37 CFR \u00a7 1.27(c)(4) (\u201cThe refiling of an application under \u00a7 1.53 as a continuation, divisional, or continuation-in-part application, including a continued prosecution application under \u00a7 1.53(d), or the filing of a reissue application, requires a new assertion as to continued entitlement to small entity status for the continuing or reissue application.\u201d). (E) is also wrong. 37 CFR \u00a7 1.27(e)(1) (\u201cWhere an assignment of rights\u2026to other parties who are small entities occurs subsequent to an assertion of small entity status, a second assertion is not required.\u201d)",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 2,
+    "stem": "A U.S. patent application discloses a first embodiment of an invention, a composition made of known materials in equal amounts by weight of A, B, and C. The application discloses a second embodiment of the invention comprising equal amounts by weight of A, B, and C, and an effective amount of D, a known material, to reduce excess moisture from the composition. The application also discloses a third embodiment of the invention comprising equal amounts by weight of A, B, and C, and an effective amount of D to reduce the acidity of the composition. The application fully discloses guidelines for determining an effective amount of D to reduce excess moisture from the composition, and determining an effective amount of D to reduce the acidity of the composition. The application discloses that the amount of D needed to reduce excess moisture from the composition differs from the amount of D needed to reduce the acidity of the composition. Which of the following claims, if included in the application, provides a proper basis for a rejection under 35 USC 112, second paragraph in accordance with the USPTO rules and the procedures set forth in the MPEP?",
+    "choices": {
+      "A": "Claim 1. A composition comprising: equal amounts by weight of A, B, and C, and an effective amount of D to reduce the acidity of the composition.",
+      "B": "Claim 1. A composition comprising: equal amounts by weight of A, B, and C, and an effective amount of D.",
+      "C": "Claim 1. A composition comprising: equal amounts by weight of A, B, and C, and an effective amount of D to reduce excess moisture from the composition.",
+      "D": "Claim 1. A composition comprising: equal amounts by weight of A, B, and C.",
+      "E": "None of the above."
+    },
+    "answer": "B",
+    "rationale": "ANSWER: (B) is the most correct answer. 35 U.S.C. \u00a7 112, second paragraph, and MPEP \u00a7 2173.05(c), under the heading \u201cIII. Effective Amount.\u201d The claim presented in (B) is improper as \u201can effective amount\u201d has been held to be indefinite when the claim fails to state the function that is to be achieved and more than one effect can be implied from the specification. In re Fredericksen 213 F.2d 547, 102 USPQ 35 (CCPA 1954). It is unclear whether \u201can effective amount\u201d in (B) is an effective amount to reduce acidity or an effective amount to reduce moisture. The claims presented in (A) and (C) find support in the disclosure, which provides guidelines for determining \u201can effective amount\u201d for each of the claims in (A) and (C). See MPEP \u00a7 2173.05(c) under the heading \u201cIII. Effective Amount.\u201d The claim presented in (D) is not indefinite, given that A, B, and C are known materials as set forth in the question and the composition can be determined by the claim language. (E) is incorrect because (B) is correct.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 3,
+    "stem": "In accordance with the USPTO rules and the procedures in the MPEP, in which of the following instances is the reference properly available as prior art under 35 USC 102(d)?",
+    "choices": {
+      "A": "A U.S. patent application is filed within the one year anniversary date of the filing date of the foreign application. The reference is the foreign application.",
+      "B": "The applicant files a foreign application, later timely files a U.S. application claiming priority based on the foreign application, and then files a continuation- in-part (CIP) application, and the claims in the CIP are not entitled to the filing date of the U.S. parent application. The foreign application issues as a patent before the filing date of the CIP application and is used to reject the claims directed to the added subject matter under 35 USC 102(d)/103. The reference is the foreign application.",
+      "C": "The applicant files a foreign application, and later timely files a U.S. application claiming priority based on the foreign application. The examined foreign application has been allowed by the examiner and has not been published before the U.S. application was filed. The reference is the foreign application.",
+      "D": "The reference is a defensive publication.",
+      "E": "All of the above."
+    },
+    "answer": "B",
+    "rationale": "ANSWER: (B) is the most correct answer. See 35 U.S.C. \u00a7 102(d); MPEP \u00a7 2135.01, under the heading \u201cA Continuation - In - Part Breaks The Chain Of Priority As To Foreign As Well As U.S. Parents.\u201d If an applicant files a foreign application, later files a U.S. application claiming priority based on the foreign application, and then files a continuation - in - part (CIP) application whose claims are not entitled to the filing date of the U.S. parent, the effective filing date of the CIP application is the filing date of the CIP. The applicant cannot obtain the benefit of either the U.S. parent or foreign application filing dates. In re van Langenhoven, 173 USPQ 426, 429 (CCPA 1972); Ex parte Appeal No. 242 - 47, 196 USPQ 828 (Bd. App. 1976). (A) is incorrect. 35 U.S.C. \u00a7 102(d). (C) is not correct. 35 U.S.C. \u00a7 102(d); MPEP \u00a7 2135.01, under the heading \u201cAn Allowed Application Can Be A \u2018Patent\u2019 For Purposes Of 35 U.S.C. 102(d) As Of The Date Published For Opposition Even Though It Has Not Yet Been Granted As A Patent,\u201d citing Ex parte Beik, 161 USPQ 795 (Bd. App. 1968). An application must issue into a patent before it can be applied in a 35 U.S.C. 102(d) rejection. Ex parte Fujishiro, 199 USPQ 36 (Bd. App. 1977). (D) is not correct. 35 U.S.C. \u00a7 102(d); MPEP \u00a7 2136, under the heading \u201cDefensive Publications Are Not Prior Art As Of Their Filing Date,\u201d citing Ex parte Osmond, 191 USPQ 334 (Bd. App. 1973). (E) is not correct inasmuch as (A), (C) and (D) are not correct.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 4,
+    "stem": "The Office mailed an Office action containing a proper final rejection dated July 8, 2002. The Office action did not set a period for reply. On January 7, 2003, in reply to the final rejection, a registered practitioner filed a request for continued examination under 37 CFR 1.114, a request for a suspension of action under 37 CFR 1.103(c) to suspend action for three months, and proper payment all required fees. No submission in reply to the outstanding Office action accompanied the request for continued examination. No other paper was submitted and no communication with the Office was held until after Midnight, January 8, 2003. Which of the following statements accords with the USPTO rules and the procedures set forth in the MPEP?",
+    "choices": {
+      "A": "If an appropriate reply is submitted within the three month period of suspension permitted under 37 CFR 1.103(c), the application will not be held abandoned.",
+      "B": "The application will not be held abandoned if an appropriate reply is submitted within the three month period of suspension and it is accompanied by a showing that the reply could not have been submitted within the period set in the final rejection. For example, the reply includes a showing based on an experiment that required 8 months to conduct.",
+      "C": "No reply will prevent the application from being held abandoned.",
+      "D": "If, on January 10, 2003, the primary examiner and applicant agree to an examiner\u2019s amendment that places the application in condition for allowance and a notice of allowance is mailed within the three month period of suspension, application X will not be held abandoned.",
+      "E": "No other submission by applicant is necessary because application X is still pending. The examiner is required to act on the request for continued examination after expiration of the three month period of suspension."
+    },
+    "answer": "C",
+    "rationale": "ANSWER: (C) is the most correct answer. As stated in MPEP \u00a7 709, under the heading \u201cRequest By The Applicant,\u201d subheading \u201cRequest for Suspension Under 37 CFR 1.103(b) or (c),\u201d \u201cThe Office will not grant the requested suspension of action unless the following requirements are met: (A) the request must be filed with the filing of a CPA or an RCE\u2026(1) if the request is filed with an RCE, the RCE must be in compliance with 37 CFR 1.114, i.e., the RCE must be accompanied by a submission and the fee set forth in 37 CFR 1.17(e). Note that the payment of the RCE filing fee may not be deferred and the request for suspension cannot substitute for the submission.\u201d The RCE was improper because no submission in reply to the outstanding Office action accompanied the RCE. Since the RCE was improper, the Office will not recognize the request for suspension. The time period set in the final rejection continues to run from the mail date of the Office action. Since the Office action did not set a period for reply, applicant has a maximum period of six months for reply. A reply was due on February 8, 2003. Since the RCE was improper and the Office did not recognize the request for suspension, the application became abandoned at Midnight of February 8, 2003. (A), (B) and (E) are not correct. As stated in MPEP \u00a7 706.07(h), under the heading \u201cSubmission Requirement,\u201d \u201cIf a reply to an Office action under 35 U.S.C. 132 is outstanding, the submission must meet the reply requirements of 37 CFR 1.111. See 37 CFR 1.114(c).\u201d An RCE that is not accompanied by a submission is an improper RCE. As stated in MPEP \u00a7 706.07(h), under the heading \u201cInitial Processing,\u201d subheading \u201cTreatment of Improper RCE,\u201d \u201cAn improper RCE will not operate to toll the running of any time period set in the previous Office action for reply to avoid abandonment of the application.\u201d The period for filing a proper reply was six months inasmuch as no shortened statutory period for reply was set. A proper reply to the final rejection was not filed. Therefore, the application went abandoned for failure to file a proper reply to the final rejection. (D) is not correct. As set forth in MPEP \u00a7 706.07(f) under the heading \u201cExaminer\u2019s Amendments,\u201d paragraph (H), \u201c[a]n examiner\u2019s amendment may not be made more than 6 months from the date of the final Office action, as the application would be abandoned at that point by operation of law.\u201d",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 5,
+    "stem": "Which of the following practices or procedures may be properly employed in accordance with the USPTO rules and the procedures set forth in the MPEP to overcome a rejection properly based on 35 USC 102(a)?",
+    "choices": {
+      "A": "Perfecting a claim to priority under 35 USC 119(a)-(d) based on a foreign application having a foreign priority filing date that antedates the reference.",
+      "B": "Filing a declaration under 37 CFR 1.131 showing that the cited prior art antedates the invention.",
+      "C": "Filing a declaration under 37 CFR 1.132 showing that the reference invention is by \u201cothers.\u201d",
+      "D": "Perfecting priority under 35 USC 119(e) or 120 by, in part, amending the declaration of the application to contain a specific reference to a prior application having a filing date prior to the reference.",
+      "E": "(A), (B) (C), and (D)."
+    },
+    "answer": "A",
+    "rationale": "ANSWER: (A) is the most correct answer. See MPEP \u00a7 706.02(b), under the heading \u201cOvercoming a 35 U.S.C. \u00a7 102 Rejection Based on a Printed Publication or Patent.\u201d (B), and (C) are incorrect because they present showings that support the rejection. See MPEP \u00a7 706.02(b), supra. (D) are not correct because to perfect priority under 35 U.S.C. \u00a7\u00a7 119(e) or 120 it is, inter alia, necessary to amend the specification of the application to contain a specific reference to a prior application having a filing date prior to the reference. See MPEP \u00a7 706.02(b), supra. Furthermore, the declaration is not to be amended. (E) is incorrect because (B), (C) and (D) are incorrect.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 6,
+    "stem": "In accordance with the USPTO rules and the procedures of the MPEP, which of the following is true?",
+    "choices": {
+      "A": "If after the filing of a reissue application no errors in the original patent are found, a reissue patent will be granted on the reissue application noting no change, and the original patent will be returned to the applicant.",
+      "B": "In order to add matter not previously found in the patent, a continuation-in-part reissue application must be filed.",
+      "C": "In a reissue application, additions and deletions to the original patent should be made by underlining and bracketing, respectively, except for changes made in prior Certificates of Correction and disclaimer(s) of claims under 37 CFR 1.321(a).",
+      "D": "A dependent claim may be broadened in a reissue application only in the first two years of the enforceable life of the patent.",
+      "E": "(A), (B), and (C)."
+    },
+    "answer": "C",
+    "rationale": "ANSWER: (C) is the most correct answer. See MPEP \u00a7 1411.01. As to (A) see MPEP \u00a7 1402. A reissue patent is not granted. As to (B), new matter may not be entered in a reissue. As to (D) see MPEP \u00a7 1412.03. Since (A), and (B) are incorrect, (E) is incorrect.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 7,
+    "stem": "In accordance with the USPTO rules and the procedures set forth in the MPEP, for a nonprovisional application to receive a filing date in the USPTO under 37 CFR 1.53(b), all of the following must be filed except:",
+    "choices": {
+      "A": "An oath or declaration under 37 CFR 1.51(b)(2).",
+      "B": "A specification as prescribed by the first paragraph of 35 USC 112.",
+      "C": "A description pursuant to 37 CFR 1.71.",
+      "D": "At least one claim pursuant to 37 CFR 1.75.",
+      "E": "Any drawing required by 37 CFR 1.81(a)."
+    },
+    "answer": "A",
+    "rationale": "ANSWER: (A) is the most correct answer. See 35 U.S.C. \u00a7 111; 37 CFR \u00a7 1.53; MPEP \u00a7 601.01. As provided in MPEP \u00a7 601.01(a), the oath or declaration for an application filed under 37 CFR \u00a7 1.53(b) can be submitted after the filing date. Answers (B), (C), (D) and (E) are incorrect. 37 CFR \u00a7 1.53(b); MPEP \u00a7 601.01. 37 CFR \u00a7 1.53(b) provides that a filing date is granted on the date on which a specification as prescribed by 35 U.S.C. \u00a7 112 containing a description pursuant to \u00a7 1.71 and at least one claim pursuant to \u00a7 1.75, and any drawing required by \u00a7 1.81(a) are filed in the Office. Thus, (B), (C), (D) and (E) are needed to obtain a filing date.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 8,
+    "stem": "A complete continuation application by the same inventors as those named in the prior application may be filed under 35 USC 111(a) using the procedures of 37 CFR 1.53(b) by providing, in accordance with the USPTO rules and the procedures set forth in the MPEP:",
+    "choices": {
+      "A": "A copy of the prior application, including a copy of the signed declaration in the prior application, as amended.",
+      "B": "A new and proper specification (including one or more claims), any necessary drawings, a copy of the signed declaration as filed in the prior application (the new specification, claim(s), and drawings do not contain any subject matter that would have been new matter in the prior application), and all required fees.",
+      "C": "A new specification and drawings and a newly executed declaration. The new specification and drawings may contain any subject matter that would have been new matter in the prior application.",
+      "D": "A new specification and drawings, and all required fees.",
+      "E": "(A), (B), (C) and (D)."
+    },
+    "answer": "B",
+    "rationale": "ANSWER: (B) is the most correct answer. See 37 CFR \u00a7\u00a7 1.51(b), 1.53(b), and 1.63(d)(1)(iv); MPEP \u00a7 201.06(c), under the heading \u201cSpecification and Drawings,\u201d and MPEP \u00a7 602.05(a). (A) is incorrect. As indicated by MPEP \u00a7 201.06(c), a continuation application may be filed under 35 U.S.C. \u00a7 111(a) by providing a copy of the prior application, including a copy of the signed declaration in the prior application, as filed. (C) is incorrect. As indicated by MPEP \u00a7 201.06(c), a continuation application may be filed under 35 U.S.C. \u00a7 111(a) by providing a new specification and drawings and a newly executed declaration provided the new specification and drawings do not contain any subject matter that would have been new matter in the prior application. (D) is incorrect. The oath or declaration is needed to name the same inventor in the continuation application. 37 CFR \u00a7 1.53(b); MPEP \u00a7 201.06(c). (E) is incorrect because (A), (C) and (D) are incorrect.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 9,
+    "stem": "Inventors B and C are employed by Corporation D, which authorized registered practitioner E to prepare and file a patent application claiming subject matter invented by B and C. Inventor B signed the oath, an assignment to Corporation D, and a power of attorney authorizing practitioner E to prosecute the application. Inventor C refused to sign the oath and any assignment documents for the application. The employment contract between inventor C and Corporation D contains no language obligating C to assign any invention to Corporation D. A patent application was properly filed in the USPTO under 37 CFR 1.47 naming B and C as inventors, but without inventor C signing the oath. C has now started his own company competing with Corporation D producing a product with the invention in the application. Inventor B is a friend of inventor C and wants C to have continued access to the application. Which of the following statements is in accordance with the USPTO rules and the procedures set forth in the MPEP?",
+    "choices": {
+      "A": "Inventor C, who has not signed the oath or declaration, may revoke the power of attorney to practitioner E and appoint practitioner F to prosecute the application.",
+      "B": "Inventor C cannot be excluded from access t the application because inventor B has not agreed to exclude inventor C. In order to exclude a co-inventor from access to an application, all the remaining inventors must agree to exclude that co- inventor.",
+      "C": "Inasmuch as one of the named joint inventors has not assigned his or her rights to Corporation D, the corporation is not an assignee of the entire right and interest, and therefore cannot exclude inventor C from access to the application.",
+      "D": "An inventor who did not sign the oath or declaration filed in an application can always be excluded from access to an application.",
+      "E": "An assignee filing an application can control access to an application and exclude inventors who have not assigned their rights and other assignees from inspecting the application."
+    },
+    "answer": "C",
+    "rationale": "ANSWER: (C) is the most correct answer. MPEP \u00a7 106 states: \u201c[t]he assignee of record of the entire interest in an application may intervene in the prosecution of the application, appointing an attorney or agent of his or her own choice. See 37 CFR \u00a7 3.71. Such intervention, however, does not exclude the applicant from access to the application to see that it is being prosecuted properly, unless the assignee makes specific request to that effect.\u201d (A), (B), (D), and (E) are incorrect. MPEP \u00a7 409.03(i) is directly contrary to answer (A), and provides that a non- signing inventor cannot revoke or give a power of attorney without agreement of all named inventors or the 37 CFR \u00a7 1.47(b) applicant. (B) is incorrect. MPEP \u00a7 106 does not empower an inventor who has assigned his or her rights to exclude a non-signing joint inventor from accessing an application in which the latter party is named as a joint inventor. (E) is incorrect. MPEP \u00a7 106. Corporation D, as an assignee of a part interest, cannot exclude the non-signing joint inventor from access to the application. See also, MPEP \u00a7 106.01, which states \u201cWhile it is only the assignee of record of the entire interest who can intervene in the prosecution of an application or interference to the exclusion of the applicant, an assignee of a part interest or a licensee of exclusive right is entitled to inspect the application.\u201d (D) is incorrect because MPEP \u00a7 409.03(i) states that a nonsigning inventor is entitled to inspect any papers in the application, and order copies at the price set forth in 37 CFR \u00a7 1.19.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 10,
+    "stem": "In accordance with the USPTO rules and the procedures set forth in the MPEP, which of the following is true?",
+    "choices": {
+      "A": "There is no practical difference between an objection and rejection of a claim.",
+      "B": "If the form of the claim (as distinguished from its substance) is improper, an objection is made.",
+      "C": "An objection, if maintained by an examiner, is subject to review by the Board of Patent Appeals and Interferences.",
+      "D": "An example of a proper objection is where the claims are refused because they fail to comply with the second paragraph of 35 USC 112.",
+      "E": "An example of a proper rejection is a rejection of a dependent claim for being dependent on a claim that has been rejected only over prior art, where the dependent claim is otherwise allowable."
+    },
+    "answer": "B",
+    "rationale": "ANSWER: (B) is the most correct answer. MPEP \u00a7 706.01. (A) and (C) are incorrect. As stated by MPEP \u00a7 706.01, \u201cThe practical difference between a rejection and an objection is that a rejection, involving the merits of the claim, is subject to review by the Board of Patent Appeals and Interferences, while an objection, if persisted, may be reviewed only by way of petition to the Commissioner.\u201d (D) is incorrect. MPEP \u00a7 706.03(d). (E) is incorrect. As stated in MPEP \u00a7 706.01, \u201cIf the form of the claim (as distinguished from its substance) is improper, an \u201cobjection\u201d is made. An example of a matter of form as to which objection is made is dependency of a claim on a rejected claim, if the dependent claim is otherwise allowable. See MPEP \u00a7 608.01(n).\u201d",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 11,
+    "stem": "A registered practitioner properly recorded an assignment document for application A identifying XYZ Company as the assignee. The document assigns to XYZ Company the \u201csubject matter claimed in Application A.\u201d A proper restriction requirement was made by a primary examiner in application A between two distinct inventions, and the practitioner elected to prosecute one of the inventions. Application A was prosecuted, and later became abandoned. Before the abandonment date of application A, the practitioner filed a complete application B as a proper divisional application of application A. Application B claimed the nonelected invention of Application A, and was published as a U.S. application publication. XYZ Company remains the assignee of application A. What must the practitioner do in accordance with the USPTO rules and the procedures set forth in the MPEP to ensure that XYZ Company is listed as the assignee on the face of any patent issuing from application B?",
+    "choices": {
+      "A": "File a proper assignment document in application B identifying XYZ Company as the assignee.",
+      "B": "File a proper assignment document in application B identifying XYZ Company as the assignee, and confirm that USPTO\u2019s bibliographic data for application B identifies XYZ Company as the assignee by checking the filing receipt for application B, the U.S. application publication of application B, or the USPTO\u2019s Patent Application Information Retrieval (PAIR) system data for application B, depending on when the practitioner filed the assignment document in application B.",
+      "C": "Confirm that XYZ Company is identified as the assignee on the U.S. application publication of application B.",
+      "D": "File a proper assignment document in application B identifying XYZ Company as the assignee, and confirm that XYZ Company is identified as the assignee on the U.S. application publication of application B.",
+      "E": "Upon allowance of application B, the practitioner must identify XYZ Company as the assignee in the appropriate space on the Issue Fee Transmittal form for specifying the assignee for application B."
+    },
+    "answer": "E",
+    "rationale": "ANSWER: (E) is the most correct answer. See MPEP \u00a7\u00a7 306 and 307. MPEP \u00a7 306 states, \u201cIn the case of a division or continuation application, a prior assignment recorded against the original application is applied to the division or continuation application because the assignment recorded against the original application gives the assignee rights to the subject matter common to both applications.\u201d MPEP \u00a7 307 states, \u201cIrrespective of whether the assignee participates in the prosecution of the application, the patent issues to the assignee if so indicated on the Issue Fee Transmittal form PTOL-85B. Unless an assignee\u2019s name and address are identified in item 3 of the Issue Fee Transmittal form PTOL-85B, the patent will issue to the applicant. Assignment data printed on the patent will be based solely on the information so supplied.\u201d A new assignment document need not be recorded for a divisional or continuation application where the assignment recorded in the parent application remains the same. Accordingly, answers (A), (B) and (D) are incorrect. In addition, (A), (B) and (D) are incorrect because unless an assignee\u2019s name and address are identified in item 3 of PTOL-85B, the patent will issued to the application and the assignee information, even if recorded, will not appear on the patent. (C) is incorrect for the same reason. (B) is also incorrect. There is no connection between the filing receipt, PAIR or the patent application publication and the recorded assignment. Assignment data is reflected on the filing receipt, PAIR, or a patent application publication when applicant includes assignment information for purposes of publication of the application on the transmittal letter. Assignment data printed on the patent will be based solely on the information supplied on the Issue Fee Transmittal Form PTOL-85B. See MPEP \u00a7\u00a7 1309 and 1481. Accordingly, answer (E) is correct and answer (C) is incorrect.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 12,
+    "stem": "In accordance with the USPTO rules and the procedures set forth in the MPEP, which of the following is true?",
+    "choices": {
+      "A": "Interferences will generally be declared even when the applications involved are owned by the same assignee since only one patent may issue for any given invention.",
+      "B": "A senior party in an interference is necessarily the party who obtains the earliest actual filing date in the USPTO.",
+      "C": "Reexamination proceedings may not be merged with reissue applications since third parties are not permitted in reissue applications.",
+      "D": "After a reexamination proceeding is terminated and the certificate has issued, any member of the public may obtain a copy of the certificate by ordering a copy of the patent.",
+      "E": "None of the above."
+    },
+    "answer": "D",
+    "rationale": "ANSWER: (D) is the most correct answer. See MPEP \u00a7 2292. As to (A) see 37 CFR \u00a7 1.602(a). As to (B) see 37 CFR \u00a7 1.601(m), which provides that the senior party has earliest effective filing date. As to (C), see MPEP \u00a7 2285 regarding merger of reissues and reexamination proceedings. As to (E), (D) is true.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 13,
+    "stem": "Prior to filing a patent application for a client, a registered practitioner determined that the client was entitled to claim small entity status under 37 CFR 1.27. The practitioner filed a patent application for the client on November 1, 2002 together with a claim for small entity status under 37 CFR 1.27. On December 2, 2002, a Notice to File Missing Parts was mailed setting a two month period for reply and requiring the basic filing fee and the surcharge under 37 CFR 1.16(e). The practitioner timely submitted the small entity fees for the basic filing fee and the surcharge as required in the Notice. Shortly thereafter, the practitioner discovered that on October 31, 2002, the day before the application was filed, the client, without advising the practitioner, had assigned all rights in the invention that is the subject of the application to an entity that would not qualify for small entity status under 37 CFR 1.27. In accordance with the USPTO rules and the procedures set forth in the MPEP, which of the following actions would be the best action for the practitioner to take?",
+    "choices": {
+      "A": "File a continuing application under 37 CFR 1.53(b) with the large entity filing fee and then file a letter of express abandonment under 37 CFR 1.138 in the original application after the continuing application has been accorded a filing date.",
+      "B": "Promptly file a notification of loss of small entity status under 37 CFR 1.27(g) and, thereafter, pay large entity fees whenever any subsequent fees are required.",
+      "C": "Wait until a Notice of Allowance is received and then timely submit the large entity issue fee along with a notification of loss of small entity status under 37 CFR 1.27(g).",
+      "D": "File a paper under 37 CFR 1.28(c) requesting that the good faith error in claiming small entity status be excused and complying with the separate submission and itemization requirements of 37 CFR 1.28(c) and including payment of the deficiency owed.",
+      "E": "Pay the difference between the large entity filing fee and small entity filing fee and the difference between the large entity surcharge and small entity surcharge within two months from the mail date of the Notice to File Missing Parts."
+    },
+    "answer": "D",
+    "rationale": "ANSWER: (D) is the most correct answer. MPEP \u00a7 509.03, under the heading \u201cCorrecting Errors In Small Entity Status,\u201d states \u201c37 CFR 1.28(c) provides that if small entity status is established in good faith and the small entity fees are paid in good faith, and it is later discovered that such status as a small entity was established in error or through error the Office was not notified of a change of status, the error will be excused upon compliance with the separate submission and itemization requirements of 37 CFR 1.28(c)(1) and (c)(2), and the deficiency payment requirement of 37 CFR 1.28(c)(2).\u201d (A), (B), (C), and (E) are not correct. Small entity status was not appropriate when the assertion of small entity status was filed with the application on November 1, 2002 and none of the actions recited in (A), (B), (C), and (E) would correct the error in claiming small entity status. The only mechanism for correcting a good faith error in claiming small entity status is by filing a request in compliance with 37 CFR \u00a7 1.28(c).",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 14,
+    "stem": "Mark Twine obtains a patent directed to a machine for manufacturing string. The patent contains a single claim (Claim 1) which recites six claim elements. The entire interest in Twine\u2019s patent is assigned to the S. Clemens String Co., and Twine is available and willing to cooperate with S. Clemens String Co. to file a reissue application. A subsequent reissue application includes Claim 2, which is similar to original Claim 1. However, one of the elements recited in Claim 2 is broader than its counterpart element in the original claim. The remaining five elements are narrower than their respective counterpart elements in the original patent claim. Which of the following scenarios accords with the USPTO rules and the procedures set forth in the MPEP?",
+    "choices": {
+      "A": "The S. Clemens String Co. files the reissue application more than 2 years after the issue date of the original patent application.",
+      "B": "The S. Clemens String Co. files the reissue application less than 2 years after the issue date of the original patent but more than 2 years after original application filing date.",
+      "C": "Mark Twine files the reissue application less than 2 years after the issue date of the original patent but more than 2 years after original application filing date.",
+      "D": "Mark Twine files the reissue application more than 2 years after the issue date of the original patent.",
+      "E": "Mark Twine and the S. Clemens String Co. jointly file the reissue application more than 2 years after the issue date of the original patent."
+    },
+    "answer": "C",
+    "rationale": "ANSWER: (C) is the most correct answer. Answers (A), (D) and (E) are incorrect because a broadening reissue application must be filed within two years of issuance of the original patent. 35 U.S.C. \u00a7 251; MPEP \u00a7 1412.03. Answer (B) is incorrect because the assignee may not file a broadening reissue application. MPEP \u00a7 706.03(x).",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 15,
+    "stem": "Able conceived the invention claimed in a patent application. In conceiving the invention, Able used and adopted ideas and materials known in the art and invented by others. Ben, Able\u2019s employee, reduced the invention to practice at Able\u2019s request and totally pursuant to Able\u2019s suggestions. Being unable to afford a patent practitioner\u2019s fees to prepare and prosecute the application, Able convinced John to pay for the practitioner\u2019s services in return for an interest in the invention. John did nothing more than provide the funds for the practitioner. Which of the following is in accordance with the USPTO rules and the procedures set forth in the MPEP?",
+    "choices": {
+      "A": "Able need not be the one to reduce the invention to practice so long as the reduction to practice occurred on his or her behalf. Able can be properly named as inventor in the application.",
+      "B": "To be named an inventor, it is not necessary for John to have contributed to the conception of the invention. Ben, not Able, can be named as inventor in the application.",
+      "C": "In conceiving the invention, Able may not consider and adopt ideas and materials derived from any sources, such as ideas of previous inventors. Able cannot be properly named as inventor in the application.",
+      "D": "John and Able may be properly named as joint inventors of the invention in the application.",
+      "E": "John, Ben, and Able may be properly named as joint inventors of the invention in the application."
+    },
+    "answer": "A",
+    "rationale": "ANSWER: (A) is the most correct answer. See MPEP \u00a7 2137.01, under the heading \u201cThe Inventor Is Not Required To Reduce The Invention To Practice,\u201d citing In re DeBaun, 214 USPQ 933, 936 (CCPA 1982). (B) is not correct. MPEP \u00a7 2137.01, under the heading \u201cAn Inventor Must Contribute To The Conception Of The Invention,\u201d citing, Fiers v. Revel, 25 USPQ2d 1601, 1604 - 05 (Fed. Cir. 1993); and In re Hardee, 223 USPQ 1122, 1123 (Dep. Asst. Comm'r Pat. 1984). (C) is not correct. MPEP \u00a7 2137.01, under the heading \u201cAs Long As The Inventor Maintains Intellectual Domination Over Making The Invention, Ideas, Suggestions, And Materials May Be Adopted From Others,\u201d citing Morse v. Porter, 155 USPQ 280, 283 (Bd. Pat. Inter. 1965); and New England Braiding Co., Inc. v. A.W. Chesterton Co., 23 USPQ2d 1622, 1626 (Fed. Cir. 1992). (D) and (E) are not correct. 35 U.S.C. \u00a7 116; MPEP \u00a7 2137.01, under the heading \u201cRequirements For Joint Inventorship.\u201d",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 16,
+    "stem": "Claim 1 of an application recites \u201c[a]n article comprising: (a) a copper substrate; and (b) a electrically insulating layer on said substrate.\u201d The specification defines the term \u201ccopper\u201d as being elemental copper or copper alloys. In accordance with USPTO rules and procedures set forth in the MPEP, for purposes of searching and examining the claim, the examiner should interpret the term \u201ccopper\u201d in the claim as reading on:",
+    "choices": {
+      "A": "Elemental copper only, based on the plain meaning of \u201ccopper.\u201d",
+      "B": "Copper alloys only, based on the special definition in the specification.",
+      "C": "Elemental copper and copper alloys, based on the special definition in the specification.",
+      "D": "Any material that contains copper, including copper compounds.",
+      "E": "None of the above."
+    },
+    "answer": "C",
+    "rationale": "ANSWER: (C) is the most correct answer. When the specification expressly provides a special definition for a term used in the claims, the term must be given that special meaning. See MPEP \u00a7 2111.01. (A) is incorrect because a term is given its plain meaning only when the specification does not provide a definition for the term. See MPEP \u00a7 2111.01 (B) is incorrect because the specification defines the term as being inclusive of elemental copper. See MPEP \u00a7 2111.01. (D) is incorrect because it does not take into account the definition of copper found in the specification. See MPEP \u00a7 2111.01.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 17,
+    "stem": "Rolland files a U.S. patent application fourteen months after he perfects an invention in Europe. In accordance with the USPTO rules and the procedures set forth in the MPEP, which of the following would establish a statutory bar against the granting of a U.S. patent to Rolland?",
+    "choices": {
+      "A": "A foreign patent issued to Rolland 11 months prior to the filing date of Rolland\u2019s U.S. patent application. The foreign patent was granted on an application that was filed 23 months prior to the effective filing date of Rolland\u2019s U.S. patent application. The foreign patent application and the U.S. patent application claim the same invention.",
+      "B": "The invention was described in a printed publication in the United States, 11 months prior to the filing date of the U.S. patent application.",
+      "C": "The invention was in public use in the United States, less than one year prior to the filing date of the U.S. patent application.",
+      "D": "The invention was on sale in a foreign (NAFTA member) country, more than one year prior to the filing date of the U.S. patent application.",
+      "E": "None of the above."
+    },
+    "answer": "A",
+    "rationale": "ANSWER: (A) is the correct answer. See 35 U.S.C. \u00a7 102 (d), and MPEP \u00a7 706.02(c). (A) is correct because the foreign patent establishes a bar under 35 U.S.C. \u00a7102(d). MPEP \u00a7 706.02(e). (B) is incorrect because the invention is not described in a printed publication more than one year prior to the date of the U.S. application. 35 U.S.C. \u00a7 102(b). (C) is incorrect because the invention is not in public use more than one year prior to the date of the U.S. application. MPEP \u00a7 2133. (D) is incorrect because the sale is not in the United States. 35 U.S.C. \u00a7 102(b); MPEP \u00a7\u00a7 706.02(c) and 2133.03(d). (E) is incorrect because (A) is correct.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 18,
+    "stem": "In accordance with the USPTO rules and the procedures set forth in the MPEP, in which of the following cases is the date of actual receipt by the USPTO not accorded as the application filing date?",
+    "choices": {
+      "A": "Provisional application filed without claims.",
+      "B": "Non-provisional application filed containing an error in inventorship.",
+      "C": "Non-provisional application filed which fails to identify the inventor(s).",
+      "D": "Non-provisional application with executed oath filed without any claim(s).",
+      "E": "Non-provisional application filed using a certificate of mailing in accordance with 37 CFR 1.8."
+    },
+    "answer": "D",
+    "rationale": "ANSWER: (D) is the most correct answer. A non-provisional application filed without at least one claim is regarded as incomplete and will not be accorded a filing date. 35 U.S.C. \u00a7 111(a); 37 CFR \u00a7 1.53(b); MPEP \u00a7 506. (A) is wrong because the component parts of a provisional application necessary to obtain a filing date do not include claims. 35 U.S.C. \u00a7 111(b); 37 CFR \u00a7 1.53(c); MPEP \u00a7 506 under heading \u201cIncomplete Provisional Applications.\u201d (B) and (C) are wrong because \u201c[a]n error in or failure to identify inventorship does not raise a filing date issue.\u201d MPEP \u00a7 506.02. (E) is wrong. Under 37 CFR \u00a7 1.8(a)(2)(i)(A) no benefit is accorded to a certificate of mailing date. The effective date is the actual date of receipt, and not the certificate of mailing date.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 19,
+    "stem": "In connection with the utility of an invention described in a patent application, which of the following conforms to the USPTO rules and the procedure set forth in the MPEP?",
+    "choices": {
+      "A": "A deficiency under 35 USC 101 also creates a deficiency under 35 USC 112, first paragraph.",
+      "B": "To overcome a rejection under 35 USC 101, it must be shown that the claimed device is capable of achieving a useful result on all occasions and under all conditions.",
+      "C": "A claimed invention is properly rejected under 35 USC 101 as lacking utility if the particular embodiment disclosed in the patent lacks perfection or performs crudely.",
+      "D": "To overcome a rejection under 35 USC 101, it is essential to show that the claimed invention accomplishes all its intended functions.",
+      "E": "A claimed invention lacks utility if it is not commercially successful."
+    },
+    "answer": "A",
+    "rationale": "ANSWER: (A) is the most correct answer. As stated in MPEP \u00a7 2107.01 under the heading \u201cIV. Relationship Between 35 U.S.C. 112, First Paragraph, And 35 U.S.C. 101,\u201d \u201cA deficiency under 35 U.S.C. \u00a7 101 also creates a deficiency under 35 U.S.C. \u00a7 112, first paragraph. See In re Brana, 51 F.3d 1560, 34 USPQ2d 1436 (Fed. Cir. 1995); In re Jolles, 628 F.2d 1322, 1326 n.10, 206 USPQ 885, 889 n.11 (CCPA 1980); In re Fouche, 439 F.2d 1237, 1243, 169 USPQ 429, 434 (CCPA 1971) (\u2018If such compositions are in fact useless, appellant\u2019s specification cannot have taught how to use them.\u2019).\u201d (B) is not correct. MPEP \u00a7 2107, under the heading \u201cII. Examination Guidelines For The Utility Requirement,\u201d and see Brooktree Corp. v. Advanced Micro Devices, Inc., 977 F.2d 1555, 1571, 24 USPQ2d 1401, 1412 (Fed. Cir. 1992); and E.I. du Pont De Nemours and Co. v. Berkley and Co., 620 F.2d 1247, 1260 n.17, 205 USPQ 1, 10 n.17 (8th Cir. 1980). (C), (D) and (E) are not correct. MPEP \u00a7 2107, under the heading \u201cII. Examination Guidelines For The Utility Requirement,\u201d and see E.I. du Pont De Nemours and Co. v. Berkley and Co., 620 F.2d 1247, 1260 n.17, 205 USPQ 1, 10 n.17 (8th Cir. 1980).",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 20,
+    "stem": "Inventor Joe is anxious to get a patent with the broadest claim coverage possible for the invention. Joe retained a registered practitioner, Jane, to obtain the advantage of legal counsel in obtaining broad protection. Jane filed a patent application for the invention. The inventor heard that, although patent prosecution is conducted in writing, it is possible to get interviews with examiners. Joe believes an interview might hasten the grant of a patent by providing the examiner a better understanding of the true novelty of the invention. Which of the following are consistent with the USPTO rules and the procedures set forth in the MPEP regarding usage of interviews?",
+    "choices": {
+      "A": "Prior to the first Office action being mailed the inventor calls the examiner to whom the application is docketed to offer help in understanding the specification.",
+      "B": "After receiving the first Office action Jane calls the examiner for an interview for the purpose of clarifying the structure and operation of the invention as claimed and disclosed, because the examiner\u2019s analysis regarding patentability in the rejection is novel and suggests that the examiner is interpreting the claimed invention in a manner very different from the inventor\u2019s intent.",
+      "C": "Jane has Larry, a registered practitioner in the Washington D.C. area, who is more familiar with interview practice to call the examiner. Jane gives Larry a copy of the first Office action, which suggests that the primary examiner\u2019s analysis is incorrect, and offers to explain why. Jane instructs Larry that because Larry is unfamiliar with the inventor, Larry should not agree to possible ways in which the claims could be modified, or at least indicate to the examiner that Jane would have to approve of any such agreement.",
+      "D": "Jane calls the primary examiner after receiving the final rejection, demanding that the examiner withdraw the finality of the final action. When the examiner states that the final rejection is proper, Jane demands an interview as a matter of right to explain the arguments.",
+      "E": "(B) and (D)."
+    },
+    "answer": "B",
+    "rationale": "ANSWER: (B) is the most correct answer. See MPEP \u00a7 713.01. An interview should be had only when the nature of the case is such that the interview could serve to develop and clarify specific issues and lead to a mutual understanding between the examiner and the applicant, and thereby advance the prosecution of the application. (A) is incorrect. 37 CFR \u00a7 1.133(a)(2); MPEP \u00a7 713.02. Section 713.02 states that although \u201c[a] request for an interview prior to the first Office action is ordinarily granted in continuing or substitute applications[,] [a] request for an interview in all other applications before the first action is untimely and will not be acknowledged if written, or granted if oral. 37 CFR 1.133(a).\u201d (C) is incorrect. MPEP \u00a7 713.03. Larry is only sounding out the examiner and has no authority to commit Joe to any agreement reached with the examiner. (D) is incorrect. MPEP \u00a7 713.09. Jane has no right to an interview following the final rejection. Although such an interview may be granted if the examiner is convinced that disposal or clarification for appeal may be accomplished with only nominal further consideration, interviews merely to restate arguments of record or to discuss new limitations which would require more than nominal reconsideration or new search should be denied. (E) is incorrect because D is incorrect.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 21,
+    "stem": "In accordance with the USPTO rules and the procedures set forth in the MPEP, a petition to make a patent application special may be filed without fee in which of the following cases?",
+    "choices": {
+      "A": "The petition is supported by applicant\u2019s birth certificate showing applicant\u2019s age is 62.",
+      "B": "The petition is supported by applicant\u2019s unverified statement that applicant\u2019s age is 65.",
+      "C": "The petition is supported by applicant\u2019s statement that there is an infringing device actually on the market, that a rigid comparison of the alleged infringing device with the claims of the application has been made, and that applicant has made a careful and thorough search of the prior art.",
+      "D": "The petition is accompanied by a statement under 37 CFR 1.102 by applicant explaining the relationship of the invention to safety of research in the field of recombinant DNA research.",
+      "E": "The petition is accompanied by applicant\u2019s statement explaining how the invention contributes to the diagnosis, treatment or prevention of HIV/AIDS or cancer."
+    },
+    "answer": "B",
+    "rationale": "ANSWER: (B) is the most correct answer. See MPEP \u00a7 708.02, under the heading \u201cIV. Applicant\u2019s Age.\u201d (A) is wrong because MPEP \u00a7 708.02, under the heading \u201cIV. Applicant\u2019s Age, states, \u201c[a]n application may be made special upon filing a petition including any evidence showing that the applicant is 65 years of age, or more, such as a birth certificate or applicant\u2019s statement. No fee is required with such a petition.\u201d (C), (D), and (E) are wrong because a fee is required with respect to each petition. MPEP \u00a7 708.02, under the headings \u201cII. Infringement,\u201d \u201cVII, Inventions Relating To Recombinant DNA,\u201d and \u201cX. Inventions Relating To HIV/AIDS and Cancer,\u201d respectively.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 22,
+    "stem": "The Potter patent application was filed on June 6, 2002, claiming subject matter invented by Potter. The Potter application properly claims priority to a German application filed on June 6, 2001. In a first Office action all the claims of the Potter application are rejected under 35 USC 102(e) based on a U.S. patent application publication to Smith et al (\u201cSmith\u201d). A registered practitioner prosecuting the Potter application ascertains that the relevant subject matter in Smith\u2019s published application and Potter\u2019s claimed invention were, at the time Potter\u2019s invention was made, owned by ABC Company or subject to an obligation of assignment to ABC Company. The practitioner ascertains that the Smith application was filed on April 10, 2001 and that the Smith application was published on December 5, 2002. Smith and Potter do not claim the same patentable invention. To overcome the rejection without amending the claims which of the following replies would not comply with the USPTO rules and the procedures set forth in the MPEP to be an effective reply for overcoming the rejection?",
+    "choices": {
+      "A": "A reply that only contains arguments that Smith fails to teach all the elements in the only independent claim, and which specifically points out the claimed element that Smith lacks.",
+      "B": "A reply that consists of an affidavit or declaration under 37 CFR 1.131 properly proving invention of the claimed subject matter of the Potter application prior to April 10, 2001.",
+      "C": "A reply that consists of an affidavit or declaration under 37 CFR 1.132 properly showing that Smith\u2019s invention is not by \u201canother.\u201d",
+      "D": "A reply that properly states that the invention of the Potter application and the Smith application were commonly owned by ABC Company at the time of the invention of the Potter application.",
+      "E": "All of the above."
+    },
+    "answer": "D",
+    "rationale": "ANSWER: (D) is the most correct answer. See 35 USC \u00a7\u00a7 102(e) and 103(c); MPEP \u00a7 706.02(l)(1). The prior art exception in 35 U.S.C. \u00a7 103(c) only applies to references that are only prior art under 35 U.S.C. \u00a7 102(e), (f), or (g), and that are applied in a rejection under 35 U.S.C. \u00a7 103(a). In this situation, the Smith reference was applied in a rejection under 35 U.S.C. \u00a7 102(e) and not under 35 U.S.C. \u00a7 103(a). See MPEP \u00a7 706.02(l)(1). Therefore, the reply in answer (D) would not overcome the rejection. Answer (A) is a proper reply in that it addresses the examiner\u2019s rejection by specifically pointing out why the examiner failed to make a prima facie showing. See MPEP \u00a7 706.02(b). (B) is incorrect inasmuch as it is a proper reply. See MPEP \u00a7 706.02(b). Answer (C) is incorrect inasmuch as it is a proper reply. See MPEP 706.02(b). Answer (E) is not a correct answer because answers (A), (B) and (C) all are replies that are in accordance with the USPTO rules and procedures set forth in the MPEP.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 23,
+    "stem": "The claims in a patent application having been twice or finally rejected, the applicant files a timely Notice of Appeal on January 2, 2003. In accordance with USPTO rules and procedures set forth in the MPEP, which of the following situations should the USPTO not notify the applicant that the Appeal Brief is defective and allow him an opportunity to correct the deficiency?",
+    "choices": {
+      "A": "The Appeal Brief is filed on July 10, 2003, without a request for extension of time under 37 CFR 1.136.",
+      "B": "The Appeal Brief is submitted unsigned.",
+      "C": "The Appeal Brief states that the claims do not stand or fall together, and presents argument as to why the claims are separately patentable, but the primary examiner does not agree with the applicant\u2019s argument.",
+      "D": "The Appeal Brief does not state whether the claims stand or fall together, but presents arguments why the claims subject to the same rejection are separately patentable.",
+      "E": "The Appeal Brief does not address one of the grounds of rejection stated by the primary examiner."
+    },
+    "answer": "C",
+    "rationale": "ANSWER: (C) is the most correct answer. See MPEP \u00a7 1206, specifically the Examiner Note for Form Paragraph 12.69.01 (\u201cThis form paragraph should be used only when no supporting reasons are presented in the brief.\u201d). If the examiner disagrees with the reasons given, the reason for disagreement should be addressed in the Examiner\u2019s Answer. As discussed at MPEP \u00a7 1208, in the Examiner Note 2 for Form Paragraph 12.55.01 \u201cIf the brief includes a statement that a grouping of claims does not stand or fall together but does not provide reasons, as set forth in 37 CFR 1.192(c)(7), [the examiner is to] notify appellant of the non-compliance using form paragraphs 12.69, 12.69.01 and 12.78.\u201d As discussed at MPEP \u00a7 1208, in the Examiner Note for Form Paragraph 12.55.02, if the examiner disagrees with appellant\u2019s statement in the brief that certain claims do not stand or fall together, the examiner explains in the examiner\u2019s answer why the claim grouping listed in the brief is not agreed with and why, if appropriate, e.g., the claims as listed by the appellant are not separately patentable. Answer (A) is incorrect. See MPEP \u00a7 1206, Form paragraph 12.17. The Appeal Brief was filed less than seven months after the Notice of Appeal was filed. The applicant should be notified of the deficiency and provided an opportunity to request a five-month extension of time. Answer (B) is incorrect. See MPEP \u00a7 1206, Form paragraph 12.12. Answer (D) is incorrect. Where the applicant omits the statement required by 37 CFR \u00a7 1.192(c)(7) yet presents arguments in the argument section of the brief, the applicant should be notified of the noncompliance and given time to correct the deficiency. See 37 CFR \u00a7 1.192(c)(7); and MPEP \u00a7 1206, under the heading \u201cAppeal Brief Content,\u201d subheading \u201c7. Grouping of Claims,\u201d wherein it states, \u201cWhere, however, the appellant (A) omits the statement required by 37 CFR 1.192(c)(7) yet presents arguments in the argument section of the brief\u2026the appellant should be notified of the noncompliance as per 37 CFR 1.192(d). Ex parte Schier, 21 USPQ2d 1016 (Bd. Pat. App. & Int. 1991); Ex parte Ohsumi, 21 USPQ2d 1020 (Bd. Pat. App. & Int. 1991).\u201d See also MPEP \u00a7 1206, under the heading \u201cReview of Brief By Examiner,\u201d wherein it states that \u201cif a brief is filed which does not comply with all the requirements of [37 CFR \u00a7 1.192](c), the appellant will be notified of the reasons for noncompliance. Appellant will be given the longest of any of the following time periods to correct the defect(s): (A) 1 month or 30 days from the mailing of the notification of non-compliance, whichever is longer; (B) within the time period for reply to the action from which appeal has been taken; or (C) within 2 months from the date of the notice of appeal under 37 CFR 1.191.\u201d Answer (E) is incorrect. MPEP \u00a7 1206, under the heading \u201cAppeal Brief Content,\u201d states \u201cWhere an appeal brief fails to address any ground of rejection, appellant shall be notified by the examiner that he or she must correct the defect by filing a brief (in triplicate) in compliance with 37 CFR 1.192(c).\u201d",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 24,
+    "stem": "Registered practitioner Joe duly files a non-provisional utility patent application on May 6, 1999. The USPTO sends Joe a notice of allowance dated November 13, 2000. On November 23, 2000, Joe learns about a publication (\u201cSmith reference\u201d) which he knows to be material to patentability of the claims presented in the application, but which was not considered by the examiner during prosecution of the application. Joe prepares an information disclosure statement that complies with the provisions of 37 CFR 1.98, listing the Smith reference. In accordance with USPTO rules and procedure which of the following actions, if taken by Joe, will result in the examiner considering the Smith reference during prosecution of the application?",
+    "choices": {
+      "A": "Prior to Wednesday, February 14, 2001, filing a request for continued examination of the application, the information disclosure statement, and the fee for a request for continued examination, but not paying the issue fee.",
+      "B": "Timely paying the issue fee, and thereafter filing a request for continued examination of the application together with the information disclosure statement, and the fee for a request for continued examination, but not submitting a petition under 37 CFR 1.313.",
+      "C": "After Tuesday, February 13, 2001, filing a request for continued examination of the application together with the information disclosure statement, and the fee for a request for continued examination, but not paying the issue fee.",
+      "D": "Timely paying the issue fee, and after the patent issues filing a request for continued examination of the application, the information disclosure statement, the fee for a request for continued examination, and a petition under 37 CFR 1.313.",
+      "E": "None of the above."
+    },
+    "answer": "A",
+    "rationale": "ANSWER: (A) is the most correct answer. 37 CFR 1.114, MPEP \u00a7 609, paragraph III. B(1)(b), under the heading \u201cRCE and CPA,\u201d and MPEP 706.07(h), under the heading \u201cII. Submission Requirement.\u201d In (A), the information disclosure statement, is a submission under 37 CFR \u00a7 1.114(c), and the RCE was filed before the payment of the issue fee. 37 CFR \u00a7 1.114(a)(1). (B) is incorrect because the request for continued examination was filed after payment of the issue fee, and is filed without a petition under 37 CFR \u00a7 1.313 being granted. Therefore (B) does not satisfy the provision of 37 CFR \u00a7 1.114(a)(1). (C) is incorrect because the application becomes abandoned on February 14, 2001 for failure to pay the issue fee. Therefore the request for continued examination does not satisfy the provision of 37 CFR \u00a7 1.114(a)(2). (D) is incorrect because a petition under 37 CFR \u00a7 1.313 will not be effective to withdraw the application from issue unless it is actually received and granted by the appropriate officials before the date of issue. 37 CFR \u00a7 1.313(d). Thus, the request for continued examination in (D) does not satisfy the provision of 37 CFR \u00a7 1.114(a)(1). (E) is incorrect because (A) is correct.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 25,
+    "stem": "The specification in a patent application has been objected to for lack of enablement. To overcome this objection in accordance with the USPTO rules and the procedures set forth in the MPEP, a registered practitioner may do any of the following except:",
+    "choices": {
+      "A": "traverse the objection and specifically argue how the specification is enabling.",
+      "B": "traverse the objection and submit an additional drawing to make the specification enabling.",
+      "C": "file a continuation-in-part application that has an enabling specification.",
+      "D": "traverse the objection and file an amendment without adding new matter in an attempt to show enablement.",
+      "E": "traverse the objection and refer to prior art cited in the specification that would demonstrate that the specification is enabling to one of ordinary skill."
+    },
+    "answer": "B",
+    "rationale": "ANSWER: (B) is the most correct answer. 35 U.S.C. \u00a7 113 reads \u201cDrawings submitted after the filing date of the application may not be used (i) to overcome any insufficiency of the specification due to lack of an enabling disclosure.\u201d Since choice (A) may be done, 37 CFR \u00a7 1.111, it is an incorrect answer to the above question. Since choice (C) may be done, 35 U.S.C. \u00a7 120, it is an incorrect answer to the above question. Since choice (D) may be done, 37 CFR \u00a7 1.121, it is an incorrect answer to the above question. Since choice (E) may be done, 37 CFR \u00a7 1.111, it also is an incorrect answer to the above question.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 26,
+    "stem": "Co-inventors Smith and Jones filed an application for a patent on a cell phone, on May 15, 2002. They received a first Office action from a primary examiner rejecting the claims under 35 USC 102(a) over a publication by Bell and Watson, published on April 5, 2002, describing a cell phone having all the same features as is claimed in the patent application. In reply, the co-inventors each submitted a declaration under 37 CFR 1.131 stating that they had actually reduced the invention to practice no later than March 13, 2002. However, the declarations failed to include two claimed features. Neither the particular antenna needed to enable the cell phone could receive transmissions from the local cellular transmitting tower, nor a detachable carrying strap was included in the declarations. As evidence of their prior reduction to practice, Smith and Jones submitted their co-authored journal article. The journal article contained a figure of the cell phone as described in the declarations. That is, the cell phone shown in the figure of the article lacked an antenna and a detachable strap. The article was received by the journal on March 13, 2002, and was published on April 30, 2002. The cell phones shown in the figure in the Bell and Watson publication, and in the Smith and Jones patent application have the particular antenna and a detachable strap. Which of the following actions, if taken by the examiner, would be the most proper in accordance with USPTO rules and the procedures set forth in the MPEP?",
+    "choices": {
+      "A": "The examiner should maintain the rejection of the claims under 35 USC 102(a) and make the rejection final.",
+      "B": "The examiner should withdraw the rejection and look for references which have a publication date prior to May 15, 2001.",
+      "C": "The examiner should withdraw the rejection and notify Smith and Jones that their application is in condition for allowance.",
+      "D": "The examiner should maintain the rejection, but indicate that the claims would be allowable if Smith and Jones provided an original copy of the figure published in their journal article as factual support for their declarations.",
+      "E": "The examiner should maintain the rejection and inform Smith and Jones that the declarations are insufficient because they cannot \u201cswear behind\u201d a reference which is a statutory bar."
+    },
+    "answer": "A",
+    "rationale": "ANSWER: (A) is the most correct answer. MPEP \u00a7 715.07, under the heading \u201cFacts and Documentary Evidence\u201d states that \u201cThe essential thing to be shown under 37 CFR 1.131 is priority of invention and this may be done by any satisfactory evidence of the fact. FACTS, not conclusions, must be alleged. Evidence in the form of exhibits may accompany the affidavit or declaration. ... The affidavit or declaration must state FACTS and produce such documentary evidence and exhibits in support thereof as are available to show conception and completion of invention in this country or in a NAFTA or WTO member country (MPEP \u00a7 715.07(c)) at least the conception being at a date prior to the effective date of the reference. ... In general, proof of actual reduction to practice requires a showing that the apparatus actually existed and worked for its intended purpose.\u201d Here, the co-inventors admit, and the documentary exhibits relied upon demonstrate that they failed to reduce the claimed invention to practice prior to the publication date of the Bell and Watson reference. It is also apparent that due to the lack of an antenna in the cell phone described in Smith\u2019s and Jones\u2019s declarations and journal article, that the cell phone which was reduced to practice prior to the publication date of the Bell and Watson article would not have worked for its intended purpose. Accordingly, the examiner should maintain the rejection and make it final. (B) and (C) are incorrect choices since the evidence of record shows that Smith and Jones are unable to overcome the prior art. (D) is wrong because an original copy of the published figure which shows that Smith and Jones were not in possession of the claimed invention prior to Bell and Watson publication cannot help their case. (E) is incorrect because prior art under 102(a) is not a statutory bar.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 27,
+    "stem": "On January 2, 2001, a registered practitioner filed a patent application with the USPTO for inventor Bock. The application includes a specification and a single claim to the invention, which reads as follows: 1. A new string consisting only of material Z that has the ability to stretch to beyond its initial unstretched length. On June 2, 2001, the practitioner received an Office action from the primary examiner rejecting the claim. The claim is solely rejected under 35 USC 102 in view of Patent A, which discloses a string consisting only of material Z. The Office action states, \u201cPatent A discloses a string consisting only of material Z. Patent A does not expressly teach the stretchability property of the string. Nevertheless, the recited stretchability is inherent in the string of patent A. Accordingly, patent A anticipates the claimed string.\u201d Mr. Bock believes he is entitled to a patent to his new string and authorizes the practitioner to reply to the Office action by arguing that his string stretches to ten times its initial unstretched length, something that patent A does not teach. Since this is not expressly taught in Patent A, the practitioner argues, Patent A cannot anticipate the claimed string. In accordance with USPTO rules and procedures set forth in the MPEP, is the practitioner\u2019s reply persuasive as to error in the rejection?",
+    "choices": {
+      "A": "Yes.",
+      "B": "Yes, but the claim should now be rejected again, this time under 35 USC 103 as obvious over Patent A.",
+      "C": "Yes, because the stretchability property is expressly taught by Patent A.",
+      "D": "Yes, examiner nowhere addresses the claimed limitation of stretching the string beyond its initial unstretched length.",
+      "E": "No."
+    },
+    "answer": "E",
+    "rationale": "ANSWER: (E) is the most correct answer. MPEP \u00a7 2112, under the heading \u201cSomething Which Is Old Does Not Become Patentable Upon The Discovery Of A New Property,\u201d states that \u201cclaiming of a new use, new function or unknown property which is inherently present in the prior art does not necessarily make the claim patentable. In re Best, 562 F.2d 1252, 1254, 195 USPQ 430, 433 (CCPA 1977).\u201d The issue is whether the argument has persuasively rebutted the examiner\u2019s prima facie case of anticipation. The argument does not rebut the prima facie case. The claim is directed to a string consisting only of material Z. Patent A teaches each every element of that string; i.e., the string shape, material Z, and the string only consists of material Z. There is nothing different between the string of the claim and that of patent A. Under those circumstances, examiner correctly stipulated that the stretchability of the claimed string; i.e., the ability to stretch the string beyond its initial unstretched length, would be an inherent property of the disclosed string. Whether or not patent A teaches the stretchability of its string is not defeating. Even if Mr. Bock had discovered a new property for the string, it would still not render the claim patentable. In re Best, supra . Here all the product elements are the same and examiner made out a proper prima facie case of anticipation. The burden now shifts to the practitioner to show that the patent string is not the same. The reply, which seeks to establish a difference in properties without showing a concomitant difference in product material and shape is not persuasive as to error in the rejection. All the other answers are wrong. (A) is not the most correct answer. See MPEP \u00a7 2112. (B) is not the most correct answer. The anticipation rejection was correctly established and was not rebutted by the argument. (C) is not the most correct answer. See MPEP \u00a7 2112, discussing when a reference can anticipate based on an inherent, as opposed to an expressly or implicit, disclosure. (D) is not the most correct answer. In discussing the stretchability property, the recited ability to stretch the string beyond its initial unstretched length was equally addressed.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 28,
+    "stem": "Ben hires a registered practitioner to prosecute his patent application. The practitioner drafted an application having fifteen claims. Claim 1 is independent, and each of claims 2-15 are singularly dependent upon claim 1. A proper non-final Office action is mailed to the practitioner. Following consultation with Ben, the practitioner timely prepared, signed, and filed a reply to the Office action containing an amendment that does not add new matter, but does add claims 16-27. Each of claims 16-27 is directed to the same invention sought to be patented through claims 1-15. The dependency of each of claims 16-27 reads \u201cany of claims 5-15.\u201d For purposes of fee calculation in accordance with the USPTO rules and the procedures set forth in the MPEP, how many total claims are contained in the application after the amendment is entered?",
+    "choices": {
+      "A": "One hundred thirty-six.",
+      "B": "One hundred thirty-five.",
+      "C": "Twenty-seven.",
+      "D": "One hundred forty-seven.",
+      "E": "Fifteen."
+    },
+    "answer": "D",
+    "rationale": "ANSWER: (D) is the most correct answer. 37 CFR \u00a7 1.75; MPEP \u00a7 608.01(n). As explained in MPEP \u00a7 608.01(n), under the heading \u201cMultiple Dependent Claims,\u201d subheading \u201cAcceptable Multiple Dependent Claim Wording\u201d the multiple dependent claim wording of new claims 16-27 is proper. See, for example, \u201cany one of the preceding claims,\u201d and \u201cin any of claims 1-3 or 7-9.\u201d 37 CFR \u00a7 1.75(c) states \u201cFor fee calculation purposes under \u00a7 1.16, a multiple dependent claim will be considered to be that number of claims to which direct reference is made therein.\u201d Therefore, claims 16-27 would each have a claim value of eleven and the total number of claims for fee calculation is one hundred forty-seven (12 x 11 = 132 + 15 = 147). Answers (A) and (B) are incorrect because they are not the correct total. Answer (C) is incorrect because the multiple dependent claims have not been calculated in accordance with 37 CFR \u00a7 1.75. Answer (E) is incorrect because the question asks for the total after the amendment adding claims 16-27 has been entered.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 29,
+    "stem": "In accordance with USPTO rules and procedures set forth in the MPEP, which of the following statements regarding operability or enablement of a prior art reference is the most correct?",
+    "choices": {
+      "A": "The level of disclosure required for a reference to be enabling prior art is no less if the reference is a United States patent than if it is a foreign patent.",
+      "B": "A reference is not presumed to be operable merely because it expressly anticipates or makes obvious all limitations of an applicant\u2019s claimed apparatus.",
+      "C": "A non-enabling reference may not qualify as prior art for the purpose of determining anticipation or obviousness of the claimed invention.",
+      "D": "A reference does not provide an enabling disclosure merely by showing that the public was in possession of the claimed invention before the date of the applicant\u2019s invention.",
+      "E": "All of the above are correct."
+    },
+    "answer": "A",
+    "rationale": "ANSWER: (A) is the most correct answer. MPEP \u00a7 2121, under the heading \u201cWhat Constitutes An \u2018Enabling Disclosure\u2019 Does Not Depend On The Type Of Prior Art The Disclosure Is Contained In,\u201d states, in reliance upon In re Moreton, 288 F.2d 708, 711, 129 USPQ 227, 230 (CCPA 1961): \u201cThe level of disclosure required within a reference to make it an \u2018enabling disclosure\u2019 is the same no matter what type of prior art is at issue\u2026. There is no basis in the statute (35 U.S.C. 102 or 103) for discriminating either in favor of or against prior art references on the basis of nationality.\u201d Answer (B) is incorrect. MPEP \u00a7 2121, under the heading \u201cPrior Art Is Presumed To Be Operable/Enabling,\u201d states that \u201c[w]hen the reference relied on expressly anticipates or makes obvious all of the elements of the claimed invention, the reference is presumed to be operable.\u201d Answer (C) is incorrect. MPEP \u00a7 2121.01, under the heading \u201c35 U.S.C. 103 Rejections And Use Of Inoperative Prior Art,\u201d quotes Symbol Technologies Inc. v. Opticon Inc., 935 F.2d 1569, 1578, 19 USPQ2d 1241, 1247 (Fed. Cir. 1991) as stating that \u201ca non-enabling reference may qualify as prior art for the purpose of determining obviousness under 35 U.S.C. 103.\u201d Answer (D) is incorrect. MPEP \u00a7 2121.01 states that \u201c[a] reference contains an \u2018enabling disclosure\u2019 if the public was in possession of the claimed invention before the date of invention.\u201d Answer (E) is incorrect because answers (B), (C) and (D) are incorrect.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 30,
+    "stem": "Joan goes to a registered practitioner wanting to know the status of the applications of her competitor Pete. During Joan\u2019s previous relationship with Pete she believes she may have been a coinventor on one of the applications filed by Pete. Pete owns Applications A, B, C and D. Application B is a continuation of Application A and a redacted copy of Application A has been published under 35 USC 122(b). Joan is listed as a coinventor on Application C. Pete has an issued patent that claims priority to Application D. Assume only the last six digits of the numerical identifier are available for Application D and Application D is abandoned. Which of the following, in accordance with the USPTO rules and the procedures set forth in the MPEP, is not true?",
+    "choices": {
+      "A": "Joan may obtain status information for Application B that is a continuation of an Application A since Application A has been published under 35 USC 122(b).",
+      "B": "Joan may be provided status information for Application D that includes the filing date if the eight-digit numerical identifier is not available and the last six digits of the numerical identifier are available.",
+      "C": "Joan may obtain status information for Application D since a U.S. patent includes a specific reference under 35 USC 120 to Application D, an abandoned application. Joan may obtain a copy of that application-as-filed by submitting a written request including the fee set forth in 37 CFR 1.19(b)(1).",
+      "D": "Joan may obtain status information as to Application C since a coinventor in a pending application may gain access to the application if his or her name appears as an inventor in the application, even if she did not sign the \u00a7 1.63 oath or declaration.",
+      "E": "Joan may obtain access to the entire Application A by submitting a written request, since, notwithstanding the fact that only a redacted copy of Application A has been published, a member of the public is entitled to see the entire application upon written request."
+    },
+    "answer": "E",
+    "rationale": "ANSWER: Statement (E) is false, and is thus the most correct answer. Since a redacted copy of the application was used for publication purposes, 37 CFR \u00a7 1.14 (c)(2) provides that \u201c(2) If a redacted copy of the application was used for the patent application publication, the copy of the specification, drawings, and papers may be limited to a redacted copy.\u201d For (A) and (B), see 37 CFR \u00a7 1.14(b)(2). For (C) see 37 CFR \u00a7\u00a7 1.14(b)(2) and (c)(1)(i). As to (D), a coinventor is entitled to access to the application independent of whether or not he or she signed the declaration. Note that as stated in 37 CFR \u00a7 1.41(a)(2), if a declaration or oath is not filed, the inventorship is that inventorship set forth in the application papers.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 31,
+    "stem": "In accordance with the USPTO rules and the procedures set forth in the MPEP, which of the following is true?",
+    "choices": {
+      "A": "When the subject matter of an appeal is particularly difficult to understand, a patentability report is prepared by an examiner in order to present the technical background of the case to the Board of Patent Appeals and Interferences.",
+      "B": "In those appeals in which an oral hearing has been confirmed and either the Board of Patent Appeals and Interferences or the primary examiner has indicated a desire for the examiner to participate in the oral argument, oral argument may be presented by the examiner whether or not the appellant appears.",
+      "C": "If a patent applicant files a notice of appeal which is unsigned, it will be returned for signature, but the applicant will still receive the filing date of the unsigned notice of appeal.",
+      "D": "Statements made in information disclosure statements are not binding on an applicant once the patent has issued since the sole purpose of the statement is to satisfy the duty of disclosure before the Office.",
+      "E": "None of the above."
+    },
+    "answer": "B",
+    "rationale": "ANSWER: (B) is the most correct answer. See MPEP \u00a7 1209, under the heading \u201cParticipation by Examiner.\u201d As to (A), see MPEP \u00a7 705. As to (C) signature requirement does not apply. 37 C.F.R. \u00a7 1.196(b); MPEP \u00a7 1205. The notice will not be returned. As to (D), see Gentry Gallery v. Berkline Corp., 134 F.3d 1473, 45 U.S.P.Q.2d 1498 (Fed. Cir. 1998).",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 32,
+    "stem": "On January 2, 2001, a registered practitioner filed a patent application with the USPTO for inventor Bloc. The application includes a specification and a single claim to the invention which reads as follows: 1. Compound Y. In the specification, Bloc explains that compound Y is an intermediate in the chemical manufacture of synthetic Z. With respect to synthetic Z, the specification discloses its structural formula and further states that synthetic Z is modeled on the natural form of Z to give it the same therapeutic ability to alleviate pain. The specification goes on to state that synthetic Z is also a cure for cancer. On June 2, 2001, the practitioner received an Office action from the primary examiner rejecting the claim. The claim is rejected under 35 USC 101 as being inoperative; that is, the synthetic Z does not operate to produce a cure for cancer (i.e., incredible utility). Bloc believes he is entitled to a patent to his compound Y. In accordance with USPTO rules and procedures set forth in the MPEP, how best should the practitioner reply to the rejection of the claim?",
+    "choices": {
+      "A": "Advise Bloc that he should give up because a cure for cancer is indeed incredible and is unproven.",
+      "B": "File a reply arguing that a cure for cancer is not incredible and he can prove it if given the chance.",
+      "C": "File a reply arguing that whether or not a cure for cancer is incredible is superfluous since Bloc has disclosed another utility \u2013 alleviating pain, which is not incredible.",
+      "D": "File a reply arguing that the claim is directed to compound Y, not synthetic Z.",
+      "E": "File a reply arguing that synthetic Z is modeled on the natural form of Z."
+    },
+    "answer": "C",
+    "rationale": "ANSWER: (C) is the best answer. MPEP \u00a7\u00a7 2107.01 and 2107.02. MPEP \u00a7 2107.01, under the heading \u201cTherapeutic or Pharmacological Utility,\u201d cites In re Chilowsky, 229 F.2d 457, 461- 2, 108 USPQ 321, 325 (CCPA 1956); In re Gazave, 379 F.2d 973, 978, 154 USPQ 92, 96 (CCPA 1967); and Nelson v. Bowler, 626 F.2d 853, 856, 206 USPQ 881, 883 (CCPA 1980) as taking the position that \u201c[i]nventions asserted to have utility in the treatment of human or animal disorders are subject to the same legal requirements for utility as inventions in any other field of technology.\u201d MPEP \u00a7 2107.02, under the heading \u201cThe Claimed Invention Is The Focus Of The Utility Requirement,\u201d states \u201c\u2026regardless of the category of invention that is claimed (e.g., product or process), an applicant need only make one credible assertion of specific utility for the claimed invention to satisfy 35 U.S.C. 101 and 35 U.S.C. 112; additional statements of utility, even if not \u201ccredible,\u201d do not render the claimed invention lacking in utility. See, e.g.,\u2026In re Gottlieb, 328 F.2d 1016, 1019, 140 USPQ 665, 668 (CCPA 1964) (\u2018Having found that the antibiotic is useful for some purpose, it becomes unnecessary to decide whether it is in fact useful for the other purposes \u2018indicated\u2019 in the specification as possibly useful.\u2019).\u201d The issue is whether Mr. Bloc has disclosed a specific utility for the claimed compound Y sufficient to satisfy the practical utility requirement of 35 U.S.C \u00a7 101. According to the set of facts, we know that compound Y is an intermediate in the chemical manufacture of synthetic Z. We are given two utilities for synthetic Z: 1) alleviating pain, a utility it shares with the natural form of Z; and, 2) curing cancer. The examiner focuses on the disclosure that synthetic Z is a cure for cancer. Even if one were to agree that synthetic Z\u2019s ability to cure cancer amounts to an incredible utility, a claim to the intermediate compound Y would not run afoul of the utility requirement of 35 U.S.C. \u00a7 101 where another substantial, credible and specific utility is alternatively demonstrated. Here, the specification discloses that synthetic Z, like the natural form of Z, alleviates pain. The alleviation of pain is another substantial, credible and specific utility and serves to give compound Y an alternative utility to that of being used to make a cancer-curing substance. An applicant need not show that all disclosed utilities are credible. An applicant need only show that one of the disclosed utilities is in fact credible. In re Gottlieb, supra. The establishment of a credible, substantial and specific utility renders the disclosure of an additional incredible utility superfluous, and therefore ultimately irrelevant. Accordingly, Mr. Bloc\u2019s best course of action is to make the argument that he has disclosed another substantial, credible, and specific utility, notwithstanding the disclosure of curing cancer. (A) is not the most correct answer. The advice could prevent him from getting a patent to which he may be entitled. (B) is not the most correct answer. A cure for cancer is ostensibly incredible. It is hardly a response to the examiner\u2019s rejection to ask for the chance to prove one can cure cancer. (D) is not the most correct answer. While it is true that the utility requirement is addressed to the claimed invention, which here is compound Y not synthetic Z, it is not enough to respond by repeating what the invention is but, rather, to show that the invention has indeed a substantial, credible, and specific utility. Whatever is claimed as the invention, it must comply with the utility requirement of 35 U.S.C. \u00a7 101. Here the examiner states that the claim does not comply, as evidenced by the incredible utility of the final product. It is Mr. Bloc\u2019s responsibility to then show that compound Y does comply with 35 U.S.C. \u00a7 101. (E) is not the most correct answer. Noting that synthetic Z is modeled on natural Z does not go far enough in establishing a substantial, credible and specific utility for compound Y. It is synthetic Z\u2019s therapeutic ability to alleviate pain which establishes the necessary alternative utility.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 33,
+    "stem": "Application No. A was published as U.S. Patent Application Publication No. B. A member of the public reviewed the listing of the file contents of the application on the Patent Application Information Retrieval system and determined that the application was still pending, that a final Office action was mailed, and that the application file is in the Technology Center where it is being examined. The member of the public does not have a power to inspect, but would like a copy of the final Office action as well as the other papers in the patent application. In accordance with the USPTO rules and the procedures set forth in the MPEP, can a copy of these papers be obtained by the member of the public, and if so, how can the copy be obtained?",
+    "choices": {
+      "A": "No, a copy cannot be obtained because patent applications are maintained in confidence pursuant to 35 USC 122(a).",
+      "B": "No, a copy cannot be obtained because the patent application is still pending.",
+      "C": "Yes, a member of the public can go to the Technology Center and ask for the file for copying at a public photocopier.",
+      "D": "Yes, the member of the public can complete a \u201cRequest for Access to an Application Under 37 CFR 1.14(e)\u201d and, without payment of a fee, order the file from the File Information Unit. Upon the Unit\u2019s receipt of the application, the member of the public can use a public photocopier to make a copy.",
+      "E": "Yes, the member of the public can order a copy from the Office of Public Records, with a written request and payment of the appropriate fee."
+    },
+    "answer": "E",
+    "rationale": "ANSWER: (E) is the most correct answer. MPEP \u00a7 103, under the heading \u201cPublished U.S. Patent Applications\u201d states that \u201cIf a patent application has been published pursuant to 35 U.S.C. 122(b), then a copy of the specification, drawings, and all papers relating to the file of that published application (whether abandoned or pending) may be provided to any person upon written request and payment of the fee.\u201d (A) and (B) are not correct. 37 CFR \u00a7 1.14(c)(2). Once an application has been published, a copy is available to the public upon written request and payment of a fee. (C) and (D) are not correct. As stated in MPEP \u00a7 103, under the heading \u201cPublished U.S. Patent Applications,\u201d if the published patent application is pending, the application file itself will not be available to the public for inspection.\u201d",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 34,
+    "stem": "A first Office action on the merits rejecting Claim 1 under 35 USC 103 as being obvious in view of reference A set a three month shortened statutory period for reply. A registered practitioner files a timely response (without an extension of time) to the first Office action amending Claim 1 to include a limitation not found in reference A or any other prior art of record. However, the limitation also lacks support in applicant\u2019s original disclosure, i.e., it is new matter. Which of the following courses of action, if taken by the primary examiner, would be in accord with the USPTO rules and the procedures set forth in the MPEP?",
+    "choices": {
+      "A": "Hold the application abandoned after expiration of the three month shortened statutory period for reply because an amendment adding new matter to the claims is not a bona fide response.",
+      "B": "Consider the new matter and reject Claim 1 under 35 USC 101 because a claim that recites new matter lacks utility.",
+      "C": "Consider the new matter and treat Claim 1, determining whether the invention as claimed with the new matter, would have been obvious in view of reference A, and reject Claim 1 under 35 USC 112, first paragraph, for lack of support in the original disclosure for new matter.",
+      "D": "Ignore the new matter and reject Claim 1 again under \u00a7 103 in view of reference A.",
+      "E": "All of the above."
+    },
+    "answer": "C",
+    "rationale": "ANSWER: (C) is the most correct answer. See MPEP \u00a7\u00a7 706.03(o) and 2143.03. MPEP \u00a7 2143.03, under the heading \u201cLimitations Which Do Not Find Support In The Original Specification Must Be Considered,\u201d states: \u201cWhen evaluating claims for obviousness under 35 U.S.C. \u00a7 103, all the limitations of the claims must be considered and given weight, including limitations which do not find support in the specification as originally filed (i.e., new matter).\u201d In (C), the examiner considered the new matter as required. MPEP \u00a7 706.03(o) states, \u201cIn amended cases, subject matter not disclosed in the original application is sometimes added and a claim directed thereto. Such a claim is rejected on the ground that it recites elements without support in the original disclosure under 35 U.S.C. 112, first paragraph, Waldemar Link, GmbH & Co. v. Osteonics Corp. 32 F.3d 556, 559, 31 USPQ2d 1855, 1857 (Fed. Cir. 1994); In re Rasmussen, 650 F.2d 1212, 211 USPQ 323 (CCPA 1981).\u201d (A) is incorrect. An amendment adding new matter is not necessarily a non-bona fide response as (A) implies. Moreover, abandonment is not proper after the expiration of the period for response since even if the response is considered non-responsive, applicant would be notified and given the remaining time period plus available extensions of time to reply. See MPEP \u00a7 714.03. (B) is incorrect. The mere fact that a claim recites new matter does not mean that the claim lacks utility. See MPEP \u00a7 2107.01, under the heading \u201cRelationship Between 35 U.S.C. 112, First Paragraph, And 35 U.S.C. 101,\u201d discussing the difference between new matter under 35 U.S.C. \u00a7 112(1) and lack of utility under 34 U.S.C. \u00a7 101. (D) is incorrect because it contradicts MPEP \u00a7 2143.03, which requires the examiner to consider new matter. (E) is incorrect inasmuch as (A), (B), and (D) are incorrect and (C) is correct.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 35,
+    "stem": "Which of the following is a proper basis for establishing a substantial new question of patentability to obtain reexamination in accordance with proper USPTO rules and the procedures set forth in the MPEP?",
+    "choices": {
+      "A": "An admission per se by the patent owner of record that the claimed invention was on sale, or in public use more than one year before any patent application was filed in the USPTO.",
+      "B": "A prior art patent that is solely used as evidence of an alleged prior public use.",
+      "C": "A prior art patent that is solely used as evidence of an alleged insufficiency of disclosure.",
+      "D": "A printed publication that is solely used as evidence of an alleged prior offer for sale.",
+      "E": "None of the above."
+    },
+    "answer": "E",
+    "rationale": "ANSWER: (E) is the most correct answer. See 35 U.S.C. \u00a7 302; MPEP \u00a7 2217. The prior art applied may only consist of prior art patents or printed publications. Substantial new questions of patentability may be based upon 35 U.S.C. \u00a7\u00a7 102(a), (b), (d) and (e), new questions of patentability under 35 U.S.C. \u00a7 103 that are based on the foregoing indicated portions of 35 U.S.C. \u00a7 102, and substantial new questions of patentability may be found under 35 U.S.C. \u00a7\u00a7 102(f)/103 or 102(g)/103 based on the prior invention of another disclosed in a patent or printed publication. (A) is incorrect. See MPEP \u00a7 2217. An admission, per se, may not be the basis for establishing a substantial new question of patentability. However, an admission by the patent owner of record in the file or in a court record may be utilized in combination with a patent or printed publication. (B), (C), and (D) are incorrect. A prior art patent cannot be properly applied as a ground for reexamination if it is merely used as evidence of alleged prior public use or sale, or insufficiency of disclosure. The prior art patent must be applied directly to claims under 35 U.S.C. \u00a7 103 and/or an appropriate portion of 35 U.S.C. \u00a7 102 or relate to the application of other prior art patents or printed publications to claims on such grounds.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 36,
+    "stem": "Which of the following is not a policy underlying the public use bar of 35 USC 102(b)?",
+    "choices": {
+      "A": "Discouraging the removal, from the public domain, of inventions that the public reasonably has come to believe are freely available.",
+      "B": "Favoring the prompt and widespread disclosure of inventions.",
+      "C": "Allowing the inventor(s) a reasonable amount of time following sales activity to determine the potential economic value of a patent.",
+      "D": "Increasing the economic value of a patent by extending the effective term of the patent up to one year.",
+      "E": "Prohibiting the inventor(s) from commercially exploiting the invention for a period greater than the statutorily prescribed time."
+    },
+    "answer": "D",
+    "rationale": "ANSWER: (D) is the most correct answer. Extending patent term is not a policy underlying any section of 35 U.S.C. \u00a7 102. Answers (A), (B), (C) and (E) do state policies underlying the public use bar. Lough v. Brunswick Corp., 86 F.3d 1113, 39 USPQ2d 1100 (Fed. Cir. 1996).",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 37,
+    "stem": "In accordance with the USPTO rules and the procedures set forth in the MPEP, a grant of small entity status entitles an applicant to which of the following?",
+    "choices": {
+      "A": "Applicant will receive an accelerated examination by having the application advanced out of order.",
+      "B": "Applicant can use a certificate of mailing under 37 CFR 1.8 to obtain a U.S. filing date that is earlier than the actual USPTO receipt date of the application.",
+      "C": "Applicant will obtain a refund of all fees paid to the USPTO where applicant demonstrates: (i) a changed purpose for which the fees were paid, (ii) the fees were not paid by mistake, and (iii) the fees were not paid in excess of the amount required.",
+      "D": "Applicant can pay a fee to file a request for continued examination pursuant to 37 CFR 1.114 that is less than the fee paid by other than a small entity.",
+      "E": "None of the above."
+    },
+    "answer": "D",
+    "rationale": "ANSWER: (D) is the most correct answer. See 35 U.S.C. \u00a7 41(h)(1); 37 CFR \u00a7\u00a7 1.17(e) and 1.114; and MPEP \u00a7 509.02. (A) is incorrect because there is no support for (A) in 37 CFR \u00a7 1.102. (B) is incorrect because there is no support for (B) in 37 CFR \u00a7 1.8. (C) is incorrect because it is inconsistent with 35 U.S.C. \u00a7 42(d); 37 CFR \u00a7 1.26. Miessner v. United States, 228 F.2d 643, 644 (D.C. Cir. 1955). (E) is incorrect because (D) is correct.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 38,
+    "stem": "In accordance with USPTO rules and the procedures set forth in the MPEP, an amendment filed with or after a notice of appeal under 37 CFR 1.191(a), but before jurisdiction has passed to the Board of Patent Appeals and Interferences, should be entered by the primary examiner where the amendment:",
+    "choices": {
+      "A": "requests unofficial consideration by the examiner.",
+      "B": "is less than six pages long.",
+      "C": "removes issues from appeal.",
+      "D": "presents more specific claims, because it is believed that they may have a better chance of being allowable even though the claims do not adopt the examiner\u2019s suggestions.",
+      "E": "introduces new issues, allowing the examiner to rethink his position."
+    },
+    "answer": "C",
+    "rationale": "ANSWER: (C) is the most correct answer. See 37 CFR \u00a7 1.116; MPEP \u00a7 1207, first paragraph. Answers (A), (B), and (D) are purely fictional. With respect to answer (E), see MPEP \u00a7 1207, first paragraph.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 39,
+    "stem": "An examiner has properly established a prima facie showing of no specific and substantial credible utility for the claimed invention in a patent application filed in February 2001. An applicant can sustain the burden of rebutting and overcoming the showing in accordance with the USPTO rules and the procedures set forth in the MPEP by:",
+    "choices": {
+      "A": "Providing reasoning or arguments rebutting the basis or logic of the prima facie showing.",
+      "B": "Amending the claims.",
+      "C": "Providing evidence in the form of a declaration under 37 CFR 1.132 rebutting the basis or logic of the prima facie showing.",
+      "D": "Providing evidence in the form of a printed publication rebutting the basis or logic of the prima facie showing.",
+      "E": "All of the above."
+    },
+    "answer": "E",
+    "rationale": "ANSWER: (E) is the most correct answer. For (A) see, MPEP \u00a7 2107, under the heading \u201cExamination Guidelines For The Utility Requirement,\u201d penultimate paragraph, which states \u201cThe applicant can do this by\u2026 providing reasoning or arguments\u2026 .\u201d For (B), see MPEP \u00a7 2107, under the heading \u201cExamination Guidelines For The Utility Requirement,\u201d penultimate paragraph, which states \u201cThe applicant can do this by amending the claims\u2026 .\u201d For (C) see, MPEP \u00a7 2107, under the heading \u201cExamination Guidelines For The Utility Requirement,\u201d penultimate paragraph, which states \u201cThe applicant can do this by\u2026providing evidence in the form of a declaration under 37 C.F.R. \u00a7 1.132\u2026rebutting the basis or logic of the prima facie showing.\u201d For (D), see, MPEP \u00a7 2107, under the heading \u201cExamination Guidelines For The Utility Requirement,\u201d penultimate paragraph, which states \u201cThe applicant can do this by\u2026providing evidence in the form of a\u2026printed publication\u2026rebutting the basis or logic of the prima facie showing.\u201d (A), (B), (C), and (D) alone are not the most correct answer inasmuch (E), referencing all of the above, is the most correct answer.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 40,
+    "stem": "Which of the following is not a proper incorporation by reference in an application prior to allowance according to the USPTO rules and the procedures set forth in the MPEP?",
+    "choices": {
+      "A": "Incorporating material necessary to describe the best mode of the claimed invention by reference to a commonly owned, abandoned U.S. application that is less than 20 years old.",
+      "B": "Incorporating non-essential material by reference to a prior filed, commonly owned pending U.S. application.",
+      "C": "Incorporating material that is necessary to provide an enabling disclosure of the claimed invention by reference to a U.S. patent.",
+      "D": "Incorporating non-essential material by reference to a hyperlink.",
+      "E": "Incorporating material indicating the background of the invention by reference to a U.S. patent which incorporates essential material."
+    },
+    "answer": "D",
+    "rationale": "ANSWER: (D) is the correct answer. See MPEP \u00a7 608.01(p). (A) is incorrect because abandoned applications less than 20 years old can be incorporated by reference to the same extent as copending applications. (B) is incorrect because non-essential material may be incorporated by reference to patents or applications published by the United States. (C) is incorrect because material necessary to provide an enabling disclosure is essential material, which may be incorporated by reference to a U.S. patent. (E) is incorrect because non-essential material may be incorporated by reference to a U.S. patent which incorporates essential material.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 41,
+    "stem": "Evidence that a claim may not comply with the second paragraph of 35 USC 112 occurs in accordance with the USPTO rules and the procedure set forth in the MPEP where:",
+    "choices": {
+      "A": "Remarks filed by applicant in a reply or brief regarding the scope of the invention differ and do not correspond in scope with the claim.",
+      "B": "There is a lack of agreement between the language in the claims and the language set forth in the specification.",
+      "C": "The scope of the claimed subject matter is narrowed during pendency of the application by deleting the originally much broader claims, and presenting claims to only the preferred embodiment within the originally much broader claims.",
+      "D": "Claims in a continuation application are directed to originally disclosed subject matter (in the parent and continuation applications) which applicants did not regard as part of their invention when the parent application was filed.",
+      "E": "All of the above."
+    },
+    "answer": "A",
+    "rationale": "ANSWER: (A) is the most correct answer. In accordance with MPEP \u00a7 2172, under the heading \u201cII. Evidence To The Contrary,\u201d states that evidence that shows a claim does not correspond in scope with that which applicant regards as applicant\u2019s invention may be found, for example, in contentions or admissions contained in briefs or remarks filed by applicant. In re Prater, 415 F.2d 1393, 162 USPQ 541 (CCPA 1969). (B) is incorrect. MPEP \u00a7 2172, under the heading \u201cII. Evidence To The Contrary,\u201d states, \u201cAs noted in In re Ehrreich, 590 F.2d 902, 200 USPQ 504 (CCPA 1979) agreement, or lack thereof, between the claims and the specification is properly considered only with respect to 35 U.S.C. 112, first paragraph; it is irrelevant to compliance with the second paragraph of that section.\u201d (C) is incorrect. MPEP \u00a7 2172, under the heading \u201cIII. Shift In Claims Permitted,\u201d indicates that the second paragraph of 35 U.S.C. \u00a7 112 does not prohibit applicants from changing what they regard as their invention during the pendency of the application. In re Saunders, 444 F.2d 599, 170 USPQ 213 (CCPA 1971) (Applicant was permitted to claim and submit comparative evidence with respect to claimed subject matter which originally was only the preferred embodiment within much broader claims (directed to a method). (D) is incorrect. MPEP \u00a7 2172, under the heading \u201cIII. Shift In Claims Permitted,\u201d indicates that the fact that claims in a continuation application were directed to originally disclosed subject matter which applicants had not regarded as part of their invention when the parent application was filed was held not to prevent the continuation application from receiving benefits of the filing date of the parent application under 35 U.S.C. \u00a7 120. In re Brower, 433 F.2d 813, 167 USPQ 684 (CCPA 1970). (E) is incorrect because (B), (C), and (D) are incorrect.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 42,
+    "stem": "Paprika is a known product. A patent application discloses a composition which is made by subjecting paprika to processing steps X, Y and Z. The composition is disclosed to be useful in treating cancer. The application was filed June 1, 2002. A reference published May 1, 2001 discloses a food product made by subjecting paprika to processing steps X, Y and Z. The reference does not disclose that the resulting composition has any properties that would make it useful for treating cancer. In accordance with USPTO rules and procedures set forth in the MPEP, which of the following claims is not anticipated by the reference?",
+    "choices": {
+      "A": "A composition made by the process of subjecting paprika to processing steps X, Y and Z, wherein the composition is effective for treating cancer.",
+      "B": "A composition for treating cancer, made by the process of subjecting paprika to processing steps X, Y and Z.",
+      "C": "A method of making a cancer-treating composition, comprising subjecting paprika to processing steps X, Y and Z.",
+      "D": "A method of treating cancer, comprising administering an effective amount of a composition made by subjecting paprika to processing steps X, Y and Z.",
+      "E": "All of the above."
+    },
+    "answer": "D",
+    "rationale": "ANSWER: (D) is the most correct answer. See 35 U.S.C. \u00a7 102(b); MPEP \u00a7 2131. Citing Verdegaal Bros. v. Union Oil Co. of California, 814 F.2d 628, 631, 2 USPQ2d 1051, 1053 (Fed. Cir. 1987), MPEP \u00a7 2131, under the heading, \u201cTo Anticipate A Claim, The Reference Must Teach Every Element Of The Claim\u201d states, \u201cA claim is anticipated only if each and every element as set forth in the claim is found, either expressly or inherently described, in a single prior art reference.\u201d. The claim is directed to a method of use that is not disclosed by the reference. Answer (A) is incorrect. 35 U.S.C. \u00a7 102(b); MPEP \u00a7\u00a7 2112, 2112.01. The claimed composition is the same as that disclosed in the prior art, because it is made from the same starting material subjected to the same processing steps. The recitation of \u201cthe composition is effective for treating cancer,\u201d is only a statement of the inherent properties of the composition. Where the claimed and prior art products are identical in structure or composition, or are produced by identical processes, a prima facie case of anticipation has been established. In re Best, 195 USPQ 430, 433 (CCPA 1977). The burden is shifted to applicant to show that the prior art product does not necessarily possess the characteristics of the claimed product. The reference is prior art under 35 U.S.C. \u00a7 102(b), and therefore the claim is anticipated. Answer (B) is incorrect. 35 U.S.C. \u00a7 102(b); MPEP \u00a7\u00a7 2112, 2112.01, and 2112.02. The claimed composition is the same as that disclosed in the prior art, because it is made from the same starting material subjected to the same processing steps. The recitation of a composition \u201cfor treating cancer\u201d reflects only a preamble statement of an intended use of the claimed composition, which does not limit the scope of the claim. Answer (C) is incorrect. See 35 U.S.C. \u00a7 102(b); MPEP \u00a7\u00a7 2112, 2112.01. The claimed method is the same as that disclosed in the prior art, because it subjects the same starting material to the same manipulative steps. The recitation of making \u201ca cancer-treating composition\u201d reflects only a preamble\u2019s statement of an intended use of the claimed composition, which does not further limit the claimed method. Answer (E) is incorrect, because (A), (B), and (C) are incorrect.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 43,
+    "stem": "Which of the following definitions does not accord with proper USPTO rules and the procedures set forth in the MPEP relating to drawings in patent applications?",
+    "choices": {
+      "A": "Original drawings are drawings submitted with the application when filed, and may be either formal or informal.",
+      "B": "Formal drawings are stamped \u201capproved\u201d by the Draftsperson.",
+      "C": "Drawings may be informal for reasons such as the size of reference elements.",
+      "D": "A substitute drawing is usually submitted to replace an original formal drawing.",
+      "E": "A drawing may be declared as informal by the applicant when filed."
+    },
+    "answer": "ALL",
+    "rationale": "All answers accepted.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 44,
+    "stem": "In accordance with the USPTO rules and the procedures set forth in the MPEP, which of the following, if any, is true?",
+    "choices": {
+      "A": "The loser in an interference in the PTO is estopped from later claiming he or she was the first to invent in a Federal District Court since the loser must win in the USPTO or he/she will lose the right to contest priority.",
+      "B": "A person being sued for infringement may file a request for reexamination without first obtaining the permission of the Court in which the litigation is taking place.",
+      "C": "A practitioner may not represent spouses, family members or relatives before the USPTO since such representation inherently creates a conflict of interest and a practitioner is likely to engage in favoritism over his/her other clients.",
+      "D": "Employees of the USPTO may not apply for a patent during the period of their employment and for two years thereafter.",
+      "E": "None of the above."
+    },
+    "answer": "B",
+    "rationale": "ANSWER: (B) is the most correct answer. Any person at any time may file a request for reexamination. 35 U.S.C. \u00a7 302. As to (A) loser may appeal to District Court under 35 U.S.C. \u00a7 146. As to (C), there is no prohibition regarding spouses, family members, and other relatives. As to (D) according to 35 U.S.C. \u00a7 4, employees are prohibited during the period of their employment and one year thereafter. As to (E), (B) is true.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 45,
+    "stem": "Al files an application for a patent. After the Notice of Allowance is mailed and the issue fee has been paid Al discovers a prior art reference which is material to patentability. What should Al do in accordance with the USPTO rules and the procedures set forth in the MPEP?",
+    "choices": {
+      "A": "Al should file a prior art statement under 37 CFR 1.501 that will be placed in the patent file upon issuance of the application as a patent.",
+      "B": "Since the issue fee has been paid, Al no longer has a duty to disclose to the Office material prior art. He is under no obligation to submit the prior art reference to the Office.",
+      "C": "Since the issue fee has been paid, it is too late to have the examiner consider the reference in this application. Al should file a continuation application to have the reference considered and allow the original patent application to issue as a patent.",
+      "D": "Al should file a petition to have the application withdrawn from issuance, citing the finding of additional material prior art as the reason for withdrawal. A continuation application should also be filed with an information disclosure statement containing the reference in order to have the reference considered.",
+      "E": "Al should file an amendment under 37 CFR. 1.312 deleting all of the claims which are unpatentable over the reference since an amendment deleting claims is entitled to entry as a matter of right."
+    },
+    "answer": "D",
+    "rationale": "ANSWER: (D) is the most correct answer. See 37 CFR \u00a7 1.313(b); MPEP \u00a7\u00a7 609, subpart (B)(4) and 1308. After payment of the issue fee it is impractical for the Office to consider any information disclosures. As to (A), a prior art statement is applicable only to patent, not application, files. 37 CFR \u00a7 1.501. As to (B), duty of disclosure continues until the patent is issued. As to (C), the patent should not be allowed to issue since it may contain invalid claims. As to (E) no amendment is entitled to entry after payment of the issue fee. 37 CFR. \u00a7 1.312(b).",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 46,
+    "stem": "In accordance with USPTO rules and procedures set forth in the MPEP, which of the following is not a \u201cprinted publication\u201d under 35 USC 102(b), with respect to a patent application filed June 1, 2002?",
+    "choices": {
+      "A": "A paper that was orally presented at a meeting held May 1, 2001, where the meeting was open to all interested persons and the paper was distributed in written form to six people without restriction.",
+      "B": "A doctoral thesis that was indexed, cataloged, and shelved May 1, 2001, in a single, university library.",
+      "C": "A research report distributed May 1, 2001, in numerous copies but only internally within an organization and intended to remain confidential.",
+      "D": "A reference available only in electronic form on the Internet, which states that it was publicly posted May 1, 2001.",
+      "E": "A technical manual that was shelved and cataloged in a public library as of May 1, 2001, where there is no evidence that anyone ever actually looked at the manual."
+    },
+    "answer": "C",
+    "rationale": "ANSWER: (C) is the most correct answer. The internal report was intended to be confidential and therefore is not a \u201cprinted publication\u201d under 35 U.S.C. \u00a7 102(b). See MPEP \u00a7 2128.01. Answer (A) is incorrect. An orally presented paper can be a \u201cprinted publication\u201d if copies are available without restriction. The paper is a \u201cprinted publication\u201d under 35 U.S.C. \u00a7 102(b). See MPEP \u00a7 2128.01. Answer (B) is incorrect. The thesis is a \u201cprinted publication\u201d under 35 U.S.C. \u00a7 102(b). See MPEP \u00a7 2128.01. Answer (D) is incorrect. An electronic publication disclosed on the Internet is considered to be publicly available as of the date the item was posted. The reference is a \u201cprinted publication\u201d under 35 U.S.C. \u00a7 102(b). See MPEP \u00a7 2128. Answer (E) is incorrect. There is no need to prove that anyone actually looked at a document. The manual is a \u201cprinted publication\u201d under 35 U.S.C. \u00a7 102(b). See MPEP \u00a7 2128.",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 47,
+    "stem": "John, unaware of the existence of Jane\u2019s U.S. patent, which issued on Tuesday, July 11, 2000, files a patent application on Friday, January 11, 2001. John\u2019s application and Jane\u2019s patent are not commonly owned. On Thursday, July 11, 2001, in reply to an Office action rejecting all of his claims, John files an amendment canceling all of his claims and adding claims setting forth, for the first time, \u201csubstantially the same subject matter\u201d as is claimed in Jane\u2019s patent. The examiner rejects John\u2019s claims on the basis of 35 USC 135(b). Which of the following statements accords with the USPTO rules and the procedures set forth in the MPEP?",
+    "choices": {
+      "A": "The rejection is improper because 35 USC 135(b) relates to interferences.",
+      "B": "The rejection is proper because 35 USC 135(b) is not limited to inter partes proceedings, but may be used as a basis for ex parte rejections.",
+      "C": "Since John\u2019s claims would interfere with Jane\u2019s unexpired patent, the proper procedure is for the examiner to declare an interference rather than to reject John\u2019s claims.",
+      "D": "The rejection is proper merely by reason of the fact that John\u2019s claims are broad enough to cover the patent claims.",
+      "E": "The rejection is improper inasmuch as John is claiming \u201csubstantially the same subject matter\u201d as is claimed in the patent."
+    },
+    "answer": "B",
+    "rationale": "ANSWER: (B) is the most correct answer, and (A) and (C) are wrong. MPEP \u00a7 715.05 states \u201c[i]f the patent is claiming the same invention as the application and its issue date is one year or more prior to the presentation of claims to that invention in the application, a rejection of the claims of the application under 35 U.S.C. \u00a7 135(b) should be made. See In re McGrew, 120 F.3d 1236, 1238, 43 USPQ2d 1632, 1635 (Fed.Cir. 1997) (holding that application of 35 U.S.C. \u00a7 135(b) is not limited to inter partes interference proceedings, but may be used as a basis for ex parte rejections.)\u201d. (D) is wrong. See MPEP \u00a7 2307 (\u201cThe fact that the application claim may be broad enough to cover the patent claim is not sufficient. In re Frey, 182 F.2d 184, 86 USPQ 99 (CCPA 1950)\u201d). (E) is also wrong. See MPEP \u00a7 2307 (\u201cIf the claim presented or identified as corresponding to the proposed count was added to the application by an amendment filed more than one year after issuance of the patent\u2026then under the provisions of 35 U.S.C. \u00a7 135(b), an interference will not be declared unless at least one of the claims which were in the application\u2026prior to expiration of the one-year period was for \u2018substantially the same subject matter\u2019 as at least one of the claims of the patent.\u201d).",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 48,
+    "stem": "In accordance with the USPTO rules and the procedures set forth in the MPEP, which of the following statements regarding a proper prior art reference is true?",
+    "choices": {
+      "A": "Canceled matter in the application file of a U.S. patent is a prior art reference as of the filing date under 35 USC 102(e).",
+      "B": "Where a patent refers to and relies on the disclosure of a copending subsequently abandoned application, such disclosure is not available as a reference.",
+      "C": "Where the reference patent claims the benefit of an earlier filed, copending but subsequently abandoned application which discloses subject matter in common with the patent, and the abandoned application has an enabling disclosure for the common subject matter and the claimed matter in the reference patent, the effective date of the reference patent as to the common subject matter is the filing date of the reference patent.",
+      "D": "Matter canceled from the application file wrapper of a U.S. patent may be used as prior art as of the patent date.",
+      "E": "All foreign patents are available as prior art as of the date they are translated into English."
+    },
+    "answer": "D",
+    "rationale": "ANSWER: (D) is the most correct answer. See 35 U.S.C. \u00a7 102(a). As explained in MPEP \u00a7 901.01, the \u201cmatter canceled from the application file wrapper of a U.S. patent may be used as prior art as of the patent date in that it then constitutes prior public knowledge under 35 U.S.C. 102(a), In re Lund, 376 F.2d 982, 153 USPQ 625 (CCPA 1967). See also MPEP 2127 and 2136.02.\u201d (A) is incorrect. 35 U.S.C. \u00a7 102(e). As stated in MPEP \u00a7 901.01, \u201cCanceled matter in the application file of a U.S. patent is not a proper reference as of the filing date under 35 U.S.C. 102(e), see Ex parte Stalego, 154 USPQ 52, 53 (Bd. App. 1966).\u201d (B) is incorrect. As stated in MPEP \u00a7 901.02, \u201cIn re Heritage, 182 F.2d 639, 86 USPQ 160 (CCPA 1950), holds that where a patent refers to and relies on the disclosure of a copending abandoned application, such disclosure is available as a reference. See also In re Lund, 376 F.2d 982, 153 USPQ 625 (CCPA 1967).\u201d (C) is incorrect. As MPEP \u00a7 901.02 indicates, where the reference patent claims the benefit of a copending but abandoned application which discloses subject matter in common with the patent, and the abandoned application has an enabling disclosure of the common subject matter and claimed matter in the reference patent, the effective date of the reference as to the common subject matter is the filing date of the abandoned application. In re Switzer, 77 USPQ 1, 612 O.G. 11 (CCPA 1948); Ex parte Peterson, 63 USPQ 99 (Bd. App. 1944); and Ex parte Clifford, 49 USPQ 152 (Bd. App. 1940).\u201d (E) is incorrect. As stated in MPEP \u00a7 901.05, \u201cIn general, a foreign patent, the contents of its application, or segments of its content should not be cited as a reference until its date of patenting or publication can be confirmed by an examiner\u2019s review of a copy of the document.\u201d",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 49,
+    "stem": "In accordance with USPTO rules and procedures set forth in the MPEP, which of the following statements regarding claim interpretation during patent prosecution is incorrect?",
+    "choices": {
+      "A": "A claim is to be given its broadest reasonable interpretation in light of the supporting disclosure in the specification.",
+      "B": "Because a claim is read in light of the specification, the claim may properly be narrowed by interpreting it as including elements or steps disclosed in the specification but not recited in the claim.",
+      "C": "If an applicant does not define a claim term in the specification, that term is given its ordinary meaning in the art.",
+      "D": "When an explicit definition of a claim term is provided in an applicant\u2019s specification, that definition controls the interpretation of the term as it is used in the claims.",
+      "E": "Means plus function language in claims which defines the characteristics of a machine or manufacture includes only the corresponding structures or materials disclosed in the specification and equivalents thereof."
+    },
+    "answer": "B",
+    "rationale": "ANSWER: (B) is the most proper answer. MPEP \u00a7 2111, under the heading \u201cClaims Must Be Given Their Broadest Reasonable Interpretation,\u201d states, in reference to In re Prater, 415 F.2d 1393, 1404-05, 162 USPQ 541, 550-51 (CCPA 1969): \u201cThe court explained that \u2018reading a claim in light of the specification,[\u2019] to thereby interpret limitations explicitly recited in the claim, is a quite different thing from \u2018reading limitations of the specification into a claim,\u2019 to thereby narrow the scope of the claim by implicitly adding disclosed [sic, disclosed] limitations which have no express basis in the claim.\u201d Answer (A) is incorrect because, as pointed out in MPEP \u00a7 2111.01, the court in In re Marosi, 710 F.2d 799, 802, 218 USPQ 289, 292 (Fed. Cir. 1983) (quoting In re Okuzawa, 537 F.2d 545, 548, 190 USPQ 464, 466 (CCPA 1976)), states: \u201cIt is well settled that \u2018claims are not to be read in a vacuum and limitations therein are to be interpreted in light of the specification in giving them their \u201cbroadest reasonable interpretation.\u201d\u2019\u201d Answer (C) is incorrect because MPEP \u00a7 2111.01, under the heading \u201cPlain Meaning Refers To The Meaning Given to The Term By Those Of Ordinary Skill In The Art,\u201d states that \u201c[w]hen not defined by applicant in the specification, the words of a claim must be given their plain meaning.\u201d Answer (D) is incorrect because MPEP \u00a7 2111.01 states that it is only when the specification provides a definition for terms appearing in the claims can the specification be used to interpret the claim language. Answer (E) is incorrect. See MPEP \u00a7 2111.01, under the heading \u201cPlain Meaning Refers To The Meaning Given to The Term By Those Of Ordinary Skill In The Art,\u201d states, in reliance upon In re Donaldson, 16 F.3d 1189, 1193, 29 USPQ2d 1845, 1848 (Fed. Cir. 1994), that there is \u201cone exception, and that is when an element is claimed using language falling under the scope of 35 U.S.C. 112, 6th paragraph (often broadly referred to as means or step plus function language). In that case, the specification must be consulted to determine the structure, material, or acts corresponding to the function recited in the claim.\u201d",
+    "parse_warnings": []
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 50,
+    "stem": "A registered practitioner files a nonprovisional utility application in 2000. In 2002, the practitioner files a continuation-in-part application and claims benefit of the filing date of the 2000 application for the 2002 application. Thereafter, the practitioner amends the 2002 application to include claims that were not present in the either the originally filed 2000 application or the originally filed 2002 application. The primary examiner properly concludes that the added claims are not supported by the original disclosure in either application. Which of the following is in accord with the USPTO rules and the procedures set forth in the MPEP?",
+    "choices": {
+      "A": "The added claims are rejected for lack of written description under 35 USC 112, first paragraph.",
+      "B": "The added claims are rejected as new matter under 35 USC 132.",
+      "C": "The added claims are denied benefit of the filing date of the 2000 application.",
+      "D": "(A) and (B).",
+      "E": "(A) and (C)."
+    },
+    "answer": "E",
+    "rationale": "ANSWER: (E) is the most correct answer. Both (A) and (C) are correct. MPEP \u00a7 2163.01, under the heading \u201cSupport For The Claimed Subject Matter In The Disclosure,\u201d states that \u201c[I]f the examiner concludes that the claimed subject matter is not supported [described] in an application as filed, this would result in a rejection of the claim on the ground of a lack of written description under 35 U.S.C. 112, first paragraph, or denial of the benefit of filing date of a previously filed application.\u201d (B) is incorrect. MPEP \u00a7 2163.01 states that unsupported claims \u201cshould not be rejected or objected to on the ground of new matter. As framed by the court in In re Rasmussen, 650 F.2d 1212, 211 USPQ 323 (CCPA 1981), the concept of new matter is properly employed as a basis for objection to amendments to the abstract, specification or drawings attempting to add new disclosure to that originally presented.\u201d (D) is incorrect because (B) is incorrect.",
+    "parse_warnings": []
+  }
+]

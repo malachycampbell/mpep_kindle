@@ -1,0 +1,127 @@
+{
+  "manifest_schema_version": "1.0",
+  "description": "Provenance record for the historical USPTO patent bar (registration examination) sessions used as raw material for Phase 2 (historical exam extraction & current-law audit). These are the only registration-examination question sets USPTO is known to have ever officially released to the public. They predate the America Invents Act (2011) and the current MPEP edition, so questions here are NOT assumed to reflect current law -- see 'current_law_caveat' below. Do not treat this manifest's sources as exam-defining; the authoritative exam-defining sources remain those in reference/exam_source_manifest/manifest.json.",
+  "last_updated": "2026-09-03",
+
+  "current_law_caveat": "All three sessions below predate the America Invents Act (enacted 2011) and reflect the pre-AIA, first-to-invent patent system, older interference practice, and MPEP/37 CFR section numbering that has since changed or been repealed. Many questions and model answers are therefore obsolete under current law. Extraction (Phase 2, this pass) captures the raw question/answer/rationale text only, with no current-law judgment applied. A separate audit pass (deferred per project decision on 2026-09-03) is required before any question here is treated as valid content for the Phase 3 flashcard bank or Phase 4-5 practice-exam generator.",
+
+  "acquisition_method": "USPTO originally hosted these PDFs at http://www.uspto.gov/ip/boards/oed/exam/past/ ; that path is no longer live on uspto.gov. All 12 files below were recovered from the Internet Archive Wayback Machine (web.archive.org) on 2026-09-03, using the CDX API (http://web.archive.org/cdx/search/cdx?url=uspto.gov/ip/boards/oed/exam/past/...) to find the archived snapshot timestamp for each file, then fetching the raw archived content via the 'id_' Wayback URL modifier (http://web.archive.org/web/<timestamp>id_/<original_url>), which serves the captured file without the Wayback toolbar/banner injection. Every fetched PDF was validated with pdfinfo (non-zero page count) and spot-checked with pdftotext against expected exam content before being committed.",
+
+  "cdx_search_note": "The CDX index for this path shows question/answer PDFs archived ONLY for the three sessions below (October 2002, April 2003, October 2003). Result-statistics pages (pass/fail counts, not question content) exist in the CDX index for other administrations back to 1997, but no question or answer PDFs for those earlier sessions were ever archived at this path -- they appear not to have been placed online by USPTO in the first place, or were removed before any crawl captured them. Some third-party patent-bar prep sites claim to offer additional years (e.g. 1999-2001), but those are not traceable to an official USPTO release and were excluded from this acquisition per the project's source-provenance policy (see reference/exam_source_manifest/manifest.json).",
+
+  "sessions": [
+    {
+      "session_date": "2002-10-16",
+      "test_series": "202 (confirmed in am_questions.pdf header: 'Test Series 202')",
+      "files": [
+        {
+          "part": "am_questions",
+          "local_path": "reference/historical_exams/2002-10-16/am_questions.pdf",
+          "original_url": "http://www.uspto.gov/ip/boards/oed/exam/past/2002oct16amq.pdf",
+          "wayback_snapshot": "http://web.archive.org/web/20121021010131/http://www.uspto.gov/ip/boards/oed/exam/past/2002oct16amq.pdf",
+          "sha256": "6ab9d8fbbd22f4a0e1950a61326bac8a47b88cc0dd2bf9402abfae24775277c8"
+        },
+        {
+          "part": "am_answers",
+          "local_path": "reference/historical_exams/2002-10-16/am_answers.pdf",
+          "original_url": "http://www.uspto.gov/ip/boards/oed/exam/past/2002oct16ama.pdf",
+          "wayback_snapshot": "http://web.archive.org/web/20150905170216/http://www.uspto.gov/ip/boards/oed/exam/past/2002oct16ama.pdf",
+          "sha256": "71721441a6c834b94793e81d7dd0b962f74fe00e1499971f2c31d32d526a0cfb"
+        },
+        {
+          "part": "pm_questions",
+          "local_path": "reference/historical_exams/2002-10-16/pm_questions.pdf",
+          "original_url": "http://www.uspto.gov/ip/boards/oed/exam/past/2002oct16pmq.pdf",
+          "wayback_snapshot": "http://web.archive.org/web/20140824054209/http://www.uspto.gov/ip/boards/oed/exam/past/2002oct16pmq.pdf",
+          "sha256": "c01c8d05cdd78bb86ecff64ccd724d7fe16b894588f5109361d683a45bdc7000"
+        },
+        {
+          "part": "pm_answers",
+          "local_path": "reference/historical_exams/2002-10-16/pm_answers.pdf",
+          "original_url": "http://www.uspto.gov/ip/boards/oed/exam/past/2002oct16pma.pdf",
+          "wayback_snapshot": "http://web.archive.org/web/20150905172103/http://www.uspto.gov/ip/boards/oed/exam/past/2002oct16pma.pdf",
+          "sha256": "c81a06b561314ea8b75e4f4c1b9245e4b248a449971f12b9280917507f8faa07"
+        }
+      ]
+    },
+    {
+      "session_date": "2003-04-15",
+      "test_series": "103 (confirmed in am_questions.pdf header: 'Test Series 103')",
+      "files": [
+        {
+          "part": "am_questions",
+          "local_path": "reference/historical_exams/2003-04-15/am_questions.pdf",
+          "original_url": "http://www.uspto.gov/ip/boards/oed/exam/past/2003apr15amq.pdf",
+          "wayback_snapshot": "http://web.archive.org/web/20150905170702/http://www.uspto.gov/ip/boards/oed/exam/past/2003apr15amq.pdf",
+          "sha256": "78f77b2e7b19ee1e5f85b76caf945dfaaa6666e472507c8cc5007a3b3f3e44bd"
+        },
+        {
+          "part": "am_answers",
+          "local_path": "reference/historical_exams/2003-04-15/am_answers.pdf",
+          "original_url": "http://www.uspto.gov/ip/boards/oed/exam/past/2003apr15ama.pdf",
+          "wayback_snapshot": "http://web.archive.org/web/20150905170752/http://www.uspto.gov/ip/boards/oed/exam/past/2003apr15ama.pdf",
+          "sha256": "43a285f2ca9a9774f9a0e8102230895d2e22474f109e16fb8474e639e39965f9"
+        },
+        {
+          "part": "pm_questions",
+          "local_path": "reference/historical_exams/2003-04-15/pm_questions.pdf",
+          "original_url": "http://www.uspto.gov/ip/boards/oed/exam/past/2003apr15pmq.pdf",
+          "wayback_snapshot": "http://web.archive.org/web/20150905172608/http://www.uspto.gov/ip/boards/oed/exam/past/2003apr15pmq.pdf",
+          "sha256": "5329b5c66c13da44c2bf1257226cfc1b01a0274c3a7a11c4ed9ffb7b1f72e044"
+        },
+        {
+          "part": "pm_answers",
+          "local_path": "reference/historical_exams/2003-04-15/pm_answers.pdf",
+          "original_url": "http://www.uspto.gov/ip/boards/oed/exam/past/2003apr15pma.pdf",
+          "wayback_snapshot": "http://web.archive.org/web/20150905172443/http://www.uspto.gov/ip/boards/oed/exam/past/2003apr15pma.pdf",
+          "sha256": "fdb330e9a0f39c507bfbdaa9c3182737c8a7a9df5f11b024112d43652aa93d84"
+        }
+      ]
+    },
+    {
+      "session_date": "2003-10-15",
+      "test_series": "203 (confirmed in am_questions.pdf header: 'Test Series 203')",
+      "files": [
+        {
+          "part": "am_questions",
+          "local_path": "reference/historical_exams/2003-10-15/am_questions.pdf",
+          "original_url": "http://www.uspto.gov/ip/boards/oed/exam/past/2003oct15amq.pdf",
+          "wayback_snapshot": "http://web.archive.org/web/20101214233729/http://www.uspto.gov/ip/boards/oed/exam/past/2003oct15amq.pdf",
+          "sha256": "608806a32510ca6b7dec18ae116eeba90728accab888540382b6d10a6d3ca086"
+        },
+        {
+          "part": "am_answers",
+          "local_path": "reference/historical_exams/2003-10-15/am_answers.pdf",
+          "original_url": "http://www.uspto.gov/ip/boards/oed/exam/past/2003oct15ama.pdf",
+          "wayback_snapshot": "http://web.archive.org/web/20101214233714/http://www.uspto.gov/ip/boards/oed/exam/past/2003oct15ama.pdf",
+          "sha256": "c04afbda4c4857376fd3cdef1380e22f2c48559187699e9051199fa015d9e0b5"
+        },
+        {
+          "part": "pm_questions",
+          "local_path": "reference/historical_exams/2003-10-15/pm_questions.pdf",
+          "original_url": "http://www.uspto.gov/ip/boards/oed/exam/past/2003oct15pmq.pdf",
+          "wayback_snapshot": "http://web.archive.org/web/20110812084413/http://www.uspto.gov/ip/boards/oed/exam/past/2003oct15pmq.pdf",
+          "sha256": "27edecb6a55f4548f32c788fcd4ee860a4452cc4dfc43bf014d0afcb9809f32a"
+        },
+        {
+          "part": "pm_answers",
+          "local_path": "reference/historical_exams/2003-10-15/pm_answers.pdf",
+          "original_url": "http://www.uspto.gov/ip/boards/oed/exam/past/2003oct15pma.pdf",
+          "wayback_snapshot": "http://web.archive.org/web/20110812084356/http://www.uspto.gov/ip/boards/oed/exam/past/2003oct15pma.pdf",
+          "sha256": "f84d9fe5f18030c8d619a07ed816b9a4518772d6964a073733f1ac25ed3beb4d"
+        }
+      ]
+    }
+  ],
+
+  "extraction": {
+    "status": "Done (2026-09-03) -- extraction only, no current-law audit yet per project decision on 2026-09-03.",
+    "script": "reference/historical_exams/extract.py (parses am/pm questions + answers PDFs via pdftotext -layout into per-session JSON)",
+    "output": "reference/historical_exams/extracted/<session_date>_<am|pm>.json -- one record per question: {session_date, part, number, stem, choices: {A-E}, answer, rationale, parse_warnings}",
+    "result": "All 300 questions (6 files x 50 questions) parsed cleanly: 0 parse_warnings, 0 questions with a missing/empty stem, fewer than 4 choices, unparsed answer letter, or missing rationale, and 0 instances of page-header/footer text leaking into extracted fields (all verified programmatically, not just spot-checked)."
+  },
+
+  "open_items_for_next_session": [
+    "Current-law audit pass (deferred): classify each extracted question as still-current / obsolete (pre-AIA or repealed rule) / needs-rewrite against the MPEP Ninth Edition Rev. 01.2024 in reference/mpep/."
+  ]
+}

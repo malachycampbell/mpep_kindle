@@ -7,6 +7,7 @@ A personal study-tools repository for the USPTO Registration Examination ("Paten
 - **MPEP Kindle pipeline** (original purpose) -- `pdfs/`, `mpep_build/`, `build_mpep_epub.sh` convert the official MPEP chapter PDFs into a single `MPEP.epub` for offline reading. `MPEP_combined.pdf` is the same source material as one file.
 - **Draft study guides** -- `markdown_chapter_summaries/` and `MPEP_Patent_Bar_Study_Materials/` are earlier, lighter-verification drafts (see notes below). They are **not** treated as authoritative sources for the audited study modules being built.
 - **`reference/`** -- the audited source library for the study-tool project: exam-defining materials (MPEP, Trial Practice Guide, professional-conduct rules, PPH notice), supporting/validation materials (35 U.S.C., 37 CFR), and administrative references (General Requirements Bulletin, Prometric tutorial). See `reference/exam_source_manifest/manifest.json` for full provenance/version/checksum metadata on every source.
+- **`reference/historical_exams/`** -- the 3 USPTO registration-exam sessions ever officially released (Oct 2002, Apr 2003, Oct 2003; recovered via the Wayback Machine, since USPTO's original hosting is gone), plus `extract.py` and its structured JSON output in `extracted/`. These predate the AIA and current MPEP, so content here is **not** assumed current law until the audit pass (see `reference/historical_exams/manifest.json`).
 - **Flashcard and practice-exam modules** -- in progress. See project status below.
 
 ## Project status
@@ -17,7 +18,7 @@ This repo is being extended with two GitHub Pages study modules: a mobile flashc
 |---|---|
 | 0 -- Repository inspection & architecture | Done |
 | 1 -- Source-library acquisition (`reference/`) | Done |
-| 2 -- Historical exam extraction & current-law audit | Not started |
+| 2 -- Historical exam extraction & current-law audit | Extraction done; audit not started |
 | 3 -- Flashcard bank & GitHub Pages interface | Not started |
 | 4 -- Practice-exam architecture design | Not started |
 | 5 -- Practice-exam generator & interface | Not started |
