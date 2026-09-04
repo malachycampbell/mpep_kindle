@@ -3,8 +3,11 @@
 This documents the process used to audit historical exam questions against
 current law (MPEP Ninth Edition, Revision 01.2024, and the current U.S.
 Code/C.F.R.), per the caveat in `reference/historical_exams/manifest.json`.
-It is a pilot pass covering only the **2002-10-16** session (100 questions);
-see `reference/historical_exams/audit/2002-10-16_audit.json` for the results.
+It began as a pilot pass covering only the **2002-10-16** session (100
+questions; see `reference/historical_exams/audit/2002-10-16_audit.json`) and
+has since been applied to the **2003-04-15** session as well (100 questions;
+see `reference/historical_exams/audit/2003-04-15_audit.json`). One session,
+**2003-10-15**, remains unaudited.
 
 ## Status values
 
@@ -45,10 +48,47 @@ Each question is assigned one of four statuses:
   - Superseded physical-filing practices (USPS "Express Mail" certificate
     procedure, CD-ROM sequence-listing submission) now handled through
     USPTO electronic filing (EFS-Web/Patent Center).
+  - Statutory Invention Registration (SIR), eliminated when pre-AIA 35
+    U.S.C. 157 was repealed (effective March 2013).
+  - Pre-AIA interference practice under 37 CFR 1.601 et seq. (senior/junior
+    party by filing date, common-ownership rule for declaring
+    interferences), now residual/pre-AIA-transitional only, replaced
+    generally by AIA derivation proceedings.
+  - The removal of the claim requirement for according a nonprovisional
+    utility application a filing date (37 CFR 1.53(b)), effective Dec 18,
+    2013 AIA technical amendments.
+  - The design patent term change from 14 to 15 years from grant (Patent
+    Law Treaties Implementation Act, effective May 13, 2015).
 - **NOT_APPLICABLE** -- reserved for questions on a topic removed from the
-  tested syllabus entirely (not used in this pass; no question in the
-  2002-10-16 session met this bar outright, though several OBSOLETE
-  questions come close).
+  tested syllabus entirely (not used in either pass so far, though several
+  OBSOLETE questions come close).
+
+In addition to the OBSOLETE causes above, the 2003-04-15 pass identified
+several recurring PARTIALLY_OBSOLETE citation/terminology drifts worth
+watching for in future sessions:
+  - "Board of Patent Appeals and Interferences" renamed the "Patent Trial
+    and Appeal Board" (PTAB) by the AIA, with associated appeal-rule
+    citations (formerly 37 CFR 1.191-1.197) relocated to 37 CFR Part 41.
+  - 37 CFR Part 10 (Code of Professional Responsibility) replaced by Part
+    11 (USPTO Rules of Professional Conduct), effective May 3, 2013 --
+    every "37 CFR 10.xx" ethics citation is stale.
+  - Pre-AIA "35 U.S.C. 112, first/second paragraph" (and "112, 6th
+    paragraph") citations, now 112(a)/112(b)/112(f) respectively -- this is
+    pervasive across questions testing enablement, definiteness, written
+    description, and means-plus-function doctrine.
+  - 37 CFR 1.137's former (a) unintentional/(b) unavoidable split was
+    unified into a single "unintentional" standard (effective Dec 18,
+    2013); the parallel "unavoidable" delayed-issue-fee-payment provision
+    (former 37 CFR 1.317) was likewise folded into 37 CFR 1.137(c) and is
+    now "[Reserved]".
+  - The USPTO's PAIR system was retired and replaced by Patent Center
+    (November 2022).
+  - MPEP § 2106.02 was repurposed for the post-Alice/Mayo patent-eligibility
+    framework (Chapter 2106 rewritten starting 2014) and is now
+    "[Reserved]" in its old (enablement-rebuttal-evidence) role -- a citation
+    can go stale even where the underlying doctrine survives elsewhere in
+    the current MPEP, simply because the section number was reused for an
+    unrelated topic.
 
 ## Process
 
@@ -75,8 +115,19 @@ Each question is assigned one of four statuses:
 3. Each assessment cites the specific rule, statute, or case responsible
    for a status determination, so a future pass can verify or challenge it
    without re-deriving the analysis from scratch.
+4. **Local corpus verification (added for the 2003-04-15 pass).** For
+   specific, checkable factual claims about current rule text (e.g. whether
+   a CFR subsection still exists, whether a rule was renumbered, whether a
+   claim is still required for a filing date), the current MPEP text
+   corpus already extracted into `mpep_build/*.txt` was grepped directly
+   rather than relying solely on model recall. This caught several
+   citation-drift issues (e.g. 37 CFR 1.317 now "[Reserved]", MPEP §
+   2106.02 repurposed, 37 CFR Part 10 renumbered to Part 11) that would
+   otherwise have been easy to miss or get wrong. Recommended for future
+   passes whenever a determination hinges on a specific current-rule
+   detail rather than general legal-framework knowledge.
 
-## Known limitations of this pilot
+## Known limitations
 
 - This is legal-content analysis by an LLM, not by a registered patent
   practitioner. Every OBSOLETE/PARTIALLY_OBSOLETE determination should be
@@ -87,15 +138,17 @@ Each question is assigned one of four statuses:
 - A handful of "STILL_VALID" and "PARTIALLY_OBSOLETE" notes flag specific
   citation numbers or dollar thresholds as needing a light verification
   pass (e.g. the $25 fee-refund de minimis threshold in 37 CFR 1.26); these
-  were not individually re-verified against current rule text in this pass.
-- This pass covers only 2002-10-16 (100 of 300 total historical-exam
-  questions). The 2003-04-15 and 2003-10-15 sessions have not yet been
-  audited.
+  were not individually re-verified against current rule text in either
+  pass so far.
+- Two of three sessions have been audited (2002-10-16, 2003-04-15; 200 of
+  300 total historical-exam questions). The 2003-10-15 session has not yet
+  been audited.
 
 ## Next steps
 
-Apply the same full-manual-read methodology to the remaining two sessions
-(2003-04-15, 2003-10-15), then decide, session by session, whether
+Apply the same full-manual-read methodology (with local-corpus
+verification, per step 4 above) to the remaining session (2003-10-15),
+then decide, session by session, whether
 STILL_VALID/PARTIALLY_OBSOLETE questions get promoted into the Phase 3
 flashcard bank (with PARTIALLY_OBSOLETE questions rewritten to current
 citations/terminology first) and whether OBSOLETE questions are excluded

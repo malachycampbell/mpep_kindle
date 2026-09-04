@@ -1,0 +1,702 @@
+[
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 1,
+    "current_law_status": "OBSOLETE",
+    "audit_note": "Tests the pre-AIA 35 U.S.C. 102(g) priority-contest framework (conception, actual/constructive reduction to practice, diligence). This first-to-invent doctrine (MPEP 2138 series) applies only to pre-AIA applications; AIA-governed applications use the first-inventor-to-file system with no interference-style priority contest."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 2,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "The nonpublication-request rescission doctrine (35 U.S.C. 122(b)(2)(B)(iii), 37 CFR 1.213, 45-day notice window) is unchanged. But the cited revival authority '37 CFR 1.137(b)' is stale: effective Dec 18, 2013, 37 CFR 1.137 was unified into a single 'unintentional' delay standard, eliminating the old (a) unintentional/(b) unavoidable split."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 3,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Requirement-for-information practice under 37 CFR 1.105(a)(3) and MPEP 704.12(b) is unchanged."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 4,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Markush-group claim format rules (MPEP 2173.05(h)) are unchanged."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 5,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "The core holding (provisional/nonprovisional spec+drawing filed for a filing date cannot be faxed) remains correct under current 37 CFR 1.6(d). But the CPA carve-out relied on in the rationale is narrower today: continued prosecution applications under 37 CFR 1.53(d) are now available only for design applications, utility/plant CPA practice having been eliminated in July 2003."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 6,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Final-rejection propriety doctrine (MPEP 706.07(b)) for substitute/continuing/CIP applications is generic prosecution practice unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 7,
+    "current_law_status": "OBSOLETE",
+    "audit_note": "The distractor answers hinge on Statutory Invention Registration (SIR) waiver practice and 37 CFR 1.601 interference priority-determination practice. SIR was eliminated when pre-AIA 35 U.S.C. 157 was repealed (effective March 2013), and interference practice under 37 CFR 1.601 et seq. is now residual, replaced generally by AIA derivation proceedings."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 8,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "The 'twice or finally rejected' standard for a notice of appeal spanning a parent and continuing application (MPEP 1205) is unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 9,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Foreign priority requirements under 35 U.S.C. 119(a)-(d) (same invention, WTO/reciprocity requirement) are substantively unchanged."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 10,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Notice to File Missing Parts / 37 CFR 1.136(a) extension practice is generic and unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 11,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Certificate of Correction practice under 37 CFR 1.324 for minor errors (inventor omission, copendency reference errors) is unchanged in substance."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 12,
+    "current_law_status": "OBSOLETE",
+    "audit_note": "Tests the pre-AIA common-ownership prior-art exception under 35 U.S.C. 103(c), which applied only to references that were prior art solely under pre-AIA 102(e)/(f)/(g). The AIA replaced this entire structure with the common-ownership/joint-research-agreement disqualification now codified at 35 U.S.C. 102(b)(2)(C), tied to AIA 102(a)(2) prior art rather than 103(c)."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 13,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Reissue recapture doctrine (MPEP 1412.02) and the 2-year broadening-reissue deadline (35 U.S.C. 251) are unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 14,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Advance-payment-of-fees rule (37 CFR 1.22(a)) is unchanged."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 15,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Final-rejection propriety scenarios (MPEP 706.07) are generic prosecution doctrine unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 16,
+    "current_law_status": "OBSOLETE",
+    "audit_note": "The tested filing-date framework has changed: effective Dec 18, 2013 (AIA technical amendments), at least one claim is no longer required to accord a nonprovisional utility application a filing date under 37 CFR 1.53(b) (claims may be added later). The question's premise -- that only the filing fee is excepted from the filing-date requirements -- is no longer accurate; a claim is now also excepted (except for design applications)."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 17,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "The tested doctrines (essential-elements interrelation under 112 second paragraph, best-mode/enablement distinctions) survive, but citations to '35 U.S.C. 112, first paragraph' and 'second paragraph' are stale (now 112(a)/112(b)). Also, post-AIA, failure to disclose best mode is no longer a basis for invalidating or holding a patent unenforceable in litigation (35 U.S.C. 282(b)(3)(A)), though it remains an examination requirement."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 18,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Jepson-claim preamble admission doctrine (MPEP 2129, In re Fout, In re Ehrreich) is unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 19,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "Interview-timing practice for continuing/substitute applications (MPEP 713.02) is unchanged, but the correct answer's premise -- a continued prosecution application (CPA) -- now applies only to design applications, utility/plant CPA having been eliminated in July 2003."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 20,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Patentable-subject-matter (Chakrabarty), utility (Brana/Cross v. Iizuka), and inherency/anticipation (In re Best) doctrines tested here are unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 21,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "New-matter objection/rejection appealability doctrine (MPEP 2163.06) is substantively unchanged, but the cited tribunal, 'Board of Patent Appeals and Interferences,' was renamed the Patent Trial and Appeal Board by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 22,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Product-by-process claim anticipation/obviousness analysis (MPEP 2113, In re Thorpe, In re Marosi) is unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 23,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "The ethical duties tested (no limitation of malpractice liability, candor regarding adverse authority, truthful statements, safekeeping client funds) persist in substantively similar form, but every citation to 37 CFR Part 10 (Code of Professional Responsibility) is stale: the USPTO replaced Part 10 with 37 CFR Part 11 (Rules of Professional Conduct), effective May 3, 2013."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 24,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Small-entity qualification rules (37 CFR 1.27) tested here -- sole proprietor eligibility, government-license carve-out, written-assertion requirements -- remain accurate. (Current law now also has a third, micro-entity tier under 37 CFR 1.29, but that addition doesn't make any tested statement here incorrect.)"
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 25,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "Remand-basis doctrine (MPEP 1211 series) is substantively unchanged, but the cited tribunal, 'Board of Patent Appeals and Interferences,' was renamed the Patent Trial and Appeal Board by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 26,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "IDS timing/certification rules relative to notice of allowance and issue-fee payment (37 CFR 1.97(e), RCE/continuation strategy) are generic prosecution practice unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 27,
+    "current_law_status": "OBSOLETE",
+    "audit_note": "Tests the pre-AIA 37 CFR 1.131 swearing-behind framework (conception, diligence, NAFTA/WTO reduction-to-practice dates). This priority-contest mechanism is generally unavailable for AIA-governed (first-inventor-to-file) applications."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 28,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Extension-of-time and deposit-account fee-authorization practice tested here is unaffected by the AIA. Note: in the original administration, all five answer choices were accepted as correct, indicating the question itself was recognized as flawed/ambiguous -- a data-quality issue distinct from current-law currency."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 29,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Certificate of mailing/transmission exclusions under 37 CFR 1.8 (foreign-mailed correspondence exception) are unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 30,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Claim-scope/dependent-claim drafting rules (37 CFR 1.75(c), open vs. closed transitional terms) are unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 31,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "The underlying point -- that certain filings no longer need a separate verification statement because of a blanket certification requirement -- likely persists, but the cited authority, 37 CFR 10.18(b), is stale: Part 10 was replaced by Part 11 (current analog 37 CFR 11.18(b)), effective May 2013."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 32,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "Application Data Sheet correction mechanics tested here are conceptually similar today, but 37 CFR 1.76 was substantially revised as part of 2012 AIA implementation rules; current MPEP text explicitly distinguishes 'pre-AIA 37 CFR 1.76(b)' from the current rule, indicating the bibliographic-data-category specifics in this question may not match current 1.76(b)."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 33,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Anticipation 'by others' analysis under 102(a) (MPEP 2132) and claim-arrangement anticipation doctrine (MPEP 2131, In re Bond) survive in materially identical form under AIA 102(a)(1)/(a)(2), which retain the same-inventive-entity exclusion."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 34,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Official-notice traversal and rebuttal practice (MPEP 2144.03) is generic examination doctrine unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 35,
+    "current_law_status": "OBSOLETE",
+    "audit_note": "The design patent term relied on here -- 14 years from grant under 35 U.S.C. 173 -- is no longer current law. The Patent Law Treaties Implementation Act changed the design patent term to 15 years from grant, effective May 13, 2015 (for patents issuing from applications filed on or after that date). The specific terminal-disclaimer dates computed in the correct answer no longer follow from current law."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 36,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "The correct answer's core holding -- only the true inventor may apply for a patent -- remains good law (35 U.S.C. 111/115). But the rationale's cited authority for excluding a non-inventor filer, 37 CFR 1.47(b), was eliminated by the AIA and replaced by the 37 CFR 1.64 substitute-statement mechanism; the rationale also cites 37 CFR 10.68(a)(1), now renumbered to Part 11."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 37,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "The post-appeal-remand treatment of dependent claims automatically standing as if rejected (MPEP 1214.06) persists in substance, but the cited tribunal, 'Board of Patent Appeals and Interferences,' was renamed the Patent Trial and Appeal Board, and the cited rules (37 CFR 1.191, 1.197) were relocated to 37 CFR Part 41 in subsequent rule changes."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 38,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "Answer (B)'s 'unavoidable' delayed-issue-fee-payment standard (former 37 CFR 1.317, separate from the unintentional-delay track) no longer exists as a distinct doctrine: current MPEP/CFR text shows 37 CFR 1.317 as '[Reserved],' with issue-fee revival now consolidated under the unified 'unintentional' standard of 37 CFR 1.137(c). Answers (C) and (D) remain accurate."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 39,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "The shortened-statutory-period / advisory-action time computation doctrine (MPEP 710.02(e)) persists in substance, but the cited appeal-brief rule, former 37 CFR 1.192(a), was relocated to 37 CFR Part 41 (current 37 CFR 41.37) in the 2004 and 2012 appeal-rule overhauls."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 40,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Provisional application requirements (no claim required, 35 U.S.C. 111(b)(2)) are unchanged."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 41,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Obviousness rebuttal-argument doctrine (analogous art, age of references, unsubstantiated unexpected-results assertions, U.S. patent prior art as of filing date) is unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 42,
+    "current_law_status": "OBSOLETE",
+    "audit_note": "Tests the pre-AIA framework for overcoming a 102(e)-based rejection, including 37 CFR 1.131 antedating by proving invention prior to a reference's filing date. Under the AIA's first-inventor-to-file system, prior art status turns on effective filing date rather than date of invention, and 1.131 swearing-behind is generally unavailable for AIA-governed applications."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 43,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Power-of-attorney rules (firm POA not recognized, associate attorney cannot sub-appoint, assignment doesn't itself revoke a POA, principal's revocation revokes sub-powers) are unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 44,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Close-numerical-range obviousness doctrine (MPEP 2144.05, Titanium Metals Corp. v. Banner) is unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 45,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "The petition-not-appeal doctrine for challenging an impermissible new ground of rejection in an examiner's answer persists in substance, but the cited tribunal, 'Board of Patent Appeals and Interferences,' was renamed the Patent Trial and Appeal Board, and the cited rule (former 37 CFR 1.193(a)(2)) was relocated under 37 CFR Part 41."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 46,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Bona fide attempt to advance prosecution / drawing-objection correction rules (37 CFR 1.85(a), MPEP 608.02(b)) are unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 47,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Claim-format restrictions (no drawings/flow diagrams in claims, MPEP 608.01) are unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 48,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Commercial-success secondary-considerations evidence doctrine (MPEP 716.03(b)) is unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 49,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "The enablement-rebuttal evidentiary doctrine (factual evidence vs. attorney argument vs. conclusory affidavits) likely survives in substance, but the cited section, MPEP 2106.02, is now '[Reserved]' -- that section number was repurposed for the post-Alice/Mayo patent-eligibility framework (Chapter 2106 was rewritten starting 2014), so the citation no longer points to relevant content."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "am",
+    "number": 50,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Open-ended-numerical-range indefiniteness doctrine (MPEP 2173.05(c)) is unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 1,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Small-entity re-assertion requirements for continuations/divisionals/reissues vs. no re-assertion needed after an assignment to another small entity (37 CFR 1.27(c)(4), (e)(1)) are substantively unchanged."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 2,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "The 'effective amount' indefiniteness doctrine (MPEP 2173.05(c), In re Fredericksen) is unchanged, but the rationale's citation to '35 U.S.C. 112, second paragraph' is stale (now 112(b))."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 3,
+    "current_law_status": "OBSOLETE",
+    "audit_note": "Tests the pre-AIA 35 U.S.C. 102(d) foreign-patent statutory-bar framework, including the CIP-breaks-priority-chain doctrine tied to it. The AIA restructured 102 into (a)(1)/(a)(2)/(b), eliminating old 102(d) as a freestanding bar category."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 4,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "RCE/suspension-of-action interplay with abandonment computation (MPEP 706.07(h), 709) is generic prosecution procedure unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 5,
+    "current_law_status": "OBSOLETE",
+    "audit_note": "The distractors and analysis are built on the pre-AIA framework in which a 102(a) reference is keyed to the applicant's 'date of invention' and can be antedated via a 37 CFR 1.131 declaration. Under the AIA, 102(a) prior art is keyed to the claimed invention's effective filing date, and 1.131 antedating is generally unavailable for AIA-governed applications."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 6,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Reissue-drafting mechanics (underline/bracket format), no-new-matter rule, and broadening-reissue timing doctrine (MPEP 1411.01, 1412.03) are unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 7,
+    "current_law_status": "OBSOLETE",
+    "audit_note": "Tests the pre-Dec.-2013 filing-date-requirements framework. Effective Dec 18, 2013, at least one claim is no longer required to accord a nonprovisional utility application a filing date (only the oath/declaration and, since even earlier, the fee are deferrable); the question's 'except' framing (oath/declaration alone) no longer matches current law."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 8,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "The general continuation-filing mechanism (copy of prior declaration usable where the same inventors are named and no new matter is added) persists conceptually, but 37 CFR 1.63/1.51(b) were substantially revised as part of the 2012 AIA inventor's-oath/declaration implementation rules."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 9,
+    "current_law_status": "OBSOLETE",
+    "audit_note": "The fact pattern is built entirely on filing under former 37 CFR 1.47 for a non-signing inventor -- a mechanism eliminated by the AIA and replaced by the 37 CFR 1.64 substitute-statement procedure. The application-access analysis (MPEP 106) that follows from that now-obsolete filing posture no longer arises in current practice in the same form."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 10,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "The objection-vs-rejection distinction (MPEP 706.01) is substantively unchanged, but the cited tribunal, 'Board of Patent Appeals and Interferences,' was renamed the Patent Trial and Appeal Board."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 11,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "The core rule -- assignee printing on a patent depends solely on the Issue Fee Transmittal form (PTOL-85B) entry, not on recordation alone -- is unchanged (MPEP 306/307). But the USPTO's PAIR system referenced as a place to check bibliographic data was retired and replaced by Patent Center in November 2022."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 12,
+    "current_law_status": "OBSOLETE",
+    "audit_note": "Built on pre-AIA interference practice under 37 CFR 1.601 et seq. (senior/junior party by filing date, common-ownership rule for declaring interferences). Interference practice is now residual (pre-AIA transitional applications only), having been replaced generally by AIA derivation proceedings for current applications."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 13,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Good-faith small-entity-status-error correction procedure (37 CFR 1.28(c)) is unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 14,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "The rule that only the inventor (not the assignee alone) may file a broadening reissue application, within the 2-year window (35 U.S.C. 251, MPEP 706.03(x)), is unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 15,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Inventorship doctrine (conception as the touchstone, adoption of others' known materials, an employee's mere reduction-to-practice at the inventor's direction, a mere funder not qualifying as inventor; MPEP 2137.01) is unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 16,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Claim construction giving effect to an applicant's own special definition in the specification (MPEP 2111.01) is unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 17,
+    "current_law_status": "OBSOLETE",
+    "audit_note": "Tests the pre-AIA 35 U.S.C. 102(d) foreign-patent statutory-bar framework (same-invention foreign patent granted more than 12 months before the U.S. filing). The AIA restructured 102, eliminating old 102(d) as a freestanding bar category."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 18,
+    "current_law_status": "OBSOLETE",
+    "audit_note": "The correct answer (D) -- that a utility application filed without any claims does not receive a filing date -- is no longer accurate. Effective Dec 18, 2013, at least one claim is no longer required to accord a nonprovisional utility application (other than a design application) a filing date."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 19,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "The utility/enablement relationship doctrine (MPEP 2107.01, In re Brana) is unchanged, but the citation to '35 U.S.C. 112, first paragraph' is stale (now 112(a))."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 20,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Interview-practice-and-authority rules (MPEP 713.01-713.09: no pre-first-action interview outside continuing/substitute apps, no unilateral commitments by an unfamiliar practitioner, no right to an interview after final rejection) are unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 21,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "No-fee petition to make special based on applicant's age (65+) remains current law under 37 CFR 1.102(c)(1), confirmed in the current MPEP 708.02."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 22,
+    "current_law_status": "OBSOLETE",
+    "audit_note": "Tests the pre-AIA common-ownership prior-art exception (35 U.S.C. 103(c)), including its inapplicability to a rejection made directly under 102(e) rather than 103(a). The AIA replaced this framework with the common-ownership disqualification now codified at 35 U.S.C. 102(b)(2)(C)."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 23,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "The defective-brief notify-and-cure practice (MPEP 1206/1208) persists in substance, but the cited rule, former 37 CFR 1.192(c)(7) (grouping-of-claims statement), was relocated to Part 41 and the appeal-brief content requirements were also streamlined in 2012 rule changes."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 24,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "RCE/issue-fee/IDS sequencing rules relative to a notice of allowance (37 CFR 1.114, MPEP 609, 706.07(h)) are generic prosecution procedure unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 25,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Enablement-objection response options (traverse and argue, amend without new matter, file a CIP, cite prior art of record; the bar on curing with a later-filed drawing under 35 U.S.C. 113) are unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 26,
+    "current_law_status": "OBSOLETE",
+    "audit_note": "Tests the pre-AIA 37 CFR 1.131 swearing-behind procedure against a 102(a) reference, including the requirement that antedating evidence establish reduction to practice of every claimed feature. This priority-contest mechanism is generally unavailable for AIA-governed applications."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 27,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Inherency doctrine -- a new-found property of an old, structurally identical product does not confer patentability (MPEP 2112, In re Best) -- is unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 28,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Multiple-dependent-claim fee-calculation rule (37 CFR 1.75(c)) is unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 29,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Enabling-disclosure/operability-presumption doctrine for prior art references (MPEP 2121, 2121.01) is unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 30,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Application-access and status-information rules under 37 CFR 1.14 (published-application redacted-copy limits, coinventor access regardless of declaration signature, specific-reference access to an abandoned parent) remain substantively unchanged."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 31,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "The examiner's-participation-in-oral-argument rule (MPEP 1209) and the other tested points persist in substance, but the cited tribunal, 'Board of Patent Appeals and Interferences,' was renamed the Patent Trial and Appeal Board, and the cited notice-of-appeal signature rule (former 37 CFR 1.196(b)) was relocated under Part 41."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 32,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "The rule that only one credible, specific utility need be shown to satisfy 35 U.S.C. 101, even where another asserted utility is not credible (MPEP 2107.01, 2107.02, In re Gottlieb), is unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 33,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Public access to a published, still-pending application's file contents via written request and fee (rather than direct file inspection) under 37 CFR 1.14(c)(2)/MPEP 103 remains substantively unchanged."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 34,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "The requirement that an examiner consider added new-matter limitations for obviousness purposes while separately rejecting them under 112 (MPEP 2143.03, 706.03(o)) is unchanged, but the citation to '35 U.S.C. 112, first paragraph' is stale (now 112(a))."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 35,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "Ex parte reexamination itself, and the rule that a substantial new question of patentability must rest on patents/printed publications (not bare admissions) (35 U.S.C. 302, MPEP 2217), remain current. But the specific enumerated basis categories -- pre-AIA 102(a), (b), (d), and (e) -- are stale; the AIA restructured 102 into (a)(1)/(a)(2)/(b)."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 36,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "The general policy rationales identified (discouraging removal of apparently-public inventions from the public domain, favoring prompt disclosure, a reasonable period to assess economic value) are still commonly cited in prior-art case law, but they were articulated specifically for the pre-AIA 35 U.S.C. 102(b) statutory-bar framework, which the AIA restructured into a grace-period system under 102(b)(1) tied to the inventor's own prior disclosures rather than a rigid third-party-inclusive one-year bar."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 37,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Small-entity RCE fee reduction (35 U.S.C. 41(h)(1), 37 CFR 1.114/1.17(e)) and the other tested points (no accelerated examination, no early filing-date benefit from certificate of mailing, no fee refund for a non-mistaken payment) remain accurate."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 38,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "The rule that a post-notice-of-appeal amendment removing issues from appeal should be entered by the examiner (MPEP 1207) persists in substance, but the cited tribunal, 'Board of Patent Appeals and Interferences,' was renamed the Patent Trial and Appeal Board, and the cited notice-of-appeal rule (former 37 CFR 1.191(a)) was relocated under Part 41."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 39,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Rebutting a prima facie lack-of-utility showing via argument, claim amendment, 1.132 declaration, or printed-publication evidence (MPEP 2107) is unaffected by the AIA."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 40,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Incorporation-by-reference rules for essential vs. non-essential material (MPEP 608.01(p)), including the bar on incorporating material by hyperlink, remain substantively unchanged."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 41,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "The evidence-of-noncompliance doctrine under 112 second paragraph (MPEP 2172, In re Prater, In re Ehrreich, In re Saunders) is unchanged in substance, but the citation to 'second paragraph of 35 USC 112' is stale (now 112(b)); note also that Nautilus, Inc. v. Biosig Instruments (2014) refined the operative definiteness standard to 'reasonable certainty.'"
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 42,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Product-by-process/method-claim anticipation-via-inherency doctrine (MPEP 2112 series, Verdegaal Bros.) is unaffected by the AIA in its analytical substance."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 43,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Formal/informal-drawing definitional distinctions tested here are unaffected by the AIA. Note: in the original administration, all five answer choices were accepted as correct, indicating the question itself was recognized as flawed/ambiguous -- a data-quality issue distinct from current-law currency."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 44,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "The correct answer (reexamination may be requested without court permission during litigation, 35 U.S.C. 302) and most distractors remain accurate. But distractor (A) rests on interference-loser estoppel and district-court review under 35 U.S.C. 146, which is tied to interference practice now largely obsolete/residual for AIA-governed applications."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 45,
+    "current_law_status": "STILL_VALID",
+    "audit_note": "Post-issue-fee-payment duty-of-disclosure and withdrawal-from-issue procedure (37 CFR 1.313(b), MPEP 609/1308) remain substantively unchanged."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 46,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "The printed-publication accessibility doctrine (public accessibility controls, not actual viewing; MPEP 2128/2128.01) is unchanged, but the citation to '35 USC 102(b)' for this prior-art category is stale; under the AIA, printed-publication prior art of this kind falls under 102(a)(1)."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 47,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "The core In re McGrew holding -- that the one-year timing bar can support an ex parte rejection, not just an inter partes interference -- likely persists, but 35 U.S.C. 135(b) was restructured by the AIA into subsections (b)(1) (tied to derivation proceedings) and (b)(2); current MPEP text explicitly labels the pre-AIA version of this provision as such, indicating the statutory framework has changed."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 48,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "The canceled-matter prior-art doctrine (MPEP 901.01/901.02, In re Lund) likely persists in analogous form, but the citation to '35 U.S.C. 102(e)' for application-publication-type prior art is stale; the AIA relocated this prior-art category to 102(a)(2)."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 49,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "Broadest-reasonable-interpretation and means-plus-function claim-construction doctrine during examination (MPEP 2111, 2111.01) is unchanged in substance, but the citation to '35 U.S.C. 112, 6th paragraph' is stale (now 112(f))."
+  },
+  {
+    "session_date": "2003-04-15",
+    "part": "pm",
+    "number": 50,
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "The written-description/new-matter-vs-priority-denial doctrine for CIP-added claims (MPEP 2163.01, In re Rasmussen) is unchanged, but the citation to '35 U.S.C. 112, first paragraph' is stale (now 112(a))."
+  }
+]

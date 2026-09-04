@@ -6,7 +6,7 @@
   "current_law_caveat": "All three sessions below predate the America Invents Act (enacted 2011) and reflect the pre-AIA, first-to-invent patent system, older interference practice, and MPEP/37 CFR section numbering that has since changed or been repealed. Many questions and model answers are therefore obsolete under current law. Extraction (Phase 2, this pass) captures the raw question/answer/rationale text only, with no current-law judgment applied.",
 
   "current_law_audit": {
-    "status": "In progress -- 1 of 3 sessions audited (pilot)",
+    "status": "In progress -- 2 of 3 sessions audited",
     "methodology": "reference/historical_exams/audit/METHODOLOGY.md",
     "sessions": [
       {
@@ -15,7 +15,12 @@
         "results_file": "reference/historical_exams/audit/2002-10-16_audit.json",
         "summary": "100/100 questions individually assessed against current law (MPEP 9th Ed. Rev. 01.2024, current USC/CFR, and post-2002 case law). 56 STILL_VALID, 24 PARTIALLY_OBSOLETE (doctrine intact, citation/terminology stale), 20 OBSOLETE (tested legal framework no longer applies, overwhelmingly due to the America Invents Act)."
       },
-      {"session_date": "2003-04-15", "status": "Not yet audited"},
+      {
+        "session_date": "2003-04-15",
+        "status": "Audited 2026-09-04",
+        "results_file": "reference/historical_exams/audit/2003-04-15_audit.json",
+        "summary": "100/100 questions individually assessed against current law (MPEP 9th Ed. Rev. 01.2024, current USC/CFR, and post-2003 case law), cross-checked against the local current-MPEP text corpus in mpep_build/ for specific rule/section claims. 51 STILL_VALID, 33 PARTIALLY_OBSOLETE (doctrine intact, citation/terminology stale -- notably pervasive pre-AIA 35 U.S.C. 112 paragraph numbering, BPAI->PTAB renaming, and 37 CFR Part 10->Part 11 ethics-rule renumbering), 16 OBSOLETE (tested legal framework no longer applies -- pre-AIA priority-contest doctrine (102(g)/131 swearing-behind), pre-AIA 102(d)/(e) statutory-bar structure, pre-AIA 103(c) common-ownership exception, eliminated SIR and 37 CFR 1.47 practice, pre-AIA interference practice, the 2013 removal of the claim requirement for a nonprovisional filing date, and the 2015 design-patent-term change from 14 to 15 years)."
+      },
       {"session_date": "2003-10-15", "status": "Not yet audited"}
     ]
   },
