@@ -4,10 +4,12 @@ This documents the process used to audit historical exam questions against
 current law (MPEP Ninth Edition, Revision 01.2024, and the current U.S.
 Code/C.F.R.), per the caveat in `reference/historical_exams/manifest.json`.
 It began as a pilot pass covering only the **2002-10-16** session (100
-questions; see `reference/historical_exams/audit/2002-10-16_audit.json`) and
-has since been applied to the **2003-04-15** session as well (100 questions;
-see `reference/historical_exams/audit/2003-04-15_audit.json`). One session,
-**2003-10-15**, remains unaudited.
+questions; see `reference/historical_exams/audit/2002-10-16_audit.json`), was
+applied to the **2003-04-15** session next (100 questions; see
+`reference/historical_exams/audit/2003-04-15_audit.json`), and has now been
+applied to the third and final session, **2003-10-15** (100 questions; see
+`reference/historical_exams/audit/2003-10-15_audit.json`). All 3 of 3
+historical exam sessions (300 questions total) have been audited.
 
 ## Status values
 
@@ -90,6 +92,75 @@ watching for in future sessions:
     the current MPEP, simply because the section number was reused for an
     unrelated topic.
 
+In addition to the above, the 2003-10-15 pass identified further recurring
+drift patterns worth watching for in any future re-audit:
+  - Pre-AIA 35 U.S.C. 102(e) and 102(g) are now labeled "Pre-AIA" throughout
+    the current MPEP; the AIA analogs are 102(a)(2) (for 102(e)-type patent/
+    published-application prior art) and the elimination of any first-to-
+    invent "reduction to practice by another" rejection basis (for
+    102(g)-type rejections, which have no AIA equivalent at all).
+  - 37 CFR 1.131 antedating declarations (and the associated "swearing
+    behind" case law) apply only to applications examined under the pre-AIA
+    first-to-invent system. AIA-governed applications use 37 CFR 1.130
+    declarations instead, for the narrower purpose of disqualifying certain
+    prior disclosures or joint-research/common-ownership art -- not to
+    prove an earlier invention date generally.
+  - 37 CFR 1.99 (third-party submissions in a pending application) is now
+    "[Reserved]"; it was replaced by 37 CFR 1.290 (preissuance submissions),
+    which has different timing and content requirements.
+  - 37 CFR 1.601 was entirely repurposed by the AIA: the pre-AIA version
+    defined interference practice (including the "same patentable
+    invention" test at 1.601(n)); the current version opens the
+    supplemental-examination rules (35 U.S.C. 257) instead -- a wholly
+    unrelated AIA-created proceeding.
+  - Appeal-to-the-Board procedure was relocated from 37 CFR 1.191-1.197 to
+    37 CFR Part 41 (e.g., notice of appeal now 37 CFR 41.31, examiner's
+    answer content now 41.39, grouping of claims now 41.37(c)(1)(iv)),
+    effective 2004, independent of the BPAI->PTAB renaming of the tribunal
+    itself.
+  - 35 U.S.C. 112's paragraph numbering was replaced by lettered subsections
+    by the Sept. 16, 2012 AIA technical amendments: "first paragraph" ->
+    112(a), "second paragraph" -> 112(b), "fourth paragraph" -> 112(d),
+    "sixth paragraph" (means/step-plus-function) -> 112(f). This is
+    pervasive and was noted for 112(a)/(b) in the 2003-04-15 pass; the
+    2003-10-15 pass additionally found it for 112(d) and 112(f).
+  - The claim requirement for a nonprovisional application's filing date
+    under 37 CFR 1.53(b) was removed effective Dec. 18, 2013 -- a claim is
+    no longer necessary to receive a filing date, only a specification (and
+    drawings if applicable).
+  - The AIA's amendment of 35 U.S.C. 115 (effective Sept. 16, 2012)
+    eliminated citizenship as a required element of the inventor's oath/
+    declaration; current inventor data is limited to name, residence, and
+    mailing address. Any question turning on an oath/ADS citizenship
+    discrepancy is now obsolete.
+  - The domestic-only "in this country" limitation eliminated by the AIA is
+    broader than previously catalogued: it applies not only to the public-
+    use/on-sale bar but to prior "knowledge or use" under old 102(a)
+    generally. Current 35 U.S.C. 102(a)(1) has no geographic limitation for
+    any category of prior art.
+  - The PCT's contracting-state designation requirement was eliminated
+    effective Jan. 1, 2004: filing an international application now
+    automatically designates all Contracting States, so a failure-to-
+    designate defect (and the associated Invitation to Correct) can no
+    longer occur.
+  - The pre-Bilski/Alice "Safe Harbors" computer-related-invention
+    eligibility framework (former MPEP § 2106(IV)(B), built on State Street
+    Bank and AT&T v. Excel Communications' "useful, concrete, and tangible
+    result" test) was abrogated by Bilski v. Kappos (2010) and Alice Corp.
+    v. CLS Bank (2014); current MPEP § 2106 applies the Alice/Mayo two-step
+    framework instead.
+  - The small-entity fee discount was raised from 50% to 60% for most fees
+    effective Dec. 29, 2022 (Unleashing American Innovators Act), and a
+    micro-entity category (75% discount, 35 U.S.C. 123) did not exist at
+    all in 2002-2003. Any question hardcoding "50 percent" as the small-
+    entity discount is now stale as to that figure, even where its
+    categorization of which fees qualify remains correct.
+  - MPEP chapter 200 was substantially reorganized (content on benefit
+    claims, e.g. CIP filing-date entitlement, moved from the 201.xx series
+    into a new 211.xx series), so some pre-reorganization MPEP citations no
+    longer exist at their old numbers even though the underlying doctrine
+    is unchanged.
+
 ## Process
 
 1. **Automated triage.** All current MPEP chapter PDFs (`pdfs/`) were
@@ -140,16 +211,18 @@ watching for in future sessions:
   pass (e.g. the $25 fee-refund de minimis threshold in 37 CFR 1.26); these
   were not individually re-verified against current rule text in either
   pass so far.
-- Two of three sessions have been audited (2002-10-16, 2003-04-15; 200 of
-  300 total historical-exam questions). The 2003-10-15 session has not yet
-  been audited.
+- All three sessions have now been audited (2002-10-16, 2003-04-15,
+  2003-10-15; 300 of 300 total historical-exam questions). No historical
+  exam sessions remain unaudited.
 
 ## Next steps
 
-Apply the same full-manual-read methodology (with local-corpus
-verification, per step 4 above) to the remaining session (2003-10-15),
-then decide, session by session, whether
-STILL_VALID/PARTIALLY_OBSOLETE questions get promoted into the Phase 3
-flashcard bank (with PARTIALLY_OBSOLETE questions rewritten to current
-citations/terminology first) and whether OBSOLETE questions are excluded
-outright or rewritten from scratch under current law.
+With all three sessions audited (2002-10-16: 56/24/20;
+2003-04-15: 51/33/16; 2003-10-15: 54/26/20 for
+STILL_VALID/PARTIALLY_OBSOLETE/OBSOLETE respectively -- 161 STILL_VALID, 83
+PARTIALLY_OBSOLETE, 56 OBSOLETE out of 300 total), the next phase is to
+decide, session by session, whether STILL_VALID/PARTIALLY_OBSOLETE questions
+get promoted into the Phase 3 flashcard bank (with PARTIALLY_OBSOLETE
+questions rewritten to current citations/terminology first) and whether
+OBSOLETE questions are excluded outright or rewritten from scratch under
+current law.
