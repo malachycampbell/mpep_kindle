@@ -241,8 +241,8 @@
   "session_date": "2002-10-16",
   "part": "am",
   "number": 35,
-  "current_law_status": "STILL_VALID",
-  "audit_note": "Original claims constitute their own written-description support (MPEP 608.01(l)) -- unchanged doctrine."
+  "current_law_status": "PARTIALLY_OBSOLETE",
+  "audit_note": "QA-corrected 2026-09-04 (Phase 3 review): Stale pre-AIA '35 U.S.C. 112, second paragraph' citation (should be 112(b)) found unfixed in initial audit pass. Underlying doctrine otherwise unaffected. Originally: Original claims constitute their own written-description support (MPEP 608.01(l)) -- unchanged doctrine."
  },
  {
   "session_date": "2002-10-16",
@@ -297,8 +297,8 @@
   "session_date": "2002-10-16",
   "part": "am",
   "number": 43,
-  "current_law_status": "STILL_VALID",
-  "audit_note": "Indefinite-claim / multiple-interpretation examination procedure (MPEP 2143.03) is a methodology doctrine unaffected by AIA or KSR."
+  "current_law_status": "PARTIALLY_OBSOLETE",
+  "audit_note": "QA-corrected 2026-09-04 (Phase 3 review): Stale pre-AIA '35 USC 112, second paragraph' citation (should be 112(b)) found unfixed in initial audit pass. Underlying doctrine otherwise unaffected. Originally: Indefinite-claim / multiple-interpretation examination procedure (MPEP 2143.03) is a methodology doctrine unaffected by AIA or KSR."
  },
  {
   "session_date": "2002-10-16",
@@ -430,8 +430,8 @@
   "session_date": "2002-10-16",
   "part": "pm",
   "number": 12,
-  "current_law_status": "STILL_VALID",
-  "audit_note": "Same underlying nonsigning-inventor fact pattern as AM-1/PM-12 (37 CFR 1.47(a)) -- see AM-1 note: this rule and MPEP \u00a7409.03 framework were eliminated by the AIA in favor of 37 CFR 1.64 substitute statements."
+  "current_law_status": "OBSOLETE",
+  "audit_note": "QA-corrected 2026-09-04 (Phase 3 review): status field was inconsistent with this entry's own note, which already correctly identified the issue. Same underlying nonsigning-inventor fact pattern as AM-1/PM-12 (37 CFR 1.47(a)) -- see AM-1 note: this rule and MPEP \u00a7409.03 framework were eliminated by the AIA in favor of 37 CFR 1.64 substitute statements."
  },
  {
   "session_date": "2002-10-16",

@@ -94,8 +94,8 @@
     "session_date": "2003-10-15",
     "part": "am",
     "number": 14,
-    "current_law_status": "STILL_VALID",
-    "audit_note": "The Wands undue-experimentation enablement standard and the commensurate-scope requirement (MPEP §§ 2164.01, 2164.06(b)) are unchanged by the AIA."
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "QA-corrected 2026-09-04 (Phase 3 review): Multiple stale pre-AIA '35 U.S.C. § 112, first paragraph' citations (should be 112(a)) found unfixed in initial audit pass. Underlying doctrine otherwise unaffected. Originally: The Wands undue-experimentation enablement standard and the commensurate-scope requirement (MPEP §§ 2164.01, 2164.06(b)) are unchanged by the AIA."
   },
   {
     "session_date": "2003-10-15",
@@ -122,8 +122,8 @@
     "session_date": "2003-10-15",
     "part": "am",
     "number": 18,
-    "current_law_status": "STILL_VALID",
-    "audit_note": "The presumption-of-operability/enabling-disclosure doctrine (MPEP §§ 2121, 2121.01) applies equally to U.S. and foreign references and is unchanged by the AIA."
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "QA-corrected 2026-09-04 (Phase 3 review): MPEP § 2121.01's 'enabling disclosure' test quoted using only the pre-AIA 'before the date of invention' formulation; current MPEP text (mpep_build/026_mpep-2100.txt) uses a dual AIA/pre-AIA formulation ('before the effective filing date... for AIA applications, or at the time the invention was made... for pre-AIA applications'). Underlying doctrine otherwise unaffected. Originally: The presumption-of-operability/enabling-disclosure doctrine (MPEP §§ 2121, 2121.01) applies equally to U.S. and foreign references and is unchanged by the AIA."
   },
   {
     "session_date": "2003-10-15",
@@ -220,8 +220,8 @@
     "session_date": "2003-10-15",
     "part": "am",
     "number": 32,
-    "current_law_status": "STILL_VALID",
-    "audit_note": "The examiner's initial burden to establish a reasonable basis to question enablement, and the rule that enablement analysis follows claim construction (MPEP § 2164.04, In re Wright), are unchanged."
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "QA-corrected 2026-09-04 (Phase 3 review): Stale pre-AIA '35 USC 112, first paragraph' citation (should be 112(a)) found unfixed in initial audit pass. Underlying doctrine otherwise unaffected. Originally: The examiner's initial burden to establish a reasonable basis to question enablement, and the rule that enablement analysis follows claim construction (MPEP § 2164.04, In re Wright), are unchanged."
   },
   {
     "session_date": "2003-10-15",
@@ -241,8 +241,8 @@
     "session_date": "2003-10-15",
     "part": "am",
     "number": 35,
-    "current_law_status": "STILL_VALID",
-    "audit_note": "The written-description 'possession' standard (Vas-Cath v. Mahurkar, In re Gosteli) and the rule that literal support is not required (MPEP § 2163.02) are unchanged."
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "QA-corrected 2026-09-04 (Phase 3 review): Stale pre-AIA '35 USC 112, first paragraph' citations (should be 112(a)) found unfixed in initial audit pass. Underlying doctrine otherwise unaffected. Originally: The written-description 'possession' standard (Vas-Cath v. Mahurkar, In re Gosteli) and the rule that literal support is not required (MPEP § 2163.02) are unchanged."
   },
   {
     "session_date": "2003-10-15",
@@ -388,8 +388,8 @@
     "session_date": "2003-10-15",
     "part": "pm",
     "number": 6,
-    "current_law_status": "STILL_VALID",
-    "audit_note": "The materiality definition for the duty of disclosure (37 CFR 1.56(b)), the rule that only individuals substantively involved in prosecution owe the duty, and the permissibility of prophetic examples (MPEP § 608.01(p)) are unchanged."
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "QA-corrected 2026-09-04 (Phase 3 review): Stale pre-AIA '112, first paragraph' citation (should be 112(a)) found unfixed in initial audit pass. Underlying doctrine otherwise unaffected. Originally: The materiality definition for the duty of disclosure (37 CFR 1.56(b)), the rule that only individuals substantively involved in prosecution owe the duty, and the permissibility of prophetic examples (MPEP § 608.01(p)) are unchanged."
   },
   {
     "session_date": "2003-10-15",
@@ -521,8 +521,8 @@
     "session_date": "2003-10-15",
     "part": "pm",
     "number": 25,
-    "current_law_status": "STILL_VALID",
-    "audit_note": "The rule that unsupported CIP claims are addressed via written-description rejection and/or denial of benefit of the earlier filing date, not a 'new matter' rejection under 132 (In re Rasmussen, MPEP § 2163.01), is unchanged."
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "QA-corrected 2026-09-04 (Phase 3 review): Stale pre-AIA '35 USC 112, first paragraph' citations (should be 112(a)) found unfixed in initial audit pass. Underlying doctrine otherwise unaffected. Originally: The rule that unsupported CIP claims are addressed via written-description rejection and/or denial of benefit of the earlier filing date, not a 'new matter' rejection under 132 (In re Rasmussen, MPEP § 2163.01), is unchanged."
   },
   {
     "session_date": "2003-10-15",
@@ -605,15 +605,15 @@
     "session_date": "2003-10-15",
     "part": "pm",
     "number": 37,
-    "current_law_status": "STILL_VALID",
-    "audit_note": "The well-established-utility doctrine (a POSITA's immediate appreciation of a specific, substantial, credible utility can satisfy 101/112 even without an express statement in the specification, MPEP § 2107.02) is unchanged."
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "QA-corrected 2026-09-04 (Phase 3 review): Stale pre-AIA '35 U.S.C. 112, First Paragraph' citation (should be 112(a)) found unfixed in initial audit pass. Underlying doctrine otherwise unaffected. Originally: The well-established-utility doctrine (a POSITA's immediate appreciation of a specific, substantial, credible utility can satisfy 101/112 even without an express statement in the specification, MPEP § 2107.02) is unchanged."
   },
   {
     "session_date": "2003-10-15",
     "part": "pm",
     "number": 38,
-    "current_law_status": "STILL_VALID",
-    "audit_note": "The rule that assignee information printed on an issued patent comes solely from the Issue Fee Transmittal form (PTOL-85B), regardless of recorded assignments or publication data (MPEP §§ 306, 307), is unchanged."
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "QA-corrected 2026-09-04 (Phase 3 review): Choice B referenced the retired 'Patent Application Information Retrieval (PAIR) system' (retired Nov. 2022, replaced by Patent Center) as though it were a current lookup option. Underlying doctrine otherwise unaffected. Originally: The rule that assignee information printed on an issued patent comes solely from the Issue Fee Transmittal form (PTOL-85B), regardless of recorded assignments or publication data (MPEP §§ 306, 307), is unchanged."
   },
   {
     "session_date": "2003-10-15",
@@ -668,8 +668,8 @@
     "session_date": "2003-10-15",
     "part": "pm",
     "number": 46,
-    "current_law_status": "STILL_VALID",
-    "audit_note": "The broadest-reasonable-interpretation anticipation doctrine (a genus term like 'wood' reads on any species, including pine, even though the specification's preferred embodiment is balsa) under MPEP §§ 2111, 2131 is unchanged."
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "QA-corrected 2026-09-04 (Phase 3 review): Stale pre-AIA '35 USC 112, second paragraph' citations (should be 112(b)) found unfixed in initial audit pass. Underlying doctrine otherwise unaffected. Originally: The broadest-reasonable-interpretation anticipation doctrine (a genus term like 'wood' reads on any species, including pine, even though the specification's preferred embodiment is balsa) under MPEP §§ 2111, 2131 is unchanged."
   },
   {
     "session_date": "2003-10-15",

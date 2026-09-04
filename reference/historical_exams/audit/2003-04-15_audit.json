@@ -206,8 +206,8 @@
     "session_date": "2003-04-15",
     "part": "am",
     "number": 30,
-    "current_law_status": "STILL_VALID",
-    "audit_note": "Claim-scope/dependent-claim drafting rules (37 CFR 1.75(c), open vs. closed transitional terms) are unaffected by the AIA."
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "QA-corrected 2026-09-04 (Phase 3 review): Stale pre-AIA '35 U.S.C. § 112, second paragraph' citation (should be 112(b)) found unfixed in initial audit pass. Underlying doctrine otherwise unaffected. Originally: Claim-scope/dependent-claim drafting rules (37 CFR 1.75(c), open vs. closed transitional terms) are unaffected by the AIA."
   },
   {
     "session_date": "2003-04-15",
@@ -549,8 +549,8 @@
     "session_date": "2003-04-15",
     "part": "pm",
     "number": 29,
-    "current_law_status": "STILL_VALID",
-    "audit_note": "Enabling-disclosure/operability-presumption doctrine for prior art references (MPEP 2121, 2121.01) is unaffected by the AIA."
+    "current_law_status": "PARTIALLY_OBSOLETE",
+    "audit_note": "QA-corrected 2026-09-04 (Phase 3 review): MPEP § 2121.01's 'enabling disclosure' test quoted using only the pre-AIA 'before the date of invention' formulation; current MPEP text (mpep_build/026_mpep-2100.txt) uses a dual AIA/pre-AIA formulation ('before the effective filing date... for AIA applications, or at the time the invention was made... for pre-AIA applications'). Underlying doctrine otherwise unaffected. Originally: Enabling-disclosure/operability-presumption doctrine for prior art references (MPEP 2121, 2121.01) is unaffected by the AIA."
   },
   {
     "session_date": "2003-04-15",

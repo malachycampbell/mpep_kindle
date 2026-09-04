@@ -8,7 +8,8 @@ A personal study-tools repository for the USPTO Registration Examination ("Paten
 - **Draft study guides** -- `markdown_chapter_summaries/` and `MPEP_Patent_Bar_Study_Materials/` are earlier, lighter-verification drafts (see notes below). They are **not** treated as authoritative sources for the audited study modules being built.
 - **`reference/`** -- the audited source library for the study-tool project: exam-defining materials (MPEP, Trial Practice Guide, professional-conduct rules, PPH notice), supporting/validation materials (35 U.S.C., 37 CFR), and administrative references (General Requirements Bulletin, Prometric tutorial). See `reference/exam_source_manifest/manifest.json` for full provenance/version/checksum metadata on every source.
 - **`reference/historical_exams/`** -- the 3 USPTO registration-exam sessions ever officially released (Oct 2002, Apr 2003, Oct 2003; recovered via the Wayback Machine, since USPTO's original hosting is gone), plus `extract.py` and its structured JSON output in `extracted/`. These predate the AIA and current MPEP, so content here is **not** assumed current law until audited -- see `audit/METHODOLOGY.md` and `audit/2002-10-16_audit.json` / `audit/2003-04-15_audit.json` / `audit/2003-10-15_audit.json` (all 3 of 3 sessions audited).
-- **Flashcard and practice-exam modules** -- in progress. See project status below.
+- **`flashcards/`** -- the Phase 3 flashcard bank promoted from the audited historical exams: 238 cards in `bank.json` (STILL_VALID questions as-is, PARTIALLY_OBSOLETE questions rewritten to current citations/terminology), with `skipped.json` documenting exclusions and `README.md` documenting the promotion policy and schema. Content only so far -- no interface yet.
+- **Flashcard and practice-exam modules** -- content promotion in progress, interface not started. See project status below.
 
 ## Project status
 
@@ -19,7 +20,7 @@ This repo is being extended with two GitHub Pages study modules: a mobile flashc
 | 0 -- Repository inspection & architecture | Done |
 | 1 -- Source-library acquisition (`reference/`) | Done |
 | 2 -- Historical exam extraction & current-law audit | Extraction done; audit complete (3 of 3 sessions) |
-| 3 -- Flashcard bank & GitHub Pages interface | Not started |
+| 3 -- Flashcard bank & GitHub Pages interface | Content promoted (238 cards in `flashcards/bank.json`); interface not started |
 | 4 -- Practice-exam architecture design | Not started |
 | 5 -- Practice-exam generator & interface | Not started |
 | 6 -- Iteration | Not started |

@@ -214,15 +214,38 @@ drift patterns worth watching for in any future re-audit:
 - All three sessions have now been audited (2002-10-16, 2003-04-15,
   2003-10-15; 300 of 300 total historical-exam questions). No historical
   exam sessions remain unaudited.
+- **QA correction (2026-09-04, during Phase 3 flashcard-promotion work).**
+  Building the flashcard bank surfaced 14 misclassified entries across all
+  three audit files: 13 STILL_VALID entries that actually contained an
+  unfixed stale citation or terminology issue (pre-AIA 35 U.S.C. 112
+  paragraph numbering in 10 entries, the pre-AIA-only "date of invention"
+  enabling-disclosure formulation in 2 entries, and a reference to the
+  retired PAIR system in 1 entry) -- these were corrected to
+  PARTIALLY_OBSOLETE -- and 1 STILL_VALID entry (2002-10-16 PM-12) whose own
+  audit_note already said the tested 37 CFR 1.47 nonsigning-inventor
+  framework "were eliminated by the AIA," an internal contradiction with its
+  STILL_VALID status field; corrected to OBSOLETE. This was caught by
+  cross-referencing every promoted flashcard's full text against the
+  current MPEP corpus one more time at the flashcard layer, not just at the
+  per-question audit layer -- a useful check for any future re-audit pass,
+  since a single-question read can miss a citation embedded deep in a long
+  rationale that a broader pattern-based re-scan across all 100 questions in
+  a session catches. See each corrected entry's audit_note (prefixed
+  "QA-corrected 2026-09-04") for the specific fix and the original note it
+  replaced. Corrected per-session totals: 2002-10-16 53/26/21,
+  2003-04-15 49/35/16, 2003-10-15 45/35/20.
 
 ## Next steps
 
-With all three sessions audited (2002-10-16: 56/24/20;
-2003-04-15: 51/33/16; 2003-10-15: 54/26/20 for
-STILL_VALID/PARTIALLY_OBSOLETE/OBSOLETE respectively -- 161 STILL_VALID, 83
-PARTIALLY_OBSOLETE, 56 OBSOLETE out of 300 total), the next phase is to
-decide, session by session, whether STILL_VALID/PARTIALLY_OBSOLETE questions
-get promoted into the Phase 3 flashcard bank (with PARTIALLY_OBSOLETE
-questions rewritten to current citations/terminology first) and whether
-OBSOLETE questions are excluded outright or rewritten from scratch under
-current law.
+With all three sessions audited and QA-corrected (2002-10-16: 53/26/21;
+2003-04-15: 49/35/16; 2003-10-15: 45/35/20 for
+STILL_VALID/PARTIALLY_OBSOLETE/OBSOLETE respectively -- 147 STILL_VALID, 96
+PARTIALLY_OBSOLETE, 57 OBSOLETE out of 300 total), Phase 3 has promoted the
+STILL_VALID and PARTIALLY_OBSOLETE questions into a flashcard bank at
+`flashcards/bank.json` (238 cards; see `flashcards/README.md` for the
+promotion policy and schema). 57 OBSOLETE questions were excluded outright,
+and 5 further questions were excluded despite a non-OBSOLETE status because
+the original USPTO answer key credited multiple/all choices as flawed or
+ambiguous (see `flashcards/skipped.json`). Rewriting OBSOLETE questions from
+scratch under current law remains a possible future extension but is
+original content creation rather than promotion, and has not been done.
