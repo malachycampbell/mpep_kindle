@@ -121,6 +121,25 @@ fieldset input[type="radio"] {
   transform: scale(1.1);
 }
 
+.limit-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  font-size: 0.98rem;
+  padding: 6px 0;
+}
+
+.limit-row input[type="number"] {
+  width: 4.5em;
+  padding: 8px 10px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--surface-2);
+  color: var(--text);
+  font-size: 0.98rem;
+}
+
 .shuffle-toggle {
   display: block;
   padding: 10px 0 4px;

@@ -107,7 +107,13 @@
     const statuses = Array.from(document.querySelectorAll(".f-status:checked")).map((el) => el.value);
     const progressMode = document.querySelector('input[name="f-progress"]:checked').value;
     const shuffle = document.getElementById("f-shuffle").checked;
-    return { sessions, parts, statuses, progressMode, shuffle };
+    const limit = parseLimit(document.getElementById("f-limit").value);
+    return { sessions, parts, statuses, progressMode, shuffle, limit };
+  }
+
+  function parseLimit(raw) {
+    const n = parseInt(raw, 10);
+    return Number.isInteger(n) && n > 0 ? n : null;
   }
 
   function filterCards(filters) {
@@ -124,8 +130,13 @@
   function updateDeckCount() {
     const filters = currentFilters();
     const matched = filterCards(filters);
+    const studying = filters.limit ? Math.min(filters.limit, matched.length) : matched.length;
     const label = document.getElementById("deck-count");
-    label.textContent = matched.length === 1 ? "1 card matches" : matched.length + " cards match";
+    let text = matched.length === 1 ? "1 card matches" : matched.length + " cards match";
+    if (filters.limit && studying < matched.length) {
+      text += " (studying " + studying + ")";
+    }
+    label.textContent = text;
     document.getElementById("start-btn").disabled = matched.length === 0;
     return matched;
   }
@@ -134,11 +145,13 @@
     document
       .querySelectorAll(".f-session, .f-part, .f-status, input[name='f-progress']")
       .forEach((el) => el.addEventListener("change", updateDeckCount));
+    document.getElementById("f-limit").addEventListener("input", updateDeckCount);
 
     document.getElementById("start-btn").addEventListener("click", () => {
       const filters = currentFilters();
       let cards = filterCards(filters);
       if (filters.shuffle) shuffleInPlace(cards);
+      if (filters.limit) cards = cards.slice(0, filters.limit);
       startSession(cards);
     });
   }
