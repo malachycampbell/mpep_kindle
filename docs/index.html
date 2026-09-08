@@ -20,6 +20,26 @@
       <h2>Build a deck</h2>
 
       <fieldset>
+        <legend>Mode</legend>
+        <label><input type="radio" name="f-mode" value="study" checked> Flashcards <span class="hint">(self-graded, no spaced repetition pressure)</span></label>
+        <label><input type="radio" name="f-mode" value="quiz"> Quiz <span class="hint">(pick an answer, auto-graded, optional timer)</span></label>
+      </fieldset>
+
+      <fieldset id="quiz-options" hidden>
+        <legend>Timer</legend>
+        <label class="limit-row">
+          <select id="f-timer">
+            <option value="0">No timer</option>
+            <option value="10">10 minutes</option>
+            <option value="20">20 minutes</option>
+            <option value="30">30 minutes</option>
+            <option value="45">45 minutes</option>
+            <option value="60">60 minutes</option>
+          </select>
+        </label>
+      </fieldset>
+
+      <fieldset>
         <legend>Session</legend>
         <label><input type="checkbox" class="f-session" value="2002-10-16" checked> Oct 16, 2002</label>
         <label><input type="checkbox" class="f-session" value="2003-04-15" checked> Apr 15, 2003</label>
@@ -95,6 +115,38 @@
         <button class="grade-btn grade-again" data-grade="again">Missed it</button>
         <button class="grade-btn grade-good" data-grade="good">Got it</button>
       </div>
+    </div>
+  </section>
+
+  <!-- QUIZ SCREEN -->
+  <section id="screen-quiz" class="screen" hidden>
+    <div class="study-progress">
+      <div class="progress-bar"><div id="quiz-progress-fill" class="progress-fill"></div></div>
+      <span id="quiz-progress-label">1 / 1</span>
+      <span id="quiz-timer" class="quiz-timer" hidden></span>
+      <button id="quiz-end-btn" class="text-btn">End</button>
+    </div>
+
+    <div id="quiz-card" class="card">
+      <div class="card-meta">
+        <span id="quiz-source"></span>
+        <span id="quiz-badge" class="badge"></span>
+      </div>
+
+      <div class="card-question" id="quiz-question"></div>
+
+      <div id="quiz-choices" class="choices"></div>
+
+      <div id="quiz-result-block" class="answer-block" hidden>
+        <p class="answer-line" id="quiz-result-line"></p>
+        <div id="quiz-explanation" class="explanation"></div>
+        <div id="quiz-revisions" class="revisions" hidden></div>
+      </div>
+    </div>
+
+    <div class="study-actions">
+      <button id="quiz-submit-btn" class="primary-btn" disabled>Submit answer</button>
+      <button id="quiz-next-btn" class="primary-btn" hidden>Next question</button>
     </div>
   </section>
 

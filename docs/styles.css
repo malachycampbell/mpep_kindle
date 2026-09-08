@@ -115,6 +115,20 @@ fieldset label {
   font-size: 0.98rem;
 }
 
+.hint {
+  color: var(--text-dim);
+  font-size: 0.85rem;
+}
+
+#quiz-options select {
+  padding: 8px 10px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--surface-2);
+  color: var(--text);
+  font-size: 0.95rem;
+}
+
 fieldset input[type="checkbox"],
 fieldset input[type="radio"] {
   margin-right: 8px;
@@ -258,6 +272,47 @@ fieldset input[type="radio"] {
 .choice.correct {
   border-color: var(--good);
   background: color-mix(in srgb, var(--good) 16%, var(--surface-2));
+}
+
+button.choice {
+  width: 100%;
+  text-align: left;
+  font-family: inherit;
+  cursor: pointer;
+  appearance: none;
+  -webkit-appearance: none;
+}
+
+button.choice:hover {
+  border-color: var(--accent);
+}
+
+button.choice.selected {
+  border-color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 16%, var(--surface-2));
+}
+
+button.choice.incorrect {
+  border-color: var(--bad);
+  background: color-mix(in srgb, var(--bad) 16%, var(--surface-2));
+}
+
+button.choice.incorrect .choice-letter { color: var(--bad); }
+
+button.choice:disabled {
+  cursor: default;
+  opacity: 1;
+}
+
+.quiz-timer {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--text-dim);
+  white-space: nowrap;
+}
+
+.quiz-timer.low {
+  color: var(--bad);
 }
 
 .choice-letter {

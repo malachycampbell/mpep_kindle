@@ -9,8 +9,8 @@ A personal study-tools repository for the USPTO Registration Examination ("Paten
 - **`reference/`** -- the audited source library for the study-tool project: exam-defining materials (MPEP, Trial Practice Guide, professional-conduct rules, PPH notice), supporting/validation materials (35 U.S.C., 37 CFR), and administrative references (General Requirements Bulletin, Prometric tutorial). See `reference/exam_source_manifest/manifest.json` for full provenance/version/checksum metadata on every source.
 - **`reference/historical_exams/`** -- the 3 USPTO registration-exam sessions ever officially released (Oct 2002, Apr 2003, Oct 2003; recovered via the Wayback Machine, since USPTO's original hosting is gone), plus `extract.py` and its structured JSON output in `extracted/`. These predate the AIA and current MPEP, so content here is **not** assumed current law until audited -- see `audit/METHODOLOGY.md` and `audit/2002-10-16_audit.json` / `audit/2003-04-15_audit.json` / `audit/2003-10-15_audit.json` (all 3 of 3 sessions audited).
 - **`flashcards/`** -- the Phase 3 flashcard bank promoted from the audited historical exams: 238 cards in `bank.json` (STILL_VALID questions as-is, PARTIALLY_OBSOLETE questions rewritten to current citations/terminology), with `skipped.json` documenting exclusions and `README.md` documenting the promotion policy and schema.
-- **`docs/`** -- the GitHub Pages flashcard study interface (mobile-first, filter by exam session/part/current-law status, tap-to-flip cards, self-graded review with a Leitner-style spaced-repetition schedule stored in the browser's `localStorage`). Reads `docs/data/bank.json`, a synced copy of `flashcards/bank.json` -- see `flashcards/README.md` for the sync step. Not yet enabled in repo Settings -> Pages.
-- **Flashcard module** -- content and interface both built (Phase 3). **Practice-exam module** -- not started (Phase 4+). See project status below.
+- **`docs/`** -- the GitHub Pages study interface: live at https://malachycampbell.github.io/mpep_kindle/. Mobile-first, filter by exam session/part/current-law status, deck size, and shuffle, with two modes -- self-graded **Flashcards** and auto-graded, optionally-timed **Quiz** -- sharing one Leitner-style spaced-repetition progress store in the browser's `localStorage`. See `docs/README.md` for the mode details and the scope decisions behind Quiz mode. Reads `docs/data/bank.json`, a synced copy of `flashcards/bank.json` -- see `flashcards/README.md` for the sync step.
+- **Flashcard module** -- content and interface (both study modes) built and live (Phase 3-5, combined -- see project status). **No practice-exam-format mock or new question-generation pipeline** -- see `docs/README.md`'s "Scope decisions".
 
 ## Project status
 
@@ -21,9 +21,8 @@ This repo is being extended with two GitHub Pages study modules: a mobile flashc
 | 0 -- Repository inspection & architecture | Done |
 | 1 -- Source-library acquisition (`reference/`) | Done |
 | 2 -- Historical exam extraction & current-law audit | Extraction done; audit complete (3 of 3 sessions) |
-| 3 -- Flashcard bank & GitHub Pages interface | Done -- 238 cards in `flashcards/bank.json`; interface built in `docs/`, needs Pages enabled in repo Settings |
-| 4 -- Practice-exam architecture design | Not started |
-| 5 -- Practice-exam generator & interface | Not started |
+| 3 -- Flashcard bank & GitHub Pages interface | Done -- 238 cards in `flashcards/bank.json`; interface live on GitHub Pages |
+| 4/5 -- Practice-exam mode (scoped down, see `docs/README.md`) | Done -- Quiz mode added to the same interface (auto-graded, optional timer), reusing the existing 238-card bank; no new question-generation pipeline or strict 100-question mock exam simulation, by deliberate scope choice |
 | 6 -- Iteration | Not started |
 
 ## A note on content accuracy

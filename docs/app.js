@@ -17,14 +17,22 @@
   let deckIndex = 0;
   let sessionStats = { seen: 0, again: 0, good: 0 };
 
+  let quizStats = { correct: 0, incorrect: 0, skipped: 0 };
+  let quizSelected = null;
+  let quizAnswered = false;
+  let quizTimerId = null;
+  let quizEndAt = null;
+
   const screens = {
     setup: document.getElementById("screen-setup"),
     study: document.getElementById("screen-study"),
+    quiz: document.getElementById("screen-quiz"),
     summary: document.getElementById("screen-summary"),
     stats: document.getElementById("screen-stats"),
   };
 
   function showScreen(name) {
+    if (name !== "quiz") stopQuizTimer();
     Object.values(screens).forEach((s) => (s.hidden = true));
     screens[name].hidden = false;
   }
@@ -108,7 +116,9 @@
     const progressMode = document.querySelector('input[name="f-progress"]:checked').value;
     const shuffle = document.getElementById("f-shuffle").checked;
     const limit = parseLimit(document.getElementById("f-limit").value);
-    return { sessions, parts, statuses, progressMode, shuffle, limit };
+    const mode = document.querySelector('input[name="f-mode"]:checked').value;
+    const timerMinutes = parseInt(document.getElementById("f-timer").value, 10) || 0;
+    return { sessions, parts, statuses, progressMode, shuffle, limit, mode, timerMinutes };
   }
 
   function parseLimit(raw) {
@@ -147,12 +157,24 @@
       .forEach((el) => el.addEventListener("change", updateDeckCount));
     document.getElementById("f-limit").addEventListener("input", updateDeckCount);
 
+    document.querySelectorAll('input[name="f-mode"]').forEach((el) =>
+      el.addEventListener("change", () => {
+        const mode = document.querySelector('input[name="f-mode"]:checked').value;
+        document.getElementById("quiz-options").hidden = mode !== "quiz";
+        document.getElementById("start-btn").textContent = mode === "quiz" ? "Start quiz" : "Start studying";
+      })
+    );
+
     document.getElementById("start-btn").addEventListener("click", () => {
       const filters = currentFilters();
       let cards = filterCards(filters);
       if (filters.shuffle) shuffleInPlace(cards);
       if (filters.limit) cards = cards.slice(0, filters.limit);
-      startSession(cards);
+      if (filters.mode === "quiz") {
+        startQuizSession(cards, filters.timerMinutes);
+      } else {
+        startSession(cards);
+      }
     });
   }
 
@@ -280,6 +302,182 @@
   document.getElementById("summary-again-btn").addEventListener("click", () => {
     updateDeckCount();
     showScreen("setup");
+  });
+
+  // ---------- quiz screen ----------
+
+  function startQuizSession(cards, timerMinutes) {
+    deck = cards;
+    deckIndex = 0;
+    quizStats = { correct: 0, incorrect: 0, skipped: 0 };
+    quizSelected = null;
+    quizAnswered = false;
+    showScreen("quiz");
+    renderQuizQuestion();
+    startQuizTimer(timerMinutes);
+  }
+
+  function renderQuizQuestion() {
+    const card = deck[deckIndex];
+    quizSelected = null;
+    quizAnswered = false;
+
+    document.getElementById("quiz-progress-label").textContent = (deckIndex + 1) + " / " + deck.length;
+    document.getElementById("quiz-progress-fill").style.width = (deckIndex / deck.length * 100) + "%";
+
+    document.getElementById("quiz-source").textContent = sourceLabel(card.source);
+
+    const badge = document.getElementById("quiz-badge");
+    if (card.current_law_status === "STILL_VALID") {
+      badge.textContent = "Still valid";
+      badge.className = "badge valid";
+    } else {
+      badge.textContent = "Updated";
+      badge.className = "badge updated";
+    }
+
+    document.getElementById("quiz-question").textContent = card.question;
+
+    const choicesEl = document.getElementById("quiz-choices");
+    choicesEl.innerHTML = "";
+    Object.keys(card.choices)
+      .sort()
+      .forEach((letter) => {
+        const btn = document.createElement("button");
+        btn.type = "button";
+        btn.className = "choice";
+        btn.dataset.letter = letter;
+        btn.innerHTML =
+          '<span class="choice-letter">' + letter + "</span><span>" + escapeHtml(card.choices[letter]) + "</span>";
+        btn.addEventListener("click", () => selectQuizChoice(letter));
+        choicesEl.appendChild(btn);
+      });
+
+    document.getElementById("quiz-result-block").hidden = true;
+    document.getElementById("quiz-submit-btn").hidden = false;
+    document.getElementById("quiz-submit-btn").disabled = true;
+    document.getElementById("quiz-next-btn").hidden = true;
+  }
+
+  function selectQuizChoice(letter) {
+    if (quizAnswered) return;
+    quizSelected = letter;
+    document.querySelectorAll("#quiz-choices .choice").forEach((btn) => {
+      btn.classList.toggle("selected", btn.dataset.letter === letter);
+    });
+    document.getElementById("quiz-submit-btn").disabled = false;
+  }
+
+  function submitQuizAnswer() {
+    if (!quizSelected || quizAnswered) return;
+    quizAnswered = true;
+
+    const card = deck[deckIndex];
+    const correct = quizSelected === card.answer;
+    grade(card.id, correct ? "good" : "again");
+    quizStats[correct ? "correct" : "incorrect"] += 1;
+
+    document.querySelectorAll("#quiz-choices .choice").forEach((btn) => {
+      btn.disabled = true;
+      if (btn.dataset.letter === card.answer) btn.classList.add("correct");
+      if (btn.dataset.letter === quizSelected && !correct) btn.classList.add("incorrect");
+    });
+
+    document.getElementById("quiz-result-line").innerHTML = correct
+      ? "<strong>Correct!</strong>"
+      : "<strong>Incorrect</strong> — correct answer: (" + card.answer + ")";
+    document.getElementById("quiz-explanation").textContent = card.explanation;
+
+    const revisionsEl = document.getElementById("quiz-revisions");
+    if (card.revisions && card.revisions.length) {
+      revisionsEl.hidden = false;
+      revisionsEl.innerHTML =
+        "<strong>Updated from the original question:</strong><ul>" +
+        card.revisions.map((r) => "<li>" + escapeHtml(r) + "</li>").join("") +
+        "</ul>";
+    } else {
+      revisionsEl.hidden = true;
+      revisionsEl.innerHTML = "";
+    }
+
+    document.getElementById("quiz-result-block").hidden = false;
+    document.getElementById("quiz-submit-btn").hidden = true;
+    const nextBtn = document.getElementById("quiz-next-btn");
+    nextBtn.hidden = false;
+    nextBtn.textContent = deckIndex + 1 >= deck.length ? "Finish quiz" : "Next question";
+  }
+
+  function nextQuizQuestion() {
+    if (deckIndex + 1 >= deck.length) {
+      document.getElementById("quiz-progress-fill").style.width = "100%";
+      finishQuizSession();
+    } else {
+      deckIndex += 1;
+      renderQuizQuestion();
+    }
+  }
+
+  function finishQuizSession() {
+    stopQuizTimer();
+    const answered = quizStats.correct + quizStats.incorrect;
+    quizStats.skipped = deck.length - answered;
+    const percent = deck.length ? Math.round((quizStats.correct / deck.length) * 100) : 0;
+
+    showScreen("summary");
+    let text = "Quiz complete — " + quizStats.correct + " / " + deck.length + " correct (" + percent + "%).";
+    if (quizStats.skipped > 0) {
+      text += " " + quizStats.skipped + " question" + (quizStats.skipped === 1 ? "" : "s") + " unanswered when time ran out.";
+    }
+    document.getElementById("summary-text").textContent = text;
+  }
+
+  function formatClock(ms) {
+    const totalSeconds = Math.max(0, Math.ceil(ms / 1000));
+    const m = Math.floor(totalSeconds / 60);
+    const s = totalSeconds % 60;
+    return m + ":" + String(s).padStart(2, "0");
+  }
+
+  function startQuizTimer(minutes) {
+    const timerEl = document.getElementById("quiz-timer");
+    if (!minutes || minutes <= 0) {
+      timerEl.hidden = true;
+      return;
+    }
+    quizEndAt = Date.now() + minutes * 60 * 1000;
+    timerEl.hidden = false;
+    timerEl.classList.remove("low");
+    tickQuizTimer();
+    quizTimerId = setInterval(tickQuizTimer, 1000);
+  }
+
+  function tickQuizTimer() {
+    const timerEl = document.getElementById("quiz-timer");
+    const remaining = quizEndAt - Date.now();
+    timerEl.textContent = formatClock(remaining);
+    timerEl.classList.toggle("low", remaining <= 60 * 1000);
+    if (remaining <= 0) {
+      stopQuizTimer();
+      finishQuizSession();
+    }
+  }
+
+  function stopQuizTimer() {
+    if (quizTimerId) {
+      clearInterval(quizTimerId);
+      quizTimerId = null;
+    }
+    quizEndAt = null;
+  }
+
+  document.getElementById("quiz-submit-btn").addEventListener("click", submitQuizAnswer);
+  document.getElementById("quiz-next-btn").addEventListener("click", nextQuizQuestion);
+  document.getElementById("quiz-end-btn").addEventListener("click", () => {
+    if (quizStats.correct + quizStats.incorrect > 0) finishQuizSession();
+    else {
+      stopQuizTimer();
+      showScreen("setup");
+    }
   });
 
   // ---------- stats screen ----------
