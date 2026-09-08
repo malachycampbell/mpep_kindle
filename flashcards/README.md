@@ -71,6 +71,22 @@ A JSON array of card objects:
 flawed/ambiguous questions (see above); OBSOLETE questions are not separately
 listed here since they're already identifiable via the audit files.
 
+## GitHub Pages interface
+
+`../docs/` is the study interface (`docs/index.html`, `docs/app.js`,
+`docs/styles.css`) that GitHub Pages serves. It reads its data from
+`docs/data/bank.json`, which is a **copy** of this `bank.json` (GitHub Pages
+can only serve files under the configured Pages source folder, so the app
+can't fetch `../flashcards/bank.json` directly). After editing `bank.json`,
+re-sync the copy:
+
+```
+cp flashcards/bank.json docs/data/bank.json
+```
+
+Progress (per-card review state) is stored client-side in the browser's
+`localStorage`, not in this repo.
+
 ## Known limitations
 
 Same caveats as `reference/historical_exams/audit/METHODOLOGY.md`: this is

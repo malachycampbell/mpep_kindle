@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Patent Bar Flashcards</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <h1>Patent Bar Flashcards</h1>
+  <button id="stats-btn" class="icon-btn" aria-label="Progress stats">Stats</button>
+</header>
+
+<main id="app">
+
+  <!-- SETUP SCREEN -->
+  <section id="screen-setup" class="screen">
+    <div class="panel">
+      <h2>Build a deck</h2>
+
+      <fieldset>
+        <legend>Session</legend>
+        <label><input type="checkbox" class="f-session" value="2002-10-16" checked> Oct 16, 2002</label>
+        <label><input type="checkbox" class="f-session" value="2003-04-15" checked> Apr 15, 2003</label>
+        <label><input type="checkbox" class="f-session" value="2003-10-15" checked> Oct 15, 2003</label>
+      </fieldset>
+
+      <fieldset>
+        <legend>Session part</legend>
+        <label><input type="checkbox" class="f-part" value="am" checked> AM</label>
+        <label><input type="checkbox" class="f-part" value="pm" checked> PM</label>
+      </fieldset>
+
+      <fieldset>
+        <legend>Current-law status</legend>
+        <label><input type="checkbox" class="f-status" value="STILL_VALID" checked> Still valid</label>
+        <label><input type="checkbox" class="f-status" value="PARTIALLY_OBSOLETE" checked> Updated (partially obsolete)</label>
+      </fieldset>
+
+      <fieldset>
+        <legend>Progress</legend>
+        <label><input type="radio" name="f-progress" value="all" checked> All cards</label>
+        <label><input type="radio" name="f-progress" value="due"> Due for review</label>
+        <label><input type="radio" name="f-progress" value="new"> New only</label>
+      </fieldset>
+
+      <label class="shuffle-toggle">
+        <input type="checkbox" id="f-shuffle" checked> Shuffle order
+      </label>
+
+      <p id="deck-count" class="deck-count">0 cards match</p>
+
+      <button id="start-btn" class="primary-btn" disabled>Start studying</button>
+    </div>
+  </section>
+
+  <!-- STUDY SCREEN -->
+  <section id="screen-study" class="screen" hidden>
+    <div class="study-progress">
+      <div class="progress-bar"><div id="progress-fill" class="progress-fill"></div></div>
+      <span id="progress-label">1 / 1</span>
+      <button id="end-session-btn" class="text-btn">End</button>
+    </div>
+
+    <div id="card" class="card">
+      <div class="card-meta">
+        <span id="card-source"></span>
+        <span id="card-badge" class="badge"></span>
+      </div>
+
+      <div class="card-question" id="card-question"></div>
+
+      <div id="card-choices" class="choices"></div>
+
+      <div id="card-answer" class="answer-block" hidden>
+        <p class="answer-line"><strong>Correct answer: <span id="card-correct-letter"></span></strong></p>
+        <div id="card-explanation" class="explanation"></div>
+        <div id="card-revisions" class="revisions" hidden></div>
+      </div>
+    </div>
+
+    <div class="study-actions">
+      <button id="reveal-btn" class="primary-btn">Show answer</button>
+      <div id="grade-actions" class="grade-actions" hidden>
+        <button class="grade-btn grade-again" data-grade="again">Missed it</button>
+        <button class="grade-btn grade-good" data-grade="good">Got it</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- SESSION SUMMARY -->
+  <section id="screen-summary" class="screen" hidden>
+    <div class="panel">
+      <h2>Session complete</h2>
+      <p id="summary-text"></p>
+      <button id="summary-again-btn" class="primary-btn">Build another deck</button>
+    </div>
+  </section>
+
+  <!-- STATS SCREEN -->
+  <section id="screen-stats" class="screen" hidden>
+    <div class="panel">
+      <h2>Progress</h2>
+      <div id="stats-body"></div>
+      <button id="stats-back-btn" class="text-btn">Back</button>
+      <button id="reset-progress-btn" class="text-btn danger">Reset all progress</button>
+    </div>
+  </section>
+
+</main>
+
+<footer class="disclaimer">
+  Content promoted from historical USPTO registration-exam questions and audited against current law
+  by an LLM-driven process, not reviewed by a registered patent practitioner. See
+  <code>flashcards/README.md</code> for methodology and limitations.
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
