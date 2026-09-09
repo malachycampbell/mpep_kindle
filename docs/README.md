@@ -18,6 +18,9 @@ in the same `localStorage` store:
   patent practice before the historical questions are readable. Filterable
   by topic and level (Vocabulary / Concepts / Practice); the topic list is
   generated from whatever topics actually exist in the data, not hardcoded.
+  The Practice level (level 2, bridge multiple-choice cards) has no content
+  yet, so its checkbox is disabled and marked "coming soon" rather than
+  offered as a selectable option that would just match zero cards.
 - **Historical Exam Bank** -- the original 238-card audited-Patent-Bar-question
   deck (`flashcards/bank.json`), unchanged from Phase 3. Filterable by exam
   session/part/current-law status, same as before.
