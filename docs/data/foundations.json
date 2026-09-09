@@ -2056,5 +2056,955 @@
       { "authority": "MPEP", "citation": "MPEP § 608.04" },
       { "authority": "MPEP", "citation": "MPEP § 608.01(l)" }
     ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-001",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "statutory-bases",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 35 U.S.C. 101 require?",
+    "answer_text": "That the claimed subject matter be a new and useful process, machine, manufacture, or composition of matter (or an improvement of one) — the basic \"is this even the kind of thing patent law covers\" eligibility requirement.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 101", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-002",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "statutory-bases",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 35 U.S.C. 102 require?",
+    "answer_text": "Novelty: a person is entitled to a patent unless the claimed invention was already patented, described in a printed publication, in public use, on sale, or otherwise available to the public before its effective filing date.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 102(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-003",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "statutory-bases",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 35 U.S.C. 103 require?",
+    "answer_text": "Non-obviousness: even if the claimed invention isn't identically disclosed anywhere (so it passes §102), a patent still can't be obtained if the differences between it and the prior art are such that the invention as a whole would have been obvious, before its effective filing date, to a person having ordinary skill in the art.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 103", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-004",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "§101 vs. §102 vs. §103 — what question does each one actually ask?",
+    "answer_text": "§101 asks: is this the right *kind* of thing (a process, machine, manufacture, or composition of matter) at all? §102 asks: is it *new* — was it already disclosed to the public? §103 asks: even if it's technically new, is it *too small a step* — would it have been obvious to a skilled person given what was already known? A claim has to clear all three (plus §112) to be patentable.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 101", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 102(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 103", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-005",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "prior-art-basics",
+    "level": 1,
+    "card_type": "qa",
+    "question": "What specific kinds of disclosure count as prior art under §102(a)(1)?",
+    "answer_text": "A prior patent, a printed publication, a public use, an offer for sale, or the invention being otherwise available to the public — any of these, occurring before the claimed invention's effective filing date, can be prior art.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 102(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-006",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "prior-art-basics",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a \"printed publication\" for prior-art purposes?",
+    "answer_text": "Any reference that was accessible to the public — it doesn't have to be literally printed on paper. A webpage, conference slide deck, or thesis on a library shelf can all qualify if a member of the interested public could actually find and read it.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 2128" }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-007",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "prior-art-basics",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What are the \"public use\" and \"on sale\" bars?",
+    "answer_text": "Two of the specific triggering events listed in §102(a)(1): an invention that was in public use, or offered for sale, before its effective filing date can be prior art against it — even without any printed document describing it.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 102(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-008",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "anticipation",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is \"anticipation\"?",
+    "answer_text": "A claim is anticipated (i.e., \"not novel\") under §102 when a single prior-art reference discloses every element required by the claim, under the claim's broadest reasonable interpretation.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 2131" }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-009",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Why does anticipation require \"every element\" in a single reference?",
+    "answer_text": "Because anticipation is about whether the invention is actually new — if one reference already shows the whole thing, there's nothing new left to patent. If even one claimed element is missing from that one reference, the claim isn't anticipated by it (though it might still be rejected as obvious by combining that reference with others).",
+    "why_it_matters": "This is the single most application-ready foundations concept for prior-art questions: \"a reference contains every limitation of a claim\" is the textbook fact pattern for anticipation, not obviousness.",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 2131" }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-010",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Prior art vs. anticipation — how do these relate?",
+    "answer_text": "\"Prior art\" is the raw material — everything that was publicly known before the effective filing date. \"Anticipation\" is a specific legal conclusion: that a single piece of prior art discloses every element of a particular claim, defeating its novelty. Prior art can also be used without anticipating a claim outright — e.g., combined with other references to support an obviousness rejection instead.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 2131" }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-011",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "obviousness",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does \"obviousness\" mean under §103?",
+    "answer_text": "That the differences between the claimed invention and the prior art are small enough that the invention as a whole would have been obvious, before its effective filing date, to a person having ordinary skill in the art — even though no single reference discloses the whole thing.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 103", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-012",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "obviousness",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a \"person having ordinary skill in the art\" (POSITA / PHOSITA)?",
+    "answer_text": "The hypothetical, reasonably skilled (but not expert or inventive) worker in the relevant technical field, whose perspective the law uses to judge whether an invention would have been obvious. The statute itself uses this exact phrase.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 103", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-013",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Anticipation vs. obviousness — what's the core difference?",
+    "answer_text": "Anticipation requires one reference to disclose every claimed element already — no gap, no room for the examiner's own reasoning. Obviousness allows for a gap between the prior art and the claim, but says a skilled person would have bridged it anyway (often by combining more than one reference or applying common sense/knowledge in the field).",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 2131" },
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 103", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-014",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "§102 vs. §103 — how are novelty and obviousness different legal questions?",
+    "answer_text": "§102 (novelty) asks a yes/no factual question: was this exact thing already disclosed? §103 (obviousness) is a broader legal judgment call: even granting that it's technically new, was the gap between it and what was known small enough that a skilled person would have found it obvious? A claim can pass §102 (it's technically new) and still fail §103 (the tweak was obvious).",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 102(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 103", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-015",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "obviousness",
+    "level": 1,
+    "card_type": "qa",
+    "question": "What are \"secondary considerations\" in an obviousness analysis?",
+    "answer_text": "Objective evidence — like commercial success, long-felt but unsolved need, failure of others to solve the problem, or unexpected results — that can support an argument that an invention was not actually obvious, even where the prior art looks close on paper.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 2141" }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-016",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "prior-art-basics",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a \"reference\" (in a rejection)?",
+    "answer_text": "The specific prior-art document (a patent, publication, etc.) the examiner cites as evidence to support a rejection. In rejecting claims, the examiner must cite the best references available and clearly explain how each one is relevant.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.104(c)(2)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-017",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "prior-art-basics",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a \"disclosure\"?",
+    "answer_text": "What a document (or the application itself) actually reveals or teaches — the substantive content that can be compared against a claim, as opposed to just the document's existence.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 2121" }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-018",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Why is a claim's effective filing date the key reference point for both §102 and §103?",
+    "answer_text": "Under current (AIA) law, both novelty and obviousness are measured against what was publicly known before the claimed invention's effective filing date — not against when the inventor actually invented it. That's why \"effective filing date\" (rather than \"date of invention\") is the term that keeps showing up throughout patentability analysis.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 102(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 103", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-019",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "double-patenting",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is \"double patenting\"?",
+    "answer_text": "A doctrine that prevents an applicant/patentee from getting more than one patent for the same, or a patentably indistinct, invention — because that would unjustifiably extend the exclusivity period beyond a single patent's term.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 804" }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-020",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "double-patenting",
+    "level": 1,
+    "card_type": "qa",
+    "question": "What is \"statutory\" double patenting?",
+    "answer_text": "The bar on claiming the exact same invention twice, grounded directly in 35 U.S.C. 101's statement that an inventor \"may obtain a patent\" (singular) — one patent per invention.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 101", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "MPEP", "citation": "MPEP § 804" }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-021",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "double-patenting",
+    "level": 1,
+    "card_type": "qa",
+    "question": "What is \"obviousness-type\" (nonstatutory) double patenting?",
+    "answer_text": "A judicially created doctrine (not written directly into the statute) that bars claiming an invention that isn't identical to, but is merely an obvious variation of, an invention already claimed in another patent or application by the same applicant.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 804" }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-022",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Statutory vs. obviousness-type double patenting — what's the practical difference?",
+    "answer_text": "Statutory double patenting (claiming the literal same invention twice) can't be fixed — one of the claim sets simply has to go. Obviousness-type double patenting (claiming a merely obvious variant) CAN be overcome, typically by filing a terminal disclaimer.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 804" }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-023",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "double-patenting",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a terminal disclaimer?",
+    "answer_text": "A filing by which a patentee/applicant gives up (\"disclaims\") the terminal (ending) part of a patent's term, typically so that it expires on the same date as a related patent, in order to overcome an obviousness-type double patenting rejection.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.321(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-024",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "How does a terminal disclaimer actually fix an obviousness-type double patenting problem?",
+    "answer_text": "It doesn't remove the obvious overlap between the two inventions — it neutralizes the harm the doctrine cares about. The disclaimer makes the later patent expire no later than the earlier one, and requires the two to stay commonly owned, so the same invention-family can't be enforced for longer than a single patent term would allow, or by unrelated owners.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.321(c)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "MPEP", "citation": "MPEP § 804" }
+    ]
+  },
+  {
+    "id": "foundation-deadlines-and-procedure-001",
+    "deck": "foundation",
+    "topic": "deadlines-and-procedure",
+    "subtopic": "reply-periods",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is the \"statutory period\" for replying to an Office action?",
+    "answer_text": "The maximum time an applicant can be given to reply: six months from the date the Office action was mailed/given, unless the examiner sets a shorter period (never less than 30 days). Failing to prosecute within this period results in abandonment.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 133", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-deadlines-and-procedure-002",
+    "deck": "foundation",
+    "topic": "deadlines-and-procedure",
+    "subtopic": "reply-periods",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a \"shortened statutory period\" (SSP)?",
+    "answer_text": "A reply period the examiner actually sets in a given Office action, which is shorter than the full six-month statutory maximum (most non-final/final Office actions set a 3-month SSP in practice) — \"shortened\" relative to the statute's own six-month ceiling, not shortened from some other baseline.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.134", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-deadlines-and-procedure-003",
+    "deck": "foundation",
+    "topic": "deadlines-and-procedure",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Statutory period vs. shortened statutory period — how do they relate?",
+    "answer_text": "The statutory period (six months) is the absolute ceiling set by 35 U.S.C. 133. The shortened statutory period is whatever shorter period (as short as 30 days) the examiner actually sets in a specific Office action. Every SSP lives inside the statutory period — it can shorten it, but an extension can never stretch a reply period beyond the six-month statutory ceiling.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 133", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "37 CFR", "citation": "37 CFR 1.134", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-deadlines-and-procedure-004",
+    "deck": "foundation",
+    "topic": "deadlines-and-procedure",
+    "subtopic": "reply-periods",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is an \"extension of time\"?",
+    "answer_text": "A petition (with a fee) that lets an applicant push out a shortened statutory period — up to 5 months past the period originally set, but never beyond the six-month statutory maximum.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.136(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-deadlines-and-procedure-005",
+    "deck": "foundation",
+    "topic": "deadlines-and-procedure",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Can you extend a reply period past six months by paying enough extension fees?",
+    "answer_text": "No. Extensions of time can push a shortened statutory period out further, but never beyond the six-month statutory maximum set by 35 U.S.C. 133 — that ceiling can't be bought past with any amount of fees.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.136(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-deadlines-and-procedure-006",
+    "deck": "foundation",
+    "topic": "deadlines-and-procedure",
+    "subtopic": "dates",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is the \"receipt date\"?",
+    "answer_text": "The actual date the USPTO received a given piece of correspondence — stamped on it when it comes in, regardless of what the correspondence is or whether it's complete.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.6(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-deadlines-and-procedure-007",
+    "deck": "foundation",
+    "topic": "deadlines-and-procedure",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Filing date vs. receipt date — are these the same thing?",
+    "answer_text": "Not necessarily. \"Receipt date\" is simply the day the Office received any correspondence. \"Filing date\" is a specific legal milestone for an application — the date it satisfies the minimum requirements to actually be accorded a filing date. A defective submission can be received on one date but not accorded a filing date until a later date, once the deficiency is fixed.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.6(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "37 CFR", "citation": "37 CFR 1.53(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-deadlines-and-procedure-008",
+    "deck": "foundation",
+    "topic": "deadlines-and-procedure",
+    "subtopic": "proof-of-timeliness",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a certificate of mailing?",
+    "answer_text": "A statement, attached to correspondence, certifying the date it was deposited with the U.S. Postal Service as first-class mail before a deadline — correspondence mailed this way is treated as timely filed as of that mailing date, not whenever it actually arrives.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.8(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-deadlines-and-procedure-009",
+    "deck": "foundation",
+    "topic": "deadlines-and-procedure",
+    "subtopic": "proof-of-timeliness",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a certificate of transmission?",
+    "answer_text": "The equivalent of a certificate of mailing, but for correspondence sent by fax or through the USPTO's electronic filing system — it certifies the date of transmission, and the correspondence is treated as timely filed as of that date.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.8(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-deadlines-and-procedure-010",
+    "deck": "foundation",
+    "topic": "deadlines-and-procedure",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Certificate of mailing vs. certificate of transmission — are these two different procedures?",
+    "answer_text": "No — they're the same underlying rule (37 CFR 1.8), just naming the certificate after whichever method was actually used: \"mailing\" for physical first-class mail, \"transmission\" for fax or electronic filing. Both work the same way: the certified date, not the arrival date, counts for timeliness.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.8(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-deadlines-and-procedure-011",
+    "deck": "foundation",
+    "topic": "deadlines-and-procedure",
+    "subtopic": "reply-periods",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does it mean for a reply to be \"timely\"?",
+    "answer_text": "It was filed within the period for reply as set by the Office action — including any extension of time properly obtained — but not later than the six-month statutory maximum.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.136(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-deadlines-and-procedure-012",
+    "deck": "foundation",
+    "topic": "deadlines-and-procedure",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "What happens if a reply isn't filed on time?",
+    "answer_text": "The application becomes abandoned — automatically, by operation of the deadline itself, without any further action needed from the examiner (unless the Office action says otherwise).",
+    "why_it_matters": "This links the deadline vocabulary in this topic straight back to abandonment — missing a timely reply is the single most common way an application actually goes abandoned.",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.135(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-deadlines-and-procedure-013",
+    "deck": "foundation",
+    "topic": "deadlines-and-procedure",
+    "subtopic": "dates",
+    "level": 1,
+    "card_type": "qa",
+    "question": "What happens if a deadline falls on a Saturday, Sunday, or federal holiday?",
+    "answer_text": "The action can be taken (or the fee paid) on the next business day that isn't a Saturday, Sunday, or federal holiday in the District of Columbia — the deadline effectively rolls forward.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.7(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-001",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "appeals-and-petitions",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is the PTAB?",
+    "answer_text": "The Patent Trial and Appeal Board — the USPTO tribunal that decides ex parte appeals from examiner rejections, as well as post-grant trial proceedings like IPR and PGR.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 134(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-002",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "appeals-and-petitions",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is an appeal (to the PTAB)?",
+    "answer_text": "The route by which an applicant whose claims have been rejected twice can have the primary examiner's decision reviewed by the Patent Trial and Appeal Board, after paying the appeal fee.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 134(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-003",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "appeals-and-petitions",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a petition (to the Director)?",
+    "answer_text": "A request to the Director for review of an examiner's action or requirement that is NOT subject to appeal to the PTAB or the courts — used for procedural/formal matters rather than the substantive merits of patentability.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.181(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-004",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Appeal vs. petition — how do you know which one applies?",
+    "answer_text": "This is the same merits/form split as rejection vs. objection: a decision on the merits of patentability (a rejection) goes to the PTAB by appeal. A decision on a procedural or formal matter goes to the Director by petition. The two routes are mutually exclusive for a given issue — you don't get to choose whichever you'd prefer.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 1201" },
+      { "authority": "37 CFR", "citation": "37 CFR 1.181(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-005",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "pct",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is the PCT?",
+    "answer_text": "The Patent Cooperation Treaty — an international treaty that lets an applicant file a single international application that can later be pursued in many member countries, instead of filing separate applications in each country up front. The USPTO acts as a Receiving Office for international applications filed by U.S. nationals/residents.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 361(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-006",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "pct",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is an \"international application\"?",
+    "answer_text": "A single application filed under the PCT that, once it designates the United States, has the same effect as a national application regularly filed in the USPTO, as of its international filing date.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 363", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-007",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "pct",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is the \"national stage\"?",
+    "answer_text": "The phase where an international application actually enters processing in a specific country's patent office — for the U.S., that means paying the national fee and filing a copy of the international application (with translation, if needed) in the USPTO.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 371(b)-(c)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-008",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "International application vs. national stage — how do these fit together?",
+    "answer_text": "The international application is the single filing made under the PCT, effective in all designated countries from one filing date. \"Entering the national stage\" is the separate step, taken later in each country where the applicant actually wants protection, of paying that country's fees and satisfying its requirements so the application starts being processed there — for the U.S., that's when it becomes an ordinary U.S. nonprovisional application for examination purposes.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 363", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 371(b)-(c)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-009",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "post-grant",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is \"publication\" of a patent application?",
+    "answer_text": "The USPTO's publication of the application's content to the public, generally required about 18 months after the earliest filing date for which benefit is sought — regardless of whether the application ever issues as a patent.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 122(b)(1)(A)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-010",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Publication vs. issuance — are these the same event?",
+    "answer_text": "No, and they're not even necessarily related. Publication is the roughly-18-months-after-filing disclosure of the application's content, which happens whether or not the application ever gets allowed. Issuance is the actual grant of a patent, which only happens after allowance and payment of the issue fee — some applications are published but abandoned and never issue at all.",
+    "why_it_matters": "Beginners often assume \"publication\" means the patent was granted — it doesn't; it just means the application became publicly visible.",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 122(b)(1)(A)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 151(a)-(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-011",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "post-grant",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a maintenance fee?",
+    "answer_text": "A recurring fee, due at 4, 8, and 12 years after grant, required to keep a utility patent in force. Design and plant patents never require maintenance fees.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.362(a)-(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-012",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Issue fee vs. maintenance fee — how are these different?",
+    "answer_text": "The issue fee is a one-time fee that must be paid to actually get the patent granted after allowance. Maintenance fees are separate, recurring fees paid later (at 4/8/12 years) to keep an already-issued utility patent in force — and they only apply to utility patents, not design or plant patents.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 151(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "37 CFR", "citation": "37 CFR 1.362(a)-(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-013",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "post-grant",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a reissue application?",
+    "answer_text": "An application, filed by surrendering an existing patent, to fix an error that makes the patent wholly or partly inoperative or invalid — e.g., a defective specification or drawing, or claiming more or less than the patentee was entitled to. It's examined for the unexpired remainder of the original patent's term, and can't introduce new matter.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 251(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-014",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "post-grant",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is (ex parte) reexamination?",
+    "answer_text": "A proceeding, which any person (including the patent owner) may request at any time, asking the Office to re-examine one or more claims of an issued patent based on prior art patents or printed publications.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 302", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-015",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Reissue vs. reexamination — what's the fundamental difference?",
+    "answer_text": "Reissue fixes the patentee's own error in what was claimed or disclosed, by surrendering the original patent and getting a corrected one in its place. Reexamination doesn't involve surrendering anything — it's a re-examination of whether the existing claims are actually patentable in light of prior art, and can be requested by anyone, not just the patent owner.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 251(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 302", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-016",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Can a reissue application add new matter to fix the error?",
+    "answer_text": "No — the same new-matter bar that applies during ordinary prosecution applies to reissue too: no new matter may be introduced into a reissue application.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 251(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-017",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "post-grant",
+    "level": 1,
+    "card_type": "qa",
+    "question": "What is supplemental examination?",
+    "answer_text": "A proceeding a patent owner can request to have the Office consider, reconsider, or correct information believed relevant to the patent — the Director must conclude it within 3 months by issuing a certificate stating whether the information raises a substantial new question of patentability.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 257(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-018",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Supplemental examination vs. reexamination — how do they connect?",
+    "answer_text": "Supplemental examination is patent-owner-only and can cover any information the owner wants considered or corrected (not just prior art patents/publications). If the resulting certificate finds a substantial new question of patentability, the Director then orders an actual reexamination to resolve it — so a supplemental examination request can trigger a reexamination, but the two are distinct proceedings with different eligibility and scope.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 257(a)-(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 302", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
   }
 ]
