@@ -380,5 +380,1681 @@
       { "authority": "MPEP", "citation": "MPEP Foreword" },
       { "authority": "MPEP", "citation": "MPEP Introduction" }
     ]
+  },
+  {
+    "id": "foundation-application-anatomy-001",
+    "deck": "foundation",
+    "topic": "application-anatomy",
+    "subtopic": "specification-pieces",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is the \"title of the invention\"?",
+    "answer_text": "A short, specific title (500 characters or fewer) identifying the invention, which appears as a heading at the start of the specification.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.72(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-anatomy-002",
+    "deck": "foundation",
+    "topic": "application-anatomy",
+    "subtopic": "specification-pieces",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is the abstract (of a patent application)?",
+    "answer_text": "A short summary of the technical disclosure, preferably no more than 150 words, appearing on its own page. Its purpose is to let the Office and the public quickly see the gist of the disclosure without reading the whole specification.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.72(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-anatomy-003",
+    "deck": "foundation",
+    "topic": "application-anatomy",
+    "subtopic": "specification-pieces",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What are the drawings, and when are they required?",
+    "answer_text": "The figures illustrating the invention. The applicant must furnish a drawing whenever one is necessary to understand the subject matter being claimed — which, in practice, is true of most mechanical/electrical/structural inventions.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.81(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-anatomy-004",
+    "deck": "foundation",
+    "topic": "application-anatomy",
+    "subtopic": "claim-forms",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is an independent claim?",
+    "answer_text": "A claim that stands on its own — it does not refer back to, or incorporate the limitations of, any other claim.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(c)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-anatomy-005",
+    "deck": "foundation",
+    "topic": "application-anatomy",
+    "subtopic": "claim-forms",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a dependent claim?",
+    "answer_text": "A claim that refers back to an earlier claim and adds a further limitation to it. A dependent claim is automatically construed to include everything the claim it refers to already requires, plus its own added limitation.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(d)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-anatomy-006",
+    "deck": "foundation",
+    "topic": "application-anatomy",
+    "subtopic": "claim-forms",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a multiple dependent claim?",
+    "answer_text": "A dependent claim that refers back to more than one other claim, in the alternative (e.g., \"the widget of claim 1 or 2\"). It can't be used as the basis for another multiple dependent claim.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(e)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "37 CFR", "citation": "37 CFR 1.75(c)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-anatomy-007",
+    "deck": "foundation",
+    "topic": "application-anatomy",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Independent vs. dependent claim — why does the distinction matter?",
+    "answer_text": "An independent claim defines a complete invention on its own and tends to be broader. A dependent claim is automatically narrower than the claim it depends on, because it includes every limitation of that claim plus at least one more. So within a claim set, dependent claims are never broader than the independent claim they depend on.",
+    "why_it_matters": "This is why applicants often draft a broad independent claim plus a series of narrowing dependent claims as \"fallback\" positions — if the broad claim gets rejected, a narrower dependent claim may still survive.",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(c)-(d)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-anatomy-008",
+    "deck": "foundation",
+    "topic": "application-anatomy",
+    "subtopic": "claim-forms",
+    "level": 1,
+    "card_type": "qa",
+    "question": "What is a claim's \"preamble\"?",
+    "answer_text": "The introductory part of a claim, before the transitional phrase (like \"comprising\"), that generally describes the conventional/known elements of the claimed combination — as opposed to the part that recites what's actually new.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.75(e)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-anatomy-009",
+    "deck": "foundation",
+    "topic": "application-anatomy",
+    "subtopic": "inventor-statements",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is the inventor's oath or declaration?",
+    "answer_text": "A statement, executed by each inventor, that must be filed as part of a nonprovisional application.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.63(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-anatomy-010",
+    "deck": "foundation",
+    "topic": "application-anatomy",
+    "subtopic": "inventor-statements",
+    "level": 1,
+    "card_type": "qa",
+    "question": "What must an inventor's oath or declaration actually say?",
+    "answer_text": "Among other things, it must state that the person executing it believes the named inventor (or joint inventor) to be an original inventor of the claimed invention in the application.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.63(a)(3)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-anatomy-011",
+    "deck": "foundation",
+    "topic": "application-anatomy",
+    "subtopic": "disclosure-duty",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is an Information Disclosure Statement (IDS)?",
+    "answer_text": "A submission by which an applicant brings information (prior art references, related litigation, etc.) that may be material to patentability to the examiner's attention.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.97(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-anatomy-012",
+    "deck": "foundation",
+    "topic": "application-anatomy",
+    "subtopic": "disclosure-duty",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is the \"duty to disclose\" (duty of candor)?",
+    "answer_text": "The duty every individual associated with filing and prosecuting an application has to disclose to the USPTO all information known to that individual to be material to patentability.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.56(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-anatomy-013",
+    "deck": "foundation",
+    "topic": "application-anatomy",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "IDS vs. duty to disclose — how do these relate?",
+    "answer_text": "The duty to disclose is the ongoing legal obligation to tell the USPTO about material information. The IDS is the specific paperwork mechanism used to actually do that — filing an IDS is how an applicant satisfies the duty for the information it lists.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.56(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "37 CFR", "citation": "37 CFR 1.97(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-anatomy-014",
+    "deck": "foundation",
+    "topic": "application-anatomy",
+    "subtopic": "disclosure-duty",
+    "level": 1,
+    "card_type": "qa",
+    "question": "What must an IDS actually list?",
+    "answer_text": "A list of all the patents, publications, applications, or other information being submitted for the examiner's consideration — each one identified clearly enough for the examiner to locate it (e.g., a U.S. patent by inventor, number, and issue date).",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.98(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-anatomy-015",
+    "deck": "foundation",
+    "topic": "application-anatomy",
+    "subtopic": "specification-pieces",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is an Application Data Sheet (ADS)?",
+    "answer_text": "A sheet (or sheets) that can be submitted with an application to set out bibliographic-type information — applicant and inventor information, priority/benefit claims, and similar data — separately from the specification itself.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.76(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-anatomy-016",
+    "deck": "foundation",
+    "topic": "application-anatomy",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Specification vs. claims — are these two separate documents?",
+    "answer_text": "No. The claims are the concluding part of the specification, not a separate document — the statute requires the specification to \"conclude with\" one or more claims. People often talk about \"the spec\" and \"the claims\" as if they were different things because they serve different purposes (describing vs. defining legal scope), but a claim is literally the last section of the specification.",
+    "why_it_matters": "This is a common beginner misconception — questions that refer to \"the specification\" can still be talking about the claims, since the claims are part of it.",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "37 CFR", "citation": "37 CFR 1.77(b)(11)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-anatomy-017",
+    "deck": "foundation",
+    "topic": "application-anatomy",
+    "subtopic": "specification-pieces",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is the \"Background of the Invention\" section?",
+    "answer_text": "A section of the specification that sets the stage — typically describing the field of the invention and the problem or limitation in existing approaches that the invention addresses.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.77(b)(7)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-anatomy-018",
+    "deck": "foundation",
+    "topic": "application-anatomy",
+    "subtopic": "specification-pieces",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is the \"Summary of the Invention\" section?",
+    "answer_text": "A section of the specification that briefly states what the invention is, generally in less detail than the full description that follows.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.77(b)(8)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-anatomy-019",
+    "deck": "foundation",
+    "topic": "application-anatomy",
+    "subtopic": "specification-pieces",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is the \"Detailed Description of the Invention\" section?",
+    "answer_text": "The section of the specification that fully describes the invention and how to make and use it — this is where the written-description and enablement requirements are primarily satisfied.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.77(b)(10)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-anatomy-020",
+    "deck": "foundation",
+    "topic": "application-anatomy",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "What order do a specification's sections normally appear in?",
+    "answer_text": "Title, then (as applicable) cross-references to related applications, background of the invention, summary of the invention, brief description of the drawings, detailed description of the invention, the claim(s), and the abstract.",
+    "why_it_matters": "Knowing the order helps you recognize which section a fact pattern is describing — e.g., a question quoting text right before \"the claims\" is almost always describing the detailed description.",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.77(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-types-001",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "basic-types",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a provisional application?",
+    "answer_text": "A U.S. national application filed under 35 U.S.C. 111(b) that establishes an early filing date but is never examined and never itself becomes a patent — it automatically goes abandoned 12 months after filing unless a nonprovisional application claims its benefit in time.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 111(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "MPEP", "citation": "MPEP § 201.04" }
+    ]
+  },
+  {
+    "id": "foundation-application-types-002",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "basic-types",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a nonprovisional application?",
+    "answer_text": "A regular U.S. national application filed under 35 U.S.C. 111(a) — the type that actually gets examined and can mature into a patent (as opposed to a provisional application, which can't).",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 201.02" }
+    ]
+  },
+  {
+    "id": "foundation-application-types-003",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Provisional vs. nonprovisional — what can each one actually do?",
+    "answer_text": "A provisional application only secures an early filing date for one year and is never examined — it needs no claims and can never issue as a patent on its own. A nonprovisional application is the one that's actually examined and can issue as a patent; it can claim the benefit of an earlier-filed provisional's filing date if filed within 12 months.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 111(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 119(e)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-types-004",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "continuing-applications",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a continuation application?",
+    "answer_text": "A later application for the same invention(s) disclosed in an earlier, still-pending (\"copending\") application, claiming its benefit. A continuation cannot add any new disclosure beyond what the earlier application already disclosed.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 201.07" }
+    ]
+  },
+  {
+    "id": "foundation-application-types-005",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "continuing-applications",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a divisional application?",
+    "answer_text": "A later application, carved out of an earlier application, claiming a different independent or distinct invention that was disclosed (but not the focus of the claims) in the earlier application — typically filed in response to a restriction requirement. Like a continuation, it can't add new disclosure.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 201.06" },
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 121", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-types-006",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "continuing-applications",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a continuation-in-part (CIP) application?",
+    "answer_text": "A later application, filed while an earlier application is still pending, that repeats some or all of the earlier application's disclosure but also adds new subject matter not in the earlier disclosure.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 201.08" }
+    ]
+  },
+  {
+    "id": "foundation-application-types-007",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "continuing-applications",
+    "level": 1,
+    "card_type": "qa",
+    "question": "What is a \"continuing application\"?",
+    "answer_text": "The umbrella term for a continuation, divisional, or continuation-in-part application — any later application that relies on an earlier-filed application under 35 U.S.C. 120, 121, 365(c), or 386(c).",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 201.02" }
+    ]
+  },
+  {
+    "id": "foundation-application-types-008",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Continuation vs. divisional — what's the actual difference?",
+    "answer_text": "Both claim only subject matter already disclosed in the earlier application and add no new matter. The difference is *why* they're filed: a continuation pursues the same invention further (e.g., with different claims), while a divisional pursues a different, independent or distinct invention that was disclosed but not claimed in the earlier application — most often split off because of a restriction requirement.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 201.06" },
+      { "authority": "MPEP", "citation": "MPEP § 201.07" }
+    ]
+  },
+  {
+    "id": "foundation-application-types-009",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Continuation vs. continuation-in-part (CIP) — what's the actual difference?",
+    "answer_text": "A continuation discloses nothing new — it's limited to what the earlier application already disclosed. A CIP repeats some or all of that disclosure but also adds new subject matter that wasn't in the earlier application.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 201.07" },
+      { "authority": "MPEP", "citation": "MPEP § 201.08" }
+    ]
+  },
+  {
+    "id": "foundation-application-types-010",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Does a continuation-in-part get one effective filing date or two?",
+    "answer_text": "Effectively two: subject matter that was already disclosed in the earlier application keeps that earlier filing date for benefit purposes, while the newly added subject matter only gets the CIP's own (later) filing date.",
+    "why_it_matters": "This is a common trap — people assume the whole CIP gets the benefit of the earlier date, but the earlier date only carries over for what was actually disclosed back then.",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 201.08" },
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 120", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-types-011",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Can a continuation or divisional application add new subject matter that wasn't in the earlier application?",
+    "answer_text": "No. Only a continuation-in-part can add new matter. A continuation or divisional's disclosure must not include any subject matter beyond what the earlier application already disclosed.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 201.06" },
+      { "authority": "MPEP", "citation": "MPEP § 201.07" }
+    ]
+  },
+  {
+    "id": "foundation-application-types-012",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "family-terminology",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a \"parent application\"?",
+    "answer_text": "The earlier-filed application that a continuation, divisional, or continuation-in-part relies on for benefit — i.e., the application the later one \"branched off\" from.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 201.06" }
+    ]
+  },
+  {
+    "id": "foundation-application-types-013",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "\"Parent\" vs. \"child\" application — what do these informal terms mean?",
+    "answer_text": "\"Parent\" is the term the MPEP itself uses for the earlier application a continuing application relies on. \"Child\" isn't a formally defined MPEP term, but it's the common informal counterpart — the later-filed continuation, divisional, or CIP that branched off the parent.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 201.06" }
+    ]
+  },
+  {
+    "id": "foundation-application-types-014",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "family-terminology",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is an \"original\" application?",
+    "answer_text": "An application that is not a reissue application. An original application can be either a first filing or a continuing application (continuation/divisional/CIP) — \"original\" is contrasted with \"reissue,\" not with \"continuing.\"",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 201.02" }
+    ]
+  },
+  {
+    "id": "foundation-application-types-015",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "family-terminology",
+    "level": 1,
+    "card_type": "qa",
+    "question": "What is a \"substitute\" application?",
+    "answer_text": "In essence, a duplicate of an application by the same applicant, filed after the earlier one was abandoned. Unlike a continuation, a substitute application does NOT get the benefit of the earlier application's filing date.",
+    "why_it_matters": "This is the key trap: it looks like a continuing application (same applicant, same disclosure) but because the earlier application is already abandoned rather than still pending, it doesn't qualify for benefit the way a continuation does.",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 201.02" }
+    ]
+  },
+  {
+    "id": "foundation-application-types-016",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "priority-and-benefit",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is \"priority\" (as in the right of priority)?",
+    "answer_text": "The right of an application filed in the U.S. to get the effective filing-date advantage of an earlier application for the same invention filed in a foreign country, if the U.S. application is filed within the treaty-set time limit.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 119(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-types-017",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "priority-and-benefit",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is \"benefit\" (as in benefit of an earlier filing date)?",
+    "answer_text": "The right of a later U.S. application to be treated, for a disclosed invention, as though it had been filed on the date of an earlier-filed U.S. application (or provisional) that it's linked to — as long as the applications are properly connected and copending.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 120", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-types-018",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Priority vs. benefit — what's the actual difference?",
+    "answer_text": "\"Priority\" (35 U.S.C. 119) links a U.S. application back to an earlier *foreign* application (or, under 119(e), a provisional). \"Benefit\" (35 U.S.C. 120) links a U.S. application back to an earlier *U.S. nonprovisional* application. Both give the later application the effective-filing-date advantage of the earlier one — they're just named differently depending on what kind of earlier application is involved.",
+    "why_it_matters": "Exam questions use \"claims priority to\" and \"claims the benefit of\" precisely — mixing them up (e.g., saying an application \"claims priority to\" an earlier U.S. nonprovisional) is a common wrong-answer trap.",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 119(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 120", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-types-019",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "priority-and-benefit",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is the \"effective filing date\" of a claimed invention?",
+    "answer_text": "The actual filing date of the application containing the claim — unless the application is entitled to an earlier date through a priority or benefit claim, in which case it's the filing date of the earliest application that discloses that subject matter.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 100(i)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-types-020",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "priority-and-benefit",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is \"copendency\"?",
+    "answer_text": "The requirement that a later application claiming the benefit of an earlier one must be filed before the earlier application is patented, abandoned, or otherwise finished — i.e., the two applications' pendency periods must overlap.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 120", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-types-021",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Why does copendency matter so much for a benefit claim?",
+    "answer_text": "If the earlier application is already patented or abandoned before the later one is filed, there's no live application left for the later one to \"continue\" — benefit under §120 (and the continuation/divisional/CIP framework generally) depends on catching the earlier application while it's still pending.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 120", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-types-022",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "priority-and-benefit",
+    "level": 1,
+    "card_type": "qa",
+    "question": "What must a later application actually do to claim the benefit of an earlier one?",
+    "answer_text": "It must contain (or be amended to contain) a specific reference to the earlier application, identifying it and stating the relationship (continuation, divisional, or continuation-in-part) — a benefit claim doesn't happen automatically just because the applications are related.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.78(d)(2)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 120", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-application-types-023",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "family-terminology",
+    "level": 1,
+    "card_type": "qa",
+    "question": "What does it mean to call a group of applications a \"patent family\"?",
+    "answer_text": "An informal (not statutorily defined) way of referring to a parent application together with all of the continuations, divisionals, CIPs, and foreign counterparts that trace back to it — useful as a mental model, even though no single MPEP section defines \"family\" as a term of art.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 201.02" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-001",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "filing-and-examination",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does \"filing\" a patent application actually do?",
+    "answer_text": "It establishes the application's filing date and starts its pendency (the period during which it's alive before the USPTO) — the clock that most later deadlines and priority/benefit rights are measured from.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.53(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-002",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "filing-and-examination",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is \"examination\" (as a stage of prosecution)?",
+    "answer_text": "The examiner's study of the application and investigation of the prior art to determine whether the claimed invention complies with the statutes and rules and is patentable.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.104(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-003",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "filing-and-examination",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does the examiner's \"search\" refer to?",
+    "answer_text": "The examiner's investigation of the available prior art relating to the claimed invention's subject matter, done as part of examination.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.104(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-004",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "office-actions",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is an Office action?",
+    "answer_text": "An official written communication from the examiner to the applicant, stating the reasons for any rejection, objection, or requirement, along with any information useful for judging whether to continue prosecuting.",
+    "why_it_matters": "Most of prosecution consists of responding to Office actions — recognizing what kind of Office action you've received tells you what's expected of you next.",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.104(a)(2)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-005",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "office-actions",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a \"rejection\"?",
+    "answer_text": "The examiner's refusal to grant a claim because its subject matter, as claimed, is considered unpatentable — a substantive determination going to the merits of the claim.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.104(c)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "MPEP", "citation": "MPEP § 706.01" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-006",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "office-actions",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is an \"objection\"?",
+    "answer_text": "The examiner's flag that something about a claim's (or the application's) form — not its substance — is improper. Example: a dependent claim that depends on a rejected claim but would otherwise be allowable gets objected to, not rejected.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 706.01" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-007",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Rejection vs. objection — why does the distinction actually matter?",
+    "answer_text": "A rejection goes to the substance/patentability of the claim, so it can be reviewed by the Patent Trial and Appeal Board. An objection goes only to a matter of form, so if you disagree with an objection that persists, your only recourse is a petition to the Director — not an appeal to the Board.",
+    "why_it_matters": "This is one of the most exam-tested distinctions in prosecution: \"is this properly a rejection or an objection\" almost always turns on whether the issue is substantive (patentability) or merely formal.",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 706.01" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-008",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "office-actions",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a non-final Office action?",
+    "answer_text": "The (usually first) Office action on the merits, after which the applicant may reply and request reconsideration or further examination, with or without amendment — the normal, less-restrictive kind of Office action.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.111(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-009",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "office-actions",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a final Office action?",
+    "answer_text": "Normally, the second or any later action on the merits — one where the examiner has decided further back-and-forth on the merits should stop, subject to certain exceptions (e.g., a truly new rejection not caused by the applicant's own amendment can't be made final).",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.113(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "MPEP", "citation": "MPEP § 706.07(a)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-010",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Non-final vs. final Office action — what actually changes for the applicant?",
+    "answer_text": "After a non-final action, the applicant can freely amend and argue as of right. After a final action, further amendments are entered only in limited circumstances (e.g., canceling claims, or putting claims in condition for allowance) — to keep fully prosecuting, the applicant generally needs to file an RCE or appeal instead.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.116(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-011",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "applicant-responses",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is the applicant's \"reply\" to an Office action?",
+    "answer_text": "The applicant's response, required if they want to keep pursuing the application after an adverse Office action — requesting reconsideration or further examination, with or without an amendment.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.111(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-012",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "applicant-responses",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is an \"amendment\" (in prosecution)?",
+    "answer_text": "A change the applicant makes to the claims, specification, or drawings, typically filed as part of a reply to an Office action.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.111(c)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-013",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "applicant-responses",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is an \"argument\" (in a reply to an Office action)?",
+    "answer_text": "The applicant's explanation of why the claims (as they stand, or as amended) are patentable — clearly pointing out the patentable novelty in view of the art the examiner relied on, rather than just changing claim language.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.111(c)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-014",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Amendment vs. argument — how do these two tools differ?",
+    "answer_text": "An amendment actually changes the claims (or spec/drawings). An argument doesn't change anything — it's the applicant's explanation of why the existing (or newly amended) claims should be considered patentable. A single reply often includes both: an amendment to narrow a claim, plus an argument explaining why the amended claim now avoids the rejection.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.111(c)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-015",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "applicant-responses",
+    "level": 1,
+    "card_type": "qa",
+    "question": "What is a \"preliminary amendment\"?",
+    "answer_text": "An amendment received on or before the mail date of the first Office action — filed proactively, before the examiner has even acted, rather than in reply to an Office action.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.115(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-016",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "interviews",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is an examiner interview?",
+    "answer_text": "A meeting (in person, by phone, or by video) between the applicant/practitioner and the examiner to discuss the application, conducted on USPTO premises and within Office hours as the examiner designates.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.133(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-017",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "restriction-and-election",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a restriction requirement?",
+    "answer_text": "An examiner's requirement, made when an application claims two or more independent and distinct inventions, that the applicant elect a single invention for the claims to be restricted to (at least for the time being).",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.142(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-018",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "restriction-and-election",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is an \"election\" (in response to a restriction requirement)?",
+    "answer_text": "The applicant's choice, in reply to a restriction requirement, of which one of the two-or-more claimed inventions to pursue in that application. Claims to the non-elected invention(s) are withdrawn from further consideration (but not necessarily canceled).",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.142(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-019",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Restriction requirement vs. election — how are these two connected?",
+    "answer_text": "They're two sides of the same event: the restriction requirement is the examiner's action demanding a choice; the election is the applicant's reply making that choice. You can't elect without first receiving a restriction requirement, and a restriction requirement isn't resolved until the applicant elects.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.142(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-020",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "restriction-and-election",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does it mean to \"traverse\" a restriction requirement?",
+    "answer_text": "To formally object to it — distinctly and specifically pointing out what the applicant thinks is wrong with the requirement, rather than simply complying with it.",
+    "why_it_matters": "\"Traverse\" shows up constantly in exam questions and just means \"object to\" or \"contest\" — it's not a separate legal action, just the term of art for disagreeing with a requirement.",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 809.02(a)" },
+      { "authority": "37 CFR", "citation": "37 CFR 1.144", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-021",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Electing \"with traverse\" vs. \"without traverse\" — why would you pick one over the other?",
+    "answer_text": "An election must be made with traverse to preserve the applicant's right to petition the Director to review the restriction requirement. If the applicant doesn't distinctly and specifically point out the supposed errors in the requirement at the time of election, the election is treated as made without traverse, and that petition right is lost.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 809.02(a)" },
+      { "authority": "37 CFR", "citation": "37 CFR 1.144", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-022",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "continuing-examination",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is an RCE (Request for Continued Examination)?",
+    "answer_text": "A request, filed with a fee, that reopens examination of the same application after prosecution has closed (e.g., after a final rejection) — it must be filed before the issue fee is paid, before abandonment, or before certain appeals are filed.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.114(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-023",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "RCE vs. continuation application — both let you keep going after a final rejection. What's the actual difference?",
+    "answer_text": "An RCE reopens examination in the very same application — same application number, same filing date, no new application is created. A continuation is a brand-new application that merely claims the benefit of the earlier one's filing date. RCEs are only for utility/plant applications (not design), and can't be filed once the application is already abandoned or the issue fee already paid.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.114(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "MPEP", "citation": "MPEP § 706.07(h)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-024",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Can you still file an RCE after the application has already gone abandoned?",
+    "answer_text": "No — an RCE must be filed before abandonment (or before the issue fee is paid, or before certain appeals). Once the application is already abandoned, an RCE won't revive it; the applicant would instead need to petition to revive the application first.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.114(a)(2)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-025",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "abandonment",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is abandonment (for failure to reply)?",
+    "answer_text": "What happens automatically when an applicant fails to reply to an Office action within the time period allowed (including any extensions) — the application dies unless the Office action itself indicates otherwise.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.135(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-026",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "abandonment",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is express abandonment?",
+    "answer_text": "Deliberately abandoning an application by filing a signed written declaration of abandonment identifying the application — as opposed to abandonment that happens automatically from simply failing to reply in time.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.138(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-027",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Does receiving a final rejection mean the application is abandoned?",
+    "answer_text": "No. A final rejection just changes what kind of reply is allowed (see non-final vs. final). The application only becomes abandoned if the applicant then fails to file a timely, adequate reply (an amendment putting it in condition for allowance, an RCE, or a notice of appeal) within the period for reply.",
+    "why_it_matters": "Beginners sometimes conflate \"final\" with \"over\" — a final rejection is a procedural posture, not the end of the application.",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.113(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "37 CFR", "citation": "37 CFR 1.135(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-028",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "allowance-and-issuance",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is \"allowance\"?",
+    "answer_text": "The examiner's determination that the applicant is entitled to a patent — i.e., that the claims are in condition to be granted.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 151(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-029",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "allowance-and-issuance",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a Notice of Allowance?",
+    "answer_text": "The written notice mailed to the applicant once the examiner has allowed the application, specifying the sum (the issue fee, plus any required publication fee) that must be paid within 3 months.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 151(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-030",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Allowance vs. Notice of Allowance — what's the difference?",
+    "answer_text": "\"Allowance\" is the examiner's decision that the application is entitled to a patent. The \"Notice of Allowance\" is the written document that actually communicates that decision to the applicant and states the issue fee due.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 151(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-031",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "allowance-and-issuance",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is the issue fee?",
+    "answer_text": "The fee specified in the Notice of Allowance, which the applicant must pay within 3 months for the patent to actually be granted.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 151(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-032",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "allowance-and-issuance",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is \"issuance\"?",
+    "answer_text": "The actual grant of the patent, which happens once the issue fee (and any publication fee) has been paid.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 151(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-033",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Allowance vs. issuance — is a patent granted the moment it's allowed?",
+    "answer_text": "No. Allowance just means the examiner has decided the applicant is entitled to a patent. The patent doesn't actually issue (get granted) until the applicant pays the issue fee that the Notice of Allowance specifies.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 151(a)-(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-034",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "What happens if the issue fee isn't paid within the 3-month deadline?",
+    "answer_text": "The application is regarded as abandoned — even though it was already allowed. Allowance is not a guarantee of a patent; the issue fee still has to be paid on time.",
+    "why_it_matters": "This is a distinct, non-extendable trap: unlike many other deadlines, this one has specific, limited relief options, so \"it was already allowed\" is not a defense to missing it.",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 151(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-001",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "claim-scope",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is \"claim scope\"?",
+    "answer_text": "What a claim actually covers — the set of things that would infringe it (or be blocked by it as prior art), determined by the specific combination of limitations the claim recites.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-002",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "claim-scope",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a claim limitation?",
+    "answer_text": "One individual requirement recited in a claim. A claim's overall scope is the combination of all of its limitations together — dropping or narrowing any one limitation changes the scope.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.75(i)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-003",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "claim-interpretation",
+    "level": 1,
+    "card_type": "qa",
+    "question": "What standard does an examiner use to interpret claim language during examination?",
+    "answer_text": "The \"broadest reasonable interpretation\" (BRI) standard — claims are given the broadest reasonable construction consistent with the specification, as it would be read by one of ordinary skill in the art.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 2111" }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-004",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Claim scope vs. claim interpretation — how do these relate?",
+    "answer_text": "Claim scope is the answer (what the claim actually covers). Claim interpretation is the method for getting there — during examination, that method is specifically the \"broadest reasonable interpretation\" standard applied to the claim language in light of the specification.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 2111" }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-005",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "definiteness",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is the definiteness requirement?",
+    "answer_text": "The requirement that a claim particularly point out and distinctly claim the subject matter the applicant regards as the invention — in other words, that the claim's boundaries be clear.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-006",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "definiteness",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does it mean for a claim to be \"indefinite\"?",
+    "answer_text": "The claim contains words or phrases whose meaning is unclear, so a person skilled in the art can't reasonably tell what the claim actually covers.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 2173.05(e)" }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-007",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "definiteness",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is \"antecedent basis\"?",
+    "answer_text": "Support, earlier in the claim (or in a claim it depends from), for a term used with \"said\" or \"the\" — e.g., a claim can't clearly refer to \"the lever\" unless \"a lever\" (or something that inherently includes one) was already introduced.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 2173.05(e)" }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-008",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Antecedent basis vs. indefiniteness — are these the same thing?",
+    "answer_text": "No. Lack of antecedent basis is one common *cause* of indefiniteness, not a synonym for it. And the reverse isn't automatic either: missing an explicit antecedent doesn't always make a claim indefinite — if the claim's scope is still reasonably clear to someone skilled in the art (e.g., an inherent component of something already recited), it's not indefinite despite the missing antecedent.",
+    "why_it_matters": "This is a classic exam trap: don't assume every antecedent-basis issue is automatically fatal, or that indefiniteness only ever comes from antecedent-basis problems.",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 2173.05(e)" }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-009",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "written-description",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is the written description requirement?",
+    "answer_text": "The requirement that the specification describe the claimed invention in enough detail that a person skilled in the art would conclude the inventor actually had possession of it as of the filing date.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "MPEP", "citation": "MPEP § 2163" }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-010",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "written-description",
+    "level": 1,
+    "card_type": "qa",
+    "question": "What does it mean to say an inventor had \"possession\" of the claimed invention?",
+    "answer_text": "That the specification shows the claimed invention was actually developed, with all of its limitations, using descriptive words, structures, figures, diagrams, or formulas — not just that the invention seems predictable or an obvious next step from what's disclosed.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 2163" }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-011",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "enablement",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is the enablement requirement?",
+    "answer_text": "The requirement that the specification describe the invention in such terms that one skilled in the art can make and use the full scope of the claimed invention, without undue experimentation.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "MPEP", "citation": "MPEP § 2164" }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-012",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Written description vs. enablement — aren't these the same requirement?",
+    "answer_text": "They come from the same sentence of 35 U.S.C. 112(a), but they test different things. Written description asks: did the applicant actually show (as of filing) that they had the claimed invention? Enablement asks: does the specification teach a skilled person how to make and use it without undue experimentation? A specification can enable something without describing that the inventor possessed it (or vice versa) — they're two independent requirements that both happen to live in the same statutory sentence.",
+    "why_it_matters": "Exam questions sometimes test whether you know these are separate, independently-failable requirements rather than one combined \"description\" requirement.",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "MPEP", "citation": "MPEP § 2163" },
+      { "authority": "MPEP", "citation": "MPEP § 2164" }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-013",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "written-description",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is the \"best mode\" requirement?",
+    "answer_text": "The requirement that the specification set forth the best way of carrying out the invention that the inventor (or joint inventor) actually contemplated as of filing.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-014",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "new-matter",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is \"new matter\"?",
+    "answer_text": "Subject matter that wasn't present in the specification, claims, or drawings as originally filed. No amendment may introduce new matter into the disclosure of an application.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 132(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "37 CFR", "citation": "37 CFR 1.121(f)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "MPEP", "citation": "MPEP § 608.04" }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-015",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Amendment vs. new matter — is every amendment adding \"new matter\"?",
+    "answer_text": "No. Ordinary amendments are expected and allowed. \"New matter\" specifically means going beyond what was disclosed in the specification, claims, or drawings as originally filed — an amendment is only a new-matter problem if it introduces subject matter that wasn't already there in some form.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.121(f)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-016",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Written description vs. new matter — how do these two ideas connect?",
+    "answer_text": "The written description requirement looks at the original disclosure and asks whether it supports the claims. \"New matter\" is the flip side, applied to amendments made later: if an amendment adds subject matter that goes beyond what the original written description actually disclosed, it's introducing new matter, which isn't permitted.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 2163" },
+      { "authority": "MPEP", "citation": "MPEP § 608.04" }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-017",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "means-plus-function",
+    "level": 1,
+    "card_type": "qa",
+    "question": "What is a means-plus-function claim element?",
+    "answer_text": "A claim element for a combination that's expressed as a \"means\" or \"step\" for performing a specified function, without reciting the actual structure, material, or acts that perform it.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(f)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-018",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "means-plus-function",
+    "level": 1,
+    "card_type": "qa",
+    "question": "How is a means-plus-function claim element interpreted?",
+    "answer_text": "It's construed to cover the specific structure, material, or acts described in the specification for performing that function — plus equivalents of that disclosed structure. It is NOT interpreted as covering literally any possible way of performing the function.",
+    "why_it_matters": "This is a common misconception — a means-plus-function limitation looks broad on its face (\"means for fastening\"), but it's actually tied down to whatever structure the specification discloses, not left wide open.",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(f)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "MPEP", "citation": "MPEP § 2181" }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-019",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "definiteness",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Definiteness vs. written description — do these test the same thing?",
+    "answer_text": "No. Written description looks at the specification and asks whether it shows the inventor had the claimed invention. Definiteness looks at the claim language itself and asks whether its boundaries are clear enough for a skilled person to know what's covered. A claim can be perfectly supported by the specification and still be indefinite (e.g., due to unclear wording), or vice versa.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(a)-(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-020",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "written-description",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Can an originally-filed claim itself count as part of the written description?",
+    "answer_text": "Yes — an applicant can rely on the claims present on the original filing date, not just the specification and drawings, as part of establishing written description support, if their content justifies it.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP § 608.04" },
+      { "authority": "MPEP", "citation": "MPEP § 608.01(l)" }
+    ]
   }
 ]
