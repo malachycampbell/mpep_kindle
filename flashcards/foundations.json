@@ -1,0 +1,384 @@
+[
+  {
+    "id": "foundation-system-vocabulary-001",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "agency-and-authority",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is the USPTO?",
+    "answer_text": "The United States Patent and Trademark Office — the federal agency, within the Department of Commerce, that examines patent applications, grants patents, and registers trademarks.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 1(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-002",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "agency-and-authority",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a patent?",
+    "answer_text": "A grant from the federal government giving its owner the right to exclude others from making, using, offering for sale, or selling the claimed invention in the United States (or importing it into the U.S.) for a limited time.",
+    "why_it_matters": "A patent does not give its owner the right to make or use the invention themselves — only the right to stop others. That distinction matters throughout prosecution and enforcement.",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 101", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 154(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-003",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "application-basics",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a patent application?",
+    "answer_text": "The set of papers filed with the USPTO asking that a patent be granted: a specification (including at least one claim), an inventor's oath or declaration, drawings when necessary, and the required fees.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.51(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "MPEP", "citation": "MPEP § 601" }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-004",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "agency-and-authority",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is \"prosecution\" (as in \"patent prosecution\")?",
+    "answer_text": "The whole process of dealing with the USPTO to try to get a patent granted — filing the application, responding to the examiner, amending claims, and everything in between until the application issues or is abandoned.",
+    "why_it_matters": "It has nothing to do with criminal prosecution — it just means \"the back-and-forth of getting a patent application through the Office.\"",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP Foreword" }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-005",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "people",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is an inventor?",
+    "answer_text": "The individual (or, for a joint invention, the individuals collectively) who actually invented or discovered the claimed subject matter.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 100(f)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-006",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "people",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is an applicant?",
+    "answer_text": "The party applying for the patent — normally the inventor(s) themselves, but sometimes another party (such as an assignee) applying in place of the inventor.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.42(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-007",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Inventor vs. applicant — what's the difference?",
+    "answer_text": "The inventor is whoever actually came up with the invention. The applicant is whoever is applying for the patent. Usually these are the same person, but the applicant can instead be an assignee or other party applying on the inventor's behalf.",
+    "why_it_matters": "\"Applicant\" is a procedural/filing-status label; \"inventor\" is a factual one. A question that talks about what \"the applicant\" may do procedurally isn't necessarily talking about the person who invented anything.",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.42(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 100(f)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-008",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "people",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is an assignee?",
+    "answer_text": "A person or company to whom the inventor (or another owner) has transferred ownership of a patent application or patent, by a written assignment.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 3.1" },
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 261", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-009",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "people",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a \"patent owner\"?",
+    "answer_text": "Whoever currently holds title to a patent or application — the inventor(s), unless and until ownership has been transferred by a written assignment to someone else (the assignee).",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 261", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "MPEP", "citation": "MPEP § 301" }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-010",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Applicant vs. assignee — what's the difference?",
+    "answer_text": "\"Applicant\" describes who is applying for the patent right now, during prosecution. \"Assignee\" describes who owns the rights, which can be true before, during, or after prosecution. An assignee is often (but doesn't have to be) the applicant.",
+    "why_it_matters": "Patents change hands constantly — a company can be the assignee (owner) of a patent it never filed as the applicant, and an original applicant may no longer own the patent by the time it issues.",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.42(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 261", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-011",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "people",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a patent examiner?",
+    "answer_text": "A USPTO employee who reviews a patent application, searches the prior art, and decides whether the claimed invention is entitled to a patent.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 131", "as_of": "Rev. 01.2024 (Nov. 2024)" },
+      { "authority": "37 CFR", "citation": "37 CFR 1.104(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-012",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "people",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a \"practitioner\" in patent practice?",
+    "answer_text": "Someone registered (or otherwise authorized) to represent applicants before the USPTO in patent matters — in practice, a registered patent attorney or patent agent.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 11.1", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-013",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "people",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a patent attorney?",
+    "answer_text": "A licensed attorney who has also passed the USPTO's registration examination (the \"patent bar\") and is registered to practice before the USPTO in patent matters.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 11.6(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-014",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "people",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a patent agent?",
+    "answer_text": "A person who has passed the USPTO's registration examination and is registered to practice before the USPTO in patent matters, but who is not a licensed attorney.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 11.6(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-015",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Patent attorney vs. patent agent — what's the actual difference?",
+    "answer_text": "Both pass the same USPTO registration exam and can do the same patent-prosecution work before the USPTO (prepare and file applications, argue with examiners, etc.). The only difference is that a patent attorney is also a licensed attorney, so they can also do things that require a law license — like litigate a patent case in court or give legal opinions on infringement/validity — which a patent agent cannot.",
+    "why_it_matters": "Both credentials sit for the same exam this deck is ultimately preparing you for, so the exam tests them identically on USPTO practice — the attorney/agent distinction only matters for what you can do outside the USPTO.",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 11.6(a)-(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-016",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "application-basics",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is a claim (in a patent application)?",
+    "answer_text": "The part of the application that particularly points out and distinctly defines the scope of the invention the applicant is asking to have patented. The claims — not the rest of the specification — define the legal boundaries of the invention.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-017",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "application-basics",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is the specification?",
+    "answer_text": "The written part of a patent application that describes the invention and how to make and use it, in enough detail to enable a person skilled in the art to do so, and that concludes with the claim(s).",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(a)-(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-018",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "application-basics",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is \"prior art\"?",
+    "answer_text": "Existing knowledge — earlier patents, publications, and other disclosures — that an examiner searches and compares against a claimed invention to decide whether it's actually new and non-obvious.",
+    "why_it_matters": "Prior art is the single most common word in patent-examination questions — almost every patentability issue (novelty, obviousness) is really a question about what the prior art shows.",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "37 CFR", "citation": "37 CFR 1.104(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-019",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "sources-of-authority",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is \"35 U.S.C.\"?",
+    "answer_text": "Title 35 of the United States Code — the actual patent statute passed by Congress. It's the highest legal authority in patent law (e.g., \"35 U.S.C. 101\" means section 101 of Title 35).",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP Introduction" }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-020",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "sources-of-authority",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is \"37 C.F.R.\"?",
+    "answer_text": "Title 37 of the Code of Federal Regulations — the USPTO's rules, issued under authority Congress gave the agency, that govern how proceedings before the USPTO are actually conducted (e.g., \"37 CFR 1.104\" means section 1.104 of Title 37).",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP Introduction" }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-021",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "sources-of-authority",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What is the MPEP?",
+    "answer_text": "The Manual of Patent Examining Procedure — the USPTO's internal guidance manual explaining the practices and procedures examiners (and applicants/practitioners) follow during prosecution.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP Foreword" }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-022",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "relationships",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Statute vs. regulation vs. MPEP guidance — how do these three rank against each other?",
+    "answer_text": "35 U.S.C. (statute) is the actual law passed by Congress — the highest authority. 37 C.F.R. (regulations) are USPTO rules issued under authority the statute delegates to the agency, and must be consistent with the statute. The MPEP is guidance describing how examiners apply the statute and rules — it explicitly does not have the force of law or of the C.F.R. rules, and doesn't bind the public.",
+    "why_it_matters": "If an MPEP passage ever seemed to conflict with the actual statute or rule, the statute/rule would control — the MPEP is a practitioner's guide to current practice, not an independent source of legal authority.",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      { "authority": "MPEP", "citation": "MPEP Foreword" },
+      { "authority": "MPEP", "citation": "MPEP Introduction" }
+    ]
+  }
+]

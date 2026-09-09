@@ -347,6 +347,32 @@ button.choice:disabled {
 
 .revisions ul { margin: 4px 0 0; padding-left: 18px; }
 
+.why-it-matters {
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--text-dim);
+}
+
+.sources-details {
+  margin-top: 12px;
+  font-size: 0.85rem;
+  color: var(--text-dim);
+}
+
+.sources-details summary {
+  cursor: pointer;
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.sources-details ul {
+  margin: 8px 0 0;
+  padding-left: 18px;
+}
+
 .study-actions {
   margin-top: 16px;
 }
@@ -371,6 +397,14 @@ button.choice:disabled {
 .grade-good { background: var(--good); }
 
 #stats-body { font-size: 0.95rem; line-height: 1.7; }
+#stats-body h3 {
+  margin: 18px 0 4px;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--text-dim);
+}
+#stats-body h3:first-child { margin-top: 0; }
 #stats-body .stat-row {
   display: flex;
   justify-content: space-between;

@@ -11,6 +11,8 @@
     "2003-10-15": "Oct 15, 2003",
   };
 
+  const LEVEL_LABELS = { 0: "Vocabulary", 1: "Concept", 2: "Practice" };
+
   let bank = [];
   let progress = loadProgress();
   let deck = [];
@@ -95,30 +97,36 @@
 
   // ---------- data load ----------
 
-  fetch("data/bank.json")
-    .then((r) => r.json())
-    .then((data) => {
-      bank = data;
+  Promise.all([
+    fetch("data/bank.json").then((r) => r.json()),
+    fetch("data/foundations.json").then((r) => r.json()),
+  ])
+    .then(([historical, foundation]) => {
+      historical.forEach((c) => (c.deck = "historical"));
+      bank = historical.concat(foundation);
       wireSetupScreen();
       updateDeckCount();
     })
     .catch((err) => {
       document.getElementById("deck-count").textContent =
-        "Couldn't load flashcards/data/bank.json (" + err + ")";
+        "Couldn't load flashcard data (" + err + ")";
     });
 
   // ---------- setup screen ----------
 
   function currentFilters() {
+    const deckChoice = document.querySelector('input[name="f-deck"]:checked').value;
     const sessions = Array.from(document.querySelectorAll(".f-session:checked")).map((el) => el.value);
     const parts = Array.from(document.querySelectorAll(".f-part:checked")).map((el) => el.value);
     const statuses = Array.from(document.querySelectorAll(".f-status:checked")).map((el) => el.value);
+    const topics = Array.from(document.querySelectorAll(".f-topic:checked")).map((el) => el.value);
+    const levels = Array.from(document.querySelectorAll(".f-level:checked")).map((el) => parseInt(el.value, 10));
     const progressMode = document.querySelector('input[name="f-progress"]:checked').value;
     const shuffle = document.getElementById("f-shuffle").checked;
     const limit = parseLimit(document.getElementById("f-limit").value);
     const mode = document.querySelector('input[name="f-mode"]:checked').value;
     const timerMinutes = parseInt(document.getElementById("f-timer").value, 10) || 0;
-    return { sessions, parts, statuses, progressMode, shuffle, limit, mode, timerMinutes };
+    return { deckChoice, sessions, parts, statuses, topics, levels, progressMode, shuffle, limit, mode, timerMinutes };
   }
 
   function parseLimit(raw) {
@@ -128,9 +136,16 @@
 
   function filterCards(filters) {
     return bank.filter((c) => {
-      if (!filters.sessions.includes(c.source.session_date)) return false;
-      if (!filters.parts.includes(c.source.part)) return false;
-      if (!filters.statuses.includes(c.current_law_status)) return false;
+      if (c.deck !== filters.deckChoice) return false;
+      if (c.deck === "historical") {
+        if (!filters.sessions.includes(c.source.session_date)) return false;
+        if (!filters.parts.includes(c.source.part)) return false;
+        if (!filters.statuses.includes(c.current_law_status)) return false;
+      } else {
+        if (!filters.topics.includes(c.topic)) return false;
+        if (!filters.levels.includes(c.level)) return false;
+        if (filters.mode === "quiz" && c.card_type !== "mcq") return false;
+      }
       if (filters.progressMode === "due" && !isDue(c.id)) return false;
       if (filters.progressMode === "new" && !isNew(c.id)) return false;
       return true;
@@ -151,17 +166,50 @@
     return matched;
   }
 
+  function buildFoundationFilterUI() {
+    const foundationCards = bank.filter((c) => c.deck === "foundation");
+    const topics = Array.from(new Set(foundationCards.map((c) => c.topic)));
+    const topicList = document.getElementById("f-topic-list");
+    topicList.innerHTML = topics
+      .map(
+        (t) =>
+          '<label><input type="checkbox" class="f-topic" value="' +
+          t +
+          '" checked> ' +
+          titleizeSlug(t) +
+          "</label>"
+      )
+      .join("");
+    document.querySelectorAll(".f-topic").forEach((el) => el.addEventListener("change", updateDeckCount));
+  }
+
+  function titleizeSlug(slug) {
+    return slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
+  }
+
   function wireSetupScreen() {
+    buildFoundationFilterUI();
+
     document
-      .querySelectorAll(".f-session, .f-part, .f-status, input[name='f-progress']")
+      .querySelectorAll(".f-session, .f-part, .f-status, .f-level, input[name='f-progress']")
       .forEach((el) => el.addEventListener("change", updateDeckCount));
     document.getElementById("f-limit").addEventListener("input", updateDeckCount);
+
+    document.querySelectorAll('input[name="f-deck"]').forEach((el) =>
+      el.addEventListener("change", () => {
+        const deckChoice = document.querySelector('input[name="f-deck"]:checked').value;
+        document.getElementById("historical-filters").hidden = deckChoice !== "historical";
+        document.getElementById("foundation-filters").hidden = deckChoice !== "foundation";
+        updateDeckCount();
+      })
+    );
 
     document.querySelectorAll('input[name="f-mode"]').forEach((el) =>
       el.addEventListener("change", () => {
         const mode = document.querySelector('input[name="f-mode"]:checked').value;
         document.getElementById("quiz-options").hidden = mode !== "quiz";
         document.getElementById("start-btn").textContent = mode === "quiz" ? "Start quiz" : "Start studying";
+        updateDeckCount();
       })
     );
 
@@ -206,34 +254,32 @@
     document.getElementById("progress-label").textContent = (deckIndex + 1) + " / " + deck.length;
     document.getElementById("progress-fill").style.width = ((deckIndex) / deck.length * 100) + "%";
 
-    document.getElementById("card-source").textContent = sourceLabel(card.source);
-
-    const badge = document.getElementById("card-badge");
-    if (card.current_law_status === "STILL_VALID") {
-      badge.textContent = "Still valid";
-      badge.className = "badge valid";
-    } else {
-      badge.textContent = "Updated";
-      badge.className = "badge updated";
-    }
+    document.getElementById("card-source").textContent = sourceMetaLabel(card);
+    renderBadge(document.getElementById("card-badge"), card);
 
     document.getElementById("card-question").textContent = card.question;
 
-    const choicesEl = document.getElementById("card-choices");
-    choicesEl.innerHTML = "";
-    Object.keys(card.choices)
-      .sort()
-      .forEach((letter) => {
-        const row = document.createElement("div");
-        row.className = "choice";
-        row.dataset.letter = letter;
-        row.innerHTML =
-          '<span class="choice-letter">' + letter + "</span><span>" + escapeHtml(card.choices[letter]) + "</span>";
-        choicesEl.appendChild(row);
-      });
+    const isMcq = card.card_type !== "qa";
+    document.getElementById("card-choices").hidden = !isMcq;
+    document.getElementById("card-mcq-answer").hidden = !isMcq;
+    document.getElementById("card-qa-answer").hidden = isMcq;
 
-    document.getElementById("card-correct-letter").textContent = "(" + card.answer + ")";
-    document.getElementById("card-explanation").textContent = card.explanation;
+    if (isMcq) {
+      renderChoices(document.getElementById("card-choices"), card, null);
+      document.getElementById("card-correct-letter").textContent = "(" + card.answer + ")";
+    } else {
+      document.getElementById("card-answer-text").textContent = card.answer_text;
+      const whyEl = document.getElementById("card-why-it-matters");
+      if (card.why_it_matters) {
+        whyEl.hidden = false;
+        whyEl.textContent = "Why it matters: " + card.why_it_matters;
+      } else {
+        whyEl.hidden = true;
+        whyEl.textContent = "";
+      }
+    }
+
+    setExplanation(document.getElementById("card-explanation"), card.explanation);
 
     const revisionsEl = document.getElementById("card-revisions");
     if (card.revisions && card.revisions.length) {
@@ -247,9 +293,74 @@
       revisionsEl.innerHTML = "";
     }
 
+    renderSources(document.getElementById("card-sources"), document.getElementById("card-sources-list"), card);
+
     document.getElementById("card-answer").hidden = true;
     document.getElementById("reveal-btn").hidden = false;
     document.getElementById("grade-actions").hidden = true;
+  }
+
+  function sourceMetaLabel(card) {
+    if (card.deck === "historical") return sourceLabel(card.source);
+    return titleizeSlug(card.topic) + " · " + (LEVEL_LABELS[card.level] || "Level " + card.level);
+  }
+
+  function renderBadge(badge, card) {
+    if (card.deck !== "historical") {
+      badge.hidden = true;
+      return;
+    }
+    badge.hidden = false;
+    if (card.current_law_status === "STILL_VALID") {
+      badge.textContent = "Still valid";
+      badge.className = "badge valid";
+    } else {
+      badge.textContent = "Updated";
+      badge.className = "badge updated";
+    }
+  }
+
+  function renderChoices(container, card, onSelect) {
+    container.innerHTML = "";
+    Object.keys(card.choices)
+      .sort()
+      .forEach((letter) => {
+        const el = document.createElement(onSelect ? "button" : "div");
+        if (onSelect) el.type = "button";
+        el.className = "choice";
+        el.dataset.letter = letter;
+        el.innerHTML =
+          '<span class="choice-letter">' + letter + "</span><span>" + escapeHtml(card.choices[letter]) + "</span>";
+        if (onSelect) el.addEventListener("click", () => onSelect(letter));
+        container.appendChild(el);
+      });
+  }
+
+  function setExplanation(el, text) {
+    if (text) {
+      el.hidden = false;
+      el.textContent = text;
+    } else {
+      el.hidden = true;
+      el.textContent = "";
+    }
+  }
+
+  function renderSources(detailsEl, listEl, card) {
+    if (card.sources && card.sources.length) {
+      detailsEl.hidden = false;
+      listEl.innerHTML = card.sources
+        .map(
+          (s) =>
+            "<li>" +
+            escapeHtml(s.authority + " — " + s.citation + (s.as_of ? " (" + s.as_of + ")" : "")) +
+            "</li>"
+        )
+        .join("");
+    } else {
+      detailsEl.hidden = true;
+      listEl.innerHTML = "";
+    }
   }
 
   function escapeHtml(str) {
@@ -325,33 +436,12 @@
     document.getElementById("quiz-progress-label").textContent = (deckIndex + 1) + " / " + deck.length;
     document.getElementById("quiz-progress-fill").style.width = (deckIndex / deck.length * 100) + "%";
 
-    document.getElementById("quiz-source").textContent = sourceLabel(card.source);
-
-    const badge = document.getElementById("quiz-badge");
-    if (card.current_law_status === "STILL_VALID") {
-      badge.textContent = "Still valid";
-      badge.className = "badge valid";
-    } else {
-      badge.textContent = "Updated";
-      badge.className = "badge updated";
-    }
+    document.getElementById("quiz-source").textContent = sourceMetaLabel(card);
+    renderBadge(document.getElementById("quiz-badge"), card);
 
     document.getElementById("quiz-question").textContent = card.question;
 
-    const choicesEl = document.getElementById("quiz-choices");
-    choicesEl.innerHTML = "";
-    Object.keys(card.choices)
-      .sort()
-      .forEach((letter) => {
-        const btn = document.createElement("button");
-        btn.type = "button";
-        btn.className = "choice";
-        btn.dataset.letter = letter;
-        btn.innerHTML =
-          '<span class="choice-letter">' + letter + "</span><span>" + escapeHtml(card.choices[letter]) + "</span>";
-        btn.addEventListener("click", () => selectQuizChoice(letter));
-        choicesEl.appendChild(btn);
-      });
+    renderChoices(document.getElementById("quiz-choices"), card, selectQuizChoice);
 
     document.getElementById("quiz-result-block").hidden = true;
     document.getElementById("quiz-submit-btn").hidden = false;
@@ -386,7 +476,7 @@
     document.getElementById("quiz-result-line").innerHTML = correct
       ? "<strong>Correct!</strong>"
       : "<strong>Incorrect</strong> — correct answer: (" + card.answer + ")";
-    document.getElementById("quiz-explanation").textContent = card.explanation;
+    setExplanation(document.getElementById("quiz-explanation"), card.explanation);
 
     const revisionsEl = document.getElementById("quiz-revisions");
     if (card.revisions && card.revisions.length) {
@@ -399,6 +489,8 @@
       revisionsEl.hidden = true;
       revisionsEl.innerHTML = "";
     }
+
+    renderSources(document.getElementById("quiz-sources"), document.getElementById("quiz-sources-list"), card);
 
     document.getElementById("quiz-result-block").hidden = false;
     document.getElementById("quiz-submit-btn").hidden = true;
@@ -482,27 +574,38 @@
 
   // ---------- stats screen ----------
 
-  function renderStats() {
-    const total = bank.length;
+  function statsFor(cards) {
+    const total = cards.length;
     let mastered = 0, learning = 0, brandNew = 0, due = 0;
-    bank.forEach((c) => {
+    cards.forEach((c) => {
       if (isNew(c.id)) brandNew += 1;
       else if (isMastered(c.id)) mastered += 1;
       else learning += 1;
       if (!isNew(c.id) && isDue(c.id)) due += 1;
     });
-
-    const rows = [
+    return [
       ["Total cards", total],
       ["New", brandNew],
       ["In progress", learning],
       ["Mastered", mastered],
       ["Due for review now", due],
     ];
+  }
 
-    document.getElementById("stats-body").innerHTML = rows
+  function statsHtml(rows) {
+    return rows
       .map(([label, val]) => '<div class="stat-row"><span>' + label + "</span><strong>" + val + "</strong></div>")
       .join("");
+  }
+
+  function renderStats() {
+    const foundationCards = bank.filter((c) => c.deck === "foundation");
+    const historicalCards = bank.filter((c) => c.deck === "historical");
+    document.getElementById("stats-body").innerHTML =
+      "<h3>Foundations</h3>" +
+      statsHtml(statsFor(foundationCards)) +
+      "<h3>Historical Exam Bank</h3>" +
+      statsHtml(statsFor(historicalCards));
   }
 
   document.getElementById("stats-btn").addEventListener("click", () => {

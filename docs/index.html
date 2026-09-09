@@ -20,6 +20,12 @@
       <h2>Build a deck</h2>
 
       <fieldset>
+        <legend>Deck</legend>
+        <label><input type="radio" name="f-deck" value="foundation" checked> Foundations <span class="hint">(vocabulary &amp; concepts)</span></label>
+        <label><input type="radio" name="f-deck" value="historical"> Historical Exam Bank <span class="hint">(audited Patent Bar questions)</span></label>
+      </fieldset>
+
+      <fieldset>
         <legend>Mode</legend>
         <label><input type="radio" name="f-mode" value="study" checked> Flashcards <span class="hint">(self-graded, no spaced repetition pressure)</span></label>
         <label><input type="radio" name="f-mode" value="quiz"> Quiz <span class="hint">(pick an answer, auto-graded, optional timer)</span></label>
@@ -39,24 +45,40 @@
         </label>
       </fieldset>
 
-      <fieldset>
-        <legend>Session</legend>
-        <label><input type="checkbox" class="f-session" value="2002-10-16" checked> Oct 16, 2002</label>
-        <label><input type="checkbox" class="f-session" value="2003-04-15" checked> Apr 15, 2003</label>
-        <label><input type="checkbox" class="f-session" value="2003-10-15" checked> Oct 15, 2003</label>
-      </fieldset>
+      <div id="foundation-filters">
+        <fieldset>
+          <legend>Topic</legend>
+          <div id="f-topic-list"></div>
+        </fieldset>
 
-      <fieldset>
-        <legend>Session part</legend>
-        <label><input type="checkbox" class="f-part" value="am" checked> AM</label>
-        <label><input type="checkbox" class="f-part" value="pm" checked> PM</label>
-      </fieldset>
+        <fieldset>
+          <legend>Level</legend>
+          <label><input type="checkbox" class="f-level" value="0" checked> Vocabulary</label>
+          <label><input type="checkbox" class="f-level" value="1" checked> Concepts</label>
+          <label><input type="checkbox" class="f-level" value="2" checked> Practice</label>
+        </fieldset>
+      </div>
 
-      <fieldset>
-        <legend>Current-law status</legend>
-        <label><input type="checkbox" class="f-status" value="STILL_VALID" checked> Still valid</label>
-        <label><input type="checkbox" class="f-status" value="PARTIALLY_OBSOLETE" checked> Updated (partially obsolete)</label>
-      </fieldset>
+      <div id="historical-filters" hidden>
+        <fieldset>
+          <legend>Session</legend>
+          <label><input type="checkbox" class="f-session" value="2002-10-16" checked> Oct 16, 2002</label>
+          <label><input type="checkbox" class="f-session" value="2003-04-15" checked> Apr 15, 2003</label>
+          <label><input type="checkbox" class="f-session" value="2003-10-15" checked> Oct 15, 2003</label>
+        </fieldset>
+
+        <fieldset>
+          <legend>Session part</legend>
+          <label><input type="checkbox" class="f-part" value="am" checked> AM</label>
+          <label><input type="checkbox" class="f-part" value="pm" checked> PM</label>
+        </fieldset>
+
+        <fieldset>
+          <legend>Current-law status</legend>
+          <label><input type="checkbox" class="f-status" value="STILL_VALID" checked> Still valid</label>
+          <label><input type="checkbox" class="f-status" value="PARTIALLY_OBSOLETE" checked> Updated (partially obsolete)</label>
+        </fieldset>
+      </div>
 
       <fieldset>
         <legend>Progress</legend>
@@ -103,9 +125,19 @@
       <div id="card-choices" class="choices"></div>
 
       <div id="card-answer" class="answer-block" hidden>
-        <p class="answer-line"><strong>Correct answer: <span id="card-correct-letter"></span></strong></p>
+        <div id="card-mcq-answer">
+          <p class="answer-line"><strong>Correct answer: <span id="card-correct-letter"></span></strong></p>
+        </div>
+        <div id="card-qa-answer" hidden>
+          <p class="answer-line" id="card-answer-text"></p>
+          <p class="why-it-matters" id="card-why-it-matters" hidden></p>
+        </div>
         <div id="card-explanation" class="explanation"></div>
         <div id="card-revisions" class="revisions" hidden></div>
+        <details id="card-sources" class="sources-details" hidden>
+          <summary>Source / details</summary>
+          <ul id="card-sources-list"></ul>
+        </details>
       </div>
     </div>
 
@@ -141,6 +173,10 @@
         <p class="answer-line" id="quiz-result-line"></p>
         <div id="quiz-explanation" class="explanation"></div>
         <div id="quiz-revisions" class="revisions" hidden></div>
+        <details id="quiz-sources" class="sources-details" hidden>
+          <summary>Source / details</summary>
+          <ul id="quiz-sources-list"></ul>
+        </details>
       </div>
     </div>
 
@@ -172,9 +208,11 @@
 </main>
 
 <footer class="disclaimer">
-  Content promoted from historical USPTO registration-exam questions and audited against current law
-  by an LLM-driven process, not reviewed by a registered patent practitioner. See
-  <code>flashcards/README.md</code> for methodology and limitations.
+  <strong>Foundations</strong> deck: vocabulary/concept cards drafted from the MPEP, 35 U.S.C., and 37 C.F.R.
+  (see each card's "Source / details"), by an LLM-driven process, not reviewed by a registered patent practitioner.
+  <strong>Historical Exam Bank</strong>: promoted from historical USPTO registration-exam questions and audited
+  against current law, also LLM-driven and not practitioner-reviewed. See
+  <code>flashcards/README.md</code> for methodology and limitations of both.
 </footer>
 
 <script src="app.js"></script>

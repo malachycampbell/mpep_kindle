@@ -71,21 +71,115 @@ A JSON array of card objects:
 flawed/ambiguous questions (see above); OBSOLETE questions are not separately
 listed here since they're already identifiable via the audit files.
 
+## Foundations deck (`foundations.json`)
+
+`bank.json` (above) is the **advanced/assessment layer** — historical Patent
+Bar questions that assume a working vocabulary of patent practice. Because
+that assumption made the bank unusable for a beginner (see the "Patent
+Practice Foundations" plan/session that introduced this file), `foundations.json`
+is a separate, **original** deck of short vocabulary/concept flashcards
+teaching the language and mental model of U.S. patent practice, so the
+historical bank becomes readable. It is intentionally never merged into
+`bank.json` — the two decks stay in separate files with different schemas,
+and the app loads and tags them separately (`deck: "foundation"` vs.
+`deck: "historical"`).
+
+### Schema (`foundations.json`)
+
+A JSON array of card objects:
+
+```json
+{
+  "id": "foundation-system-vocabulary-001",
+  "deck": "foundation",
+  "topic": "system-vocabulary",
+  "subtopic": "agency-and-authority",
+  "level": 0,
+  "card_type": "qa",
+  "question": "What is the USPTO?",
+  "answer_text": "...",
+  "why_it_matters": null,
+  "choices": null,
+  "answer": null,
+  "explanation": null,
+  "sources": [
+    { "authority": "35 U.S.C.", "citation": "35 U.S.C. 1(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+  ]
+}
+```
+
+- `id` scheme: `foundation-<topic-slug>-<3-digit>`.
+- `level`: `0` = pure vocabulary, `1` = concept/rule requiring a definition
+  of a definition, `2` = reserved for future "bridge" multiple-choice
+  questions (simple MCQs using only vocabulary already taught, as a stepping
+  stone toward the historical bank — mostly unpopulated in this initial
+  release).
+- `card_type`: `"qa"` (short question → short answer, self-graded like
+  Flashcards mode always was) or `"mcq"` (reuses the *same*
+  `choices`/`answer`/`explanation` shape as `bank.json` verbatim, so it works
+  in Quiz mode too). A `qa` card sets `choices`/`answer`/`explanation` to
+  `null`; an `mcq` card sets `answer_text`/`why_it_matters` to `null`.
+- `why_it_matters`: optional, 1-2 sentences, used **sparingly** — only when
+  a card's relevance genuinely isn't obvious from the definition alone
+  (e.g., comparison cards). Most pure-vocabulary cards should leave this
+  `null`; don't pad every card with one "for completeness."
+- `sources[]`: every card must cite at least one real, checked source —
+  `authority` (`"35 U.S.C."` / `"37 CFR"` / `"MPEP"` / `"USPTO"`), `citation`
+  (the actual section/provision), and optionally `as_of` (the MPEP
+  revision the citation was checked against) and `url`. No source, no card.
+
+### Sourcing policy
+
+Every card must trace to primary or USPTO-affiliated authority, checked
+against the files already in this repo — **not** generated from general
+LLM knowledge and **not** treated as authoritative merely because a
+simplified note already exists in `markdown_chapter_summaries/` (those are
+explicitly non-authoritative drafts; useful only as a pointer to a real
+MPEP section number to go check).
+
+1. **Tier 1 — statute/regulation**: `reference/usc/usc_title_35_mpep_appx_l.pdf`
+   (35 U.S.C.) and `reference/cfr/cfr_title_37_mpep_appx_r.pdf` (37 C.F.R.),
+   both pinned to the MPEP 9th Edition, Rev. 01.2024 (Nov. 2024) snapshot —
+   same edition this repo's whole audit process is anchored to. Don't fetch
+   live uscode.house.gov/ecfr.gov text; that would drift ahead of the
+   tested edition.
+2. **Tier 2 — MPEP**: `reference/mpep/` / `pdfs/` / `mpep_build/` (same
+   Rev. 01.2024 text).
+3. **Tier 3 — official USPTO educational material** (Patent Basics, STEPP,
+   etc.): used only for supplementary plain-English framing, never for the
+   legal definition itself, and only via a live fetch (nothing like this
+   exists locally) with the URL and retrieval date recorded on the card's
+   `sources[]` entry.
+
+### Topic taxonomy
+
+Cards are grouped by `topic` (a slug) into a mental-model-based curriculum,
+not MPEP chapter order — see the "Patent Practice Foundations" plan for the
+full 9-topic breakdown (system vocabulary; application anatomy; application
+types/family; prosecution lifecycle; claims & §112; patentability & prior
+art; deadlines & procedure; appeals/PCT/post-grant; reading exam questions).
+`docs/app.js` derives the topic filter checkboxes dynamically from whatever
+`topic` values are actually present, so adding a new topic slug needs no
+app change.
+
 ## GitHub Pages interface
 
 `../docs/` is the study interface (`docs/index.html`, `docs/app.js`,
 `docs/styles.css`) that GitHub Pages serves. It reads its data from
-`docs/data/bank.json`, which is a **copy** of this `bank.json` (GitHub Pages
-can only serve files under the configured Pages source folder, so the app
-can't fetch `../flashcards/bank.json` directly). After editing `bank.json`,
-re-sync the copy:
+`docs/data/bank.json` and `docs/data/foundations.json`, which are **copies**
+of this folder's `bank.json` and `foundations.json` (GitHub Pages can only
+serve files under the configured Pages source folder, so the app can't
+fetch `../flashcards/*.json` directly). After editing either file, re-sync
+both copies:
 
 ```
 cp flashcards/bank.json docs/data/bank.json
+cp flashcards/foundations.json docs/data/foundations.json
 ```
 
 Progress (per-card review state) is stored client-side in the browser's
-`localStorage`, not in this repo.
+`localStorage`, not in this repo. Card `id`s are namespaced so the two decks
+never collide in that store (`foundation-*` vs. `YYYY-MM-DD-am/pm-###`).
 
 ## Known limitations
 
@@ -94,4 +188,7 @@ LLM-driven legal-content analysis, not review by a registered patent
 practitioner. Every PARTIALLY_OBSOLETE rewrite should be spot-checked against
 the original question and the current MPEP text before being relied upon,
 and STILL_VALID cards carry the same residual risk as the underlying audit
-determination.
+determination. The same caveat applies to `foundations.json`: every citation
+was checked against the locally pinned MPEP/CFR/USC text at drafting time,
+but this is still LLM-drafted content, not reviewed by a registered patent
+practitioner.
