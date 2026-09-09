@@ -13,7 +13,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 1(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 1(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -30,8 +34,16 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 101", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 154(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 101",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 154(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -48,8 +60,15 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.51(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "MPEP", "citation": "MPEP § 601" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.51(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 601"
+      }
     ]
   },
   {
@@ -66,7 +85,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP Foreword" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP Foreword"
+      }
     ]
   },
   {
@@ -83,7 +105,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 100(f)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 100(f)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -100,7 +126,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.42(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.42(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -117,8 +147,16 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.42(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 100(f)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.42(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 100(f)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -135,8 +173,15 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 3.1" },
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 261", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 3.1"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 261",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -153,8 +198,15 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 261", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "MPEP", "citation": "MPEP § 301" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 261",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 301"
+      }
     ]
   },
   {
@@ -171,8 +223,16 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.42(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 261", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.42(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 261",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -189,8 +249,16 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 131", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "37 CFR", "citation": "37 CFR 1.104(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 131",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.104(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -207,7 +275,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 11.1", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 11.1",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -224,7 +296,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 11.6(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 11.6(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -241,7 +317,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 11.6(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 11.6(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -258,7 +338,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 11.6(a)-(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 11.6(a)-(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -275,7 +359,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 112(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -292,7 +380,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(a)-(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 112(a)-(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -309,7 +401,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.104(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.104(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -326,7 +422,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP Introduction" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP Introduction"
+      }
     ]
   },
   {
@@ -343,7 +442,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP Introduction" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP Introduction"
+      }
     ]
   },
   {
@@ -360,7 +462,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP Foreword" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP Foreword"
+      }
     ]
   },
   {
@@ -377,8 +482,14 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP Foreword" },
-      { "authority": "MPEP", "citation": "MPEP Introduction" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP Foreword"
+      },
+      {
+        "authority": "MPEP",
+        "citation": "MPEP Introduction"
+      }
     ]
   },
   {
@@ -395,7 +506,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.72(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.72(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -412,7 +527,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.72(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.72(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -429,7 +548,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.81(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.81(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -446,7 +569,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(c)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 112(c)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -463,7 +590,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(d)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 112(d)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -480,8 +611,16 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(e)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "37 CFR", "citation": "37 CFR 1.75(c)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 112(e)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.75(c)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -498,7 +637,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(c)-(d)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 112(c)-(d)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -515,7 +658,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.75(e)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.75(e)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -532,7 +679,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.63(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.63(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -549,7 +700,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.63(a)(3)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.63(a)(3)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -566,7 +721,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.97(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.97(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -583,7 +742,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.56(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.56(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -600,8 +763,16 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.56(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "37 CFR", "citation": "37 CFR 1.97(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.56(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.97(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -618,7 +789,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.98(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.98(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -635,7 +810,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.76(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.76(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -652,8 +831,16 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "37 CFR", "citation": "37 CFR 1.77(b)(11)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 112(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.77(b)(11)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -670,7 +857,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.77(b)(7)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.77(b)(7)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -687,7 +878,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.77(b)(8)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.77(b)(8)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -704,7 +899,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.77(b)(10)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.77(b)(10)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -721,7 +920,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.77(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.77(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -738,8 +941,15 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 111(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "MPEP", "citation": "MPEP § 201.04" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 111(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 201.04"
+      }
     ]
   },
   {
@@ -756,7 +966,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 201.02" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 201.02"
+      }
     ]
   },
   {
@@ -773,8 +986,16 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 111(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 119(e)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 111(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 119(e)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -791,7 +1012,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 201.07" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 201.07"
+      }
     ]
   },
   {
@@ -808,8 +1032,15 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 201.06" },
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 121", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 201.06"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 121",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -826,7 +1057,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 201.08" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 201.08"
+      }
     ]
   },
   {
@@ -843,7 +1077,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 201.02" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 201.02"
+      }
     ]
   },
   {
@@ -860,8 +1097,14 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 201.06" },
-      { "authority": "MPEP", "citation": "MPEP § 201.07" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 201.06"
+      },
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 201.07"
+      }
     ]
   },
   {
@@ -878,8 +1121,14 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 201.07" },
-      { "authority": "MPEP", "citation": "MPEP § 201.08" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 201.07"
+      },
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 201.08"
+      }
     ]
   },
   {
@@ -896,8 +1145,15 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 201.08" },
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 120", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 201.08"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 120",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -914,8 +1170,14 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 201.06" },
-      { "authority": "MPEP", "citation": "MPEP § 201.07" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 201.06"
+      },
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 201.07"
+      }
     ]
   },
   {
@@ -932,7 +1194,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 201.06" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 201.06"
+      }
     ]
   },
   {
@@ -949,7 +1214,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 201.06" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 201.06"
+      }
     ]
   },
   {
@@ -966,7 +1234,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 201.02" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 201.02"
+      }
     ]
   },
   {
@@ -983,7 +1254,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 201.02" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 201.02"
+      }
     ]
   },
   {
@@ -1000,7 +1274,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 119(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 119(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1017,7 +1295,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 120", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 120",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1034,8 +1316,16 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 119(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 120", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 119(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 120",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1052,7 +1342,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 100(i)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 100(i)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1069,7 +1363,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 120", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 120",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1086,7 +1384,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 120", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 120",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1103,8 +1405,16 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.78(d)(2)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 120", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.78(d)(2)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 120",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1121,7 +1431,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 201.02" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 201.02"
+      }
     ]
   },
   {
@@ -1138,7 +1451,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.53(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.53(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1155,7 +1472,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.104(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.104(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1172,7 +1493,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.104(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.104(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1189,7 +1514,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.104(a)(2)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.104(a)(2)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1206,8 +1535,15 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.104(c)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "MPEP", "citation": "MPEP § 706.01" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.104(c)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 706.01"
+      }
     ]
   },
   {
@@ -1224,7 +1560,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 706.01" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 706.01"
+      }
     ]
   },
   {
@@ -1241,7 +1580,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 706.01" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 706.01"
+      }
     ]
   },
   {
@@ -1258,7 +1600,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.111(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.111(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1275,8 +1621,15 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.113(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "MPEP", "citation": "MPEP § 706.07(a)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.113(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 706.07(a)"
+      }
     ]
   },
   {
@@ -1293,7 +1646,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.116(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.116(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1310,7 +1667,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.111(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.111(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1327,7 +1688,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.111(c)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.111(c)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1344,7 +1709,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.111(c)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.111(c)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1361,7 +1730,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.111(c)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.111(c)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1378,7 +1751,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.115(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.115(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1395,7 +1772,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.133(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.133(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1412,7 +1793,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.142(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.142(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1429,7 +1814,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.142(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.142(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1446,7 +1835,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.142(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.142(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1463,8 +1856,15 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 809.02(a)" },
-      { "authority": "37 CFR", "citation": "37 CFR 1.144", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 809.02(a)"
+      },
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.144",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1481,8 +1881,15 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 809.02(a)" },
-      { "authority": "37 CFR", "citation": "37 CFR 1.144", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 809.02(a)"
+      },
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.144",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1499,7 +1906,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.114(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.114(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1516,8 +1927,15 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.114(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "MPEP", "citation": "MPEP § 706.07(h)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.114(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 706.07(h)"
+      }
     ]
   },
   {
@@ -1534,7 +1952,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.114(a)(2)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.114(a)(2)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1551,7 +1973,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.135(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.135(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1568,7 +1994,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.138(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.138(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1585,8 +2015,16 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.113(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "37 CFR", "citation": "37 CFR 1.135(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.113(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.135(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1603,7 +2041,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 151(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 151(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1620,7 +2062,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 151(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 151(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1637,7 +2083,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 151(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 151(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1654,7 +2104,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 151(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 151(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1671,7 +2125,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 151(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 151(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1688,7 +2146,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 151(a)-(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 151(a)-(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1705,7 +2167,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 151(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 151(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1722,7 +2188,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 112(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1739,7 +2209,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.75(i)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.75(i)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1756,7 +2230,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 2111" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 2111"
+      }
     ]
   },
   {
@@ -1773,7 +2250,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 2111" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 2111"
+      }
     ]
   },
   {
@@ -1790,7 +2270,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 112(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1807,7 +2291,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 2173.05(e)" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 2173.05(e)"
+      }
     ]
   },
   {
@@ -1824,7 +2311,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 2173.05(e)" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 2173.05(e)"
+      }
     ]
   },
   {
@@ -1841,7 +2331,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 2173.05(e)" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 2173.05(e)"
+      }
     ]
   },
   {
@@ -1858,8 +2351,15 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "MPEP", "citation": "MPEP § 2163" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 112(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 2163"
+      }
     ]
   },
   {
@@ -1876,7 +2376,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 2163" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 2163"
+      }
     ]
   },
   {
@@ -1893,8 +2396,15 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "MPEP", "citation": "MPEP § 2164" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 112(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 2164"
+      }
     ]
   },
   {
@@ -1911,9 +2421,19 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "MPEP", "citation": "MPEP § 2163" },
-      { "authority": "MPEP", "citation": "MPEP § 2164" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 112(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 2163"
+      },
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 2164"
+      }
     ]
   },
   {
@@ -1930,7 +2450,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 112(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1947,9 +2471,20 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 132(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "37 CFR", "citation": "37 CFR 1.121(f)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "MPEP", "citation": "MPEP § 608.04" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 132(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.121(f)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 608.04"
+      }
     ]
   },
   {
@@ -1966,7 +2501,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.121(f)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.121(f)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -1983,8 +2522,14 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 2163" },
-      { "authority": "MPEP", "citation": "MPEP § 608.04" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 2163"
+      },
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 608.04"
+      }
     ]
   },
   {
@@ -2001,7 +2546,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(f)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 112(f)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2018,8 +2567,15 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(f)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "MPEP", "citation": "MPEP § 2181" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 112(f)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 2181"
+      }
     ]
   },
   {
@@ -2036,7 +2592,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 112(a)-(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 112(a)-(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2053,8 +2613,14 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 608.04" },
-      { "authority": "MPEP", "citation": "MPEP § 608.01(l)" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 608.04"
+      },
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 608.01(l)"
+      }
     ]
   },
   {
@@ -2071,7 +2637,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 101", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 101",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2088,7 +2658,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 102(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 102(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2105,7 +2679,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 103", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 103",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2122,9 +2700,21 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 101", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 102(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 103", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 101",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 102(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 103",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2141,7 +2731,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 102(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 102(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2158,7 +2752,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 2128" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 2128"
+      }
     ]
   },
   {
@@ -2175,7 +2772,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 102(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 102(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2192,7 +2793,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 2131" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 2131"
+      }
     ]
   },
   {
@@ -2209,7 +2813,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 2131" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 2131"
+      }
     ]
   },
   {
@@ -2226,7 +2833,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 2131" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 2131"
+      }
     ]
   },
   {
@@ -2243,7 +2853,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 103", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 103",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2260,7 +2874,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 103", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 103",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2277,8 +2895,15 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 2131" },
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 103", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 2131"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 103",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2295,8 +2920,16 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 102(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 103", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 102(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 103",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2313,7 +2946,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 2141" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 2141"
+      }
     ]
   },
   {
@@ -2330,7 +2966,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.104(c)(2)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.104(c)(2)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2347,7 +2987,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 2121" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 2121"
+      }
     ]
   },
   {
@@ -2364,8 +3007,16 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 102(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 103", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 102(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 103",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2382,7 +3033,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 804" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 804"
+      }
     ]
   },
   {
@@ -2399,8 +3053,15 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 101", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "MPEP", "citation": "MPEP § 804" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 101",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 804"
+      }
     ]
   },
   {
@@ -2417,7 +3078,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 804" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 804"
+      }
     ]
   },
   {
@@ -2434,7 +3098,10 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 804" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 804"
+      }
     ]
   },
   {
@@ -2451,7 +3118,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.321(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.321(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2468,8 +3139,15 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.321(c)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "MPEP", "citation": "MPEP § 804" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.321(c)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 804"
+      }
     ]
   },
   {
@@ -2486,7 +3164,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 133", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 133",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2503,7 +3185,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.134", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.134",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2520,8 +3206,16 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 133", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "37 CFR", "citation": "37 CFR 1.134", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 133",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.134",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2538,7 +3232,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.136(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.136(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2555,7 +3253,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.136(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.136(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2572,7 +3274,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.6(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.6(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2589,8 +3295,16 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.6(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "37 CFR", "citation": "37 CFR 1.53(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.6(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.53(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2607,7 +3321,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.8(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.8(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2624,7 +3342,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.8(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.8(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2641,7 +3363,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.8(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.8(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2658,24 +3384,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.136(a)(1)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
-    ]
-  },
-  {
-    "id": "foundation-deadlines-and-procedure-012",
-    "deck": "foundation",
-    "topic": "deadlines-and-procedure",
-    "subtopic": "relationships",
-    "level": 1,
-    "card_type": "qa",
-    "question": "What happens if a reply isn't filed on time?",
-    "answer_text": "The application becomes abandoned — automatically, by operation of the deadline itself, without any further action needed from the examiner (unless the Office action says otherwise).",
-    "why_it_matters": "This links the deadline vocabulary in this topic straight back to abandonment — missing a timely reply is the single most common way an application actually goes abandoned.",
-    "choices": null,
-    "answer": null,
-    "explanation": null,
-    "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.135(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.136(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2692,7 +3405,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.7(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.7(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2709,7 +3426,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 134(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 134(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2726,7 +3447,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 134(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 134(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2743,7 +3468,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.181(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.181(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2760,8 +3489,15 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "MPEP", "citation": "MPEP § 1201" },
-      { "authority": "37 CFR", "citation": "37 CFR 1.181(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 1201"
+      },
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.181(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2778,7 +3514,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 361(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 361(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2795,7 +3535,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 363", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 363",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2812,7 +3556,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 371(b)-(c)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 371(b)-(c)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2829,8 +3577,16 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 363", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 371(b)-(c)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 363",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 371(b)-(c)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2847,7 +3603,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 122(b)(1)(A)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 122(b)(1)(A)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2864,8 +3624,16 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 122(b)(1)(A)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 151(a)-(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 122(b)(1)(A)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 151(a)-(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2882,7 +3650,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "37 CFR", "citation": "37 CFR 1.362(a)-(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.362(a)-(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2899,8 +3671,16 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 151(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "37 CFR", "citation": "37 CFR 1.362(a)-(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 151(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.362(a)-(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2917,7 +3697,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 251(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 251(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2934,7 +3718,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 302", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 302",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2951,8 +3739,16 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 251(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 302", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 251(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 302",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2969,7 +3765,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 251(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 251(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -2986,7 +3786,11 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 257(a)", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 257(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
     ]
   },
   {
@@ -3003,8 +3807,186 @@
     "answer": null,
     "explanation": null,
     "sources": [
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 257(a)-(b)", "as_of": "Rev. 01.2024 (Nov. 2024)" },
-      { "authority": "35 U.S.C.", "citation": "35 U.S.C. 302", "as_of": "Rev. 01.2024 (Nov. 2024)" }
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 257(a)-(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 302",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-reading-exam-questions-001",
+    "deck": "foundation",
+    "topic": "reading-exam-questions",
+    "subtopic": "idioms",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does \"in accordance with the MPEP/USPTO rules and procedures\" mean in a question stem?",
+    "answer_text": "Just \"correctly following\" the applicable rule — it's boilerplate framing, not a special legal test. A question asking which action is \"in accordance with\" proper practice is asking which choice actually follows the rule.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "USPTO",
+        "citation": "Recurring phrasing observed across the historical registration-exam corpus in this repo (reference/historical_exams/); e.g., card 2002-10-16-am-013"
+      }
+    ]
+  },
+  {
+    "id": "foundation-reading-exam-questions-002",
+    "deck": "foundation",
+    "topic": "reading-exam-questions",
+    "subtopic": "idioms",
+    "level": 1,
+    "card_type": "qa",
+    "question": "Why do exam questions ask for the \"most correct\" answer instead of just \"the correct\" answer?",
+    "answer_text": "Because with five choices, more than one can be partially true or reasonable-sounding — the task is to pick the single best one, not just any true statement. This follows directly from the exam's own format: every question has exactly five choices, and only one is scored as correct.",
+    "why_it_matters": "This is why eliminating four wrong-ish answers isn't enough on its own — you have to actively compare the survivors and decide which one is most fully and precisely correct.",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "USPTO",
+        "citation": "General Requirements Bulletin, Section IX.B (exam format: 5 choices per question)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-reading-exam-questions-003",
+    "deck": "foundation",
+    "topic": "reading-exam-questions",
+    "subtopic": "idioms",
+    "level": 1,
+    "card_type": "qa",
+    "question": "What's the trap in a question phrased \"which of the following is NOT in accordance with...\"?",
+    "answer_text": "The logic is flipped: four of the five choices describe correct practice, and the credited answer is the one that's WRONG. Missing the \"not\" (or forgetting it's there by the time you reach choice E) is one of the most common ways to miss an otherwise-easy question.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "USPTO",
+        "citation": "Recurring phrasing observed across the historical registration-exam corpus in this repo (reference/historical_exams/); e.g., card 2002-10-16-am-003"
+      }
+    ]
+  },
+  {
+    "id": "foundation-reading-exam-questions-004",
+    "deck": "foundation",
+    "topic": "reading-exam-questions",
+    "subtopic": "idioms",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does \"properly\" mean in phrases like \"a proper basis for rejection\"?",
+    "answer_text": "Simply \"in compliance with the applicable rule or procedure.\" \"A proper basis for rejection\" is asking whether the examiner's action actually follows a rule that authorizes it — not some deeper legal test of its own.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "USPTO",
+        "citation": "Recurring phrasing observed across the historical registration-exam corpus in this repo (reference/historical_exams/); e.g., card 2002-10-16-am-013"
+      }
+    ]
+  },
+  {
+    "id": "foundation-reading-exam-questions-005",
+    "deck": "foundation",
+    "topic": "reading-exam-questions",
+    "subtopic": "idioms",
+    "level": 0,
+    "card_type": "qa",
+    "question": "Two ordinary-sounding words that are actually terms of art on the exam: \"traverse\" and \"seasonably.\" What do they mean?",
+    "answer_text": "\"Traverse\" means to formally object to or contest something (e.g., traversing a restriction requirement). \"Seasonably\" just means \"timely\" — the MPEP itself uses \"timely or seasonably\" interchangeably.",
+    "why_it_matters": "Neither word is exotic once you know the translation — they trip people up purely because they're unfamiliar, not because the underlying idea is hard.",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 809.02(a)"
+      },
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 716.01"
+      }
+    ]
+  },
+  {
+    "id": "foundation-reading-exam-questions-006",
+    "deck": "foundation",
+    "topic": "reading-exam-questions",
+    "subtopic": "idioms",
+    "level": 1,
+    "card_type": "qa",
+    "question": "\"May\" vs. \"must\" vs. \"should\" — how much does the choice of word actually matter in a rule?",
+    "answer_text": "A lot. \"Must\" (and \"shall\") states an obligation — e.g., an applicant \"must reply\" to a non-final Office action to avoid abandonment. \"May\" states an option the party can choose to exercise or not — e.g., an applicant \"may extend\" a reply period by filing a petition and fee. Confusing a \"may\" for a \"must\" (or vice versa) is a common way to misread what a rule actually requires versus merely permits.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.111(a)(1) (\"must reply\")",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.136(a)(1) (\"applicant may extend\")",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-reading-exam-questions-007",
+    "deck": "foundation",
+    "topic": "reading-exam-questions",
+    "subtopic": "answer-structure",
+    "level": 1,
+    "card_type": "qa",
+    "question": "What are \"combinator\" answer choices, like \"(B) and (D)\" or \"All of the above\"?",
+    "answer_text": "Answer choices that combine two or more of the other lettered choices into one option. Reasoning through them means first evaluating each individual underlying choice on its own, then figuring out which combination of true/false results matches one of the combinator options — not treating the combinator as a single new idea to evaluate directly.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "USPTO",
+        "citation": "flashcards/README.md schema notes on multi-letter answer sets, drawn from the historical registration-exam corpus"
+      }
+    ]
+  },
+  {
+    "id": "foundation-reading-exam-questions-008",
+    "deck": "foundation",
+    "topic": "reading-exam-questions",
+    "subtopic": "strategy",
+    "level": 1,
+    "card_type": "qa",
+    "question": "What's a simple 4-step way to approach a dense procedural fact pattern before trying to answer it?",
+    "answer_text": "(1) What happened? — read the facts once just to identify the events. (2) Where are we in prosecution? — figure out the procedural posture (e.g., after a first Office action, after final rejection, after allowance). (3) What action is being taken (or contemplated)? — identify the specific step the question is really asking about. (4) What rule is likely being tested? — use (2) and (3) to guess which vocabulary/rule from this deck the question is actually probing, before reading the choices.",
+    "why_it_matters": "This is a triage step, not a substitute for knowing the substance — it just keeps a dense, multi-clause fact pattern from feeling like an unstructured wall of unfamiliar words.",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "USPTO",
+        "citation": "Study strategy derived from patterns in the historical registration-exam corpus audited in this repo (reference/historical_exams/), not itself a USPTO-published rule"
+      }
     ]
   }
 ]

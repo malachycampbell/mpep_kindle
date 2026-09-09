@@ -24,7 +24,7 @@ This repo is being extended with two GitHub Pages study modules: a mobile flashc
 | 3 -- Flashcard bank & GitHub Pages interface | Done -- 238 cards in `flashcards/bank.json`; interface live on GitHub Pages |
 | 4/5 -- Practice-exam mode (scoped down, see `docs/README.md`) | Done -- Quiz mode added to the same interface (auto-graded, optional timer), reusing the existing 238-card bank; no new question-generation pipeline or strict 100-question mock exam simulation, by deliberate scope choice |
 | 6 -- Iteration | Not started |
-| 7 -- Foundations deck (beginner vocabulary/concept layer, `flashcards/foundations.json`) | In progress -- schema, app integration (Deck selector, `qa`-card rendering, Source/details disclosure, per-deck stats), and Topic 1 ("System & Legal Vocabulary", 22 cards) done; checkpoint with user before drafting the remaining ~8 topics toward the ~200-card target |
+| 7 -- Foundations deck (beginner vocabulary/concept layer, `flashcards/foundations.json`) | Done -- 181 cards across all 9 planned topics (system vocabulary, application anatomy, application types, prosecution lifecycle, claims/§112, patentability & prior art, deadlines & procedure, appeals/PCT/post-grant, reading exam questions), every card cited to the locally pinned MPEP/35 U.S.C./37 CFR text; app integration (Deck selector, `qa`-card rendering, Source/details disclosure, per-deck stats) and a cross-corpus QC pass complete |
 
 ## A note on content accuracy
 
