@@ -4161,5 +4161,749 @@
         "as_of": "Rev. 01.2024 (Nov. 2024)"
       }
     ]
+  },
+  {
+    "id": "foundation-application-anatomy-021",
+    "deck": "foundation",
+    "topic": "application-anatomy",
+    "subtopic": "claims",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "Claim 1 recites a chair with a seat and legs. Claim 2 states: \"The chair of claim 1, wherein the seat is cushioned.\" Which statement about claims 1 and 2 is correct?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "Claim 2 is broader than claim 1, because it adds a further detail.",
+      "B": "Claim 1 is an independent claim; claim 2 is a dependent claim that necessarily includes every limitation of claim 1 plus the added cushioning limitation, making it narrower than claim 1.",
+      "C": "Claims 1 and 2 must be examined as completely unrelated inventions.",
+      "D": "Claim 2 becomes an independent claim once the application is granted."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. Claim 1 stands on its own and is independent (foundation-application-anatomy-004); claim 2 refers back to claim 1 and adds a limitation, making it dependent (foundation-application-anatomy-005); a dependent claim is automatically narrower because it incorporates everything the referenced claim requires plus its own added limitation (foundation-application-anatomy-007). (A) has it backwards -- adding a limitation narrows scope, it does not broaden it. (C) is unsupported -- a dependent claim is by definition tied to, and construed together with, the claim it refers back to. (D) is incorrect -- whether a claim is independent or dependent is a drafting characteristic fixed by how it's written, not something that changes upon grant.",
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 112(c)-(d)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-application-anatomy-022",
+    "deck": "foundation",
+    "topic": "application-anatomy",
+    "subtopic": "claims",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "Claim 5 reads: \"The widget of claim 3 or 4, further comprising a handle.\" Claim 6 reads: \"The widget of claim 5, further comprising a base.\" Is claim 6 permitted as drafted?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "Yes -- claim 6 is an ordinary (single) dependent claim referring to claim 5; the rule against building on a multiple dependent claim only bars using it as the basis for another multiple dependent claim.",
+      "B": "No -- a multiple dependent claim can never be used as the basis for any other claim, single or multiple.",
+      "C": "No -- claim 6 must instead recite \"the widget of claim 3, 4, or 5\" to be proper.",
+      "D": "Yes, but only because claim 6 also uses alternative (\"or\") language."
+    },
+    "answer": "A",
+    "explanation": "(A) is correct. A multiple dependent claim (claim 5, which refers to claim 3 or 4 in the alternative) may not serve as the basis for any other multiple dependent claim -- see foundation-application-anatomy-006 and 37 CFR 1.75(c) / MPEP § 608.01(n). Claim 6, as drafted, refers back to only claim 5 (a single, non-alternative reference), so it is an ordinary single dependent claim, not a multiple dependent claim -- the prohibition doesn't apply to it. (B) overstates the rule: it bars only building a multiple dependent claim on another multiple dependent claim, not an ordinary dependent claim. (C) invents a drafting requirement that doesn't exist. (D) is wrong on its face -- claim 6 doesn't use \"or\" language at all, and doesn't need to, since it isn't a multiple dependent claim.",
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 112(e)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.75(c)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 608.01(n)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-application-anatomy-023",
+    "deck": "foundation",
+    "topic": "application-anatomy",
+    "subtopic": "duty-of-disclosure",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "Attorney Kim, prosecuting an application, personally becomes aware of a highly relevant prior art reference through an unrelated case. She takes no action regarding this application. Has she satisfied her obligations to the USPTO?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "Yes -- the duty to disclose only requires disclosing references the examiner already found during the search.",
+      "B": "No -- everyone associated with filing and prosecuting the application has a duty to disclose to the USPTO all information known to be material to patentability, and filing an IDS is the mechanism for doing so.",
+      "C": "Yes -- the duty to disclose applies only to the inventors, not to the prosecuting attorney.",
+      "D": "No, but only because the duty to disclose requires her to affirmatively search for prior art in unrelated matters."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. The duty to disclose is owed by every individual associated with filing and prosecuting an application (which includes the prosecuting attorney, not just the inventors), and it covers material information known to that individual regardless of its source; an IDS is the paperwork mechanism used to satisfy it -- see foundation-application-anatomy-011/-012/-013. (A) inverts the duty: it's a duty to disclose what the individual already knows, not merely to relay what the examiner already found. (C) is directly contradicted by \"every individual associated with filing and prosecuting\" in foundation-application-anatomy-012. (D) mischaracterizes the duty as an affirmative search obligation, which foundation-application-anatomy-012's definition (disclose what is \"known\") does not establish.",
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.56(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.97(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-application-anatomy-024",
+    "deck": "foundation",
+    "topic": "application-anatomy",
+    "subtopic": "filing-documents",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "Which of the following is generally set out in an Application Data Sheet (ADS) rather than in the specification itself?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "The detailed description of how to make and use the invention.",
+      "B": "Applicant and inventor information and any priority or benefit claims.",
+      "C": "The claim(s) defining the scope of protection.",
+      "D": "The Background of the Invention section."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. The ADS is used to set out bibliographic-type information -- applicant and inventor information, priority/benefit claims, and similar data -- separately from the specification (foundation-application-anatomy-015). (A) is part of the Detailed Description of the Invention section of the specification (foundation-application-anatomy-019). (C) is the claims, the concluding part of the specification. (D) is the Background of the Invention section of the specification (foundation-application-anatomy-017). None of A, C, or D belong in the ADS.",
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.76(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-application-anatomy-025",
+    "deck": "foundation",
+    "topic": "application-anatomy",
+    "subtopic": "specification-structure",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "A drafter has these sections ready: Detailed Description of the Invention, Background of the Invention, Summary of the Invention, and the claim(s). In what order should these normally appear in the specification?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "Detailed Description, Background, Summary, Claim(s).",
+      "B": "Background, Summary, Detailed Description, Claim(s).",
+      "C": "Claim(s), Background, Summary, Detailed Description.",
+      "D": "Summary, Background, Detailed Description, Claim(s)."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. The normal order is: title, cross-references (if any), background of the invention, summary of the invention, brief description of the drawings, detailed description of the invention, the claim(s), and the abstract -- see foundation-application-anatomy-020, which draws on foundation-application-anatomy-017/-018/-019 for what each section covers. (A), (C), and (D) all place at least one section out of that order (the claims must come last among these four, and Background precedes Summary, which precedes the Detailed Description).",
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.77(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-application-anatomy-026",
+    "deck": "foundation",
+    "topic": "application-anatomy",
+    "subtopic": "claims",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "A claim reads: \"A bicycle comprising: a frame; two wheels; and a seat, wherein the frame includes a shock-absorbing joint.\" Which portion of this claim is the preamble?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "\"a frame; two wheels; and a seat\" -- the elements introduced after \"comprising.\"",
+      "B": "\"A bicycle\" -- the introductory portion before the transitional phrase \"comprising,\" which generally names the known context for the claimed combination.",
+      "C": "\"wherein the frame includes a shock-absorbing joint\" -- the final clause of the claim.",
+      "D": "The entire claim, since a preamble includes every word of a claim."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. The preamble is the introductory part of a claim, before the transitional phrase (like \"comprising\"), and generally describes the conventional/known elements of the claimed combination -- see foundation-application-anatomy-008. Here, that's just \"A bicycle,\" before \"comprising.\" (A) and (C) are both part of the claim body -- the elements and limitations recited after the transitional phrase -- not the preamble. (D) overstates the definition; the preamble is specifically the introductory portion, not the whole claim.",
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.75(e)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-application-types-024",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "continuing-applications",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "An applicant files a follow-on application while the parent is still pending. The follow-on repeats the parent's disclosure exactly and adds no new subject matter, but pursues a distinct invention that was disclosed (but not claimed) in the parent, after the examiner issued a restriction requirement. What type of application is this?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "Continuation",
+      "B": "Divisional",
+      "C": "Continuation-in-part",
+      "D": "Substitute application"
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. A divisional carves out a different, independent or distinct invention that was disclosed but not the focus of the claims in the earlier application, typically in response to a restriction requirement, and adds no new matter -- see foundation-application-types-005 and foundation-application-types-008. (A) is wrong: a continuation pursues the *same* invention further, not a distinct one split off by restriction. (C) is wrong because the facts state no new subject matter was added, which rules out a CIP (foundation-application-types-006/-009). (D) is wrong: a substitute application follows an abandoned earlier application and does not get its filing date benefit at all (foundation-application-types-015), unlike this still-pending scenario.",
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 201.06"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 121",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-application-types-025",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "continuing-applications",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "A continuation-in-part repeats the parent's disclosure of Widget A and adds new disclosure of Widget B, which was not in the parent. For a claim reciting only Widget B, what effective filing date applies?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "The parent application's filing date, because the CIP as a whole gets the earlier date.",
+      "B": "The CIP's own (later) filing date, since Widget B was not disclosed in the parent application.",
+      "C": "Whichever date is earlier is always used for every claim in a CIP, regardless of what each claim recites.",
+      "D": "No effective filing date can be assigned to the claim until the CIP issues as a patent."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. A CIP effectively carries two dates: subject matter already disclosed in the parent keeps the parent's earlier filing date for benefit purposes, while newly added subject matter only gets the CIP's own later filing date -- see foundation-application-types-010, applying the effective-filing-date definition in foundation-application-types-019. Since Widget B is new matter not in the parent, a claim reciting only Widget B gets the CIP's own filing date. (A) and (C) both wrongly assume a single filing date applies to the whole CIP regardless of what each claim covers. (D) is incorrect -- effective filing date is a property of the claim at filing, not something that first arises at issuance.",
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 201.08"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 120",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 100(i)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-application-types-026",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "priority-and-benefit",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "A U.S. nonprovisional application seeks the advantage of an earlier French patent application's filing date, for the same invention. What is this relationship called, and which statute governs it?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "\"Benefit,\" governed by 35 U.S.C. 120.",
+      "B": "\"Priority,\" governed by 35 U.S.C. 119(a).",
+      "C": "\"Copendency,\" governed by 35 U.S.C. 120.",
+      "D": "\"Continuation,\" governed by 37 CFR 1.78."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. \"Priority\" under 35 U.S.C. 119(a) links a U.S. application back to an earlier *foreign* application for the same invention, filed within the treaty-set time limit -- see foundation-application-types-016 and foundation-application-types-018. (A) is wrong: \"benefit\" under § 120 links a later U.S. application back to an earlier *U.S. nonprovisional* application, not a foreign one. (C) is wrong: copendency is a timing requirement for a benefit claim, not the name for this foreign-priority relationship, and it isn't itself governed by § 120 as a distinct concept here. (D) is wrong: \"continuation\" describes a type of continuing U.S. application relying on an earlier U.S. application, not a claim to a foreign filing.",
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 119(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 120",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-application-types-027",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "priority-and-benefit",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "A parent application issues as a patent on March 1. On March 15, the applicant files a continuation application claiming the parent's benefit. Is the continuation entitled to that benefit?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "Yes, since the applications share the same inventor and disclosure.",
+      "B": "No -- the continuation was filed after the parent already issued, so the two applications were never copending, and benefit under 35 U.S.C. 120 requires copendency.",
+      "C": "Yes, as long as the continuation is filed within one year of the parent's issue date.",
+      "D": "No, but only because the applicant should have filed a divisional instead of a continuation."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. Benefit under § 120 depends on catching the earlier application while it is still pending -- if the earlier application is already patented (or abandoned) before the later one is filed, there is no live application left to \"continue,\" so copendency fails -- see foundation-application-types-020 and foundation-application-types-021. (A) ignores the copendency requirement entirely. (C) invents a one-year grace period that doesn't exist for this relationship. (D) is wrong: the problem here is timing (no copendency), not which continuing-application type was chosen -- a divisional filed after issuance would fail for the identical reason.",
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 120",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-application-types-028",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "priority-and-benefit",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "An application's disclosure clearly overlaps with an earlier copending application, but the applicant never includes any reference identifying that earlier application in the new filing. Does the new application automatically receive benefit of the earlier application's filing date?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "Yes -- benefit follows automatically whenever the disclosures are related and the applications are copending.",
+      "B": "No -- the later application must contain (or be amended to contain) a specific reference identifying the earlier application and the relationship between them; a benefit claim does not arise automatically.",
+      "C": "Yes, but only if the examiner happens to discover the relationship during the prior art search.",
+      "D": "No, because only divisional applications, not continuations, are permitted to claim benefit."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. A benefit claim requires the later application to contain (or be amended to contain) a specific reference identifying the earlier application and stating the relationship (continuation, divisional, or CIP) -- it doesn't happen automatically just because the applications are related and copending -- see foundation-application-types-022. (A) and (C) both wrongly assume the relationship is self-executing. (D) is factually wrong: continuations, divisionals, and CIPs can all claim benefit under § 120, per foundation-application-types-007.",
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.78(d)(2)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 120",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-application-types-029",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "provisional-and-nonprovisional",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "An inventor files only a provisional application describing her invention and never files a corresponding nonprovisional application within 12 months. What happens to the provisional, and can it ever mature into a patent on its own?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "It automatically converts into a nonprovisional application and proceeds to examination.",
+      "B": "It goes abandoned 12 months after filing, and it can never itself mature into a patent -- a provisional application is never examined.",
+      "C": "It remains pending indefinitely until the inventor takes further action.",
+      "D": "It automatically becomes a divisional application."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. A provisional application establishes an early filing date but is never examined and never itself becomes a patent -- it automatically goes abandoned 12 months after filing unless a nonprovisional application claims its benefit in time -- see foundation-application-types-001 and foundation-application-types-003. (A) is incorrect: nothing automatically converts a provisional into a nonprovisional; a separate nonprovisional filing (claiming benefit) is required. (C) is incorrect: the 12-month abandonment is automatic, not conditional on inaction being noticed. (D) is incorrect: nothing automatically converts a provisional into a divisional application either.",
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 111(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 201.04"
+      }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-035",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "office-actions",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "An examiner determines that dependent claim 5 would otherwise be allowable, but it depends from claim 1, which has been rejected as unpatentable over prior art. How is claim 5 typically treated, and what does that mean for the applicant's review options if that treatment doesn't change?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "Claim 5 is rejected, and the applicant may appeal that rejection to the Patent Trial and Appeal Board.",
+      "B": "Claim 5 is objected to (not rejected), since the problem is one of form -- dependency on a rejected claim -- rather than substance; disagreement with a persisting objection is reviewed by petition to the Director, not by appeal to the Board.",
+      "C": "Claim 5 is automatically canceled along with claim 1.",
+      "D": "Claim 5 is allowed outright, regardless of claim 1's status."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. A dependent claim that would otherwise be allowable, but depends on a rejected claim, is objected to rather than rejected -- see foundation-prosecution-lifecycle-006's own example. Because the issue is one of form, not substance, it can't be appealed to the Board; the applicant's only recourse for a persisting objection is a petition to the Director -- see foundation-prosecution-lifecycle-007. (A) mislabels the treatment as a rejection and wrongly opens Board appeal. (C) is unsupported -- an objected claim isn't automatically canceled. (D) ignores that claim 5's dependency on rejected claim 1 is exactly why it isn't simply allowed.",
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 706.01"
+      }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-036",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "office-actions",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "Which of the following amendments, filed after a final Office action, is most likely to be entered as of right, given the limited circumstances recognized for post-final amendments?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "An amendment adding a new claim reciting a feature not previously claimed.",
+      "B": "An amendment canceling a rejected claim.",
+      "C": "An amendment broadening the scope of an independent claim.",
+      "D": "An amendment requesting the examiner search additional prior art not yet considered."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. After a final action, further amendments are entered only in limited circumstances, expressly including canceling claims or putting claims in condition for allowance -- see foundation-prosecution-lifecycle-010. (A), (C), and (D) don't fall within that recognized list: adding a new claim with a new feature, broadening an independent claim, and requesting a fresh search are all outside the \"canceling claims / condition for allowance\" categories, so none is entered as of right after final -- an RCE or appeal is the normal route instead.",
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.116(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-037",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "rce-and-continued-examination",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "After final rejection, an applicant wants to keep prosecuting the very same application -- not start a new one -- and reopen examination. The application has not yet been abandoned, and the issue fee hasn't been paid. What should the applicant file?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "A continuation application, since that is the only way to continue prosecution after a final rejection.",
+      "B": "A Request for Continued Examination (RCE), which reopens examination in the same application without creating a new one.",
+      "C": "A divisional application.",
+      "D": "An express abandonment, which automatically triggers continued examination."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. An RCE reopens examination in the very same application -- same application number, same filing date, no new application created -- and must be filed before the issue fee is paid or the application is abandoned, both conditions satisfied here -- see foundation-prosecution-lifecycle-022/-023. (A) is wrong: a continuation is a separate, brand-new application, not a continuation of examination within the same one. (C) is wrong for the same reason as (A). (D) is wrong -- express abandonment ends the application; it doesn't trigger continued examination.",
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.114(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-038",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "rce-and-continued-examination",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "An application has already gone abandoned because the applicant missed a reply deadline. Can the applicant file an RCE to reopen examination?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "Yes -- an RCE always reopens examination, even in an already-abandoned application.",
+      "B": "No -- an RCE must be filed before abandonment (or before the issue fee is paid, or before certain appeals); since the application is already abandoned, the applicant would need to petition to revive it first.",
+      "C": "Yes, but only if filed within 3 months of the abandonment.",
+      "D": "No -- an abandoned application can never be revived under any circumstances."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. An RCE won't revive an already-abandoned application; it must be filed before abandonment -- see foundation-prosecution-lifecycle-024. To proceed, the applicant would need to petition to revive the application first. (A) and (C) both wrongly treat the RCE itself as capable of reopening an already-dead application. (D) overstates the rule -- revival is possible via petition, just not via an RCE.",
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.114(a)(2)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-039",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "restriction-and-election",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "An examiner issues a restriction requirement because the application claims two independent and distinct inventions. In reply, the applicant elects Invention A but does not distinctly and specifically point out any error in the requirement. What is the consequence for the applicant's ability to later challenge the restriction requirement?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "The applicant automatically preserves the right to petition the Director to review the restriction requirement, regardless of what the reply says.",
+      "B": "Because the election was made without traverse -- no error was distinctly and specifically pointed out -- the right to petition the Director to review the restriction requirement is lost.",
+      "C": "The applicant may still appeal the restriction requirement to the Patent Trial and Appeal Board at any time.",
+      "D": "The election itself is invalid unless it is made with traverse."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. An election must be made with traverse -- distinctly and specifically pointing out the requirement's supposed errors -- to preserve the right to petition the Director for review; failing to do so means the election is treated as without traverse, and that petition right is lost -- see foundation-prosecution-lifecycle-020/-021. (A) is directly contradicted by that rule. (C) is wrong: review of a restriction requirement is by petition to the Director, not appeal to the Board -- see foundation-prosecution-lifecycle-007's rejection/objection distinction, which applies the same petition-vs-appeal logic to procedural matters. (D) is wrong -- the election itself is still effective; only the traverse-dependent petition right is affected.",
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 809.02(a)"
+      },
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.144",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-040",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "office-actions",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "An applicant receives a final Office action and does nothing further before the period for reply (including any extensions) expires. Was the application abandoned by the final rejection itself, or by something else?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "The final rejection itself is what causes abandonment.",
+      "B": "The application becomes abandoned only because the applicant failed to file a timely, adequate reply within the period for reply -- the final rejection alone does not abandon the application.",
+      "C": "Final rejections are automatically followed by abandonment regardless of whether any reply is filed.",
+      "D": "The application cannot become abandoned once a final rejection has issued."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. A final rejection just changes what kind of reply is allowed; the application only becomes abandoned if the applicant then fails to file a timely, adequate reply (an amendment putting it in condition for allowance, an RCE, or a notice of appeal) within the reply period -- see foundation-prosecution-lifecycle-027, which draws on -009 and -025. (A) and (C) both wrongly treat the final rejection itself as the abandoning event. (D) is wrong -- applications absolutely can (and often do) go abandoned after a final rejection, precisely through inaction.",
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.113(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.135(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-041",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "allowance-and-issuance",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "An application is allowed and the Notice of Allowance issues, specifying the issue fee due. The applicant never pays the issue fee within the 3-month period. What happens?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "The patent still issues automatically, since the application was already allowed.",
+      "B": "The application is regarded as abandoned, even though it had been allowed -- allowance alone does not guarantee a granted patent.",
+      "C": "The Office automatically extends the deadline indefinitely once an application has been allowed.",
+      "D": "The application reverts to non-final Office action status."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. If the issue fee isn't paid within the 3-month deadline, the application is regarded as abandoned even though it was already allowed -- see foundation-prosecution-lifecycle-034, building on the allowance-vs-issuance distinction in -033 (the patent doesn't actually issue until the fee is paid). (A) is wrong for that same reason -- allowance is not issuance. (C) invents an automatic indefinite extension that doesn't exist. (D) is wrong -- a lapsed allowed application goes abandoned, it doesn't revert to non-final status.",
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 151(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-042",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "restriction-and-election",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "What does it mean for an applicant to \"traverse\" a restriction requirement, as opposed to simply complying with it?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "To pay an additional fee to avoid the restriction requirement entirely.",
+      "B": "To formally object to the requirement, distinctly and specifically pointing out what the applicant believes is wrong with it.",
+      "C": "To request an examiner interview instead of replying in writing.",
+      "D": "To automatically elect all of the claimed inventions rather than choosing just one."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct -- to traverse is to formally object, distinctly and specifically pointing out what's wrong with the requirement, rather than simply complying with it -- see foundation-prosecution-lifecycle-020. (A) invents a fee-based way to avoid restriction that doesn't exist. (C) confuses traversal with a different, unrelated procedural tool (an interview). (D) is wrong: electing an invention and traversing the requirement are two different, independent things -- see foundation-prosecution-lifecycle-019 and -021 -- and traversal has nothing to do with electing every invention.",
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 809.02(a)"
+      },
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.144",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-021",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "written-description-and-enablement",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "A specification teaches, in exhaustive step-by-step detail, how to make and use claimed compound X, but never shows the inventor actually made compound X or otherwise had possession of it as of filing -- it only describes X as a predictable extension of a related compound the inventor did make. Which 35 U.S.C. 112(a) requirement is most directly at risk?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "Enablement, because the specification's instructions are too detailed.",
+      "B": "Written description, because the specification doesn't show the inventor actually possessed the claimed compound X, even though it may enable making and using it.",
+      "C": "Best mode, because the inventor didn't disclose a preferred version of X.",
+      "D": "Definiteness, because compound X isn't clearly named."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. Written description requires the specification to show possession of the claimed invention as of filing -- actual development with all its limitations, not just that it seems like a predictable extension of something else -- see foundation-claims-and-112-009/-010. This is a distinct requirement from enablement, which is about whether a skilled person could make and use the invention without undue experimentation (foundation-claims-and-112-011/-012) -- and the facts here suggest enablement is satisfied even though written description is at risk. (A) is wrong -- detailed instructions support enablement, they don't create a problem. (C) and (D) address different, unrelated requirements not implicated by these facts.",
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 112(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 2163"
+      }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-022",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "new-matter",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "During prosecution, an applicant amends the specification of a pending application to add a numerical range for an ingredient that was never disclosed, in any form, in the application as originally filed. What is this amendment called, and is it permitted?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "An ordinary amendment, always permitted regardless of content.",
+      "B": "New matter -- subject matter not present in the specification, claims, or drawings as originally filed -- which is not permitted.",
+      "C": "A preliminary amendment, permitted because it is filed before the first Office action.",
+      "D": "A continuation-in-part-style amendment, permitted because CIPs are allowed to add new matter."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. New matter is subject matter not present in the specification, claims, or drawings as originally filed, and no amendment to an existing application may introduce it -- see foundation-claims-and-112-014/-015. (A) is wrong -- ordinary amendments are fine, but this one specifically introduces undisclosed content, which is what makes it a new-matter problem. (C) mislabels the timing category and doesn't change the new-matter analysis. (D) confuses two different things: a CIP can add new subject matter, but only by filing a *new application*, not by amending the original one -- an amendment within the same application is still barred from adding new matter regardless of what a CIP could do.",
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 132(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.121(f)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 608.04"
+      }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-023",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "means-plus-function",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "A claim recites \"a means for securing the panel to the frame.\" The specification discloses a specific bracket-and-bolt structure for performing that function. How is this claim element interpreted?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "It covers literally any possible structure that could secure the panel to the frame, no matter how different from what's disclosed.",
+      "B": "It is limited to the specific bracket-and-bolt structure described in the specification, plus equivalents of that structure.",
+      "C": "It is indefinite and cannot be interpreted at all, since no specific structure is recited in the claim itself.",
+      "D": "It is limited only to the exact bracket-and-bolt embodiment shown, with no equivalents included."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. A means-plus-function element is construed to cover the specific structure, material, or acts described in the specification for performing the recited function, plus equivalents of that disclosed structure -- not literally any way of performing the function -- see foundation-claims-and-112-017/-018. (A) is exactly the interpretation the rule rejects. (C) is wrong -- means-plus-function claiming is expressly permitted and interpretable by reference to the specification; that's the whole point of 35 U.S.C. 112(f). (D) is wrong because it omits \"equivalents,\" which the rule explicitly includes.",
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 112(f)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 2181"
+      }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-024",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "definiteness",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "A claim recites \"a housing having an interior surface\" and later, without separately introducing it again, refers to \"the interior surface.\" Based only on this fact pattern, is the claim indefinite for lack of antecedent basis?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "Yes, automatically -- any later use of \"the\" creates an indefiniteness problem.",
+      "B": "Not necessarily indefinite here -- \"the interior surface\" has clear antecedent basis in the earlier-recited \"an interior surface,\" so there's no antecedent-basis problem in this fact pattern at all.",
+      "C": "Yes, because \"the\" can never properly refer back to something first introduced with \"a\" or \"an.\"",
+      "D": "Indefiniteness can only be assessed after the application issues as a patent."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. Antecedent basis is support, earlier in the claim, for a term used with \"the\" -- here, \"an interior surface\" was already introduced before \"the interior surface\" refers back to it, which is exactly the kind of clear antecedent basis foundation-claims-and-112-007 describes. (A) and (C) both wrongly treat every \"the\"-reference as automatically problematic, when in fact this pattern is the normal, proper way to refer back to something already recited. (D) is wrong -- definiteness is assessed during examination, not only after issuance.",
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 2173.05(e)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-025",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "claim-scope",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "Claim 1 recites: \"A widget comprising a base and a handle.\" The applicant amends it to add a third limitation: \"and a lock engaging the handle.\" What happens to claim 1's scope?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "The scope necessarily broadens, since more words were added to the claim.",
+      "B": "The scope necessarily narrows, since claim scope is the combination of all recited limitations, and adding a limitation adds another requirement that must be satisfied to fall within the claim.",
+      "C": "The scope is unaffected, since a lock was already implicit in the word \"handle.\"",
+      "D": "The claim becomes indefinite, since a claim can only recite two limitations."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. Claim scope is the combination of all of a claim's limitations together, and changing any one limitation changes the scope -- see foundation-claims-and-112-001/-002. Adding a further limitation works the same way a dependent claim's added limitation does: it adds a requirement that must also be met, which can only narrow (never broaden) what falls within the claim -- compare foundation-application-anatomy-007. (A) has the direction backwards. (C) assumes a fact not given -- nothing in the recitation of \"handle\" implies a lock. (D) is unsupported -- claims can recite any number of limitations; there's no such two-limitation cap.",
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.75(i)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-026",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "claim-interpretation",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "During examination, how does an examiner interpret ambiguous claim language when deciding whether a claim covers a piece of prior art?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "Using the narrowest possible interpretation that would avoid the prior art.",
+      "B": "Using the broadest reasonable interpretation (BRI) consistent with the specification, as it would be read by one of ordinary skill in the art.",
+      "C": "Using whatever interpretation the applicant argues for in their remarks, regardless of the specification.",
+      "D": "Using the ordinary dictionary definition of each claim term, without reference to the specification."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct -- examiners apply the broadest reasonable interpretation standard, giving claims the broadest reasonable construction consistent with the specification, as read by one of ordinary skill in the art -- see foundation-claims-and-112-003/-004. (A) is the opposite of BRI. (C) is wrong -- the standard is objective and specification-grounded, not simply whatever the applicant asserts. (D) is wrong because BRI is explicitly \"consistent with the specification,\" not a bare dictionary reading divorced from it.",
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 2111"
+      }
+    ]
   }
 ]
