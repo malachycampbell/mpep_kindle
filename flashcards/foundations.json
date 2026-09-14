@@ -5331,5 +5331,1097 @@
         "as_of": "Rev. 01.2024 (Nov. 2024)"
       }
     ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-031",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "statutory-framework",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 35 U.S.C. 101 cover?",
+    "answer_text": "Subject matter eligibility — the claimed invention must be a new and useful process, machine, manufacture, or composition of matter (or an improvement of one).",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 101",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-032",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "statutory-framework",
+    "level": 0,
+    "card_type": "qa",
+    "question": "Which statute sets the basic subject-matter-eligibility requirement — that a claimed invention must be a process, machine, manufacture, or composition of matter?",
+    "answer_text": "35 U.S.C. 101 — subject matter eligibility.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 101",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-033",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "statutory-framework",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 35 U.S.C. 102 cover?",
+    "answer_text": "Novelty — a person is entitled to a patent unless the claimed invention was already patented, described in a printed publication, in public use, on sale, or otherwise publicly available before its effective filing date.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 102(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-034",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "statutory-framework",
+    "level": 0,
+    "card_type": "qa",
+    "question": "Which statute governs novelty — whether the claimed invention was already publicly known before its effective filing date?",
+    "answer_text": "35 U.S.C. 102(a)(1) — novelty.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 102(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-035",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "statutory-framework",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 35 U.S.C. 103 cover?",
+    "answer_text": "Obviousness — even if not identically disclosed anywhere (so it's technically novel), a claim still can't be patented if the differences between it and the prior art would have been obvious to a person of ordinary skill in the art.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 103",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-036",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "statutory-framework",
+    "level": 0,
+    "card_type": "qa",
+    "question": "Which statute governs obviousness — whether the gap between the claimed invention and the prior art would have been obvious to a skilled person?",
+    "answer_text": "35 U.S.C. 103 — obviousness.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 103",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-037",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "double-patenting",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 37 CFR 1.321 cover?",
+    "answer_text": "Terminal disclaimer — governs how a patentee disclaims the terminal (ending) part of a patent's term, typically to overcome an obviousness-type double patenting rejection.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.321(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-038",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "double-patenting",
+    "level": 0,
+    "card_type": "qa",
+    "question": "Which regulation governs filing a terminal disclaimer to overcome an obviousness-type double patenting rejection?",
+    "answer_text": "37 CFR 1.321(b) — terminal disclaimer.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.321(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-024",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "appeal-and-petition",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 35 U.S.C. 134 cover?",
+    "answer_text": "Appeal to the PTAB — gives an applicant whose claims have been rejected twice the right to have the examiner's decision reviewed by the Patent Trial and Appeal Board.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 134(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-025",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "appeal-and-petition",
+    "level": 0,
+    "card_type": "qa",
+    "question": "Which statute gives an applicant the right to appeal a twice-rejected claim to the Patent Trial and Appeal Board?",
+    "answer_text": "35 U.S.C. 134(a) — appeal to the PTAB.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 134(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-026",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "reissue-and-reexamination",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 35 U.S.C. 251 cover?",
+    "answer_text": "Reissue — lets a patentee surrender an issued patent and obtain a reissue patent to correct an error that makes the original wholly or partly inoperative or invalid.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 251(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-027",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "reissue-and-reexamination",
+    "level": 0,
+    "card_type": "qa",
+    "question": "Which statute allows a patentee to surrender a patent and obtain a corrected reissue patent?",
+    "answer_text": "35 U.S.C. 251(a) — reissue.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 251(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-028",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "reissue-and-reexamination",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 35 U.S.C. 302 cover?",
+    "answer_text": "Ex parte reexamination — lets any person (including the patent owner) request the Office re-examine one or more claims of an issued patent based on prior art patents or printed publications.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 302",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-029",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "reissue-and-reexamination",
+    "level": 0,
+    "card_type": "qa",
+    "question": "Which statute lets any person request reexamination of an issued patent's claims based on prior art patents or publications?",
+    "answer_text": "35 U.S.C. 302 — ex parte reexamination.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 302",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-027",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "statutory-framework",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 35 U.S.C. 112(a) cover?",
+    "answer_text": "Written description, enablement, and best mode — the specification must show the inventor possessed the claimed invention, teach a skilled person to make and use it without undue experimentation, and disclose the best mode contemplated.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 112(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-028",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "statutory-framework",
+    "level": 0,
+    "card_type": "qa",
+    "question": "Which statutory subsection covers the written description, enablement, and best mode requirements?",
+    "answer_text": "35 U.S.C. 112(a) — written description, enablement, and best mode.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 112(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-029",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "statutory-framework",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 35 U.S.C. 112(b) cover?",
+    "answer_text": "Definiteness — requires the claims to particularly point out and distinctly claim the subject matter the applicant regards as the invention.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 112(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-030",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "statutory-framework",
+    "level": 0,
+    "card_type": "qa",
+    "question": "Which statutory subsection covers the definiteness requirement — that a claim's boundaries be clear?",
+    "answer_text": "35 U.S.C. 112(b) — definiteness.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 112(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-031",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "means-plus-function",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 35 U.S.C. 112(f) cover?",
+    "answer_text": "Means-plus-function claiming — allows a claim element to be expressed as a means or step for performing a function, construed to cover the disclosed structure, material, or acts, plus their equivalents.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 112(f)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-claims-and-112-032",
+    "deck": "foundation",
+    "topic": "claims-and-112",
+    "subtopic": "means-plus-function",
+    "level": 0,
+    "card_type": "qa",
+    "question": "Which statutory subsection authorizes means-plus-function claim elements?",
+    "answer_text": "35 U.S.C. 112(f) — means-plus-function claiming.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 112(f)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-application-types-030",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "priority-and-benefit",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 35 U.S.C. 119 cover?",
+    "answer_text": "Priority — 119(a) lets a U.S. application get the effective-filing-date benefit of an earlier foreign application for the same invention; 119(e) lets a nonprovisional get the benefit of an earlier provisional's filing date.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 119",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-application-types-031",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "priority-and-benefit",
+    "level": 0,
+    "card_type": "qa",
+    "question": "Which statute covers priority — claiming the benefit of an earlier foreign application, or of an earlier provisional application?",
+    "answer_text": "35 U.S.C. 119 — priority.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 119",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-application-types-032",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "priority-and-benefit",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 35 U.S.C. 120 cover?",
+    "answer_text": "Benefit — lets a later U.S. application (continuation, divisional, or CIP) be treated, for disclosed subject matter, as though filed on the date of an earlier-filed, copending U.S. nonprovisional application.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 120",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-application-types-033",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "priority-and-benefit",
+    "level": 0,
+    "card_type": "qa",
+    "question": "Which statute lets a continuation, divisional, or CIP claim the benefit of an earlier-filed, copending U.S. nonprovisional application's filing date?",
+    "answer_text": "35 U.S.C. 120 — benefit.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 120",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-application-types-034",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "continuing-applications",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 35 U.S.C. 121 cover?",
+    "answer_text": "Divisional applications — governs filing a later application to pursue a distinct invention that was disclosed, but not claimed, in an earlier application, typically after a restriction requirement.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 121",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-application-types-035",
+    "deck": "foundation",
+    "topic": "application-types",
+    "subtopic": "continuing-applications",
+    "level": 0,
+    "card_type": "qa",
+    "question": "Which statute covers divisional applications — pursuing a distinct invention split off from an earlier application?",
+    "answer_text": "35 U.S.C. 121 — divisional applications.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 121",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-043",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "statutory-framework",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 35 U.S.C. 131 cover?",
+    "answer_text": "Examination — the statutory basis for the USPTO examining patent applications and determining whether the applicant is entitled to a patent under the law.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 131",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-044",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "statutory-framework",
+    "level": 0,
+    "card_type": "qa",
+    "question": "Which statute is the statutory basis for the USPTO examining applications and determining patent entitlement?",
+    "answer_text": "35 U.S.C. 131 — examination.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 131",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-045",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "office-actions",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 35 U.S.C. 132 cover?",
+    "answer_text": "Office actions and the new-matter bar — requires the Director to notify the applicant of any rejection, objection, or requirement, with reasons and useful information, and bars introducing new matter into the disclosure by amendment.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 132(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-046",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "office-actions",
+    "level": 0,
+    "card_type": "qa",
+    "question": "Which statute requires the examiner to notify the applicant of rejections/objections with reasons, and also bars introducing new matter by amendment?",
+    "answer_text": "35 U.S.C. 132(a) — Office actions and the new-matter bar.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 132(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-047",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "allowance-and-issuance",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 35 U.S.C. 151 cover?",
+    "answer_text": "Allowance and the Notice of Allowance — the statute under which the examiner determines the applicant is entitled to a patent and the USPTO mails a Notice of Allowance specifying the issue fee due within 3 months.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 151(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-048",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "allowance-and-issuance",
+    "level": 0,
+    "card_type": "qa",
+    "question": "Which statute covers allowance and the Notice of Allowance specifying the issue fee due?",
+    "answer_text": "35 U.S.C. 151(a) — allowance and the Notice of Allowance.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 151(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-049",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "office-actions",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 37 CFR 1.111 cover?",
+    "answer_text": "Reply to a non-final Office action — governs the applicant's reply requesting reconsideration or further examination, with or without amendment.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.111(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-050",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "office-actions",
+    "level": 0,
+    "card_type": "qa",
+    "question": "Which regulation governs an applicant's reply to a non-final Office action?",
+    "answer_text": "37 CFR 1.111(a)(1) — reply to a non-final Office action.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.111(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-051",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "office-actions",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 37 CFR 1.113 cover?",
+    "answer_text": "Final rejection — governs when an Office action (normally the second or a later action on the merits) may be made final, closing off further amendment or argument as of right.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.113(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-052",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "office-actions",
+    "level": 0,
+    "card_type": "qa",
+    "question": "Which regulation governs when an Office action may be made final?",
+    "answer_text": "37 CFR 1.113(a) — final rejection.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.113(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-053",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "rce-and-continued-examination",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 37 CFR 1.114 cover?",
+    "answer_text": "Request for Continued Examination (RCE) — governs reopening examination of the same application after prosecution has closed, filed before the issue fee is paid, before abandonment, or before certain appeals.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.114(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-054",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "rce-and-continued-examination",
+    "level": 0,
+    "card_type": "qa",
+    "question": "Which regulation governs filing a Request for Continued Examination (RCE)?",
+    "answer_text": "37 CFR 1.114(a) — Request for Continued Examination (RCE).",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.114(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-055",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "restriction-and-election",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 37 CFR 1.142 cover?",
+    "answer_text": "Restriction requirements — governs an examiner's requirement that the applicant elect a single invention when the application claims two or more independent and distinct inventions (37 CFR 1.144 separately governs traversing that requirement).",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.142(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-prosecution-lifecycle-056",
+    "deck": "foundation",
+    "topic": "prosecution-lifecycle",
+    "subtopic": "restriction-and-election",
+    "level": 0,
+    "card_type": "qa",
+    "question": "Which regulation governs an examiner's restriction requirement, demanding an election among independent and distinct inventions?",
+    "answer_text": "37 CFR 1.142(a) — restriction requirements.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.142(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-deadlines-and-procedure-018",
+    "deck": "foundation",
+    "topic": "deadlines-and-procedure",
+    "subtopic": "reply-periods",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 35 U.S.C. 133 cover?",
+    "answer_text": "The statutory reply period — sets the six-month ceiling from an Office action's mailing date for the applicant to prosecute the application, after which failure to do so results in abandonment.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 133",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-deadlines-and-procedure-019",
+    "deck": "foundation",
+    "topic": "deadlines-and-procedure",
+    "subtopic": "reply-periods",
+    "level": 0,
+    "card_type": "qa",
+    "question": "Which statute sets the six-month statutory ceiling for replying to an Office action, after which failure to prosecute results in abandonment?",
+    "answer_text": "35 U.S.C. 133 — the statutory reply period.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 133",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-deadlines-and-procedure-020",
+    "deck": "foundation",
+    "topic": "deadlines-and-procedure",
+    "subtopic": "reply-periods",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 37 CFR 1.136 cover?",
+    "answer_text": "Extensions of time — governs petitioning, with a fee, to extend a shortened statutory period up to 5 months, but never beyond the six-month statutory maximum.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.136(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-deadlines-and-procedure-021",
+    "deck": "foundation",
+    "topic": "deadlines-and-procedure",
+    "subtopic": "reply-periods",
+    "level": 0,
+    "card_type": "qa",
+    "question": "Which regulation governs petitioning, with a fee, to extend a shortened statutory period?",
+    "answer_text": "37 CFR 1.136(a)(1) — extensions of time.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.136(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-029",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "patents-and-rights",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 35 U.S.C. 154 cover?",
+    "answer_text": "Patent contents and term — grants the patent owner the right to exclude others from making, using, offering for sale, or selling the claimed invention (or importing it into the U.S.) for a limited term.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 154(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-030",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "patents-and-rights",
+    "level": 0,
+    "card_type": "qa",
+    "question": "Which statute grants the patent owner the right to exclude others from making, using, or selling the claimed invention, for a limited term?",
+    "answer_text": "35 U.S.C. 154(a)(1) — patent contents and term.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 154(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-031",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "parties",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 35 U.S.C. 261 cover?",
+    "answer_text": "Ownership and assignment — patents have the attributes of personal property and are assignable in writing; governs who owns, and can transfer ownership of, a patent or application.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 261",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-032",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "parties",
+    "level": 0,
+    "card_type": "qa",
+    "question": "Which statute governs patent ownership and assignment?",
+    "answer_text": "35 U.S.C. 261 — ownership and assignment.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 261",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-033",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "agency-and-authority",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 37 CFR 11.6 cover?",
+    "answer_text": "Registration to practice — governs who may register as a patent attorney (11.6(a)) or patent agent (11.6(b)) to practice before the USPTO.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 11.6",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-034",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "agency-and-authority",
+    "level": 0,
+    "card_type": "qa",
+    "question": "Which regulation governs registering as a patent attorney or patent agent to practice before the USPTO?",
+    "answer_text": "37 CFR 11.6 — registration to practice.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 11.6",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-application-anatomy-027",
+    "deck": "foundation",
+    "topic": "application-anatomy",
+    "subtopic": "duty-of-disclosure",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does 37 CFR 1.56 cover?",
+    "answer_text": "The duty of disclosure — the ongoing duty of everyone associated with filing and prosecuting an application to disclose to the USPTO all information known to that individual to be material to patentability.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.56(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-application-anatomy-028",
+    "deck": "foundation",
+    "topic": "application-anatomy",
+    "subtopic": "duty-of-disclosure",
+    "level": 0,
+    "card_type": "qa",
+    "question": "Which regulation imposes the duty to disclose material information to the USPTO?",
+    "answer_text": "37 CFR 1.56(a) — the duty of disclosure.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.56(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
   }
 ]
