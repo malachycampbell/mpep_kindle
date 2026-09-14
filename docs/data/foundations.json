@@ -4905,5 +4905,431 @@
         "citation": "MPEP § 2111"
       }
     ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-025",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "eligibility-novelty-obviousness",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "A claimed method is directed to an abstract mathematical algorithm with no practical application, but no prior art reference discloses anything close to it. Which provision is the claim most likely to fail?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "35 U.S.C. 102, because the invention isn't novel.",
+      "B": "35 U.S.C. 101, because the claim may not be the right kind of subject matter -- a process, machine, manufacture, or composition of matter -- eligible for a patent at all.",
+      "C": "35 U.S.C. 103, because the invention is obvious.",
+      "D": "35 U.S.C. 112, because the claim is indefinite."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. § 101 asks whether the claim is even the right kind of thing to be patent-eligible in the first place, independent of whether any prior art discloses it -- see foundation-patentability-and-prior-art-001/-004. (A) and (C) both require prior art to compare against, but the facts state none is close to disclosing it, so novelty and obviousness aren't the issue -- the problem here is eligibility. (D) addresses claim clarity, not subject-matter type, and nothing in the facts suggests unclear claim language.",
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 101",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-026",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "anticipation-and-obviousness",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "Reference A discloses a claimed device's elements 1, 2, and 3, but not element 4. Reference B, in a different field, discloses element 4. Can the claim be anticipated by Reference A alone?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "Yes, since Reference A discloses most of the claimed elements.",
+      "B": "No -- anticipation requires a single reference to disclose every element of the claim; since Reference A is missing element 4, the claim isn't anticipated by Reference A alone, though it might still be rejected as obvious by combining References A and B.",
+      "C": "Yes, as long as Reference B exists somewhere in the prior art, even without being combined with Reference A.",
+      "D": "No, and the claim can never be rejected based on References A and B together."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. Anticipation requires every claimed element to be disclosed in a single reference -- if even one element is missing, that reference doesn't anticipate, though the missing element can still support an obviousness rejection combining references -- see foundation-patentability-and-prior-art-008/-009/-013. (A) is wrong: \"most\" is not \"every\" -- anticipation has no partial-credit version. (C) misapplies the rule -- Reference B's mere existence doesn't anticipate anything by itself; it would need to be combined with Reference A, and even then that supports obviousness, not anticipation. (D) is wrong -- combining the two references is precisely the kind of obviousness rejection this fact pattern sets up.",
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 2131"
+      }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-027",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "prior-art-triggers",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "An inventor publicly demonstrates and offers to sell her invention at a trade show, but no journal article, patent, or other printed document about it exists anywhere. Can this activity still count as prior art against a later claim to the same invention?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "No -- without a printed publication, there can be no prior art under § 102.",
+      "B": "Yes -- public use and the on-sale bar are independent triggering events under § 102(a)(1); prior art can exist even without any printed document describing the invention.",
+      "C": "Yes, but only if trade show attendees signed a nondisclosure agreement.",
+      "D": "No, because trade show demonstrations are never considered \"public.\""
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. Public use and the on-sale bar are their own listed triggering events under § 102(a)(1), separate from printed publications or patents -- an invention in public use or offered for sale before its effective filing date can be prior art even with no printed document describing it -- see foundation-patentability-and-prior-art-005/-007. (A) wrongly treats printed publication as the only route to prior-art status. (C) inverts reality -- an NDA would tend to defeat public availability, not create it. (D) is an unsupported blanket claim contradicted by the public-use trigger itself.",
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 102(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-028",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "prior-art-triggers",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "A graduate thesis sits on an open library shelf, cataloged and searchable, but virtually no one has actually read it. Could it still qualify as a \"printed publication\" for prior-art purposes?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "No -- a document only counts if it can be shown that someone actually read it.",
+      "B": "Yes -- what matters is public accessibility (whether an interested member of the public could find and read it), not whether anyone actually did.",
+      "C": "No -- only documents that are literally printed on paper and mass-distributed can qualify.",
+      "D": "Yes, but only after the thesis has been read by at least one patent examiner."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. A \"printed publication\" is any reference accessible to the public, not literally required to be printed on paper -- a cataloged, searchable library thesis that an interested member of the public could find and read qualifies -- see foundation-patentability-and-prior-art-006. (A) and (D) both wrongly require proof of actual reading, when accessibility is the standard. (C) is directly contradicted by the card's own examples (a webpage or slide deck can qualify).",
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 2128"
+      }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-029",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "double-patenting",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "An applicant's pending claims are rejected because they are a merely obvious variant of claims already granted in the applicant's own earlier, commonly-owned patent. Can this rejection be overcome, and if so, how?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "No -- this type of double patenting can never be overcome; one of the claim sets must simply be canceled.",
+      "B": "Yes -- since this is obviousness-type (nonstatutory) double patenting rather than statutory double patenting, it can typically be overcome by filing a terminal disclaimer, which makes the later patent expire no later than the earlier one and requires the two to remain commonly owned.",
+      "C": "Yes, but only by amending the pending claims to be word-for-word identical to the earlier patent's claims.",
+      "D": "No, because double patenting rejections can only be based on another pending application, never on an already-issued patent."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. This fact pattern -- claims that are a merely obvious variant, not the identical invention -- describes obviousness-type double patenting, which (unlike statutory double patenting) can typically be overcome by a terminal disclaimer -- see foundation-patentability-and-prior-art-021/-022/-023/-024. (A) describes the rule for *statutory* double patenting (identical claims), which does not apply here. (C) misunderstands the fix -- a terminal disclaimer addresses term/ownership, it doesn't require rewriting the claims to match. (D) is factually wrong -- double patenting is routinely raised against pending claims in view of an already-issued commonly-owned patent, as this fact pattern itself illustrates.",
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 804"
+      },
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.321(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-patentability-and-prior-art-030",
+    "deck": "foundation",
+    "topic": "patentability-and-prior-art",
+    "subtopic": "eligibility-novelty-obviousness",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "A claimed invention isn't identically disclosed anywhere in the prior art -- so it passes the novelty inquiry -- but the difference between it and a single closely related prior-art reference is a minor, predictable substitution a skilled worker would have readily made. Can this claim still be rejected, and if so under what provision?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "No -- since the claim isn't anticipated by any single reference, it must be patentable.",
+      "B": "Yes -- it can still be rejected as obvious under § 103, since passing the § 102 novelty inquiry does not mean the claim also clears the separate, broader obviousness inquiry.",
+      "C": "No -- § 103 rejections can only be based on a reference that also fails the § 102 novelty test.",
+      "D": "Yes, but only under § 101, since obviousness is treated as a subset of subject-matter eligibility."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. § 102 and § 103 are separate inquiries: a claim can be technically new (clearing § 102) and still be an obvious variant of the prior art (failing § 103) -- see foundation-patentability-and-prior-art-013/-014. (A) wrongly treats surviving novelty as the end of the patentability analysis. (C) inverts the relationship -- a reference used for an obviousness rejection typically does *not* disclose every element (otherwise it would anticipate under § 102 instead). (D) misassigns obviousness to the wrong statutory provision -- § 101 addresses subject-matter eligibility, a separate question from § 103's obviousness inquiry.",
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 102(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 103",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-deadlines-and-procedure-014",
+    "deck": "foundation",
+    "topic": "deadlines-and-procedure",
+    "subtopic": "reply-periods",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "An Office action sets a 3-month shortened statutory period. The applicant wants to reply as late as possible using extensions of time. What is the absolute latest date, relative to the Office action's mailing date, by which the reply can be filed -- no matter how many extension fees are paid?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "3 months, since the shortened statutory period itself cannot be extended at all.",
+      "B": "6 months, because extensions can push the shortened statutory period out further but never beyond the six-month statutory maximum set by 35 U.S.C. 133.",
+      "C": "8 months, since extensions can add up to 5 months on top of the 3-month shortened statutory period.",
+      "D": "There is no outer limit as long as the applicant keeps paying extension fees."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. Extensions of time can push a shortened statutory period out further -- up to 5 months past the period originally set -- but never beyond the six-month statutory maximum, which can't be bought past with any amount of fees -- see foundation-deadlines-and-procedure-004/-005. (A) is wrong: the SSP can be extended, just not indefinitely. (C) applies the \"up to 5 months\" figure without capping it at the statutory ceiling, which foundation-deadlines-and-procedure-005 specifically rules out. (D) directly contradicts the existence of a hard statutory ceiling.",
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 133",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.136(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-deadlines-and-procedure-015",
+    "deck": "foundation",
+    "topic": "deadlines-and-procedure",
+    "subtopic": "timeliness-mechanics",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "An applicant deposits a reply with the U.S. Postal Service as first-class mail on the last day of the reply period, with a proper certificate of mailing attached, but the USPTO doesn't actually receive it until four days later. Is the reply timely?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "No -- timeliness is judged by the date the USPTO actually receives the correspondence, not when it was mailed.",
+      "B": "Yes -- with a proper certificate of mailing, the reply is treated as timely filed as of the certified mailing date, not the later arrival date.",
+      "C": "No, because certificates of mailing only apply to electronic filings, not physical mail.",
+      "D": "Yes, but only if the applicant also pays an extension-of-time fee."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. A certificate of mailing certifies the date correspondence was deposited as first-class mail before a deadline, and correspondence mailed this way is treated as timely filed as of that certified date, not whenever it actually arrives -- see foundation-deadlines-and-procedure-008. (A) is exactly the rule the certificate of mailing procedure displaces. (C) has it backwards -- certificates of mailing are for physical mail; the electronic/fax equivalent is the certificate of transmission (foundation-deadlines-and-procedure-009/-010). (D) is unsupported -- nothing about the certificate of mailing procedure requires also obtaining an extension.",
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.8(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-deadlines-and-procedure-016",
+    "deck": "foundation",
+    "topic": "deadlines-and-procedure",
+    "subtopic": "dates",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "A new application is delivered to and received by the USPTO on June 1, but is missing a required part, so it isn't accorded a filing date until the deficiency is corrected on June 10. What is the application's receipt date, and what is its filing date?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "Both are June 1, since receipt date and filing date are always the same thing.",
+      "B": "Receipt date is June 1 (when the Office actually received the correspondence); filing date is June 10 (when the application first satisfied the minimum requirements to be accorded a filing date).",
+      "C": "Both are June 10, since a receipt date is only assigned once an application is complete.",
+      "D": "Receipt date is June 10; filing date is June 1."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. \"Receipt date\" is simply the day the Office received the correspondence, stamped regardless of completeness; \"filing date\" is the specific legal milestone reached once the application satisfies the minimum requirements to be accorded one -- a defective submission can be received on one date but not accorded a filing date until later, once fixed -- see foundation-deadlines-and-procedure-006/-007. (A) and (C) both wrongly collapse the two distinct concepts into one. (D) reverses which date attaches to which concept.",
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.6(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.53(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-deadlines-and-procedure-017",
+    "deck": "foundation",
+    "topic": "deadlines-and-procedure",
+    "subtopic": "timeliness-mechanics",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "A three-month reply period, as calculated from an Office action's mailing date, ends on a Saturday. By when must the applicant act to be timely?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "The prior Friday, since a deadline can never fall on a weekend in the first place.",
+      "B": "The following Monday (or the next day that isn't a Saturday, Sunday, or federal holiday in the District of Columbia) -- the deadline rolls forward.",
+      "C": "The reply is simply due on the Saturday regardless, since USPTO deadlines don't account for weekends.",
+      "D": "The applicant automatically receives a full extra month."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. When a deadline falls on a Saturday, Sunday, or federal holiday in the District of Columbia, the action can be taken on the next business day that isn't one of those -- the deadline rolls forward -- see foundation-deadlines-and-procedure-013. (A) is wrong -- the calculated deadline itself can fall on a weekend; the rule only adjusts where the reply must actually be filed. (C) directly contradicts the rollover rule. (D) overstates the adjustment -- it's a roll to the next business day, not a full extra month.",
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.7(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-019",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "appeal-and-petition",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "An examiner refuses to enter an amendment filed after final rejection on the grounds that it doesn't put the claims in condition for allowance and doesn't merely cancel claims -- a purely procedural determination, not a ruling on the patentability of any claim. Which review route applies?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "Appeal to the PTAB, since any disagreement with an examiner can be appealed.",
+      "B": "Petition to the Director, since this is a procedural/formal matter rather than a decision on the merits of patentability, and appeal and petition are mutually exclusive routes depending on which kind of issue is involved.",
+      "C": "Either appeal or petition, whichever the applicant prefers.",
+      "D": "Direct appeal to a federal court, bypassing the USPTO entirely."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. This mirrors the rejection/objection split: a decision on the merits of patentability goes to the PTAB by appeal, while a decision on a procedural or formal matter -- like whether an amendment was properly entered -- goes to the Director by petition, and the two routes are mutually exclusive for a given issue -- see foundation-appeals-pct-postgrant-003/-004. (A) is wrong because appeal is reserved for merits determinations, not procedural refusals. (C) contradicts the mutual-exclusivity rule. (D) skips the required USPTO-level review entirely, which isn't supported here.",
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP § 1201"
+      },
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.181(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-020",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "pct",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "An applicant files a single PCT international application designating many countries, then later pays the U.S. national fee and files the required copy in the USPTO to actually begin examination there. What is this second step called?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "Filing a continuation application.",
+      "B": "Entering the national stage -- the step, taken later in each country where protection is sought, of satisfying that country's requirements so the application starts being processed there.",
+      "C": "Requesting reexamination.",
+      "D": "Filing a divisional application."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. The international application is the single PCT filing, effective in all designated countries from one filing date; entering the national stage is the separate later step of paying a specific country's national fee and satisfying its requirements -- for the U.S., that's when the application starts being processed as an ordinary U.S. nonprovisional application -- see foundation-appeals-pct-postgrant-007/-008. (A) and (D) both confuse this PCT-specific mechanism with the unrelated U.S. continuing-application framework. (C) is a post-grant proceeding, unrelated to entering examination in the first place.",
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 363",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 371(b)-(c)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-021",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "publication-and-issuance",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "An application is published roughly 18 months after its earliest filing date, but the applicant later lets it go abandoned without ever receiving a Notice of Allowance. Did this application ever issue as a patent?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "Yes -- publication and issuance are the same event, so once published, the application necessarily issued.",
+      "B": "No -- publication (public disclosure of the application's content around 18 months after filing) happens independent of whether the application is ever allowed; issuance (actual grant) only happens after allowance and payment of the issue fee, which never occurred here.",
+      "C": "Yes, because publication guarantees eventual issuance regardless of subsequent abandonment.",
+      "D": "No, because applications that are later abandoned are never published in the first place."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. Publication and issuance are unrelated events: publication happens on its own roughly-18-month timeline whether or not the application is ever allowed, while issuance requires allowance plus payment of the issue fee -- some published applications are abandoned and never issue -- see foundation-appeals-pct-postgrant-009/-010. (A) and (C) both wrongly treat publication as guaranteeing issuance. (D) is factually backwards -- publication generally occurs regardless of the application's eventual fate.",
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 122(b)(1)(A)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 151(a)-(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-022",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "reissue-and-reexamination",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "A patentee discovers that a claim in her already-issued patent is broader than she was actually entitled to, due to a drafting error, and wants to fix it by surrendering the patent and obtaining a corrected one. Which proceeding is this, and could she add new supporting matter that wasn't in the original patent to fix it?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "Reexamination; yes, new matter may be added to correct patentee errors.",
+      "B": "Reissue; no, new matter may not be introduced into a reissue application, the same bar that applies during ordinary prosecution.",
+      "C": "Supplemental examination; yes, any new matter the patentee wants may be added.",
+      "D": "Reissue; yes, new matter is freely allowed because the original patent is being surrendered."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. Surrendering a patent to fix an error making it wholly or partly inoperative or invalid -- such as claiming more than the patentee was entitled to -- is exactly what a reissue application is for, and the same new-matter bar from ordinary prosecution applies to reissue too -- see foundation-appeals-pct-postgrant-013/-016. (A) misidentifies the proceeding -- reexamination doesn't involve surrendering the patent. (C) also misidentifies the proceeding -- supplemental examination doesn't involve surrender either, and doesn't permit unlimited new matter. (D) correctly identifies reissue but is wrong that new matter is allowed -- surrendering the original patent doesn't lift the new-matter bar.",
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 251(a)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-appeals-pct-postgrant-023",
+    "deck": "foundation",
+    "topic": "appeals-pct-postgrant",
+    "subtopic": "reissue-and-reexamination",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "A patent owner requests supplemental examination to have the Office consider information not previously considered. The resulting certificate concludes this information raises a substantial new question of patentability. What happens next?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "Nothing further -- the certificate itself is the final word on the patent's validity.",
+      "B": "The Director then orders an actual reexamination to resolve the substantial new question -- supplemental examination and reexamination are distinct proceedings, but the former can trigger the latter.",
+      "C": "The patent is automatically invalidated as soon as the certificate issues.",
+      "D": "Only the original patent owner, never the Director, may decide whether reexamination follows."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. If the certificate finds a substantial new question of patentability, the Director then orders an actual reexamination to resolve it -- so a supplemental examination request can trigger a reexamination, even though the two are distinct proceedings with different eligibility and scope -- see foundation-appeals-pct-postgrant-017/-018. (A) understates the effect of finding a substantial new question. (C) overstates it -- reexamination determines patentability, it doesn't automatically invalidate the patent. (D) is wrong -- it's the Director's determination that triggers reexamination, not a further choice by the patent owner.",
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 257(a)-(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 302",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
   }
 ]
