@@ -3988,5 +3988,178 @@
         "citation": "Study strategy derived from patterns in the historical registration-exam corpus audited in this repo (reference/historical_exams/), not itself a USPTO-published rule"
       }
     ]
+  },
+  {
+    "id": "foundation-system-vocabulary-023",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "agency-and-authority",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "A registered patent agent (not an attorney) wants to represent a client in a patent infringement lawsuit pending in federal district court. Which statement is correct?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "The agent may represent the client, since patent agents are authorized to practice before the USPTO.",
+      "B": "The agent may not represent the client in court; registration as a patent agent authorizes practice before the USPTO in patent matters only, not before a court.",
+      "C": "The agent may represent the client only if the USPTO Director grants special permission.",
+      "D": "The agent may represent the client, but only for patent cases, not other types of litigation."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. A registered patent agent shall not hold themself out as being qualified or authorized to practice before a court. See 37 CFR 11.6(b). A patent agent's registration gives authority to practice before the USPTO in patent matters, not before a court -- see foundation-system-vocabulary-014 and foundation-system-vocabulary-015. (A) is incorrect for the same reason -- USPTO practice authority does not extend to court representation. (C) invents a \"special permission\" mechanism that does not exist under 37 CFR 11.6. (D) is incorrect: the restriction on court representation is not limited to non-patent cases -- a patent agent may not represent a client in court even in a patent case.",
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 11.6(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-024",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "parties",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "Inventor Priya assigns all rights in her not-yet-filed invention to Acme Corp. Acme Corp. then files the patent application in its own name. Which statement is correct?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "Priya must be the applicant, because only the actual inventor can be the applicant.",
+      "B": "Acme Corp. may be the applicant, since an assignee may apply for a patent in place of the inventor; Priya remains the inventor of record regardless of who applies.",
+      "C": "Because Acme Corp. is the applicant, Priya is no longer considered the inventor.",
+      "D": "Priya and Acme Corp. must be listed jointly as co-applicants."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. An assignee may be the applicant in place of the inventor -- see 37 CFR 1.42(b) and foundation-system-vocabulary-006/foundation-system-vocabulary-010. Who is the \"applicant\" (whoever is applying) is a separate question from who is the \"inventor\" (whoever actually invented) -- see foundation-system-vocabulary-007. (A) is incorrect because 37 CFR 1.42(b) specifically permits an assignee to apply in place of the inventor. (C) confuses applicant status with inventorship: assigning ownership and applying in Acme's name does not change who actually invented the device. (D) is unsupported -- nothing requires the inventor and the assignee-applicant to be listed jointly as co-applicants in this scenario.",
+    "sources": [
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.42(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 100(f)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-025",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "relationships",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "An examiner's rejection cites only an MPEP section, with no corresponding statute or regulation supporting that MPEP passage. What is the legal weight of that MPEP citation standing alone?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "It is binding on the applicant to the same extent as the statute, since the MPEP is written by the USPTO to reflect the statute.",
+      "B": "It is guidance describing how examiners apply the statute and rules; it does not itself have the force of law and cannot independently support a rejection where no underlying statute or rule provision exists.",
+      "C": "It is binding only if the applicant is unrepresented (pro se).",
+      "D": "It is non-binding on examiners but binding on applicants."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. The MPEP is guidance describing examining practice and procedure; it explicitly does not have the force of law or of the C.F.R. rules and does not bind the public -- see MPEP Foreword and MPEP Introduction, and foundation-system-vocabulary-021/foundation-system-vocabulary-022. Because the MPEP sits below the statute and regulations in authority, an MPEP passage cannot independently support a rejection with no statutory or regulatory basis. (A) is incorrect -- it inverts the actual hierarchy described in the MPEP's own Foreword. (C) and (D) invent distinctions (pro se status, examiner- vs. applicant-binding) that have no basis in how the MPEP describes its own authority.",
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP Foreword"
+      },
+      {
+        "authority": "MPEP",
+        "citation": "MPEP Introduction"
+      }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-026",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "application-parts",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "Which part of a patent application legally defines the boundaries of what is protected -- i.e., what a competitor cannot do without infringing?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "The specification's description of how to make and use the invention.",
+      "B": "The claim(s).",
+      "C": "The abstract.",
+      "D": "The prior art references cited by the applicant."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. The claims particularly point out and distinctly define the scope of the invention the applicant is asking to have patented -- see 35 U.S.C. 112(b) and foundation-system-vocabulary-016. (A) is incorrect: the rest of the specification describes and enables the invention but, unlike the claims, does not itself define the legal scope of protection -- see foundation-system-vocabulary-017. (C) is incorrect: the abstract is a brief summary and has no claim-defining legal role. (D) is incorrect: prior art references cited by the applicant are background information for examination, not a definition of the applicant's own claimed scope.",
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 112(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 112(a)-(b)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-027",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "relationships",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "An Office action rejects a claim \"under 35 U.S.C. 103\" and separately notes a formal defect \"under 37 CFR 1.121.\" What is the difference between these two citations?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "Both refer to the same body of law, just under different names.",
+      "B": "35 U.S.C. 103 cites the patent statute enacted by Congress; 37 CFR 1.121 cites a USPTO regulation governing procedure -- a distinct, subordinate source of authority.",
+      "C": "37 CFR citations are more authoritative than 35 U.S.C. citations because they are more specific and more frequently updated.",
+      "D": "35 U.S.C. citations apply only to issued patents, not to pending applications."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. 35 U.S.C. is Title 35 of the United States Code -- the actual patent statute passed by Congress, the highest legal authority in patent law -- while 37 C.F.R. is Title 37 of the Code of Federal Regulations, the USPTO's own procedural rules, issued under authority Congress delegated to the agency. See foundation-system-vocabulary-019, foundation-system-vocabulary-020, and foundation-system-vocabulary-022. (A) is incorrect -- they are different, separately numbered bodies of authority. (C) inverts the actual hierarchy: regulations must be consistent with the statute, not the other way around. (D) is incorrect: 35 U.S.C. provisions like section 103 apply during examination of pending applications, not only to already-issued patents.",
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP Introduction"
+      }
+    ]
+  },
+  {
+    "id": "foundation-system-vocabulary-028",
+    "deck": "foundation",
+    "topic": "system-vocabulary",
+    "subtopic": "agency-and-authority",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "What does a patent examiner do with prior art during examination of a pending application?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "Ignores it unless the applicant affirmatively submits it.",
+      "B": "Searches for it and compares it against the claims to help decide whether the claimed invention is new and non-obvious.",
+      "C": "Uses it only to determine the application's filing date.",
+      "D": "Cites it only if the application is appealed, not during initial examination."
+    },
+    "answer": "B",
+    "explanation": "(B) is correct. A patent examiner reviews the application, searches the prior art, and decides whether the claimed invention is entitled to a patent -- see 35 U.S.C. 131, 37 CFR 1.104(a)(1), and foundation-system-vocabulary-011/foundation-system-vocabulary-018. (A) is incorrect: the examiner conducts their own prior art search independent of what the applicant submits. (C) is incorrect: prior art is compared against the claims for novelty/non-obviousness, not used to set the filing date, which is a separate administrative fact. (D) is incorrect: the examiner searches and applies prior art during the initial examination, well before any appeal.",
+    "sources": [
+      {
+        "authority": "35 U.S.C.",
+        "citation": "35 U.S.C. 131",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      },
+      {
+        "authority": "37 CFR",
+        "citation": "37 CFR 1.104(a)(1)",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
   }
 ]
