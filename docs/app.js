@@ -321,33 +321,26 @@
     }
   }
 
-  const DISPLAY_LETTERS = ["A", "B", "C", "D", "E", "F"];
-
-  // Choices are reshuffled on every render so the correct answer's position
-  // and label carry no signal — the underlying data skews toward the
-  // correct answer being option B and being the longest/most detailed text,
-  // so a fixed A-Z render order made both exploitable as pattern-matching cues.
+  // Choices are reshuffled to a random visual order on every render so the
+  // correct answer's position carries no signal. Letters are NOT reassigned
+  // here — card.explanation is authored text that references choices by
+  // their original stored letter (e.g. "(B) is correct... (A) is
+  // incorrect..."), so relabeling at render time would make that text
+  // describe the wrong choice.
   function renderChoices(container, card, onSelect) {
     container.innerHTML = "";
-    const originalLetters = Object.keys(card.choices);
-    shuffleInPlace(originalLetters);
+    const letters = Object.keys(card.choices);
+    shuffleInPlace(letters);
 
-    currentCorrectLetter = null;
-    originalLetters.forEach((origLetter, i) => {
-      const displayLetter = DISPLAY_LETTERS[i];
-      if (origLetter === card.answer) currentCorrectLetter = displayLetter;
-
+    currentCorrectLetter = card.answer;
+    letters.forEach((letter) => {
       const el = document.createElement(onSelect ? "button" : "div");
       if (onSelect) el.type = "button";
       el.className = "choice";
-      el.dataset.letter = displayLetter;
+      el.dataset.letter = letter;
       el.innerHTML =
-        '<span class="choice-letter">' +
-        displayLetter +
-        "</span><span>" +
-        escapeHtml(card.choices[origLetter]) +
-        "</span>";
-      if (onSelect) el.addEventListener("click", () => onSelect(displayLetter));
+        '<span class="choice-letter">' + letter + "</span><span>" + escapeHtml(card.choices[letter]) + "</span>";
+      if (onSelect) el.addEventListener("click", () => onSelect(letter));
       container.appendChild(el);
     });
   }

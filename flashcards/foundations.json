@@ -4026,13 +4026,13 @@
     "answer_text": null,
     "why_it_matters": null,
     "choices": {
-      "A": "Priya must be the applicant, because only the actual inventor can ever be named as the applicant, regardless of any assignment of rights that has taken place.",
-      "B": "Acme Corp. may be the applicant, since an assignee may apply for a patent in place of the inventor; Priya remains the inventor of record regardless of who applies.",
-      "C": "Because Acme Corp. is the applicant, Priya is no longer considered the inventor, since inventorship transfers to the assignee once an assignment is recorded.",
-      "D": "Priya and Acme Corp. must be listed jointly as co-applicants, since an assignment alone is not enough to make the assignee the sole applicant of record."
+      "A": "Priya and Acme Corp. must be listed jointly as co-applicants, since an assignment alone is not enough to make the assignee the sole applicant of record.",
+      "B": "Because Acme Corp. is the applicant, Priya is no longer considered the inventor, since inventorship transfers to the assignee once an assignment is recorded.",
+      "C": "Priya must be the applicant, because only the actual inventor can ever be named as the applicant, regardless of any assignment of rights that has taken place.",
+      "D": "Acme Corp. may be the applicant, since an assignee may apply for a patent in place of the inventor; Priya remains the inventor of record regardless of who applies."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. An assignee may be the applicant in place of the inventor -- see 37 CFR 1.42(b) and foundation-system-vocabulary-006/foundation-system-vocabulary-010. Who is the \"applicant\" (whoever is applying) is a separate question from who is the \"inventor\" (whoever actually invented) -- see foundation-system-vocabulary-007. (A) is incorrect because 37 CFR 1.42(b) specifically permits an assignee to apply in place of the inventor. (C) confuses applicant status with inventorship: assigning ownership and applying in Acme's name does not change who actually invented the device. (D) is unsupported -- nothing requires the inventor and the assignee-applicant to be listed jointly as co-applicants in this scenario.",
+    "answer": "D",
+    "explanation": "(D) is correct. An assignee may be the applicant in place of the inventor -- see 37 CFR 1.42(b) and foundation-system-vocabulary-006/foundation-system-vocabulary-010. Who is the \"applicant\" (whoever is applying) is a separate question from who is the \"inventor\" (whoever actually invented) -- see foundation-system-vocabulary-007. (C) is incorrect because 37 CFR 1.42(b) specifically permits an assignee to apply in place of the inventor. (B) confuses applicant status with inventorship: assigning ownership and applying in Acme's name does not change who actually invented the device. (A) is unsupported -- nothing requires the inventor and the assignee-applicant to be listed jointly as co-applicants in this scenario.",
     "sources": [
       {
         "authority": "37 CFR",
@@ -4057,13 +4057,13 @@
     "answer_text": null,
     "why_it_matters": null,
     "choices": {
-      "A": "It is binding on the applicant to the same extent as the statute, since the MPEP is written by the USPTO specifically to implement and restate the statute's requirements for examiners and applicants alike.",
-      "B": "It is guidance describing how examiners apply the statute and rules; it does not itself have the force of law and cannot independently support a rejection where no underlying statute or rule provision exists.",
-      "C": "It is binding only if the applicant is unrepresented (pro se), since represented applicants are presumed to already know the underlying statute and rules.",
+      "A": "It is guidance describing how examiners apply the statute and rules; it does not itself have the force of law and cannot independently support a rejection where no underlying statute or rule provision exists.",
+      "B": "It is binding only if the applicant is unrepresented (pro se), since represented applicants are presumed to already know the underlying statute and rules.",
+      "C": "It is binding on the applicant to the same extent as the statute, since the MPEP is written by the USPTO specifically to implement and restate the statute's requirements for examiners and applicants alike.",
       "D": "It is non-binding on examiners but binding on applicants, since examiners are trained on the underlying statute directly while applicants rely on the MPEP for guidance."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. The MPEP is guidance describing examining practice and procedure; it explicitly does not have the force of law or of the C.F.R. rules and does not bind the public -- see MPEP Foreword and MPEP Introduction, and foundation-system-vocabulary-021/foundation-system-vocabulary-022. Because the MPEP sits below the statute and regulations in authority, an MPEP passage cannot independently support a rejection with no statutory or regulatory basis. (A) is incorrect -- it inverts the actual hierarchy described in the MPEP's own Foreword. (C) and (D) invent distinctions (pro se status, examiner- vs. applicant-binding) that have no basis in how the MPEP describes its own authority.",
+    "answer": "A",
+    "explanation": "(A) is correct. The MPEP is guidance describing examining practice and procedure; it explicitly does not have the force of law or of the C.F.R. rules and does not bind the public -- see MPEP Foreword and MPEP Introduction, and foundation-system-vocabulary-021/foundation-system-vocabulary-022. Because the MPEP sits below the statute and regulations in authority, an MPEP passage cannot independently support a rejection with no statutory or regulatory basis. (C) is incorrect -- it inverts the actual hierarchy described in the MPEP's own Foreword. (B) and (D) invent distinctions (pro se status, examiner- vs. applicant-binding) that have no basis in how the MPEP describes its own authority.",
     "sources": [
       {
         "authority": "MPEP",
@@ -4086,13 +4086,13 @@
     "answer_text": null,
     "why_it_matters": null,
     "choices": {
-      "A": "The specification's description of how to make and use the invention, which explains and enables the invention in detail.",
-      "B": "The claim(s), since the claims are the part of the application that defines the legal scope of protection.",
-      "C": "The abstract, since it briefly summarizes the disclosure and is often read first by examiners and searchers.",
-      "D": "The prior art references cited by the applicant, since those citations establish the technical field and background for the claimed invention."
+      "A": "The abstract, since it briefly summarizes the disclosure and is often read first by examiners and searchers.",
+      "B": "The prior art references cited by the applicant, since those citations establish the technical field and background for the claimed invention.",
+      "C": "The claim(s), since the claims are the part of the application that defines the legal scope of protection.",
+      "D": "The specification's description of how to make and use the invention, which explains and enables the invention in detail."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. The claims particularly point out and distinctly define the scope of the invention the applicant is asking to have patented -- see 35 U.S.C. 112(b) and foundation-system-vocabulary-016. (A) is incorrect: the rest of the specification describes and enables the invention but, unlike the claims, does not itself define the legal scope of protection -- see foundation-system-vocabulary-017. (C) is incorrect: the abstract is a brief summary and has no claim-defining legal role. (D) is incorrect: prior art references cited by the applicant are background information for examination, not a definition of the applicant's own claimed scope.",
+    "answer": "C",
+    "explanation": "(C) is correct. The claims particularly point out and distinctly define the scope of the invention the applicant is asking to have patented -- see 35 U.S.C. 112(b) and foundation-system-vocabulary-016. (D) is incorrect: the rest of the specification describes and enables the invention but, unlike the claims, does not itself define the legal scope of protection -- see foundation-system-vocabulary-017. (A) is incorrect: the abstract is a brief summary and has no claim-defining legal role. (B) is incorrect: prior art references cited by the applicant are background information for examination, not a definition of the applicant's own claimed scope.",
     "sources": [
       {
         "authority": "35 U.S.C.",
@@ -4174,12 +4174,12 @@
     "why_it_matters": null,
     "choices": {
       "A": "Claim 2 is broader than claim 1, because it adds a further detail that expands what the claim covers beyond claim 1 alone, in the eyes of a court construing the claim later.",
-      "B": "Claim 1 is an independent claim; claim 2 is a dependent claim that necessarily includes every limitation of claim 1 plus the added cushioning limitation, making it narrower than claim 1.",
-      "C": "Claims 1 and 2 must be examined as completely unrelated inventions, since claim 2 introduces a feature, cushioning, not present in claim 1.",
+      "B": "Claims 1 and 2 must be examined as completely unrelated inventions, since claim 2 introduces a feature, cushioning, not present in claim 1.",
+      "C": "Claim 1 is an independent claim; claim 2 is a dependent claim that necessarily includes every limitation of claim 1 plus the added cushioning limitation, making it narrower than claim 1.",
       "D": "Claim 2 becomes an independent claim once the application is granted, since dependent claims are converted to stand-alone claims upon issuance."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. Claim 1 stands on its own and is independent (foundation-application-anatomy-004); claim 2 refers back to claim 1 and adds a limitation, making it dependent (foundation-application-anatomy-005); a dependent claim is automatically narrower because it incorporates everything the referenced claim requires plus its own added limitation (foundation-application-anatomy-007). (A) has it backwards -- adding a limitation narrows scope, it does not broaden it. (C) is unsupported -- a dependent claim is by definition tied to, and construed together with, the claim it refers back to. (D) is incorrect -- whether a claim is independent or dependent is a drafting characteristic fixed by how it's written, not something that changes upon grant.",
+    "answer": "C",
+    "explanation": "(C) is correct. Claim 1 stands on its own and is independent (foundation-application-anatomy-004); claim 2 refers back to claim 1 and adds a limitation, making it dependent (foundation-application-anatomy-005); a dependent claim is automatically narrower because it incorporates everything the referenced claim requires plus its own added limitation (foundation-application-anatomy-007). (A) has it backwards -- adding a limitation narrows scope, it does not broaden it. (B) is unsupported -- a dependent claim is by definition tied to, and construed together with, the claim it refers back to. (D) is incorrect -- whether a claim is independent or dependent is a drafting characteristic fixed by how it's written, not something that changes upon grant.",
     "sources": [
       {
         "authority": "35 U.S.C.",
@@ -4199,13 +4199,13 @@
     "answer_text": null,
     "why_it_matters": null,
     "choices": {
-      "A": "Yes -- claim 6 is an ordinary (single) dependent claim referring to claim 5; the rule against building on a multiple dependent claim only bars using it as the basis for another multiple dependent claim.",
-      "B": "No -- a multiple dependent claim can never be used as the basis for any other claim, single or multiple, so claim 6 is improper as drafted and must be rewritten.",
-      "C": "No -- claim 6 must instead recite \"the widget of claim 3, 4, or 5\" to be proper, since it should reference every claim in the chain directly.",
+      "A": "No -- a multiple dependent claim can never be used as the basis for any other claim, single or multiple, so claim 6 is improper as drafted and must be rewritten.",
+      "B": "No -- claim 6 must instead recite \"the widget of claim 3, 4, or 5\" to be proper, since it should reference every claim in the chain directly.",
+      "C": "Yes -- claim 6 is an ordinary (single) dependent claim referring to claim 5; the rule against building on a multiple dependent claim only bars using it as the basis for another multiple dependent claim.",
       "D": "Yes, but only because claim 6 also uses alternative (\"or\") language, which is what makes multiple dependent claims permissible in the first place."
     },
-    "answer": "A",
-    "explanation": "(A) is correct. A multiple dependent claim (claim 5, which refers to claim 3 or 4 in the alternative) may not serve as the basis for any other multiple dependent claim -- see foundation-application-anatomy-006 and 37 CFR 1.75(c) / MPEP § 608.01(n). Claim 6, as drafted, refers back to only claim 5 (a single, non-alternative reference), so it is an ordinary single dependent claim, not a multiple dependent claim -- the prohibition doesn't apply to it. (B) overstates the rule: it bars only building a multiple dependent claim on another multiple dependent claim, not an ordinary dependent claim. (C) invents a drafting requirement that doesn't exist. (D) is wrong on its face -- claim 6 doesn't use \"or\" language at all, and doesn't need to, since it isn't a multiple dependent claim.",
+    "answer": "C",
+    "explanation": "(C) is correct. A multiple dependent claim (claim 5, which refers to claim 3 or 4 in the alternative) may not serve as the basis for any other multiple dependent claim -- see foundation-application-anatomy-006 and 37 CFR 1.75(c) / MPEP § 608.01(n). Claim 6, as drafted, refers back to only claim 5 (a single, non-alternative reference), so it is an ordinary single dependent claim, not a multiple dependent claim -- the prohibition doesn't apply to it. (A) overstates the rule: it bars only building a multiple dependent claim on another multiple dependent claim, not an ordinary dependent claim. (B) invents a drafting requirement that doesn't exist. (D) is wrong on its face -- claim 6 doesn't use \"or\" language at all, and doesn't need to, since it isn't a multiple dependent claim.",
     "sources": [
       {
         "authority": "35 U.S.C.",
@@ -4234,13 +4234,13 @@
     "answer_text": null,
     "why_it_matters": null,
     "choices": {
-      "A": "Yes -- the duty to disclose only requires disclosing references the examiner already found during the search, since attorneys are not expected to supplement the examiner's own work.",
-      "B": "No -- everyone associated with filing and prosecuting the application has a duty to disclose to the USPTO all information known to be material to patentability, and filing an IDS is the mechanism for doing so.",
-      "C": "Yes -- the duty to disclose applies only to the inventors, not to the prosecuting attorney, since only inventors personally certify the application's contents.",
+      "A": "No -- everyone associated with filing and prosecuting the application has a duty to disclose to the USPTO all information known to be material to patentability, and filing an IDS is the mechanism for doing so.",
+      "B": "Yes -- the duty to disclose applies only to the inventors, not to the prosecuting attorney, since only inventors personally certify the application's contents.",
+      "C": "Yes -- the duty to disclose only requires disclosing references the examiner already found during the search, since attorneys are not expected to supplement the examiner's own work.",
       "D": "No, but only because the duty to disclose requires her to affirmatively search for prior art in unrelated matters, going well beyond simply disclosing what she personally already knows."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. The duty to disclose is owed by every individual associated with filing and prosecuting an application (which includes the prosecuting attorney, not just the inventors), and it covers material information known to that individual regardless of its source; an IDS is the paperwork mechanism used to satisfy it -- see foundation-application-anatomy-011/-012/-013. (A) inverts the duty: it's a duty to disclose what the individual already knows, not merely to relay what the examiner already found. (C) is directly contradicted by \"every individual associated with filing and prosecuting\" in foundation-application-anatomy-012. (D) mischaracterizes the duty as an affirmative search obligation, which foundation-application-anatomy-012's definition (disclose what is \"known\") does not establish.",
+    "answer": "A",
+    "explanation": "(A) is correct. The duty to disclose is owed by every individual associated with filing and prosecuting an application (which includes the prosecuting attorney, not just the inventors), and it covers material information known to that individual regardless of its source; an IDS is the paperwork mechanism used to satisfy it -- see foundation-application-anatomy-011/-012/-013. (C) inverts the duty: it's a duty to disclose what the individual already knows, not merely to relay what the examiner already found. (B) is directly contradicted by \"every individual associated with filing and prosecuting\" in foundation-application-anatomy-012. (D) mischaracterizes the duty as an affirmative search obligation, which foundation-application-anatomy-012's definition (disclose what is \"known\") does not establish.",
     "sources": [
       {
         "authority": "37 CFR",
@@ -4265,13 +4265,13 @@
     "answer_text": null,
     "why_it_matters": null,
     "choices": {
-      "A": "The detailed description of how to make and use the invention.",
-      "B": "Applicant and inventor information and any priority or benefit claims.",
-      "C": "The claim(s) defining the scope of protection.",
-      "D": "The Background of the Invention section."
+      "A": "The claim(s) defining the scope of protection.",
+      "B": "The detailed description of how to make and use the invention.",
+      "C": "The Background of the Invention section.",
+      "D": "Applicant and inventor information and any priority or benefit claims."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. The ADS is used to set out bibliographic-type information -- applicant and inventor information, priority/benefit claims, and similar data -- separately from the specification (foundation-application-anatomy-015). (A) is part of the Detailed Description of the Invention section of the specification (foundation-application-anatomy-019). (C) is the claims, the concluding part of the specification. (D) is the Background of the Invention section of the specification (foundation-application-anatomy-017). None of A, C, or D belong in the ADS.",
+    "answer": "D",
+    "explanation": "(D) is correct. The ADS is used to set out bibliographic-type information -- applicant and inventor information, priority/benefit claims, and similar data -- separately from the specification (foundation-application-anatomy-015). (B) is part of the Detailed Description of the Invention section of the specification (foundation-application-anatomy-019). (A) is the claims, the concluding part of the specification. (C) is the Background of the Invention section of the specification (foundation-application-anatomy-017). None of A, C, or D belong in the ADS.",
     "sources": [
       {
         "authority": "37 CFR",
@@ -4291,13 +4291,13 @@
     "answer_text": null,
     "why_it_matters": null,
     "choices": {
-      "A": "Detailed Description, Background, Summary, Claim(s).",
-      "B": "Background, Summary, Detailed Description, Claim(s).",
+      "A": "Summary, Background, Detailed Description, Claim(s).",
+      "B": "Detailed Description, Background, Summary, Claim(s).",
       "C": "Claim(s), Background, Summary, Detailed Description.",
-      "D": "Summary, Background, Detailed Description, Claim(s)."
+      "D": "Background, Summary, Detailed Description, Claim(s)."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. The normal order is: title, cross-references (if any), background of the invention, summary of the invention, brief description of the drawings, detailed description of the invention, the claim(s), and the abstract -- see foundation-application-anatomy-020, which draws on foundation-application-anatomy-017/-018/-019 for what each section covers. (A), (C), and (D) all place at least one section out of that order (the claims must come last among these four, and Background precedes Summary, which precedes the Detailed Description).",
+    "answer": "D",
+    "explanation": "(D) is correct. The normal order is: title, cross-references (if any), background of the invention, summary of the invention, brief description of the drawings, detailed description of the invention, the claim(s), and the abstract -- see foundation-application-anatomy-020, which draws on foundation-application-anatomy-017/-018/-019 for what each section covers. (B), (C), and (A) all place at least one section out of that order (the claims must come last among these four, and Background precedes Summary, which precedes the Detailed Description).",
     "sources": [
       {
         "authority": "37 CFR",
@@ -4317,13 +4317,13 @@
     "answer_text": null,
     "why_it_matters": null,
     "choices": {
-      "A": "\"a frame; two wheels; and a seat\" -- the elements introduced after \"comprising,\" which form the body of the claim.",
-      "B": "\"A bicycle\" -- the introductory portion before the transitional phrase \"comprising,\" which generally names the known context for the claimed combination.",
-      "C": "\"wherein the frame includes a shock-absorbing joint\" -- the final clause of the claim, added as a further limitation on the frame.",
-      "D": "The entire claim, since a preamble includes every word of a claim, from the opening term through the final limitation."
+      "A": "\"A bicycle\" -- the introductory portion before the transitional phrase \"comprising,\" which generally names the known context for the claimed combination.",
+      "B": "\"wherein the frame includes a shock-absorbing joint\" -- the final clause of the claim, added as a further limitation on the frame.",
+      "C": "The entire claim, since a preamble includes every word of a claim, from the opening term through the final limitation.",
+      "D": "\"a frame; two wheels; and a seat\" -- the elements introduced after \"comprising,\" which form the body of the claim."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. The preamble is the introductory part of a claim, before the transitional phrase (like \"comprising\"), and generally describes the conventional/known elements of the claimed combination -- see foundation-application-anatomy-008. Here, that's just \"A bicycle,\" before \"comprising.\" (A) and (C) are both part of the claim body -- the elements and limitations recited after the transitional phrase -- not the preamble. (D) overstates the definition; the preamble is specifically the introductory portion, not the whole claim.",
+    "answer": "A",
+    "explanation": "(A) is correct. The preamble is the introductory part of a claim, before the transitional phrase (like \"comprising\"), and generally describes the conventional/known elements of the claimed combination -- see foundation-application-anatomy-008. Here, that's just \"A bicycle,\" before \"comprising.\" (D) and (B) are both part of the claim body -- the elements and limitations recited after the transitional phrase -- not the preamble. (C) overstates the definition; the preamble is specifically the introductory portion, not the whole claim.",
     "sources": [
       {
         "authority": "37 CFR",
@@ -4343,13 +4343,13 @@
     "answer_text": null,
     "why_it_matters": null,
     "choices": {
-      "A": "Continuation",
-      "B": "Divisional",
-      "C": "Continuation-in-part",
-      "D": "Substitute application"
+      "A": "Substitute application",
+      "B": "Continuation",
+      "C": "Divisional",
+      "D": "Continuation-in-part"
     },
-    "answer": "B",
-    "explanation": "(B) is correct. A divisional carves out a different, independent or distinct invention that was disclosed but not the focus of the claims in the earlier application, typically in response to a restriction requirement, and adds no new matter -- see foundation-application-types-005 and foundation-application-types-008. (A) is wrong: a continuation pursues the *same* invention further, not a distinct one split off by restriction. (C) is wrong because the facts state no new subject matter was added, which rules out a CIP (foundation-application-types-006/-009). (D) is wrong: a substitute application follows an abandoned earlier application and does not get its filing date benefit at all (foundation-application-types-015), unlike this still-pending scenario.",
+    "answer": "C",
+    "explanation": "(C) is correct. A divisional carves out a different, independent or distinct invention that was disclosed but not the focus of the claims in the earlier application, typically in response to a restriction requirement, and adds no new matter -- see foundation-application-types-005 and foundation-application-types-008. (B) is wrong: a continuation pursues the *same* invention further, not a distinct one split off by restriction. (D) is wrong because the facts state no new subject matter was added, which rules out a CIP (foundation-application-types-006/-009). (A) is wrong: a substitute application follows an abandoned earlier application and does not get its filing date benefit at all (foundation-application-types-015), unlike this still-pending scenario.",
     "sources": [
       {
         "authority": "MPEP",
@@ -4374,12 +4374,12 @@
     "why_it_matters": null,
     "choices": {
       "A": "The parent application's filing date, because the CIP as a whole gets the earlier date.",
-      "B": "The CIP's own (later) filing date, since Widget B was not disclosed in the parent application.",
-      "C": "Whichever date is earlier is always used for every claim in a CIP, regardless of what each claim recites.",
-      "D": "No effective filing date can be assigned to the claim until the CIP issues as a patent."
+      "B": "No effective filing date can be assigned to the claim until the CIP issues as a patent.",
+      "C": "The CIP's own (later) filing date, since Widget B was not disclosed in the parent application.",
+      "D": "Whichever date is earlier is always used for every claim in a CIP, regardless of what each claim recites."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. A CIP effectively carries two dates: subject matter already disclosed in the parent keeps the parent's earlier filing date for benefit purposes, while newly added subject matter only gets the CIP's own later filing date -- see foundation-application-types-010, applying the effective-filing-date definition in foundation-application-types-019. Since Widget B is new matter not in the parent, a claim reciting only Widget B gets the CIP's own filing date. (A) and (C) both wrongly assume a single filing date applies to the whole CIP regardless of what each claim covers. (D) is incorrect -- effective filing date is a property of the claim at filing, not something that first arises at issuance.",
+    "answer": "C",
+    "explanation": "(C) is correct. A CIP effectively carries two dates: subject matter already disclosed in the parent keeps the parent's earlier filing date for benefit purposes, while newly added subject matter only gets the CIP's own later filing date -- see foundation-application-types-010, applying the effective-filing-date definition in foundation-application-types-019. Since Widget B is new matter not in the parent, a claim reciting only Widget B gets the CIP's own filing date. (A) and (D) both wrongly assume a single filing date applies to the whole CIP regardless of what each claim covers. (B) is incorrect -- effective filing date is a property of the claim at filing, not something that first arises at issuance.",
     "sources": [
       {
         "authority": "MPEP",
@@ -4409,12 +4409,12 @@
     "why_it_matters": null,
     "choices": {
       "A": "\"Benefit,\" governed by 35 U.S.C. 120.",
-      "B": "\"Priority,\" governed by 35 U.S.C. 119(a).",
+      "B": "\"Continuation,\" governed by 37 CFR 1.78.",
       "C": "\"Copendency,\" governed by 35 U.S.C. 120.",
-      "D": "\"Continuation,\" governed by 37 CFR 1.78."
+      "D": "\"Priority,\" governed by 35 U.S.C. 119(a)."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. \"Priority\" under 35 U.S.C. 119(a) links a U.S. application back to an earlier *foreign* application for the same invention, filed within the treaty-set time limit -- see foundation-application-types-016 and foundation-application-types-018. (A) is wrong: \"benefit\" under § 120 links a later U.S. application back to an earlier *U.S. nonprovisional* application, not a foreign one. (C) is wrong: copendency is a timing requirement for a benefit claim, not the name for this foreign-priority relationship, and it isn't itself governed by § 120 as a distinct concept here. (D) is wrong: \"continuation\" describes a type of continuing U.S. application relying on an earlier U.S. application, not a claim to a foreign filing.",
+    "answer": "D",
+    "explanation": "(D) is correct. \"Priority\" under 35 U.S.C. 119(a) links a U.S. application back to an earlier *foreign* application for the same invention, filed within the treaty-set time limit -- see foundation-application-types-016 and foundation-application-types-018. (A) is wrong: \"benefit\" under § 120 links a later U.S. application back to an earlier *U.S. nonprovisional* application, not a foreign one. (C) is wrong: copendency is a timing requirement for a benefit claim, not the name for this foreign-priority relationship, and it isn't itself governed by § 120 as a distinct concept here. (B) is wrong: \"continuation\" describes a type of continuing U.S. application relying on an earlier U.S. application, not a claim to a foreign filing.",
     "sources": [
       {
         "authority": "35 U.S.C.",
@@ -4465,13 +4465,13 @@
     "answer_text": null,
     "why_it_matters": null,
     "choices": {
-      "A": "Yes -- benefit follows automatically whenever the disclosures are related and the applications are copending, without any need for the applicant to file a reference identifying the relationship.",
-      "B": "No -- the later application must contain (or be amended to contain) a specific reference identifying the earlier application and the relationship between them; a benefit claim does not arise automatically.",
+      "A": "No -- the later application must contain (or be amended to contain) a specific reference identifying the earlier application and the relationship between them; a benefit claim does not arise automatically.",
+      "B": "No, because only divisional applications, not continuations or continuations-in-part, are permitted to claim the benefit of an earlier filing date.",
       "C": "Yes, but only if the examiner happens to discover the relationship during the prior art search and raises it in an Office action requiring the applicant to add the reference afterward.",
-      "D": "No, because only divisional applications, not continuations or continuations-in-part, are permitted to claim the benefit of an earlier filing date."
+      "D": "Yes -- benefit follows automatically whenever the disclosures are related and the applications are copending, without any need for the applicant to file a reference identifying the relationship."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. A benefit claim requires the later application to contain (or be amended to contain) a specific reference identifying the earlier application and stating the relationship (continuation, divisional, or CIP) -- it doesn't happen automatically just because the applications are related and copending -- see foundation-application-types-022. (A) and (C) both wrongly assume the relationship is self-executing. (D) is factually wrong: continuations, divisionals, and CIPs can all claim benefit under § 120, per foundation-application-types-007.",
+    "answer": "A",
+    "explanation": "(A) is correct. A benefit claim requires the later application to contain (or be amended to contain) a specific reference identifying the earlier application and stating the relationship (continuation, divisional, or CIP) -- it doesn't happen automatically just because the applications are related and copending -- see foundation-application-types-022. (D) and (C) both wrongly assume the relationship is self-executing. (B) is factually wrong: continuations, divisionals, and CIPs can all claim benefit under § 120, per foundation-application-types-007.",
     "sources": [
       {
         "authority": "37 CFR",
@@ -4496,13 +4496,13 @@
     "answer_text": null,
     "why_it_matters": null,
     "choices": {
-      "A": "It automatically converts into a nonprovisional application and proceeds to examination without any further filing by the inventor.",
-      "B": "It goes abandoned 12 months after filing, and it can never itself mature into a patent -- a provisional application is never examined.",
-      "C": "It remains pending indefinitely until the inventor takes further action, since provisional applications do not carry a fixed abandonment date.",
-      "D": "It automatically becomes a divisional application, carrying forward the same disclosure without any new filing being required."
+      "A": "It remains pending indefinitely until the inventor takes further action, since provisional applications do not carry a fixed abandonment date.",
+      "B": "It automatically becomes a divisional application, carrying forward the same disclosure without any new filing being required.",
+      "C": "It goes abandoned 12 months after filing, and it can never itself mature into a patent -- a provisional application is never examined.",
+      "D": "It automatically converts into a nonprovisional application and proceeds to examination without any further filing by the inventor."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. A provisional application establishes an early filing date but is never examined and never itself becomes a patent -- it automatically goes abandoned 12 months after filing unless a nonprovisional application claims its benefit in time -- see foundation-application-types-001 and foundation-application-types-003. (A) is incorrect: nothing automatically converts a provisional into a nonprovisional; a separate nonprovisional filing (claiming benefit) is required. (C) is incorrect: the 12-month abandonment is automatic, not conditional on inaction being noticed. (D) is incorrect: nothing automatically converts a provisional into a divisional application either.",
+    "answer": "C",
+    "explanation": "(C) is correct. A provisional application establishes an early filing date but is never examined and never itself becomes a patent -- it automatically goes abandoned 12 months after filing unless a nonprovisional application claims its benefit in time -- see foundation-application-types-001 and foundation-application-types-003. (D) is incorrect: nothing automatically converts a provisional into a nonprovisional; a separate nonprovisional filing (claiming benefit) is required. (A) is incorrect: the 12-month abandonment is automatic, not conditional on inaction being noticed. (B) is incorrect: nothing automatically converts a provisional into a divisional application either.",
     "sources": [
       {
         "authority": "35 U.S.C.",
@@ -4527,12 +4527,12 @@
     "why_it_matters": null,
     "choices": {
       "A": "Claim 5 is rejected, and the applicant may appeal that rejection to the Patent Trial and Appeal Board, the same as any other rejection based on the merits of patentability.",
-      "B": "Claim 5 is objected to (not rejected), since the problem is one of form -- dependency on a rejected claim -- rather than substance; disagreement with a persisting objection is reviewed by petition to the Director, not by appeal to the Board.",
-      "C": "Claim 5 is automatically canceled along with claim 1, since a dependent claim cannot survive once the claim it depends from is rejected, leaving nothing left in claim 5 to independently examine or allow.",
+      "B": "Claim 5 is automatically canceled along with claim 1, since a dependent claim cannot survive once the claim it depends from is rejected, leaving nothing left in claim 5 to independently examine or allow.",
+      "C": "Claim 5 is objected to (not rejected), since the problem is one of form -- dependency on a rejected claim -- rather than substance; disagreement with a persisting objection is reviewed by petition to the Director, not by appeal to the Board.",
       "D": "Claim 5 is allowed outright, regardless of claim 1's status, since each claim is evaluated entirely independently of the others, and dependency on a rejected claim has no bearing on a dependent claim's own patentability."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. A dependent claim that would otherwise be allowable, but depends on a rejected claim, is objected to rather than rejected -- see foundation-prosecution-lifecycle-006's own example. Because the issue is one of form, not substance, it can't be appealed to the Board; the applicant's only recourse for a persisting objection is a petition to the Director -- see foundation-prosecution-lifecycle-007. (A) mislabels the treatment as a rejection and wrongly opens Board appeal. (C) is unsupported -- an objected claim isn't automatically canceled. (D) ignores that claim 5's dependency on rejected claim 1 is exactly why it isn't simply allowed.",
+    "answer": "C",
+    "explanation": "(C) is correct. A dependent claim that would otherwise be allowable, but depends on a rejected claim, is objected to rather than rejected -- see foundation-prosecution-lifecycle-006's own example. Because the issue is one of form, not substance, it can't be appealed to the Board; the applicant's only recourse for a persisting objection is a petition to the Director -- see foundation-prosecution-lifecycle-007. (A) mislabels the treatment as a rejection and wrongly opens Board appeal. (B) is unsupported -- an objected claim isn't automatically canceled. (D) ignores that claim 5's dependency on rejected claim 1 is exactly why it isn't simply allowed.",
     "sources": [
       {
         "authority": "MPEP",
@@ -4551,13 +4551,13 @@
     "answer_text": null,
     "why_it_matters": null,
     "choices": {
-      "A": "An amendment adding a new claim reciting a feature not previously claimed, to broaden the scope of protection being sought.",
-      "B": "An amendment canceling a rejected claim, since canceling claims is one of the limited actions entered as of right after a final rejection.",
-      "C": "An amendment broadening the scope of an independent claim, to seek broader coverage than what was originally claimed.",
-      "D": "An amendment requesting the examiner search additional prior art not yet considered, to ensure the claims are fully examined before allowance."
+      "A": "An amendment broadening the scope of an independent claim, to seek broader coverage than what was originally claimed.",
+      "B": "An amendment adding a new claim reciting a feature not previously claimed, to broaden the scope of protection being sought.",
+      "C": "An amendment requesting the examiner search additional prior art not yet considered, to ensure the claims are fully examined before allowance.",
+      "D": "An amendment canceling a rejected claim, since canceling claims is one of the limited actions entered as of right after a final rejection."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. After a final action, further amendments are entered only in limited circumstances, expressly including canceling claims or putting claims in condition for allowance -- see foundation-prosecution-lifecycle-010. (A), (C), and (D) don't fall within that recognized list: adding a new claim with a new feature, broadening an independent claim, and requesting a fresh search are all outside the \"canceling claims / condition for allowance\" categories, so none is entered as of right after final -- an RCE or appeal is the normal route instead.",
+    "answer": "D",
+    "explanation": "(D) is correct. After a final action, further amendments are entered only in limited circumstances, expressly including canceling claims or putting claims in condition for allowance -- see foundation-prosecution-lifecycle-010. (B), (A), and (C) don't fall within that recognized list: adding a new claim with a new feature, broadening an independent claim, and requesting a fresh search are all outside the \"canceling claims / condition for allowance\" categories, so none is entered as of right after final -- an RCE or appeal is the normal route instead.",
     "sources": [
       {
         "authority": "37 CFR",
@@ -4603,13 +4603,13 @@
     "answer_text": null,
     "why_it_matters": null,
     "choices": {
-      "A": "Yes -- an RCE always reopens examination, even in an already-abandoned application, since filing the RCE itself operates to revive the application.",
-      "B": "No -- an RCE must be filed before abandonment (or before the issue fee is paid, or before certain appeals); since the application is already abandoned, the applicant would need to petition to revive it first.",
-      "C": "Yes, but only if filed within 3 months of the abandonment, similar to the reply period allowed for a non-final Office action, since the same grace period is thought to apply.",
+      "A": "No -- an RCE must be filed before abandonment (or before the issue fee is paid, or before certain appeals); since the application is already abandoned, the applicant would need to petition to revive it first.",
+      "B": "Yes, but only if filed within 3 months of the abandonment, similar to the reply period allowed for a non-final Office action, since the same grace period is thought to apply.",
+      "C": "Yes -- an RCE always reopens examination, even in an already-abandoned application, since filing the RCE itself operates to revive the application.",
       "D": "No -- an abandoned application can never be revived under any circumstances, regardless of the reason for the missed deadline, since abandonment is treated as a permanent, final loss of any rights in the application."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. An RCE won't revive an already-abandoned application; it must be filed before abandonment -- see foundation-prosecution-lifecycle-024. To proceed, the applicant would need to petition to revive the application first. (A) and (C) both wrongly treat the RCE itself as capable of reopening an already-dead application. (D) overstates the rule -- revival is possible via petition, just not via an RCE.",
+    "answer": "A",
+    "explanation": "(A) is correct. An RCE won't revive an already-abandoned application; it must be filed before abandonment -- see foundation-prosecution-lifecycle-024. To proceed, the applicant would need to petition to revive the application first. (C) and (B) both wrongly treat the RCE itself as capable of reopening an already-dead application. (D) overstates the rule -- revival is possible via petition, just not via an RCE.",
     "sources": [
       {
         "authority": "37 CFR",
@@ -4629,13 +4629,13 @@
     "answer_text": null,
     "why_it_matters": null,
     "choices": {
-      "A": "The applicant automatically preserves the right to petition the Director to review the restriction requirement, regardless of what the reply says.",
-      "B": "Because the election was made without traverse -- no error was distinctly and specifically pointed out -- the right to petition the Director to review the restriction requirement is lost.",
-      "C": "The applicant may still appeal the restriction requirement to the Patent Trial and Appeal Board at any time, since restriction requirements are treated the same as substantive rejections for review purposes.",
+      "A": "Because the election was made without traverse -- no error was distinctly and specifically pointed out -- the right to petition the Director to review the restriction requirement is lost.",
+      "B": "The applicant may still appeal the restriction requirement to the Patent Trial and Appeal Board at any time, since restriction requirements are treated the same as substantive rejections for review purposes.",
+      "C": "The applicant automatically preserves the right to petition the Director to review the restriction requirement, regardless of what the reply says.",
       "D": "The election itself is invalid unless it is made with traverse, so the applicant would need to elect an invention again to fix it."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. An election must be made with traverse -- distinctly and specifically pointing out the requirement's supposed errors -- to preserve the right to petition the Director for review; failing to do so means the election is treated as without traverse, and that petition right is lost -- see foundation-prosecution-lifecycle-020/-021. (A) is directly contradicted by that rule. (C) is wrong: review of a restriction requirement is by petition to the Director, not appeal to the Board -- see foundation-prosecution-lifecycle-007's rejection/objection distinction, which applies the same petition-vs-appeal logic to procedural matters. (D) is wrong -- the election itself is still effective; only the traverse-dependent petition right is affected.",
+    "answer": "A",
+    "explanation": "(A) is correct. An election must be made with traverse -- distinctly and specifically pointing out the requirement's supposed errors -- to preserve the right to petition the Director for review; failing to do so means the election is treated as without traverse, and that petition right is lost -- see foundation-prosecution-lifecycle-020/-021. (C) is directly contradicted by that rule. (B) is wrong: review of a restriction requirement is by petition to the Director, not appeal to the Board -- see foundation-prosecution-lifecycle-007's rejection/objection distinction, which applies the same petition-vs-appeal logic to procedural matters. (D) is wrong -- the election itself is still effective; only the traverse-dependent petition right is affected.",
     "sources": [
       {
         "authority": "MPEP",
@@ -4690,13 +4690,13 @@
     "answer_text": null,
     "why_it_matters": null,
     "choices": {
-      "A": "The patent still issues automatically, since the application was already allowed and allowance is the Office's final decision on patentability.",
-      "B": "The application is regarded as abandoned, even though it had been allowed -- allowance alone does not guarantee a granted patent.",
+      "A": "The application is regarded as abandoned, even though it had been allowed -- allowance alone does not guarantee a granted patent.",
+      "B": "The application reverts to non-final Office action status, giving the applicant a fresh opportunity to reply and pay the fee later.",
       "C": "The Office automatically extends the deadline indefinitely once an application has been allowed.",
-      "D": "The application reverts to non-final Office action status, giving the applicant a fresh opportunity to reply and pay the fee later."
+      "D": "The patent still issues automatically, since the application was already allowed and allowance is the Office's final decision on patentability."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. If the issue fee isn't paid within the 3-month deadline, the application is regarded as abandoned even though it was already allowed -- see foundation-prosecution-lifecycle-034, building on the allowance-vs-issuance distinction in -033 (the patent doesn't actually issue until the fee is paid). (A) is wrong for that same reason -- allowance is not issuance. (C) invents an automatic indefinite extension that doesn't exist. (D) is wrong -- a lapsed allowed application goes abandoned, it doesn't revert to non-final status.",
+    "answer": "A",
+    "explanation": "(A) is correct. If the issue fee isn't paid within the 3-month deadline, the application is regarded as abandoned even though it was already allowed -- see foundation-prosecution-lifecycle-034, building on the allowance-vs-issuance distinction in -033 (the patent doesn't actually issue until the fee is paid). (D) is wrong for that same reason -- allowance is not issuance. (C) invents an automatic indefinite extension that doesn't exist. (B) is wrong -- a lapsed allowed application goes abandoned, it doesn't revert to non-final status.",
     "sources": [
       {
         "authority": "35 U.S.C.",
@@ -4717,12 +4717,12 @@
     "why_it_matters": null,
     "choices": {
       "A": "To pay an additional fee to avoid the restriction requirement entirely, so that all of the claimed inventions can be examined together.",
-      "B": "To formally object to the requirement, distinctly and specifically pointing out what the applicant believes is wrong with it.",
-      "C": "To request an examiner interview instead of replying in writing, so the restriction requirement can be discussed informally.",
-      "D": "To automatically elect all of the claimed inventions rather than choosing just one."
+      "B": "To automatically elect all of the claimed inventions rather than choosing just one.",
+      "C": "To formally object to the requirement, distinctly and specifically pointing out what the applicant believes is wrong with it.",
+      "D": "To request an examiner interview instead of replying in writing, so the restriction requirement can be discussed informally."
     },
-    "answer": "B",
-    "explanation": "(B) is correct -- to traverse is to formally object, distinctly and specifically pointing out what's wrong with the requirement, rather than simply complying with it -- see foundation-prosecution-lifecycle-020. (A) invents a fee-based way to avoid restriction that doesn't exist. (C) confuses traversal with a different, unrelated procedural tool (an interview). (D) is wrong: electing an invention and traversing the requirement are two different, independent things -- see foundation-prosecution-lifecycle-019 and -021 -- and traversal has nothing to do with electing every invention.",
+    "answer": "C",
+    "explanation": "(C) is correct -- to traverse is to formally object, distinctly and specifically pointing out what's wrong with the requirement, rather than simply complying with it -- see foundation-prosecution-lifecycle-020. (A) invents a fee-based way to avoid restriction that doesn't exist. (D) confuses traversal with a different, unrelated procedural tool (an interview). (B) is wrong: electing an invention and traversing the requirement are two different, independent things -- see foundation-prosecution-lifecycle-019 and -021 -- and traversal has nothing to do with electing every invention.",
     "sources": [
       {
         "authority": "MPEP",
@@ -4746,13 +4746,13 @@
     "answer_text": null,
     "why_it_matters": null,
     "choices": {
-      "A": "Enablement, because the specification's instructions are too detailed for a skilled person to follow without undue experimentation.",
-      "B": "Written description, because the specification doesn't show the inventor actually possessed the claimed compound X, even though it may enable making and using it.",
-      "C": "Best mode, because the inventor didn't disclose a preferred version of X that the inventor considered best at the time of filing.",
-      "D": "Definiteness, because compound X isn't clearly named or distinguished from the related compound the inventor did make."
+      "A": "Best mode, because the inventor didn't disclose a preferred version of X that the inventor considered best at the time of filing.",
+      "B": "Enablement, because the specification's instructions are too detailed for a skilled person to follow without undue experimentation.",
+      "C": "Definiteness, because compound X isn't clearly named or distinguished from the related compound the inventor did make.",
+      "D": "Written description, because the specification doesn't show the inventor actually possessed the claimed compound X, even though it may enable making and using it."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. Written description requires the specification to show possession of the claimed invention as of filing -- actual development with all its limitations, not just that it seems like a predictable extension of something else -- see foundation-claims-and-112-009/-010. This is a distinct requirement from enablement, which is about whether a skilled person could make and use the invention without undue experimentation (foundation-claims-and-112-011/-012) -- and the facts here suggest enablement is satisfied even though written description is at risk. (A) is wrong -- detailed instructions support enablement, they don't create a problem. (C) and (D) address different, unrelated requirements not implicated by these facts.",
+    "answer": "D",
+    "explanation": "(D) is correct. Written description requires the specification to show possession of the claimed invention as of filing -- actual development with all its limitations, not just that it seems like a predictable extension of something else -- see foundation-claims-and-112-009/-010. This is a distinct requirement from enablement, which is about whether a skilled person could make and use the invention without undue experimentation (foundation-claims-and-112-011/-012) -- and the facts here suggest enablement is satisfied even though written description is at risk. (B) is wrong -- detailed instructions support enablement, they don't create a problem. (A) and (C) address different, unrelated requirements not implicated by these facts.",
     "sources": [
       {
         "authority": "35 U.S.C.",
@@ -4777,12 +4777,12 @@
     "why_it_matters": null,
     "choices": {
       "A": "An ordinary amendment, always permitted regardless of content, since applicants are free to refine their disclosure during prosecution.",
-      "B": "New matter -- subject matter not present in the specification, claims, or drawings as originally filed -- which is not permitted.",
-      "C": "A preliminary amendment, permitted because it is filed before the first Office action.",
-      "D": "A continuation-in-part-style amendment, permitted because CIPs are allowed to add new matter."
+      "B": "A preliminary amendment, permitted because it is filed before the first Office action.",
+      "C": "A continuation-in-part-style amendment, permitted because CIPs are allowed to add new matter.",
+      "D": "New matter -- subject matter not present in the specification, claims, or drawings as originally filed -- which is not permitted."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. New matter is subject matter not present in the specification, claims, or drawings as originally filed, and no amendment to an existing application may introduce it -- see foundation-claims-and-112-014/-015. (A) is wrong -- ordinary amendments are fine, but this one specifically introduces undisclosed content, which is what makes it a new-matter problem. (C) mislabels the timing category and doesn't change the new-matter analysis. (D) confuses two different things: a CIP can add new subject matter, but only by filing a *new application*, not by amending the original one -- an amendment within the same application is still barred from adding new matter regardless of what a CIP could do.",
+    "answer": "D",
+    "explanation": "(D) is correct. New matter is subject matter not present in the specification, claims, or drawings as originally filed, and no amendment to an existing application may introduce it -- see foundation-claims-and-112-014/-015. (A) is wrong -- ordinary amendments are fine, but this one specifically introduces undisclosed content, which is what makes it a new-matter problem. (B) mislabels the timing category and doesn't change the new-matter analysis. (C) confuses two different things: a CIP can add new subject matter, but only by filing a *new application*, not by amending the original one -- an amendment within the same application is still barred from adding new matter regardless of what a CIP could do.",
     "sources": [
       {
         "authority": "35 U.S.C.",
@@ -4811,13 +4811,13 @@
     "answer_text": null,
     "why_it_matters": null,
     "choices": {
-      "A": "It covers literally any possible structure that could secure the panel to the frame, no matter how different from what's disclosed.",
-      "B": "It is limited to the specific bracket-and-bolt structure described in the specification, plus equivalents of that structure.",
-      "C": "It is indefinite and cannot be interpreted at all, since no specific structure is recited in the claim itself.",
-      "D": "It is limited only to the exact bracket-and-bolt embodiment shown, with no equivalents included."
+      "A": "It is limited to the specific bracket-and-bolt structure described in the specification, plus equivalents of that structure.",
+      "B": "It is limited only to the exact bracket-and-bolt embodiment shown, with no equivalents included.",
+      "C": "It covers literally any possible structure that could secure the panel to the frame, no matter how different from what's disclosed.",
+      "D": "It is indefinite and cannot be interpreted at all, since no specific structure is recited in the claim itself."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. A means-plus-function element is construed to cover the specific structure, material, or acts described in the specification for performing the recited function, plus equivalents of that disclosed structure -- not literally any way of performing the function -- see foundation-claims-and-112-017/-018. (A) is exactly the interpretation the rule rejects. (C) is wrong -- means-plus-function claiming is expressly permitted and interpretable by reference to the specification; that's the whole point of 35 U.S.C. 112(f). (D) is wrong because it omits \"equivalents,\" which the rule explicitly includes.",
+    "answer": "A",
+    "explanation": "(A) is correct. A means-plus-function element is construed to cover the specific structure, material, or acts described in the specification for performing the recited function, plus equivalents of that disclosed structure -- not literally any way of performing the function -- see foundation-claims-and-112-017/-018. (C) is exactly the interpretation the rule rejects. (D) is wrong -- means-plus-function claiming is expressly permitted and interpretable by reference to the specification; that's the whole point of 35 U.S.C. 112(f). (B) is wrong because it omits \"equivalents,\" which the rule explicitly includes.",
     "sources": [
       {
         "authority": "35 U.S.C.",
@@ -4841,13 +4841,13 @@
     "answer_text": null,
     "why_it_matters": null,
     "choices": {
-      "A": "Yes, automatically -- any later use of \"the\" creates an indefiniteness problem, regardless of whether the term was introduced earlier in the claim.",
-      "B": "Not necessarily indefinite here -- \"the interior surface\" has clear antecedent basis in the earlier-recited \"an interior surface,\" so there's no antecedent-basis problem in this fact pattern at all.",
-      "C": "Yes, because \"the\" can never properly refer back to something first introduced with \"a\" or \"an,\" since only identical articles can refer back to one another.",
-      "D": "Indefiniteness can only be assessed after the application issues as a patent, once the claims can no longer be amended, since definiteness review is understood to be a post-grant, court-driven inquiry rather than an examination-stage one."
+      "A": "Indefiniteness can only be assessed after the application issues as a patent, once the claims can no longer be amended, since definiteness review is understood to be a post-grant, court-driven inquiry rather than an examination-stage one.",
+      "B": "Yes, because \"the\" can never properly refer back to something first introduced with \"a\" or \"an,\" since only identical articles can refer back to one another.",
+      "C": "Yes, automatically -- any later use of \"the\" creates an indefiniteness problem, regardless of whether the term was introduced earlier in the claim.",
+      "D": "Not necessarily indefinite here -- \"the interior surface\" has clear antecedent basis in the earlier-recited \"an interior surface,\" so there's no antecedent-basis problem in this fact pattern at all."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. Antecedent basis is support, earlier in the claim, for a term used with \"the\" -- here, \"an interior surface\" was already introduced before \"the interior surface\" refers back to it, which is exactly the kind of clear antecedent basis foundation-claims-and-112-007 describes. (A) and (C) both wrongly treat every \"the\"-reference as automatically problematic, when in fact this pattern is the normal, proper way to refer back to something already recited. (D) is wrong -- definiteness is assessed during examination, not only after issuance.",
+    "answer": "D",
+    "explanation": "(D) is correct. Antecedent basis is support, earlier in the claim, for a term used with \"the\" -- here, \"an interior surface\" was already introduced before \"the interior surface\" refers back to it, which is exactly the kind of clear antecedent basis foundation-claims-and-112-007 describes. (C) and (B) both wrongly treat every \"the\"-reference as automatically problematic, when in fact this pattern is the normal, proper way to refer back to something already recited. (A) is wrong -- definiteness is assessed during examination, not only after issuance.",
     "sources": [
       {
         "authority": "MPEP",
@@ -4866,13 +4866,13 @@
     "answer_text": null,
     "why_it_matters": null,
     "choices": {
-      "A": "The scope necessarily broadens, since more words were added to the claim, and more recited structure generally means more is covered.",
-      "B": "The scope necessarily narrows, since claim scope is the combination of all recited limitations, and adding a limitation adds another requirement that must be satisfied to fall within the claim.",
-      "C": "The scope is unaffected, since a lock was already implicit in the word \"handle,\" so no new limitation was actually added, and courts read implicit features into a claim term whenever they are commonly associated with it.",
-      "D": "The claim becomes indefinite, since a claim can only recite two limitations before it must be split into separate claims, a drafting rule meant to keep any single claim from becoming too complex to examine."
+      "A": "The scope necessarily narrows, since claim scope is the combination of all recited limitations, and adding a limitation adds another requirement that must be satisfied to fall within the claim.",
+      "B": "The scope necessarily broadens, since more words were added to the claim, and more recited structure generally means more is covered.",
+      "C": "The claim becomes indefinite, since a claim can only recite two limitations before it must be split into separate claims, a drafting rule meant to keep any single claim from becoming too complex to examine.",
+      "D": "The scope is unaffected, since a lock was already implicit in the word \"handle,\" so no new limitation was actually added, and courts read implicit features into a claim term whenever they are commonly associated with it."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. Claim scope is the combination of all of a claim's limitations together, and changing any one limitation changes the scope -- see foundation-claims-and-112-001/-002. Adding a further limitation works the same way a dependent claim's added limitation does: it adds a requirement that must also be met, which can only narrow (never broaden) what falls within the claim -- compare foundation-application-anatomy-007. (A) has the direction backwards. (C) assumes a fact not given -- nothing in the recitation of \"handle\" implies a lock. (D) is unsupported -- claims can recite any number of limitations; there's no such two-limitation cap.",
+    "answer": "A",
+    "explanation": "(A) is correct. Claim scope is the combination of all of a claim's limitations together, and changing any one limitation changes the scope -- see foundation-claims-and-112-001/-002. Adding a further limitation works the same way a dependent claim's added limitation does: it adds a requirement that must also be met, which can only narrow (never broaden) what falls within the claim -- compare foundation-application-anatomy-007. (B) has the direction backwards. (D) assumes a fact not given -- nothing in the recitation of \"handle\" implies a lock. (C) is unsupported -- claims can recite any number of limitations; there's no such two-limitation cap.",
     "sources": [
       {
         "authority": "37 CFR",
@@ -4968,13 +4968,13 @@
     "answer_text": null,
     "why_it_matters": null,
     "choices": {
-      "A": "No -- without a printed publication, there can be no prior art under § 102, since § 102 is fundamentally about published, documented disclosures.",
-      "B": "Yes -- public use and the on-sale bar are independent triggering events under § 102(a)(1); prior art can exist even without any printed document describing the invention.",
-      "C": "Yes, but only if trade show attendees signed a nondisclosure agreement, which would establish that the disclosure was made publicly.",
-      "D": "No, because trade show demonstrations are never considered \"public,\" since attendance is generally limited to invited industry guests."
+      "A": "Yes -- public use and the on-sale bar are independent triggering events under § 102(a)(1); prior art can exist even without any printed document describing the invention.",
+      "B": "No, because trade show demonstrations are never considered \"public,\" since attendance is generally limited to invited industry guests.",
+      "C": "No -- without a printed publication, there can be no prior art under § 102, since § 102 is fundamentally about published, documented disclosures.",
+      "D": "Yes, but only if trade show attendees signed a nondisclosure agreement, which would establish that the disclosure was made publicly."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. Public use and the on-sale bar are their own listed triggering events under § 102(a)(1), separate from printed publications or patents -- an invention in public use or offered for sale before its effective filing date can be prior art even with no printed document describing it -- see foundation-patentability-and-prior-art-005/-007. (A) wrongly treats printed publication as the only route to prior-art status. (C) inverts reality -- an NDA would tend to defeat public availability, not create it. (D) is an unsupported blanket claim contradicted by the public-use trigger itself.",
+    "answer": "A",
+    "explanation": "(A) is correct. Public use and the on-sale bar are their own listed triggering events under § 102(a)(1), separate from printed publications or patents -- an invention in public use or offered for sale before its effective filing date can be prior art even with no printed document describing it -- see foundation-patentability-and-prior-art-005/-007. (C) wrongly treats printed publication as the only route to prior-art status. (D) inverts reality -- an NDA would tend to defeat public availability, not create it. (B) is an unsupported blanket claim contradicted by the public-use trigger itself.",
     "sources": [
       {
         "authority": "35 U.S.C.",
@@ -4995,12 +4995,12 @@
     "why_it_matters": null,
     "choices": {
       "A": "No -- a document only counts if it can be shown that someone actually read it, not merely that it was theoretically available.",
-      "B": "Yes -- what matters is public accessibility (whether an interested member of the public could find and read it), not whether anyone actually did.",
-      "C": "No -- only documents that are literally printed on paper and mass-distributed to a wide audience can qualify as a \"printed publication.\"",
+      "B": "No -- only documents that are literally printed on paper and mass-distributed to a wide audience can qualify as a \"printed publication.\"",
+      "C": "Yes -- what matters is public accessibility (whether an interested member of the public could find and read it), not whether anyone actually did.",
       "D": "Yes, but only after the thesis has been read by at least one patent examiner during a prior art search."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. A \"printed publication\" is any reference accessible to the public, not literally required to be printed on paper -- a cataloged, searchable library thesis that an interested member of the public could find and read qualifies -- see foundation-patentability-and-prior-art-006. (A) and (D) both wrongly require proof of actual reading, when accessibility is the standard. (C) is directly contradicted by the card's own examples (a webpage or slide deck can qualify).",
+    "answer": "C",
+    "explanation": "(C) is correct. A \"printed publication\" is any reference accessible to the public, not literally required to be printed on paper -- a cataloged, searchable library thesis that an interested member of the public could find and read qualifies -- see foundation-patentability-and-prior-art-006. (A) and (D) both wrongly require proof of actual reading, when accessibility is the standard. (B) is directly contradicted by the card's own examples (a webpage or slide deck can qualify).",
     "sources": [
       {
         "authority": "MPEP",
@@ -5019,13 +5019,13 @@
     "answer_text": null,
     "why_it_matters": null,
     "choices": {
-      "A": "No -- this type of double patenting can never be overcome; one of the claim sets must simply be canceled, since obviousness-type double patenting is treated the same as claiming the identical invention twice.",
-      "B": "Yes -- since this is obviousness-type (nonstatutory) double patenting rather than statutory double patenting, it can typically be overcome by filing a terminal disclaimer, which makes the later patent expire no later than the earlier one and requires the two to remain commonly owned.",
-      "C": "Yes, but only by amending the pending claims to be word-for-word identical to the earlier patent's claims, since a terminal disclaimer is thought to require the two claim sets to recite exactly the same subject matter before it can be filed.",
-      "D": "No, because double patenting rejections can only be based on another pending application, never on an already-issued patent, since a patent's claims are already fixed once granted."
+      "A": "No, because double patenting rejections can only be based on another pending application, never on an already-issued patent, since a patent's claims are already fixed once granted.",
+      "B": "Yes, but only by amending the pending claims to be word-for-word identical to the earlier patent's claims, since a terminal disclaimer is thought to require the two claim sets to recite exactly the same subject matter before it can be filed.",
+      "C": "No -- this type of double patenting can never be overcome; one of the claim sets must simply be canceled, since obviousness-type double patenting is treated the same as claiming the identical invention twice.",
+      "D": "Yes -- since this is obviousness-type (nonstatutory) double patenting rather than statutory double patenting, it can typically be overcome by filing a terminal disclaimer, which makes the later patent expire no later than the earlier one and requires the two to remain commonly owned."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. This fact pattern -- claims that are a merely obvious variant, not the identical invention -- describes obviousness-type double patenting, which (unlike statutory double patenting) can typically be overcome by a terminal disclaimer -- see foundation-patentability-and-prior-art-021/-022/-023/-024. (A) describes the rule for *statutory* double patenting (identical claims), which does not apply here. (C) misunderstands the fix -- a terminal disclaimer addresses term/ownership, it doesn't require rewriting the claims to match. (D) is factually wrong -- double patenting is routinely raised against pending claims in view of an already-issued commonly-owned patent, as this fact pattern itself illustrates.",
+    "answer": "D",
+    "explanation": "(D) is correct. This fact pattern -- claims that are a merely obvious variant, not the identical invention -- describes obviousness-type double patenting, which (unlike statutory double patenting) can typically be overcome by a terminal disclaimer -- see foundation-patentability-and-prior-art-021/-022/-023/-024. (C) describes the rule for *statutory* double patenting (identical claims), which does not apply here. (B) misunderstands the fix -- a terminal disclaimer addresses term/ownership, it doesn't require rewriting the claims to match. (A) is factually wrong -- double patenting is routinely raised against pending claims in view of an already-issued commonly-owned patent, as this fact pattern itself illustrates.",
     "sources": [
       {
         "authority": "MPEP",
@@ -5081,12 +5081,12 @@
     "why_it_matters": null,
     "choices": {
       "A": "3 months, since the shortened statutory period itself cannot be extended at all once it is set in the Office action.",
-      "B": "6 months, because extensions can push the shortened statutory period out further but never beyond the six-month statutory maximum set by 35 U.S.C. 133.",
-      "C": "8 months, since extensions can add up to 5 months on top of the 3-month shortened statutory period.",
-      "D": "There is no outer limit as long as the applicant keeps paying extension fees, since fees are what the statutory maximum is meant to control."
+      "B": "There is no outer limit as long as the applicant keeps paying extension fees, since fees are what the statutory maximum is meant to control.",
+      "C": "6 months, because extensions can push the shortened statutory period out further but never beyond the six-month statutory maximum set by 35 U.S.C. 133.",
+      "D": "8 months, since extensions can add up to 5 months on top of the 3-month shortened statutory period."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. Extensions of time can push a shortened statutory period out further -- up to 5 months past the period originally set -- but never beyond the six-month statutory maximum, which can't be bought past with any amount of fees -- see foundation-deadlines-and-procedure-004/-005. (A) is wrong: the SSP can be extended, just not indefinitely. (C) applies the \"up to 5 months\" figure without capping it at the statutory ceiling, which foundation-deadlines-and-procedure-005 specifically rules out. (D) directly contradicts the existence of a hard statutory ceiling.",
+    "answer": "C",
+    "explanation": "(C) is correct. Extensions of time can push a shortened statutory period out further -- up to 5 months past the period originally set -- but never beyond the six-month statutory maximum, which can't be bought past with any amount of fees -- see foundation-deadlines-and-procedure-004/-005. (A) is wrong: the SSP can be extended, just not indefinitely. (D) applies the \"up to 5 months\" figure without capping it at the statutory ceiling, which foundation-deadlines-and-procedure-005 specifically rules out. (B) directly contradicts the existence of a hard statutory ceiling.",
     "sources": [
       {
         "authority": "35 U.S.C.",
@@ -5111,13 +5111,13 @@
     "answer_text": null,
     "why_it_matters": null,
     "choices": {
-      "A": "No -- timeliness is judged by the date the USPTO actually receives the correspondence, not when it was mailed.",
-      "B": "Yes -- with a proper certificate of mailing, the reply is treated as timely filed as of the certified mailing date, not the later arrival date.",
-      "C": "No, because certificates of mailing only apply to electronic filings, not physical mail.",
-      "D": "Yes, but only if the applicant also pays an extension-of-time fee, since certificates of mailing alone don't excuse late arrival."
+      "A": "Yes, but only if the applicant also pays an extension-of-time fee, since certificates of mailing alone don't excuse late arrival.",
+      "B": "No, because certificates of mailing only apply to electronic filings, not physical mail.",
+      "C": "Yes -- with a proper certificate of mailing, the reply is treated as timely filed as of the certified mailing date, not the later arrival date.",
+      "D": "No -- timeliness is judged by the date the USPTO actually receives the correspondence, not when it was mailed."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. A certificate of mailing certifies the date correspondence was deposited as first-class mail before a deadline, and correspondence mailed this way is treated as timely filed as of that certified date, not whenever it actually arrives -- see foundation-deadlines-and-procedure-008. (A) is exactly the rule the certificate of mailing procedure displaces. (C) has it backwards -- certificates of mailing are for physical mail; the electronic/fax equivalent is the certificate of transmission (foundation-deadlines-and-procedure-009/-010). (D) is unsupported -- nothing about the certificate of mailing procedure requires also obtaining an extension.",
+    "answer": "C",
+    "explanation": "(C) is correct. A certificate of mailing certifies the date correspondence was deposited as first-class mail before a deadline, and correspondence mailed this way is treated as timely filed as of that certified date, not whenever it actually arrives -- see foundation-deadlines-and-procedure-008. (D) is exactly the rule the certificate of mailing procedure displaces. (B) has it backwards -- certificates of mailing are for physical mail; the electronic/fax equivalent is the certificate of transmission (foundation-deadlines-and-procedure-009/-010). (A) is unsupported -- nothing about the certificate of mailing procedure requires also obtaining an extension.",
     "sources": [
       {
         "authority": "37 CFR",
@@ -5137,13 +5137,13 @@
     "answer_text": null,
     "why_it_matters": null,
     "choices": {
-      "A": "Both are June 1, since receipt date and filing date are always the same thing regardless of whether the application is complete.",
-      "B": "Receipt date is June 1 (when the Office actually received the correspondence); filing date is June 10 (when the application first satisfied the minimum requirements to be accorded a filing date).",
-      "C": "Both are June 10, since a receipt date is only assigned once an application is complete, meaning nothing is officially logged by the Office until every required part has arrived.",
-      "D": "Receipt date is June 10; filing date is June 1, since the filing date reflects when the papers were first delivered, even though the Office did not finish logging receipt of the complete package until later."
+      "A": "Receipt date is June 1 (when the Office actually received the correspondence); filing date is June 10 (when the application first satisfied the minimum requirements to be accorded a filing date).",
+      "B": "Receipt date is June 10; filing date is June 1, since the filing date reflects when the papers were first delivered, even though the Office did not finish logging receipt of the complete package until later.",
+      "C": "Both are June 1, since receipt date and filing date are always the same thing regardless of whether the application is complete.",
+      "D": "Both are June 10, since a receipt date is only assigned once an application is complete, meaning nothing is officially logged by the Office until every required part has arrived."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. \"Receipt date\" is simply the day the Office received the correspondence, stamped regardless of completeness; \"filing date\" is the specific legal milestone reached once the application satisfies the minimum requirements to be accorded one -- a defective submission can be received on one date but not accorded a filing date until later, once fixed -- see foundation-deadlines-and-procedure-006/-007. (A) and (C) both wrongly collapse the two distinct concepts into one. (D) reverses which date attaches to which concept.",
+    "answer": "A",
+    "explanation": "(A) is correct. \"Receipt date\" is simply the day the Office received the correspondence, stamped regardless of completeness; \"filing date\" is the specific legal milestone reached once the application satisfies the minimum requirements to be accorded one -- a defective submission can be received on one date but not accorded a filing date until later, once fixed -- see foundation-deadlines-and-procedure-006/-007. (C) and (D) both wrongly collapse the two distinct concepts into one. (B) reverses which date attaches to which concept.",
     "sources": [
       {
         "authority": "37 CFR",
@@ -5169,12 +5169,12 @@
     "why_it_matters": null,
     "choices": {
       "A": "The prior Friday, since a deadline can never fall on a weekend in the first place and must always be calculated backward to the nearest business day before it.",
-      "B": "The following Monday (or the next day that isn't a Saturday, Sunday, or federal holiday in the District of Columbia) -- the deadline rolls forward.",
-      "C": "The reply is simply due on the Saturday regardless, since USPTO deadlines don't account for weekends.",
+      "B": "The reply is simply due on the Saturday regardless, since USPTO deadlines don't account for weekends.",
+      "C": "The following Monday (or the next day that isn't a Saturday, Sunday, or federal holiday in the District of Columbia) -- the deadline rolls forward.",
       "D": "The applicant automatically receives a full extra month, the same courtesy extension given for any weekend deadline."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. When a deadline falls on a Saturday, Sunday, or federal holiday in the District of Columbia, the action can be taken on the next business day that isn't one of those -- the deadline rolls forward -- see foundation-deadlines-and-procedure-013. (A) is wrong -- the calculated deadline itself can fall on a weekend; the rule only adjusts where the reply must actually be filed. (C) directly contradicts the rollover rule. (D) overstates the adjustment -- it's a roll to the next business day, not a full extra month.",
+    "answer": "C",
+    "explanation": "(C) is correct. When a deadline falls on a Saturday, Sunday, or federal holiday in the District of Columbia, the action can be taken on the next business day that isn't one of those -- the deadline rolls forward -- see foundation-deadlines-and-procedure-013. (A) is wrong -- the calculated deadline itself can fall on a weekend; the rule only adjusts where the reply must actually be filed. (B) directly contradicts the rollover rule. (D) overstates the adjustment -- it's a roll to the next business day, not a full extra month.",
     "sources": [
       {
         "authority": "37 CFR",
@@ -5195,12 +5195,12 @@
     "why_it_matters": null,
     "choices": {
       "A": "Appeal to the PTAB, since any disagreement with an examiner, procedural or substantive, can be appealed to the Board, which is intended to serve as the single unified forum for reviewing any dispute arising during prosecution.",
-      "B": "Petition to the Director, since this is a procedural/formal matter rather than a decision on the merits of patentability, and appeal and petition are mutually exclusive routes depending on which kind of issue is involved.",
-      "C": "Either appeal or petition, whichever the applicant prefers, since both routes lead to review by a higher authority within the Office.",
-      "D": "Direct appeal to a federal court, bypassing the USPTO entirely, since procedural disputes fall outside the Office's own review process."
+      "B": "Either appeal or petition, whichever the applicant prefers, since both routes lead to review by a higher authority within the Office.",
+      "C": "Direct appeal to a federal court, bypassing the USPTO entirely, since procedural disputes fall outside the Office's own review process.",
+      "D": "Petition to the Director, since this is a procedural/formal matter rather than a decision on the merits of patentability, and appeal and petition are mutually exclusive routes depending on which kind of issue is involved."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. This mirrors the rejection/objection split: a decision on the merits of patentability goes to the PTAB by appeal, while a decision on a procedural or formal matter -- like whether an amendment was properly entered -- goes to the Director by petition, and the two routes are mutually exclusive for a given issue -- see foundation-appeals-pct-postgrant-003/-004. (A) is wrong because appeal is reserved for merits determinations, not procedural refusals. (C) contradicts the mutual-exclusivity rule. (D) skips the required USPTO-level review entirely, which isn't supported here.",
+    "answer": "D",
+    "explanation": "(D) is correct. This mirrors the rejection/objection split: a decision on the merits of patentability goes to the PTAB by appeal, while a decision on a procedural or formal matter -- like whether an amendment was properly entered -- goes to the Director by petition, and the two routes are mutually exclusive for a given issue -- see foundation-appeals-pct-postgrant-003/-004. (A) is wrong because appeal is reserved for merits determinations, not procedural refusals. (B) contradicts the mutual-exclusivity rule. (C) skips the required USPTO-level review entirely, which isn't supported here.",
     "sources": [
       {
         "authority": "MPEP",
@@ -5287,12 +5287,12 @@
     "why_it_matters": null,
     "choices": {
       "A": "Reexamination; yes, new matter may be added to correct patentee errors, as long as the added matter fixes the drafting mistake.",
-      "B": "Reissue; no, new matter may not be introduced into a reissue application, the same bar that applies during ordinary prosecution.",
-      "C": "Supplemental examination; yes, any new matter the patentee wants may be added, since supplemental examination is meant to correct the record.",
-      "D": "Reissue; yes, new matter is freely allowed because the original patent is being surrendered."
+      "B": "Supplemental examination; yes, any new matter the patentee wants may be added, since supplemental examination is meant to correct the record.",
+      "C": "Reissue; yes, new matter is freely allowed because the original patent is being surrendered.",
+      "D": "Reissue; no, new matter may not be introduced into a reissue application, the same bar that applies during ordinary prosecution."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. Surrendering a patent to fix an error making it wholly or partly inoperative or invalid -- such as claiming more than the patentee was entitled to -- is exactly what a reissue application is for, and the same new-matter bar from ordinary prosecution applies to reissue too -- see foundation-appeals-pct-postgrant-013/-016. (A) misidentifies the proceeding -- reexamination doesn't involve surrendering the patent. (C) also misidentifies the proceeding -- supplemental examination doesn't involve surrender either, and doesn't permit unlimited new matter. (D) correctly identifies reissue but is wrong that new matter is allowed -- surrendering the original patent doesn't lift the new-matter bar.",
+    "answer": "D",
+    "explanation": "(D) is correct. Surrendering a patent to fix an error making it wholly or partly inoperative or invalid -- such as claiming more than the patentee was entitled to -- is exactly what a reissue application is for, and the same new-matter bar from ordinary prosecution applies to reissue too -- see foundation-appeals-pct-postgrant-013/-016. (A) misidentifies the proceeding -- reexamination doesn't involve surrendering the patent. (B) also misidentifies the proceeding -- supplemental examination doesn't involve surrender either, and doesn't permit unlimited new matter. (C) correctly identifies reissue but is wrong that new matter is allowed -- surrendering the original patent doesn't lift the new-matter bar.",
     "sources": [
       {
         "authority": "35 U.S.C.",
@@ -5312,13 +5312,13 @@
     "answer_text": null,
     "why_it_matters": null,
     "choices": {
-      "A": "Nothing further -- the certificate itself is the final word on the patent's validity, since supplemental examination concludes the Office's review.",
-      "B": "The Director then orders an actual reexamination to resolve the substantial new question -- supplemental examination and reexamination are distinct proceedings, but the former can trigger the latter.",
-      "C": "The patent is automatically invalidated as soon as the certificate issues, since a substantial new question means the claims can no longer stand.",
-      "D": "Only the original patent owner, never the Director, may decide whether reexamination follows, since the patent owner is the party who requested supplemental examination in the first place."
+      "A": "The Director then orders an actual reexamination to resolve the substantial new question -- supplemental examination and reexamination are distinct proceedings, but the former can trigger the latter.",
+      "B": "The patent is automatically invalidated as soon as the certificate issues, since a substantial new question means the claims can no longer stand.",
+      "C": "Only the original patent owner, never the Director, may decide whether reexamination follows, since the patent owner is the party who requested supplemental examination in the first place.",
+      "D": "Nothing further -- the certificate itself is the final word on the patent's validity, since supplemental examination concludes the Office's review."
     },
-    "answer": "B",
-    "explanation": "(B) is correct. If the certificate finds a substantial new question of patentability, the Director then orders an actual reexamination to resolve it -- so a supplemental examination request can trigger a reexamination, even though the two are distinct proceedings with different eligibility and scope -- see foundation-appeals-pct-postgrant-017/-018. (A) understates the effect of finding a substantial new question. (C) overstates it -- reexamination determines patentability, it doesn't automatically invalidate the patent. (D) is wrong -- it's the Director's determination that triggers reexamination, not a further choice by the patent owner.",
+    "answer": "A",
+    "explanation": "(A) is correct. If the certificate finds a substantial new question of patentability, the Director then orders an actual reexamination to resolve it -- so a supplemental examination request can trigger a reexamination, even though the two are distinct proceedings with different eligibility and scope -- see foundation-appeals-pct-postgrant-017/-018. (D) understates the effect of finding a substantial new question. (B) overstates it -- reexamination determines patentability, it doesn't automatically invalidate the patent. (C) is wrong -- it's the Director's determination that triggers reexamination, not a further choice by the patent owner.",
     "sources": [
       {
         "authority": "35 U.S.C.",
