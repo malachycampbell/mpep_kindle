@@ -24,6 +24,7 @@
   let quizAnswered = false;
   let quizTimerId = null;
   let quizEndAt = null;
+  let currentCorrectLetter = null;
 
   const screens = {
     setup: document.getElementById("screen-setup"),
@@ -266,7 +267,7 @@
 
     if (isMcq) {
       renderChoices(document.getElementById("card-choices"), card, null);
-      document.getElementById("card-correct-letter").textContent = "(" + card.answer + ")";
+      document.getElementById("card-correct-letter").textContent = "(" + currentCorrectLetter + ")";
     } else {
       document.getElementById("card-answer-text").textContent = card.answer_text;
       const whyEl = document.getElementById("card-why-it-matters");
@@ -320,20 +321,35 @@
     }
   }
 
+  const DISPLAY_LETTERS = ["A", "B", "C", "D", "E", "F"];
+
+  // Choices are reshuffled on every render so the correct answer's position
+  // and label carry no signal — the underlying data skews toward the
+  // correct answer being option B and being the longest/most detailed text,
+  // so a fixed A-Z render order made both exploitable as pattern-matching cues.
   function renderChoices(container, card, onSelect) {
     container.innerHTML = "";
-    Object.keys(card.choices)
-      .sort()
-      .forEach((letter) => {
-        const el = document.createElement(onSelect ? "button" : "div");
-        if (onSelect) el.type = "button";
-        el.className = "choice";
-        el.dataset.letter = letter;
-        el.innerHTML =
-          '<span class="choice-letter">' + letter + "</span><span>" + escapeHtml(card.choices[letter]) + "</span>";
-        if (onSelect) el.addEventListener("click", () => onSelect(letter));
-        container.appendChild(el);
-      });
+    const originalLetters = Object.keys(card.choices);
+    shuffleInPlace(originalLetters);
+
+    currentCorrectLetter = null;
+    originalLetters.forEach((origLetter, i) => {
+      const displayLetter = DISPLAY_LETTERS[i];
+      if (origLetter === card.answer) currentCorrectLetter = displayLetter;
+
+      const el = document.createElement(onSelect ? "button" : "div");
+      if (onSelect) el.type = "button";
+      el.className = "choice";
+      el.dataset.letter = displayLetter;
+      el.innerHTML =
+        '<span class="choice-letter">' +
+        displayLetter +
+        "</span><span>" +
+        escapeHtml(card.choices[origLetter]) +
+        "</span>";
+      if (onSelect) el.addEventListener("click", () => onSelect(displayLetter));
+      container.appendChild(el);
+    });
   }
 
   function setExplanation(el, text) {
@@ -376,7 +392,7 @@
     document.getElementById("grade-actions").hidden = false;
 
     document.querySelectorAll("#card-choices .choice").forEach((row) => {
-      if (row.dataset.letter === card.answer) row.classList.add("correct");
+      if (row.dataset.letter === currentCorrectLetter) row.classList.add("correct");
     });
   }
 
@@ -463,19 +479,19 @@
     quizAnswered = true;
 
     const card = deck[deckIndex];
-    const correct = quizSelected === card.answer;
+    const correct = quizSelected === currentCorrectLetter;
     grade(card.id, correct ? "good" : "again");
     quizStats[correct ? "correct" : "incorrect"] += 1;
 
     document.querySelectorAll("#quiz-choices .choice").forEach((btn) => {
       btn.disabled = true;
-      if (btn.dataset.letter === card.answer) btn.classList.add("correct");
+      if (btn.dataset.letter === currentCorrectLetter) btn.classList.add("correct");
       if (btn.dataset.letter === quizSelected && !correct) btn.classList.add("incorrect");
     });
 
     document.getElementById("quiz-result-line").innerHTML = correct
       ? "<strong>Correct!</strong>"
-      : "<strong>Incorrect</strong> — correct answer: (" + card.answer + ")";
+      : "<strong>Incorrect</strong> — correct answer: (" + currentCorrectLetter + ")";
     setExplanation(document.getElementById("quiz-explanation"), card.explanation);
 
     const revisionsEl = document.getElementById("quiz-revisions");
