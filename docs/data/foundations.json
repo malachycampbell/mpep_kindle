@@ -6423,5 +6423,393 @@
         "as_of": "Rev. 01.2024 (Nov. 2024)"
       }
     ]
+  },
+  {
+    "id": "foundation-mpep-chapter-map-001",
+    "deck": "foundation",
+    "topic": "mpep-chapter-map",
+    "subtopic": "chapter-lookup",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does MPEP Chapter 100 cover?",
+    "answer_text": "Secrecy, Access, National Security, and Foreign Filing — secrecy orders, licenses to file abroad, and who can access a pending application's file.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP Chapter 100 — Secrecy, Access, National Security, and Foreign Filing",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-mpep-chapter-map-002",
+    "deck": "foundation",
+    "topic": "mpep-chapter-map",
+    "subtopic": "chapter-lookup",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does MPEP Chapter 200 cover?",
+    "answer_text": "Types and Status of Application; Benefit and Priority Claims — application types (utility, design, plant, provisional, continuation-family) and claiming the benefit of an earlier filing date.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP Chapter 200 — Types and Status of Application; Benefit and Priority Claims",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-mpep-chapter-map-003",
+    "deck": "foundation",
+    "topic": "mpep-chapter-map",
+    "subtopic": "chapter-lookup",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does MPEP Chapter 600 cover?",
+    "answer_text": "Parts, Form, and Content of Application — the required parts of a patent application (specification, claims, oath/declaration, abstract, drawings) and their formal requirements.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP Chapter 600 — Parts, Form, and Content of Application",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-mpep-chapter-map-004",
+    "deck": "foundation",
+    "topic": "mpep-chapter-map",
+    "subtopic": "chapter-lookup",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does MPEP Chapter 700 cover?",
+    "answer_text": "Examination of Applications — the examiner's general conduct of examination: Office actions, interviews, and requirements during prosecution. (Restriction and double patenting have their own chapter, 800.)",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP Chapter 700 — Examination of Applications",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-mpep-chapter-map-005",
+    "deck": "foundation",
+    "topic": "mpep-chapter-map",
+    "subtopic": "chapter-lookup",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does MPEP Chapter 800 cover?",
+    "answer_text": "Restriction in Applications Filed Under 35 U.S.C. 111; Double Patenting — restriction/election requirements and double patenting rejections, including terminal disclaimers.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP Chapter 800 — Restriction in Applications Filed Under 35 U.S.C. 111; Double Patenting",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-mpep-chapter-map-006",
+    "deck": "foundation",
+    "topic": "mpep-chapter-map",
+    "subtopic": "chapter-lookup",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does MPEP Chapter 900 cover?",
+    "answer_text": "Prior Art, Classification, and Search — how examiners classify and search prior art.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP Chapter 900 — Prior Art, Classification, and Search",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-mpep-chapter-map-007",
+    "deck": "foundation",
+    "topic": "mpep-chapter-map",
+    "subtopic": "chapter-lookup",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does MPEP Chapter 1100 cover?",
+    "answer_text": "Statutory Invention Registration (SIR); Pre-Grant Publication (PGPub) and Preissuance Submissions — publication of pending applications and third-party preissuance submissions of prior art under 37 CFR 1.290.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP Chapter 1100 — Statutory Invention Registration (SIR); Pre-Grant Publication (PGPub) and Preissuance Submissions",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-mpep-chapter-map-008",
+    "deck": "foundation",
+    "topic": "mpep-chapter-map",
+    "subtopic": "chapter-lookup",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does MPEP Chapter 1200 cover?",
+    "answer_text": "Appeal — appeals to the Patent Trial and Appeal Board (PTAB) from a final rejection, including appeal briefs and examiner's answers.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP Chapter 1200 — Appeal",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-mpep-chapter-map-009",
+    "deck": "foundation",
+    "topic": "mpep-chapter-map",
+    "subtopic": "chapter-lookup",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does MPEP Chapter 1300 cover?",
+    "answer_text": "Allowance and Issue — what happens after an application is allowed: issue fee payment, printing, and patent grant.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP Chapter 1300 — Allowance and Issue",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-mpep-chapter-map-010",
+    "deck": "foundation",
+    "topic": "mpep-chapter-map",
+    "subtopic": "chapter-lookup",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does MPEP Chapter 1400 cover?",
+    "answer_text": "Correction of Patents — reissue applications, certificates of correction, and disclaimers: fixing an already-granted patent.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP Chapter 1400 — Correction of Patents",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-mpep-chapter-map-011",
+    "deck": "foundation",
+    "topic": "mpep-chapter-map",
+    "subtopic": "chapter-lookup",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does MPEP Chapter 1800 cover?",
+    "answer_text": "Patent Cooperation Treaty — international applications filed under the PCT and their national-stage entry into the U.S.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP Chapter 1800 — Patent Cooperation Treaty",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-mpep-chapter-map-012",
+    "deck": "foundation",
+    "topic": "mpep-chapter-map",
+    "subtopic": "chapter-lookup",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does MPEP Chapter 1900 cover?",
+    "answer_text": "Protest — a third party's protest against a pending application under 37 CFR 1.291, filed before the application is allowed.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP Chapter 1900 — Protest",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-mpep-chapter-map-013",
+    "deck": "foundation",
+    "topic": "mpep-chapter-map",
+    "subtopic": "chapter-lookup",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does MPEP Chapter 2100 cover?",
+    "answer_text": "Patentability — the substantive requirements for patentability: subject-matter eligibility (101), utility, novelty (102), obviousness (103), and the requirements of 112.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP Chapter 2100 — Patentability",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-mpep-chapter-map-014",
+    "deck": "foundation",
+    "topic": "mpep-chapter-map",
+    "subtopic": "chapter-lookup",
+    "level": 0,
+    "card_type": "qa",
+    "question": "What does MPEP Chapter 2200 cover?",
+    "answer_text": "Citation of Prior Art and Ex Parte Reexamination of Patents — how anyone can cite prior art against a granted patent, and the ex parte reexamination process that can follow.",
+    "why_it_matters": null,
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP Chapter 2200 — Citation of Prior Art and Ex Parte Reexamination of Patents",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-mpep-chapter-map-015",
+    "deck": "foundation",
+    "topic": "mpep-chapter-map",
+    "subtopic": "chapter-lookup",
+    "level": 0,
+    "card_type": "qa",
+    "question": "A third party wants to submit a prior art reference against a competitor's application that has not yet been allowed. Which MPEP chapter governs this submission?",
+    "answer_text": "Chapter 1100 — this is a preissuance submission under 37 CFR 1.290, not a protest.",
+    "why_it_matters": "Preissuance submissions (Ch. 1100) and protests (Ch. 1900) are easy to confuse — both let a third party get prior art in front of the examiner before grant, but they're different procedures with different timing and formality rules.",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP Chapter 1100 — Statutory Invention Registration (SIR); Pre-Grant Publication (PGPub) and Preissuance Submissions",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-mpep-chapter-map-016",
+    "deck": "foundation",
+    "topic": "mpep-chapter-map",
+    "subtopic": "chapter-lookup",
+    "level": 0,
+    "card_type": "qa",
+    "question": "An examiner rejects claims 1-10 as directed to two independent and distinct inventions and requires the applicant to elect one invention for examination. Which MPEP chapter governs this requirement?",
+    "answer_text": "Chapter 800 — restriction practice.",
+    "why_it_matters": "Chapter 800 also covers double patenting, a different doctrine (the same applicant claiming patentably indistinct inventions across two applications/patents) from restriction (an examiner requiring election among distinct inventions claimed in one application) — don't conflate the two just because they share a chapter.",
+    "choices": null,
+    "answer": null,
+    "explanation": null,
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP Chapter 800 — Restriction in Applications Filed Under 35 U.S.C. 111; Double Patenting",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-mpep-chapter-map-017",
+    "deck": "foundation",
+    "topic": "mpep-chapter-map",
+    "subtopic": "chapter-lookup",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "A patent has already issued, and the patentee wants to broaden one of its claims within the two-year window. Which MPEP chapter covers the procedure for doing this?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "Chapter 700 — Examination of Applications",
+      "B": "Chapter 1300 — Allowance and Issue",
+      "C": "Chapter 1400 — Correction of Patents",
+      "D": "Chapter 2200 — Citation of Prior Art and Ex Parte Reexamination of Patents"
+    },
+    "answer": "C",
+    "explanation": "(C) is correct — broadening a claim within two years of grant is a broadening reissue, governed by MPEP Chapter 1400 (Correction of Patents). (A) covers original prosecution before grant, not correcting an already-issued patent. (B) covers the allowance/issue process leading up to grant, not fixing a granted patent. (D) covers reexamination, a different post-grant mechanism triggered by newly cited prior art, not a patentee-initiated broadening request.",
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP Chapter 1400 — Correction of Patents",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
+  },
+  {
+    "id": "foundation-mpep-chapter-map-018",
+    "deck": "foundation",
+    "topic": "mpep-chapter-map",
+    "subtopic": "chapter-lookup",
+    "level": 2,
+    "card_type": "mcq",
+    "question": "An applicant wants to enter the U.S. national stage from an international application filed under a multilateral treaty. Which MPEP chapter governs this?",
+    "answer_text": null,
+    "why_it_matters": null,
+    "choices": {
+      "A": "Chapter 200 — Types and Status of Application; Benefit and Priority Claims",
+      "B": "Chapter 1800 — Patent Cooperation Treaty",
+      "C": "Chapter 1900 — Protest",
+      "D": "Chapter 2900 — International Design Applications"
+    },
+    "answer": "B",
+    "explanation": "(B) is correct — national-stage entry of a PCT international application is governed by MPEP Chapter 1800. (A) covers domestic application types and priority generally, not the PCT-specific national-stage process. (C) is unrelated (third-party protest practice). (D) covers a different treaty mechanism — international design applications under the Hague Agreement, not PCT utility applications.",
+    "sources": [
+      {
+        "authority": "MPEP",
+        "citation": "MPEP Chapter 1800 — Patent Cooperation Treaty",
+        "as_of": "Rev. 01.2024 (Nov. 2024)"
+      }
+    ]
   }
 ]

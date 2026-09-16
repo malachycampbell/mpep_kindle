@@ -1,0 +1,364 @@
+[
+  {
+    "chapter": "100",
+    "title": "Secrecy, Access, National Security, and Foreign Filing",
+    "related_topics": [
+      "application-types"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 100",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "200",
+    "title": "Types and Status of Application; Benefit and Priority Claims",
+    "related_topics": [
+      "application-types"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 200",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "300",
+    "title": "Ownership and Assignment",
+    "related_topics": [
+      "application-anatomy"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 300",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "400",
+    "title": "Representative of Applicant or Owner",
+    "related_topics": [
+      "system-vocabulary"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 400",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "500",
+    "title": "Receipt and Handling of Mail and Papers",
+    "related_topics": [
+      "prosecution-lifecycle"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 500",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "600",
+    "title": "Parts, Form, and Content of Application",
+    "related_topics": [
+      "application-anatomy"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 600",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "700",
+    "title": "Examination of Applications",
+    "related_topics": [
+      "prosecution-lifecycle"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 700",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "800",
+    "title": "Restriction in Applications Filed Under 35 U.S.C. 111; Double Patenting",
+    "related_topics": [
+      "prosecution-lifecycle",
+      "patentability-and-prior-art"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 800",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "900",
+    "title": "Prior Art, Classification, and Search",
+    "related_topics": [
+      "patentability-and-prior-art"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 900",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "1000",
+    "title": "Matters Decided by Various U.S. Patent and Trademark Office Officials",
+    "related_topics": [
+      "deadlines-and-procedure"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 1000",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "1100",
+    "title": "Statutory Invention Registration (SIR); Pre-Grant Publication (PGPub) and Preissuance Submissions",
+    "related_topics": [
+      "application-types"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 1100",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "1200",
+    "title": "Appeal",
+    "related_topics": [
+      "appeals-pct-postgrant"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 1200",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "1300",
+    "title": "Allowance and Issue",
+    "related_topics": [
+      "prosecution-lifecycle"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 1300",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "1400",
+    "title": "Correction of Patents",
+    "related_topics": [
+      "appeals-pct-postgrant"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 1400",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "1500",
+    "title": "Design Patents",
+    "related_topics": [
+      "application-types"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 1500",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "1600",
+    "title": "Plant Patents",
+    "related_topics": [
+      "application-types"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 1600",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "1700",
+    "title": "Miscellaneous",
+    "related_topics": [
+      "deadlines-and-procedure"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 1700",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "1800",
+    "title": "Patent Cooperation Treaty",
+    "related_topics": [
+      "appeals-pct-postgrant"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 1800",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "1900",
+    "title": "Protest",
+    "related_topics": [
+      "deadlines-and-procedure"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 1900",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "2000",
+    "title": "Duty of Disclosure",
+    "related_topics": [
+      "deadlines-and-procedure"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 2000",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "2100",
+    "title": "Patentability",
+    "related_topics": [
+      "patentability-and-prior-art",
+      "claims-and-112"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 2100",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "2200",
+    "title": "Citation of Prior Art and Ex Parte Reexamination of Patents",
+    "related_topics": [
+      "appeals-pct-postgrant"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 2200",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "2300",
+    "title": "Interference and Derivation Proceedings",
+    "related_topics": [
+      "appeals-pct-postgrant"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 2300",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "2400",
+    "title": "Biotechnology",
+    "related_topics": [
+      "application-types"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 2400",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "2500",
+    "title": "Maintenance Fees",
+    "related_topics": [
+      "deadlines-and-procedure"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 2500",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "2600",
+    "title": "Optional Inter Partes Reexamination",
+    "related_topics": [
+      "appeals-pct-postgrant"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 2600",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "2700",
+    "title": "Patent Terms, Adjustments, and Extensions",
+    "related_topics": [
+      "deadlines-and-procedure"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 2700",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "2800",
+    "title": "Supplemental Examination",
+    "related_topics": [
+      "appeals-pct-postgrant"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 2800",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "2900",
+    "title": "International Design Applications",
+    "related_topics": [
+      "application-types"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 2900",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  },
+  {
+    "chapter": "9030",
+    "title": "Appendix AI: Administrative Instructions Under the PCT",
+    "related_topics": [
+      "appeals-pct-postgrant"
+    ],
+    "source": {
+      "authority": "MPEP",
+      "citation": "MPEP Table of Contents — Chapter 9030",
+      "as_of": "Rev. 01.2024 (Nov. 2024)"
+    }
+  }
+]

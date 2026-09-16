@@ -155,12 +155,22 @@ MPEP section number to go check).
 
 Cards are grouped by `topic` (a slug) into a mental-model-based curriculum,
 not MPEP chapter order — see the "Patent Practice Foundations" plan for the
-full 9-topic breakdown (system vocabulary; application anatomy; application
+original 9-topic breakdown (system vocabulary; application anatomy; application
 types/family; prosecution lifecycle; claims & §112; patentability & prior
 art; deadlines & procedure; appeals/PCT/post-grant; reading exam questions).
 `docs/app.js` derives the topic filter checkboxes dynamically from whatever
 `topic` values are actually present, so adding a new topic slug needs no
 app change.
+
+A 10th topic, `mpep-chapter-map`, was added later (Exam-Transfer Training
+Initiative, Phase 1) for chapter-recall drills — "which chapter would I
+even look in?" — independent of the vocabulary curriculum above. Its cards
+source chapter numbers/titles from `flashcards/mpep_chapters.json`, itself
+copied verbatim from the official MPEP table of contents
+(`mpep_build/001_mpep-0000-table-of-contents.txt`), not invented. That file
+also carries a loose, non-authoritative `related_topics` mapping back to the
+9 topics above, for later features that need to cross-reference a
+Foundations topic to the MPEP chapter(s) it roughly falls under.
 
 ## GitHub Pages interface
 

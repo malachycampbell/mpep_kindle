@@ -184,8 +184,13 @@
     document.querySelectorAll(".f-topic").forEach((el) => el.addEventListener("change", updateDeckCount));
   }
 
+  const ACRONYMS = { mpep: "MPEP", pct: "PCT", uspto: "USPTO" };
+
   function titleizeSlug(slug) {
-    return slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
+    return slug
+      .split("-")
+      .map((word) => ACRONYMS[word] || word.charAt(0).toUpperCase() + word.slice(1))
+      .join(" ");
   }
 
   function wireSetupScreen() {
