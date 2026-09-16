@@ -1,0 +1,1370 @@
+[
+  {
+    "id": "guided-001",
+    "source_bank_id": "2003-04-15-am-008",
+    "topic": "appeals-pct-postgrant",
+    "mpep_chapter": "1200",
+    "steps": {
+      "posture": {
+        "prompt": "What stage of prosecution are we in?",
+        "choices": {
+          "A": "Non-final rejection outstanding in a continuing application",
+          "B": "Final rejection outstanding, six-month statutory period about to expire",
+          "C": "Application already allowed, awaiting issue fee payment",
+          "D": "Application abandoned, petition to revive pending"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "objective": {
+        "prompt": "What is the practitioner trying to accomplish by filing a notice of appeal here?",
+        "choices": {
+          "A": "Preserve the right to have the rejected claims reviewed by the Patent Trial and Appeal Board",
+          "B": "Request an extension of time to respond to the non-final rejection",
+          "C": "Convert the non-final rejection into a final rejection",
+          "D": "Request reconsideration by the same examiner before appealing"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "doctrine": {
+        "prompt": "What rule or MPEP topic controls whether this notice of appeal is proper?",
+        "choices": {
+          "A": "Prosecution Lifecycle — office actions, replies, allowance",
+          "B": "Appeals, PCT & Post-Grant — appeals, PCT, reissue, reexam",
+          "C": "Application Types — continuations, divisions, CIPs, provisionals",
+          "D": "Deadlines & Procedure — statutory periods, extensions, petitions"
+        },
+        "answer": "B",
+        "synthetic": true
+      },
+      "key_fact": {
+        "prompt": "Which fact is most important to whether the notice of appeal was proper?",
+        "choices": {
+          "A": "The claims were rejected in the non-final Office action of the continuing application",
+          "B": "The same claims had already been rejected once before, in the parent application, before the express abandonment",
+          "C": "The practitioner filed an express abandonment together with the continuing application request",
+          "D": "The notice of appeal was filed within two months of the May 1st Office action"
+        },
+        "answer": "B",
+        "synthetic": true
+      }
+    },
+    "question": {
+      "question": "Following a restriction requirement and election, a registered practitioner received a first Office action dated Friday, December 1, 2000. The primary examiner indicated that claims 1 to 10 were rejected and claims 11 to 20 were withdrawn from consideration. The first Office action set a 3 month shortened statutory period for reply. On February 28, 2001, the practitioner properly filed an express abandonment in the application and at the same time filed a request for continuing application. In a non-final Office action dated May 1, 2001 in the continuing application, the examiner indicated in that claims 1 to 20, all of the pending claims, are rejected. The practitioner filed a notice of appeal on Monday, July 2, 2001. In accordance with USPTO rules and procedures set forth in the MPEP, which of the following most accurately describes the propriety of the practitioner’s reply to the May 1st Office action?",
+      "choices": {
+        "A": "The notice of appeal is not a proper response because the claims of the continuing application have not been finally rejected.",
+        "B": "The notice of appeal is not a proper reply because all of the claims in the continuing application have not been twice rejected.",
+        "C": "The filing of a notice of appeal is not a proper reply because not all the claims in the continuing application have been twice rejected.",
+        "D": "A notice of appeal is never a proper response to a non-final rejection.",
+        "E": "The reply is proper."
+      },
+      "answer": "E",
+      "explanation": "ANSWER: (E) is the most correct answer. MPEP § 1205, under the heading “Appeal By Patent Applicant,” states that “[a] notice of appeal may be filed after any of the claims has been twice rejected, regardless of whether the claim(s) has/have been finally rejected. The limitation of ‘twice or finally...rejected’ does not have to be related to a particular application. For example, if any claim was rejected in a parent application, and the claim is again rejected in a continuing application, then applicant will be entitled to file an appeal in the continuing application, even if the claim was rejected only once in the continuing application.” (A), (B), (C), and (D) are not the most correct answer because a notice of appeal can be filed in a continuing application where at least one of the rejected claims was twice rejected, and one of the rejections may occur in the parent application.",
+      "current_law_status": "STILL_VALID",
+      "revisions": []
+    },
+    "diagnosis": {
+      "distractor_analysis": {
+        "A": "This treats 'twice rejected' as requiring a rejection in this application specifically -- but MPEP § 1205 counts a rejection in the parent application toward the twice-rejected requirement.",
+        "B": "This assumes every pending claim must individually have been twice rejected -- but the twice-rejected requirement only needs to be met by at least one claim.",
+        "C": "Same error as (B): requiring all pending claims to be twice rejected, not just one.",
+        "D": "This treats a non-final rejection as categorically ineligible for appeal -- but the twice-rejected trigger can be satisfied across a parent and continuing application even though the continuing application's own rejection is only 'non-final.'"
+      },
+      "distinguishing_fact": "The claims were rejected once in the parent application and again (non-finally) in the continuing application -- that's 'twice rejected,' even though neither individual rejection in the continuing application was final.",
+      "one_line_rule": "A claim is appeal-eligible once it has been rejected twice, and the two rejections don't have to be in the same application or be final. MPEP § 1205."
+    }
+  },
+  {
+    "id": "guided-002",
+    "source_bank_id": "2002-10-16-am-008",
+    "topic": "patentability-and-prior-art",
+    "mpep_chapter": "800",
+    "steps": {
+      "posture": {
+        "prompt": "What stage of prosecution are we in?",
+        "choices": {
+          "A": "Pending application, non-final rejection outstanding",
+          "B": "On appeal to the Patent Trial and Appeal Board",
+          "C": "Granted patent, post-issuance (no reissue/reexam pending)",
+          "D": "Reissue application pending (patent already granted)"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "objective": {
+        "prompt": "What is the applicant trying to accomplish?",
+        "choices": {
+          "A": "Overcome a nonstatutory (obviousness-type) double patenting rejection so the application can be allowed",
+          "B": "Overcome a statutory double patenting rejection under 35 U.S.C. § 101",
+          "C": "Provoke an interference between two commonly-owned applications",
+          "D": "Swear behind the reference patent's prior-art date under 37 CFR 1.131"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "doctrine": {
+        "prompt": "What rule or MPEP topic controls how to overcome this rejection?",
+        "choices": {
+          "A": "Patentability & Prior Art — novelty, obviousness, eligibility",
+          "B": "Appeals, PCT & Post-Grant — appeals, PCT, reissue, reexam",
+          "C": "Application Types — continuations, divisions, CIPs, provisionals",
+          "D": "Claims & §112 — written description, enablement, definiteness"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "key_fact": {
+        "prompt": "Which fact is most important to which fix is available?",
+        "choices": {
+          "A": "The rejection is nonstatutory (obviousness-type) double patenting, not statutory double patenting",
+          "B": "The application and the patent share a common inventor",
+          "C": "A 37 CFR 1.131 affidavit was filed",
+          "D": "The claims are for different, patentably distinct inventions"
+        },
+        "answer": "A",
+        "synthetic": true
+      }
+    },
+    "question": {
+      "question": "The MPEP and USPTO rules and procedure provide for ways that a nonstatutory double patenting rejection can be overcome. Which of the following is an effective way to overcome a nonstatutory double patenting rejection?",
+      "choices": {
+        "A": "Filing a 37 CFR 1.131 affidavit to swear behind the patent on which the rejection is based.",
+        "B": "Filing a terminal disclaimer under 37 CFR 1.321(c).",
+        "C": "Filing a 37 CFR 1.131 affidavit arguing that the claims are for different inventions that are not patentably distinct.",
+        "D": "Filing a reply arguing that there is only one common inventor regarding the claims of the application and the claims of the patent.",
+        "E": "All of the above."
+      },
+      "answer": "B",
+      "explanation": "ANSWER: Choice (B) is the correct answer. MPEP § 804.02, subpart (II) reads, “A rejection based on a nonstatutory type of double patenting can be avoided by filing a terminal disclaimer in the application or proceeding in which the rejection is made.” Choices (A) and (C) are each incorrect. MPEP § 804.02, reads, “The use of a 37 C.F.R. § 1.131 affidavit in overcoming a double patenting rejection is inappropriate…37 C.F.R. § 1.131 is inapplicable if the claims of the application and the patent are ‘directed to substantially the same invention.’ It is also inapplicable if there is a lack of ‘patentable distinctness’ between the claimed subject matter.” Choice (C) is further incorrect since a nonstatutory double patenting rejection can be based on the claims not being patentably distinct. MPEP § 804, subpart (II)(B)(1). Choice (D) is incorrect because MPEP § 804, subpart (I)(A) reads, “Double patenting may exist between an issued patent and an application filed by the same inventive entity, or by an inventive entity having a common inventor with the patent.” Choice (E) is incorrect because choices (A), (C), and (D) are each incorrect.",
+      "current_law_status": "STILL_VALID",
+      "revisions": []
+    },
+    "diagnosis": {
+      "distractor_analysis": {
+        "A": "A Rule 1.131 affidavit swears behind a reference's prior-art date -- but double patenting isn't a prior-art rejection, it's about claiming the same invention twice, so swearing behind doesn't apply.",
+        "C": "Same problem as (A) -- plus this choice's premise (claims are patentably distinct) would mean there's no double patenting problem to overcome in the first place.",
+        "D": "Common inventorship is irrelevant to whether nonstatutory double patenting exists; a common inventor doesn't excuse claiming patentably indistinct inventions.",
+        "E": "'All of the above' fails because (A), (C), and (D) are each independently wrong -- only (B) actually works."
+      },
+      "distinguishing_fact": "A terminal disclaimer (37 CFR 1.321(c)) is the standard fix for nonstatutory double patenting; a Rule 1.131 affidavit is a prior-art-swearing-behind tool and doesn't apply here since double patenting isn't prior-art-based.",
+      "one_line_rule": "Nonstatutory double patenting -> terminal disclaimer; Rule 1.131 antedating evidence is the wrong tool because there's no prior-art date to swear behind. MPEP § 804.02."
+    }
+  },
+  {
+    "id": "guided-003",
+    "source_bank_id": "2002-10-16-am-050",
+    "topic": "appeals-pct-postgrant",
+    "mpep_chapter": "1400",
+    "steps": {
+      "posture": {
+        "prompt": "What stage of prosecution are we in?",
+        "choices": {
+          "A": "Reissue application pending (patent already granted)",
+          "B": "Pending application, non-final rejection outstanding",
+          "C": "On appeal to the Patent Trial and Appeal Board",
+          "D": "PCT international stage, at national-stage entry"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "objective": {
+        "prompt": "What is the patentee trying to accomplish?",
+        "choices": {
+          "A": "Broaden the patent's claims beyond what the original patent covered, using the two-year broadening-reissue window",
+          "B": "Correct a clerical error in the patent via certificate of correction",
+          "C": "Narrow the claims to avoid a newly discovered prior art reference",
+          "D": "File an ex parte reexamination request"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "doctrine": {
+        "prompt": "What rule or MPEP topic controls this timing question?",
+        "choices": {
+          "A": "Appeals, PCT & Post-Grant — appeals, PCT, reissue, reexam",
+          "B": "Prosecution Lifecycle — office actions, replies, allowance",
+          "C": "Claims & §112 — written description, enablement, definiteness",
+          "D": "Application Types — continuations, divisions, CIPs, provisionals"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "key_fact": {
+        "prompt": "Which fact determines whether later-presented broadened claims are still timely?",
+        "choices": {
+          "A": "Whether an intent to broaden the claims was indicated within the two-year statutory window (even if the broadened claims themselves come later)",
+          "B": "Whether the reissue application was filed on the exact two-year anniversary date",
+          "C": "Whether the broadening happens in a continuing reissue application rather than the original one",
+          "D": "Whether the patentee, rather than the inventors, files the reissue"
+        },
+        "answer": "A",
+        "synthetic": true
+      }
+    },
+    "question": {
+      "question": "If a reissue application is filed within two years of the original patent grant, the applicant may subsequently broaden the claims during prosecution of the pending reissue prosecution beyond the two year limit, ________________________________.",
+      "choices": {
+        "A": "if the applicant indicates in the oath accompanying the reissue application that the claims will be broadened.",
+        "B": "if an intent to broaden is indicated in the reissue application at any time within three years from the patent grant.",
+        "C": "if the reissue application is filed on the 2-year anniversary date from the patent grant, even though an intent to broaden the claims was not indicated in the application at that time.",
+        "D": "if the reissue application is a continuing reissue application of a parent reissue application, and neither reissue application contained an indication of an intent to broaden the claims until 4 years after the patent grant..",
+        "E": "provided, absent any prior indication of intent to broaden, an attempt is made to convert the reissue into a broadening reissue concurrent with the presentation of broadening claims beyond the two year limit."
+      },
+      "answer": "A",
+      "explanation": "ANSWER: (A) is correct. MPEP § 1412.03. In re Doll, 164 USPQ 218, 220 (CCPA 1970). (B) is wrong because 35 U.S.C. § 251 prescribes a 2-year limit for filing applications for broadening reissues. (C) is wrong because although Switzer v. Sockman, 142 USPQ 226 (CCPA 1964), holds that while a reissue application filed on the 2-year anniversary date from the patent grant is considered to be filed within 2 years of the patent grant, it is necessary that an intent to broaden be indicated in the reissue application within the two years from the patent grant. MPEP § 1412.03. (D) is wrong because a proposal for broadened claims must be made in the parent reissue application within two years from the grant of the original patent MPEP § 1412.03. In re Graff, 42 USPQ2d 1471, 1473-74 (Fed. Cir. 1997). (E) is wrong because there was no intent to broaden indicated within the two years. MPEP § 1412.03. In re Fotland, 228 USPQ 193 (Fed. Cir. 1985).",
+      "current_law_status": "STILL_VALID",
+      "revisions": []
+    },
+    "diagnosis": {
+      "distractor_analysis": {
+        "B": "This states a 3-year window -- but 35 U.S.C. § 251 sets the broadening-reissue deadline at 2 years, not 3.",
+        "C": "Filing on the 2-year anniversary date is fine (Switzer v. Sockman) -- but only if intent to broaden was indicated within that same 2-year window; this choice specifically posits no such indication, which fails.",
+        "D": "The intent to broaden must appear within 2 years of the original grant in the reissue chain -- waiting until 4 years after grant, even in a continuing reissue application, misses that window (In re Graff).",
+        "E": "There's no 'concurrent conversion' escape hatch -- without a timely-indicated intent to broaden, presenting broadening claims later doesn't retroactively satisfy the 2-year requirement (In re Fotland)."
+      },
+      "distinguishing_fact": "It's the timely-indicated intent to broaden -- not the exact filing date or the specific vehicle (original vs. continuing reissue) -- that has to fall within the 2-year window from the original grant.",
+      "one_line_rule": "Broadening reissue: indicate intent to broaden within 2 years of the original patent grant; the broadened claims themselves can come later. MPEP § 1412.03."
+    }
+  },
+  {
+    "id": "guided-004",
+    "source_bank_id": "2003-10-15-pm-011",
+    "topic": "appeals-pct-postgrant",
+    "mpep_chapter": "1400",
+    "steps": {
+      "posture": {
+        "prompt": "What stage of prosecution are we in?",
+        "choices": {
+          "A": "Reissue application pending (patent already granted)",
+          "B": "Pending application, before first Office action",
+          "C": "Granted patent, post-issuance (no reissue/reexam pending)",
+          "D": "On appeal to the Patent Trial and Appeal Board"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "objective": {
+        "prompt": "What is the assignee trying to accomplish?",
+        "choices": {
+          "A": "Get a broadening reissue application on file before the 2-year deadline expires, despite being unable to locate the inventors to sign the oath/declaration",
+          "B": "Obtain a filing date for a narrowing reissue, which has no 2-year deadline",
+          "C": "File a petition to revive an abandoned reissue application",
+          "D": "Substitute the assignee as sole applicant in place of the inventors"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "doctrine": {
+        "prompt": "What rule or MPEP topic controls whether this filing works?",
+        "choices": {
+          "A": "Appeals, PCT & Post-Grant — appeals, PCT, reissue, reexam",
+          "B": "Application Anatomy — parts & content of an application",
+          "C": "System Vocabulary — agency structure & practitioner authority",
+          "D": "Deadlines & Procedure — statutory periods, extensions, petitions"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "key_fact": {
+        "prompt": "Which fact is most important to preserving the filing date?",
+        "choices": {
+          "A": "The reissue application, including at least one broadening claim, is filed before the 2-year deadline -- the executed oath/declaration and fee can follow later",
+          "B": "At least one of the five original inventors has signed the declaration",
+          "C": "The petition includes a showing that all inventors are unavailable",
+          "D": "The filing fee is paid at the time of filing"
+        },
+        "answer": "A",
+        "synthetic": true
+      }
+    },
+    "question": {
+      "question": "A U.S. patent was granted on May 8, 2001 to five inventors. The five inventors assigned their entire patent rights to Q Company. Q Company needs to file a reissue application to broaden the claims of the patent. The registered practitioner preparing the application has been unable to locate any of the five inventors to sign the reissue oath or declaration. Today is May 8, 2003. Which of the following should the practitioner do to enable the applicant to broaden the patent claims in accordance with the patent laws, rules and procedures as related in the MPEP?",
+      "choices": {
+        "A": "Wait to file the reissue application until the first day the signatures of all five inventors can be obtained. At that time, pay the filing fee and file a petition seeking May 8, 2003 as the filing date. File with the petition a showing of the unavailability of all inventors until the filing of the application.",
+        "B": "Wait to file the reissue application until the signatures of at least three inventors can be obtained. At that time, file a petition seeking May 7, 2003 as the filing date accompanied by a showing of the unavailability of all inventors on May 8th. Payment of the filing fees may be postponed until receipt of a decision on the petition.",
+        "C": "File the reissue application on May 8, 2003, presenting only the claims in the patent, and include a listing of inventors, but not pay the filing fee at the time of filing.",
+        "D": "Wait to file the reissue application until the signature of one of the inventors has been obtained since at least one inventor is needed to show a lack of deceptive intent on the part of the applicants.",
+        "E": "File the complete reissue application complying with 37 CFR 1.173(a) and 1.53(b) with an unexecuted reissue declaration listing the names of all the inventors with at least one broadening claim on May 8, 2003."
+      },
+      "answer": "E",
+      "explanation": "ANSWER: (E) is the most correct answer. 35 U.S.C. § 251; 37 CFR § 1.53(f); MPEP § 1403. Filing a broadened reissue application with at least one broadening claim prior to the expiration of the two-year time period set in the statute satisfies the diligence provisions of 35 U.S.C. § 251. The executed reissue oath/declaration and the filing fee may be filed at a later time. According to MPEP § 1403, a reissue application can be granted a filing date without an oath or declaration, or without the filing fee being present. See 37 CFR § 1.53(f). The reissue applicant will be given a period of time to provide the missing parts and to pay the surcharge under 37 CFR § 1.16(e). See MPEP § 1410.01. (A), (B) and (D) are clearly incorrect since the inventors and assignee would be barred from a broadening reissue if filed after the two year period set in the statute. (C) is incorrect since the reissue application was filed without at least one broadening claim prior to the expiration of the two-year time period set in 35 U.S.C. § 251.",
+      "current_law_status": "STILL_VALID",
+      "revisions": []
+    },
+    "diagnosis": {
+      "distractor_analysis": {
+        "A": "Waiting for all five signatures before filing misses the point -- 37 CFR § 1.53(f) lets a reissue get a filing date with an unexecuted declaration, so there's no need to wait, and waiting risks missing the 2-year deadline entirely.",
+        "B": "Same flaw as filing choice (A) above (waiting risks the deadline); there's also no 'file now with 3 signatures' shortcut in the rule -- the filing date comes from filing the papers, not partial signatures.",
+        "C": "Filing without at least one broadening claim doesn't satisfy the diligence requirement of 35 U.S.C. § 251 -- a claim must actually be broadened, not just listed as it appeared in the original patent.",
+        "D": "There's no rule requiring even one inventor's signature just to 'show a lack of deceptive intent' -- the unexecuted-declaration filing-date provision has no such exception."
+      },
+      "distinguishing_fact": "37 CFR § 1.53(f) lets a reissue application get a filing date with an unexecuted oath/declaration and the fee to follow -- so the practitioner doesn't need any inventor's signature in hand to timely file the broadening reissue before the deadline.",
+      "one_line_rule": "A reissue application can get a filing date on unexecuted papers (missing oath/declaration, missing fee); what can't be missing at filing is at least one broadening claim, timely, within 2 years. MPEP § 1403."
+    }
+  },
+  {
+    "id": "guided-005",
+    "source_bank_id": "2002-10-16-pm-044",
+    "topic": "application-types",
+    "mpep_chapter": "200",
+    "steps": {
+      "posture": {
+        "prompt": "What stage of prosecution are we in?",
+        "choices": {
+          "A": "Pending application, claiming foreign priority",
+          "B": "PCT international stage, at national-stage entry",
+          "C": "Application allowed, before issue fee paid",
+          "D": "Reissue application pending (patent already granted)"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "objective": {
+        "prompt": "What is the applicant trying to accomplish?",
+        "choices": {
+          "A": "Perfect a foreign priority claim in a pending nonprovisional application",
+          "B": "Perfect a domestic benefit claim to an earlier-filed U.S. application",
+          "C": "Establish inventorship for a newly filed continuation",
+          "D": "Convert a provisional application into a nonprovisional application"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "doctrine": {
+        "prompt": "What rule or MPEP topic controls what's required here?",
+        "choices": {
+          "A": "Application Types — continuations, divisions, CIPs, provisionals",
+          "B": "Deadlines & Procedure — statutory periods, extensions, petitions",
+          "C": "Claims & §112 — written description, enablement, definiteness",
+          "D": "System Vocabulary — agency structure & practitioner authority"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "key_fact": {
+        "prompt": "The question asks what is NOT required. Which fact identifies the one requirement that doesn't actually exist?",
+        "choices": {
+          "A": "35 U.S.C. § 119 priority does not require the U.S. application to list the same inventive entity as the foreign application",
+          "B": "The priority claim must identify the foreign application and its filing country",
+          "C": "The processing fee applies if the priority claim is made after the issue fee is paid",
+          "D": "The priority claim must be filed in the application itself"
+        },
+        "answer": "A",
+        "synthetic": true
+      }
+    },
+    "question": {
+      "question": "The procedures in the MPEP do not require an applicant claiming foreign priority in a nonprovisional utility application to:",
+      "choices": {
+        "A": "submit the processing fee set forth in 37 CFR 1.17(i) if the claim for priority or submission of the certified copy of the priority document is made after payment of the issue fee and before the patent is granted.",
+        "B": "identify the foreign application for which priority is being claimed as well as any foreign application for the same subject matter having a filing date before that of the application for which priority is being claimed.",
+        "C": "file the claim in the application.",
+        "D": "have the same inventive entity listed in the foreign application as in the U.S. application in which the priority claim has been filed.",
+        "E": "identify the intellectual property authority or country in or for which the foreign application was filed."
+      },
+      "answer": "D",
+      "explanation": "ANSWER: (D). There is no requirement as to the inventive entity being the same. As to (A), see 37 C.F.R. § 1.55(a)(2). As to (E), see MPEP 201.14 at p. 200-82 (right column). As to (C), see MPEP 201.14(a). As to (B), see 37 C.F.R. § 1.55(a)(1)(i) and MPEP 201.14(a).",
+      "current_law_status": "STILL_VALID",
+      "revisions": []
+    },
+    "diagnosis": {
+      "distractor_analysis": {
+        "A": "This IS required -- 37 CFR § 1.55(a)(2) requires the processing fee when the priority claim/certified copy comes after the issue fee is paid, so it's a real requirement, not an exception.",
+        "B": "This IS required -- MPEP § 201.14(a) requires identifying any earlier-filed foreign application for the same subject matter, not just the one being relied on.",
+        "C": "This IS required -- the priority claim itself must actually be made in the application; that's the most basic requirement of all, per MPEP § 201.14(a).",
+        "E": "This IS required -- MPEP § 201.14 requires identifying the country/authority where the foreign application was filed."
+      },
+      "distinguishing_fact": "Every other choice describes a real, documented requirement for perfecting a foreign priority claim -- only the 'same inventive entity' requirement doesn't exist; § 119 priority can be claimed even if the inventors listed differ between the foreign and U.S. applications.",
+      "one_line_rule": "Foreign priority under § 119 has no same-inventive-entity requirement -- don't confuse it with identity-of-inventorship issues that arise elsewhere (e.g., CIPs)."
+    }
+  },
+  {
+    "id": "guided-006",
+    "source_bank_id": "2003-10-15-am-020",
+    "topic": "application-types",
+    "mpep_chapter": "200",
+    "steps": {
+      "posture": {
+        "prompt": "What stage of prosecution are we in?",
+        "choices": {
+          "A": "Continuation application just filed, establishing a filing date",
+          "B": "Pending application, non-final rejection outstanding",
+          "C": "Application allowed, before issue fee paid",
+          "D": "Reissue application pending (patent already granted)"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "objective": {
+        "prompt": "What is the practitioner trying to accomplish?",
+        "choices": {
+          "A": "Get the continuation's original filing date (Jan. 3, 2003) to include all five drawing figures from the parent, despite one being inadvertently omitted at filing",
+          "B": "Add new matter to the continuation that wasn't in the parent application",
+          "C": "Extend the continuation's filing date to the date the missing drawing is actually filed",
+          "D": "Abandon the continuation and refile with the correct drawings"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "doctrine": {
+        "prompt": "What rule or MPEP topic controls whether the original filing date can be preserved?",
+        "choices": {
+          "A": "Application Types — continuations, divisions, CIPs, provisionals",
+          "B": "Application Anatomy — parts & content of an application",
+          "C": "Deadlines & Procedure — statutory periods, extensions, petitions",
+          "D": "Claims & §112 — written description, enablement, definiteness"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "key_fact": {
+        "prompt": "Which fact is most important to whether the January 3 filing date can be preserved?",
+        "choices": {
+          "A": "The continuation, as originally filed, includes a proper incorporation by reference of the prior-filed (parent) application",
+          "B": "The specification didn't fully describe the missing drawing figure",
+          "C": "The USPTO's postcard receipt noted only four drawing figures were received",
+          "D": "The missing figure shows a claimed feature of the invention"
+        },
+        "answer": "A",
+        "synthetic": true
+      }
+    },
+    "question": {
+      "question": "On January 3, 2003, a registered practitioner filed a continuation application that includes a benefit claim to a prior-filed application. The practitioner simultaneously filed in the prior- filed application an express abandonment in favor of a continuing application. The prior application contained five drawing figures described in the specification. However, the continuation application contains only four of the five drawing figures. The specification of the continuation application did not include a complete description of the missing drawing figure. A postcard from the USPTO, listing the contents of the continuation application, contains a note that only four drawing figures were received. The practitioner inadvertently omitted one of the drawing figures mentioned in the specification when he filed the continuation application. The missing drawing figure shows a claimed feature of the invention. On February 10, 2003, the practitioner received a Notice of Omitted Item(s) properly according a filing date of January 3, 2003 for the continuation application without the missing drawing figure and notifying the applicant that the drawing is missing. Which of the following procedures for filing the missing drawing would comply with the patent laws, rules and procedures as related in the MPEP for according the continuation application a January 3, 2003 filing date with the five drawing figures that were present in the application?",
+      "choices": {
+        "A": "The practitioner files the missing drawing figure in response to the Notice of Omitted Item(s) within the time period set forth in the notice.",
+        "B": "The practitioner files the missing drawing figure and an amendment to the specification to add a complete description of the missing drawing figure in response to the Notice of Omitted Item(s) within the time period set forth in the notice.",
+        "C": "The practitioner files an amendment to cancel the description of the missing drawing figure from the specification of the continuation application.",
+        "D": "If the continuation application as originally filed includes an incorporation by reference of the prior-filed application to which the benefit is claimed, the practitioner can file the missing drawing figure any time prior to the first Office action.",
+        "E": "The practitioner files the missing drawing figure accompanied by a petition under 37 CFR 1.53(e) with the petition fee set forth in 37 CFR 1.17(h) only alleging that the drawing figure indicated as omitted was in fact deposited with the USPTO with the application papers."
+      },
+      "answer": "D",
+      "explanation": "ANSWER: (D) is the most correct answer. MPEP § 201.06(c), under the heading “INCORPORATION BY REFERENCE”, subheading “B. Application Entitled to a Filing Date,” states that “[i]f the application as originally filed includes a proper incorporation by reference of the prior application(s), an omitted specification page(s) and/or drawing figure(s) identified in a “Notice of Omitted Item(s)” may be added by amendment provided the omitted item(s) contains only subject matter in common with such prior application(s). In such case applicant need not respond to the “Notice of Omitted Item(s).” Applicant should submit the amendment adding the omitted material prior to the first Office action to avoid delays in the prosecution of the application.” (A) and (B) are incorrect because the application filing date will be the date of the filing of the missing drawing figure. See MPEP § 601.01(g). Furthermore, a priority claim under 35 U.S.C. § 120 in a continuation or divisional application does not amount to an incorporation by reference of the application to which priority is claimed. See MPEP § 201.06(c). (C) is incorrect. The continuation application will not be accorded with a filing date of January 3, 2003 with the missing drawing figure. (E) is incorrect because a petition under 37 CFR § 1.53(e) will not be granted if the missing drawing figure is inadvertently omitted by the applicant and not in fact deposited with the USPTO with the application papers.",
+      "current_law_status": "STILL_VALID",
+      "revisions": []
+    },
+    "diagnosis": {
+      "distractor_analysis": {
+        "A": "Responding to the Notice of Omitted Item(s) by just filing the missing drawing changes the filing date to the date that drawing is filed -- it doesn't preserve the original Jan. 3 date.",
+        "B": "Same problem: filing the missing drawing (even with a new specification amendment) in response to the notice still resets the filing date, per MPEP § 601.01(g).",
+        "C": "Cancelling the description of the missing figure doesn't get the figure itself into the application with the original filing date -- it just avoids an inconsistency, at the cost of losing that claimed feature's support.",
+        "E": "A Rule 1.53(e) petition only works if the drawing was actually deposited with the original filing and merely mis-processed -- here it was genuinely omitted by the practitioner, so the petition would be denied."
+      },
+      "distinguishing_fact": "Because the continuation incorporated the parent application by reference, the omitted drawing can be added by amendment (not a new filing) without disturbing the original filing date -- the incorporation-by-reference is what makes this a filing-date-preserving fix rather than a filing-date-resetting one.",
+      "one_line_rule": "An application that properly incorporates a prior application by reference can add an omitted item by amendment, without losing its original filing date. MPEP § 201.06(c)."
+    }
+  },
+  {
+    "id": "guided-007",
+    "source_bank_id": "2002-10-16-am-042",
+    "topic": "deadlines-and-procedure",
+    "mpep_chapter": "700",
+    "steps": {
+      "posture": {
+        "prompt": "What stage of prosecution are we in?",
+        "choices": {
+          "A": "Pending application, final rejection outstanding",
+          "B": "Pending application, non-final rejection outstanding",
+          "C": "Application allowed, before issue fee paid",
+          "D": "On appeal to the Patent Trial and Appeal Board"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "objective": {
+        "prompt": "What is being tested here?",
+        "choices": {
+          "A": "Which action actually needs a paid petition for an extension of time, versus one that's free because it's within the running statutory period",
+          "B": "Which action can never be extended under any circumstances",
+          "C": "Which action requires abandoning the application",
+          "D": "Which action requires a Certificate of Mailing"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "doctrine": {
+        "prompt": "What rule or MPEP topic controls this?",
+        "choices": {
+          "A": "Deadlines & Procedure — statutory periods, extensions, petitions",
+          "B": "Prosecution Lifecycle — office actions, replies, allowance",
+          "C": "Application Types — continuations, divisions, CIPs, provisionals",
+          "D": "Claims & §112 — written description, enablement, definiteness"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "key_fact": {
+        "prompt": "Which fact identifies the one action that's actually late?",
+        "choices": {
+          "A": "The reply was filed on the first day after the shortened statutory period ended -- i.e., one day late",
+          "B": "The Office action set a 3-month shortened statutory period",
+          "C": "The interview happened within the 6-month statutory period",
+          "D": "The Ex parte Quayle correction addressed a formal matter"
+        },
+        "answer": "A",
+        "synthetic": true
+      }
+    },
+    "question": {
+      "question": "Absent a Certificate of Mailing or Transmission, or use of Express Mail, which of the following actions requires a petition for an extension of time and the appropriate fee?",
+      "choices": {
+        "A": "Applicant’s complete first reply to a final Office action filed on the first day following the end of a shortened statutory period for reply. The Shortened Statutory Period ended on a Wednesday that was not a federal holiday, and the Office is open.",
+        "B": "Interview with examiner conducted after the expiration of the shortened statutory period for reply to a final Office action, but within the 6 months statutory period.",
+        "C": "Action by applicant to correct formal matters identified for the first time after a reply was made to a final Office action in an Ex parte Quayle action where the application is otherwise in condition for allowance.",
+        "D": "Applicant’s complete first reply to a final Office action filed within 2 months of the final Office action setting a 3 month shortened statutory period for reply.",
+        "E": "Applicant’s complete first reply to an Office action on the last day of a shortened statutory period for reply, where the Office action withdraws the finality of a previous Office action in view of a new ground of rejection."
+      },
+      "answer": "A",
+      "explanation": "ANSWER: (A) is correct. MPEP § 706.07(f), paragraph (I). (B) is wrong. MPEP § 706.07(f), paragraph (M). (C) is wrong. MPEP § 706.07(f), paragraph (N). (D) is wrong. MPEP § 706.07(f), paragraph (H). (F) is wrong. MPEP § 706.07(f), paragraph (O).",
+      "current_law_status": "STILL_VALID",
+      "revisions": []
+    },
+    "diagnosis": {
+      "distractor_analysis": {
+        "B": "An interview after the shortened period but within the full 6-month statutory period doesn't itself require a fee -- the fee attaches to a late reply, not to holding an interview.",
+        "C": "Correcting formal matters first identified in an Ex parte Quayle action, where the case is otherwise allowable, doesn't require an extension-of-time petition/fee under MPEP § 706.07(f).",
+        "D": "A reply filed within 2 months of a final action, when the shortened period is 3 months, is still on time -- no extension needed.",
+        "E": "A reply on the last day of the period is on time by definition -- timing isn't affected by the fact that the Office action withdrew finality of an earlier action."
+      },
+      "distinguishing_fact": "(A) is the only scenario where the reply is filed after the shortened statutory period actually expired -- being even one day past the deadline is what triggers the extension-of-time fee, not any of the other circumstances described.",
+      "one_line_rule": "An extension-of-time petition and fee are triggered by replying after the shortened statutory period ends -- not by interviews, formal corrections, or on-time replies that merely feel close to the deadline. MPEP § 706.07(f)."
+    }
+  },
+  {
+    "id": "guided-008",
+    "source_bank_id": "2003-10-15-pm-048",
+    "topic": "deadlines-and-procedure",
+    "mpep_chapter": "1000",
+    "steps": {
+      "posture": {
+        "prompt": "What stage of prosecution are we in?",
+        "choices": {
+          "A": "Pending application, final rejection outstanding",
+          "B": "Pending application, after a proper petition has been filed",
+          "C": "On appeal to the Patent Trial and Appeal Board",
+          "D": "Application allowed, before issue fee paid"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "objective": {
+        "prompt": "What is the practitioner trying to accomplish?",
+        "choices": {
+          "A": "Avoid abandonment/extension fees while a petition challenging the final rejection's prematureness is pending",
+          "B": "Get an automatic stay of the reply period while the petition is decided",
+          "C": "Convert the final rejection into a non-final rejection immediately",
+          "D": "File a notice of appeal instead of replying"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "doctrine": {
+        "prompt": "What rule or MPEP topic controls whether the petition changes the reply deadline?",
+        "choices": {
+          "A": "Deadlines & Procedure — statutory periods, extensions, petitions",
+          "B": "Appeals, PCT & Post-Grant — appeals, PCT, reissue, reexam",
+          "C": "Prosecution Lifecycle — office actions, replies, allowance",
+          "D": "System Vocabulary — agency structure & practitioner authority"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "key_fact": {
+        "prompt": "Which fact controls what the practitioner must docket next?",
+        "choices": {
+          "A": "37 CFR § 1.181(f) says filing a petition does not stay the period for reply that's running against the application",
+          "B": "The petition was filed within two months of the final rejection",
+          "C": "The petition challenges the prematureness of the final rejection specifically",
+          "D": "The application would become abandoned six months after the final rejection"
+        },
+        "answer": "A",
+        "synthetic": true
+      }
+    },
+    "question": {
+      "question": "A registered practitioner timely files a petition under 37 CFR 1.181 while the application is pending before the primary examiner to challenge the prematureness of the final rejection that set a shortened statutory period for reply. Assume the petition is filed within two months of the date on the final rejection. What is the next response that should be docketed by the practitioner in accordance with the patent laws, rules and the procedures as related in the MPEP to avoid a penalty or payment of fees?",
+      "choices": {
+        "A": "A reply to the final rejection within 6 months.",
+        "B": "A status inquiry 6 months after filing the petition.",
+        "C": "A reply to the final rejection within the shortened statutory time period set for reply in the final rejection.",
+        "D": "No reply is necessary until a decision is received on the petition.",
+        "E": "All of the above."
+      },
+      "answer": "C",
+      "explanation": "ANSWER: (C) is correct. 37 CFR § 1.181(f); MPEP §§ 714.13 and 1002: 37 CFR § 1.181(f) provides \"The mere filing of a petition will not stay the period for reply to an Examiner's action which may be running against an application, nor act as a stay of other proceedings.\" MPEP §§ 714.13 states “[i]t should be noted that under 37 CFR 1.181(f), the filing of a 37 CFR 1.181 petition will not stay the period for reply to an examiner's action which may be running against an application.” See also MPEP § 1002. Thus, if a petition to vacate a final rejection as premature is filed within 2 months from the date of the final rejection, the period for reply to the final rejection is not extended even if the petition is not reached for decision within that period. However, if the petition is granted and the applicant has filed an otherwise full reply to the rejection within the period for reply, the case is not abandoned. (C) is correct because the petition does not stay the time for responding to the final and a reply should be filed within the shortened statutory period to avoid fees. (A) is incorrect because any reply after the shorted statutory period set for reply in the final rejection will require at least payment of fees for an extension of time. MPEP § 1002 states “The mere filing of a petition will not stay the period for replying to an examiner's action which may be running against an application, nor act as a stay of other proceedings (37 CFR 1.181(f)). For example, if a petition to vacate a final rejection as premature is filed within 2 months from the date of the final rejection, the period for reply to the final rejection is not extended even if the petition is not reached for decision within that period.” (B) is incorrect because the application will be abandoned 6 months after the date of the final rejection for lack of reply to the final rejection, 35 U.S.C. 133, and a status inquiry filed 6 months after filing the petition would be in an abandoned application. Moreover, a petition status inquiry filed at any time is not a proper reply to the final rejection. See 37 CFR §§ 1.113(c) and 1.116. (D) is incorrect because the filing of a petition does not stay the period for reply. 37 CFR § 1.181(f); MPEP §§ 714.13 and 1002. (E) is incorrect because (C) is correct, and (A), (B) and (D) are incorrect.",
+      "current_law_status": "STILL_VALID",
+      "revisions": []
+    },
+    "diagnosis": {
+      "distractor_analysis": {
+        "A": "Treating '6 months' as the safe reply deadline ignores that the shortened statutory period set in the final rejection is still running -- waiting until the full 6 months (without paying extension fees) risks abandonment or unnecessary fees.",
+        "B": "A status inquiry isn't a reply to the rejection at all, and by 6 months post-petition the application may already be abandoned for failure to timely reply -- this doesn't protect the applicant.",
+        "D": "This assumes the petition pauses the clock -- but § 1.181(f) explicitly says it does not stay the reply period, so 'waiting for a decision' risks the shortened period expiring unanswered.",
+        "E": "'All of the above' fails because only (C) is correct; (A), (B), and (D) all wrongly assume the petition extends or pauses the reply deadline."
+      },
+      "distinguishing_fact": "Filing a petition under 37 CFR § 1.181 does not pause the shortened statutory period already running from the final rejection -- so the practitioner still has to reply within that original period (or pay for an extension) regardless of the petition's pendency.",
+      "one_line_rule": "A petition under 37 CFR § 1.181 never stays a running reply deadline -- docket the original reply period as if no petition were filed. MPEP §§ 714.13, 1002."
+    }
+  },
+  {
+    "id": "guided-009",
+    "source_bank_id": "2003-10-15-pm-015",
+    "topic": "appeals-pct-postgrant",
+    "mpep_chapter": "1800",
+    "steps": {
+      "posture": {
+        "prompt": "What stage of prosecution are we in?",
+        "choices": {
+          "A": "PCT international stage, at national-stage entry",
+          "B": "PCT international stage, before national-stage entry",
+          "C": "Pending application, non-final rejection outstanding",
+          "D": "Continuation application just filed, establishing a filing date"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "objective": {
+        "prompt": "What is the applicant trying to accomplish?",
+        "choices": {
+          "A": "Timely and properly enter the U.S. national stage under 35 U.S.C. § 371(c) before the deadline",
+          "B": "File a PCT international application in the USPTO as receiving office",
+          "C": "Perfect a priority claim to an earlier U.S. application",
+          "D": "Request early publication of the international application"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "doctrine": {
+        "prompt": "What rule or MPEP topic controls whether this submission method was proper?",
+        "choices": {
+          "A": "Appeals, PCT & Post-Grant — appeals, PCT, reissue, reexam",
+          "B": "Deadlines & Procedure — statutory periods, extensions, petitions",
+          "C": "Application Types — continuations, divisions, CIPs, provisionals",
+          "D": "Application Anatomy — parts & content of an application"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "key_fact": {
+        "prompt": "Which fact is most important to whether the facsimile submission was proper?",
+        "choices": {
+          "A": "A copy of the international application and the basic national fee -- the specific national-stage items barred from facsimile -- were what was submitted by fax",
+          "B": "The submission authorized charging fees to a deposit account with sufficient funds",
+          "C": "The facsimile was successfully received by the USPTO on the deadline date",
+          "D": "The International Bureau had not yet forwarded a copy of the application to the USPTO"
+        },
+        "answer": "A",
+        "synthetic": true
+      }
+    },
+    "question": {
+      "question": "Applicant filed an international patent application under the Patent Cooperation Treaty (PCT) designating the United States. A copy of the international application has not been submitted to the USPTO by the International Bureau. The deadline for entering the national stage under 35 USC 371(c) was August 15, 2002. Applicant submitted all of the national stage items required by 35 USC 371(c) by facsimile transmission on August 15, 2002. The facsimile transmission was successfully received by the USPTO on August 15, 2002. The submission included an authorization to charge any required fees to the valid deposit account of the registered practitioner representing applicant. The account contained sufficient funds. Assuming that applicant has made no other national stage submissions under 35 USC 371(c), which of the following statements is most correctly describes why the national stage submission in accordance with the patent laws, rules and the procedures as related in the MPEP is proper or improper?",
+      "choices": {
+        "A": "The national stage submission was proper because facsimile transmission is a valid method of correspondence in the USPTO.",
+        "B": "The national stage submission was proper because a copy of an originally executed oath or declaration is acceptable, but the original oath or declaration should be retained as evidence of authenticity.",
+        "C": "The national stage submission was improper because a copy of the international application and the basic national fee necessary to enter the national stage as required by 35 USC 371(c) may not be submitted by facsimile transmission.",
+        "D": "The national stage submission was improper because the USPTO does not accept fee payments via facsimile transmission.",
+        "E": "The national stage submission was improper because facsimile transmission may never be used for PCT applications."
+      },
+      "answer": "C",
+      "explanation": "ANSWER: (C) is the most correct answer. 37 §§ CFR 1.6(d)(3); 1.8(a)(2)(i)(F); 1.495(b); MPEP § 1893.01(a)(1), 2nd paragraph. The filing of the copy of the international application and the basic national fee in order to avoid abandonment under 37 CFR § 1.495(b), as appropriate, may not be transmitted by facsimile. See 37 CFR § 1.6(d)(3) and 37 CFR § 1.8(a)(2)(i)(F). (A) is not the most correct answer because facsimile transmission is not permitted in the situations set forth in 37 CFR § 1.6(d). (B) is not the most correct answer because even though an oath or declaration may be submitted by facsimile transmission as set forth in MPEP § 602, the national stage submission was improper for the reasons discussed in (C). (D) is not the most correct answer because (C) is the most complete answer. Facsimile transmissions may not be used to file a copy of the international application necessary to enter the national stage. (E) is not the most correct answer because facsimile transmission may be used to file certain correspondence in PCT applications. See MPEP § 1805.",
+      "current_law_status": "STILL_VALID",
+      "revisions": []
+    },
+    "diagnosis": {
+      "distractor_analysis": {
+        "A": "Facsimile IS a generally valid method of correspondence -- but 37 CFR § 1.6(d) carves out specific exceptions, and the national-stage copy/fee submission is one of them, so 'facsimile is generally valid' doesn't save this filing.",
+        "B": "This describes a different requirement (oath/declaration by copy) that's actually fine by facsimile -- it doesn't address why the copy-of-application-and-fee submission itself was improper.",
+        "D": "The USPTO does accept some fee payments by facsimile in other contexts -- the problem here is specific to the national-stage copy/fee submission under § 1.495(b), not a blanket fax-fee ban.",
+        "E": "'Never' is too absolute -- facsimile is used for other PCT correspondence (MPEP § 1805); it's only this specific national-stage copy/fee submission that's barred."
+      },
+      "distinguishing_fact": "37 CFR §§ 1.6(d)(3) and 1.8(a)(2)(i)(F) specifically bar facsimile transmission for the copy of the international application and the basic national fee required to enter the national stage -- even though facsimile is fine for plenty of other PCT correspondence.",
+      "one_line_rule": "Facsimile is barred specifically for the national-stage copy-of-application-and-basic-fee submission under 37 CFR § 1.495(b) -- don't generalize other 'fax is fine' PCT rules to this one submission. MPEP § 1893.01(a)(1)."
+    }
+  },
+  {
+    "id": "guided-010",
+    "source_bank_id": "2003-10-15-pm-039",
+    "topic": "appeals-pct-postgrant",
+    "mpep_chapter": "1800",
+    "steps": {
+      "posture": {
+        "prompt": "What stage of prosecution are we in?",
+        "choices": {
+          "A": "PCT international stage, before national-stage entry",
+          "B": "PCT international stage, at national-stage entry",
+          "C": "Pending application, before first Office action",
+          "D": "Continuation application just filed, establishing a filing date"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "objective": {
+        "prompt": "What is being tested here?",
+        "choices": {
+          "A": "What's actually required to be accorded an international filing date under PCT Article 11",
+          "B": "What's required to enter the U.S. national stage",
+          "C": "What language the application must be filed in",
+          "D": "Who is authorized to sign the international Request"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "doctrine": {
+        "prompt": "What rule or MPEP topic controls what's required for an international filing date?",
+        "choices": {
+          "A": "Appeals, PCT & Post-Grant — appeals, PCT, reissue, reexam",
+          "B": "Application Anatomy — parts & content of an application",
+          "C": "Deadlines & Procedure — statutory periods, extensions, petitions",
+          "D": "System Vocabulary — agency structure & practitioner authority"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "key_fact": {
+        "prompt": "Which fact identifies the one defect that actually costs the filing date?",
+        "choices": {
+          "A": "PCT Article 11(1)(iii)(e) requires 'a part which on the face of it appears to be a claim or claims' for an international filing date",
+          "B": "The description and claims are in German",
+          "C": "The sole applicant is a Canadian resident and national",
+          "D": "No fees accompanied the application at filing"
+        },
+        "answer": "A",
+        "synthetic": true
+      }
+    },
+    "question": {
+      "question": "An international application is filed in the United States Receiving Office on September 18, 2002. In accordance with the PCT and USPTO rules and the procedures set forth in the MPEP, which of the following will result in the application not being accorded an international filing date of September 18, 2002?",
+      "choices": {
+        "A": "The description and claims are in German.",
+        "B": "The Request is signed by a registered attorney rather than the applicant.",
+        "C": "The sole applicant is a Canadian resident and national.",
+        "D": "The application does not contain a claim.",
+        "E": "The application is not accompanied by any fees."
+      },
+      "answer": "D",
+      "explanation": "ANSWER: The correct answer is (D). PCT Article 11(1)(iii)(e); 35 U.S.C. § 363; 37 CFR § 1.431(a); MPEP § 1810. Under PCT Article 11(1)(iii)(e) to be accorded an international filing date an application must have “a part which on the face of it appears to be a claim or claims.” (A) and (C) are incorrect. Under PCT Rule 19.4 if an application is not filed in the prescribed language or is filed by an applicant for which the Office to which the application is submitted is not competent, such application will be forwarded to the International Bureau which will act as receiving Office and accord a filing date as of the date of receipt in the USPTO. (B) is not correct. The Request may be signed by an attorney or agent who is registered to practice before the USPTO. In such a situation the application will be accorded an international filing date of September 18, 2002, and under PCT Article 14 an invitation to correct the defect will be mailed. See MPEP § 1805, paragraph 7; MPEP 1810, under the heading “The ‘International Filing Date,” second paragraph. (E) is also incorrect. Under PCT Rules 14.1(c), 15.4(a), 16.1(f), and 16bis.1 the fees may be paid at a date later than the original receipt date.",
+      "current_law_status": "STILL_VALID",
+      "revisions": []
+    },
+    "diagnosis": {
+      "distractor_analysis": {
+        "A": "Wrong language doesn't defeat the international filing date -- under PCT Rule 19.4, a misdirected/wrong-language application gets forwarded to the International Bureau, which accords a filing date as of USPTO receipt.",
+        "B": "A registered attorney or agent may sign the Request -- this just triggers an invitation to correct the defect, it doesn't cost the application its international filing date.",
+        "C": "Applicant nationality/residence doesn't bar according a filing date -- like the language issue, this triggers Rule 19.4 forwarding, not a lost filing date.",
+        "E": "Missing fees at filing don't prevent according a filing date either -- PCT Rules 14.1(c)/15.4(a)/16.1(f)/16bis.1 let fees be paid later."
+      },
+      "distinguishing_fact": "Every other listed defect (wrong language, wrong nationality, wrong signer, missing fees) is fixable after the fact without losing the international filing date -- only the complete absence of anything resembling a claim actually forfeits the filing date under PCT Article 11(1)(iii)(e).",
+      "one_line_rule": "An international filing date only requires something that looks like a claim on its face -- almost everything else (language, signer, fees, applicant nationality) can be fixed later without losing that date. MPEP § 1810."
+    }
+  },
+  {
+    "id": "guided-011",
+    "source_bank_id": "2002-10-16-am-009",
+    "topic": "application-anatomy",
+    "mpep_chapter": "600",
+    "steps": {
+      "posture": {
+        "prompt": "What stage of prosecution are we in?",
+        "choices": {
+          "A": "Pending application, before first Office action",
+          "B": "Application allowed, before issue fee paid",
+          "C": "Continuation application just filed, establishing a filing date",
+          "D": "Pending application, non-final rejection outstanding"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "objective": {
+        "prompt": "What is being tested here?",
+        "choices": {
+          "A": "The actual formal requirements for an application's title",
+          "B": "The formal requirements for the abstract",
+          "C": "The formal requirements for the claims",
+          "D": "Who may amend the title after allowance"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "doctrine": {
+        "prompt": "What rule or MPEP topic controls the title's formal requirements?",
+        "choices": {
+          "A": "Application Anatomy — parts & content of an application",
+          "B": "Reading Exam Questions — parsing NOT/EXCEPT framing, distractors",
+          "C": "Deadlines & Procedure — statutory periods, extensions, petitions",
+          "D": "Claims & §112 — written description, enablement, definiteness"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "key_fact": {
+        "prompt": "The question asks which statement is NOT accurate. Which fact identifies the false one?",
+        "choices": {
+          "A": "The title limit is 500 characters, not a 10-word limit -- and it must be technically accurate",
+          "B": "The title should be placed at the top of the first page unless given in the application data sheet",
+          "C": "'Improved'/'improvement of' is excluded from the title and will be deleted by the Office",
+          "D": "The examiner may change an unsatisfactory title by examiner's amendment at allowance"
+        },
+        "answer": "A",
+        "synthetic": true
+      }
+    },
+    "question": {
+      "question": "Which of the following is not in accordance with the provisions of the MPEP?",
+      "choices": {
+        "A": "The title of the invention should be placed at the top of the first page of the specification unless it is provided in the application data sheet.",
+        "B": "The title need not be technically accurate, but should be descriptive and should contain fewer than 10 words.",
+        "C": "Inasmuch as the words “improved,” “improvement of,” and “improvement in” are not considered as part of the title of an invention, these words should not be included at the beginning of the title of the invention and will be deleted when the Office enters the title into the Office’s computer records, and when any patent issues.",
+        "D": "If a satisfactory title is not supplied by the applicant the examiner may, at the time of allowance, change the title by examiner’s amendment. If the change to the title is the only change being made by the examiner at the time of allowance, a separate examiner’s amendment need not be prepared and the examiner is to indicate the change in title in the file.",
+        "E": "A title in a U.S. application need not be identical to the corresponding foreign filed application."
+      },
+      "answer": "B",
+      "explanation": "ANSWER: (B) is the most correct answer inasmuch as the title needs to be technically accurate and the limitation is 500 characters, not 10 words. See MPEP § 606. As to (A), (C) and (D), see MPEP §§ 606 and 606.01 on p. 600-50. As to (E), the title can be amended by the examiner.",
+      "current_law_status": "STILL_VALID",
+      "revisions": []
+    },
+    "diagnosis": {
+      "distractor_analysis": {
+        "A": "This is an accurate statement of MPEP §§ 606/606.01 -- the title does go at the top of page one unless supplied via the application data sheet, so it's not the exception being asked for.",
+        "C": "This is also accurate -- 'improved'/'improvement of'/'improvement in' really are excluded and deleted by the Office, so this isn't the odd one out.",
+        "D": "Also accurate -- the examiner really can fix an unsatisfactory title by examiner's amendment at allowance, without a separate paper if it's the only change.",
+        "E": "Also accurate -- nothing requires the U.S. title to match a corresponding foreign-filed application's title."
+      },
+      "distinguishing_fact": "The false claim is the '10 words' limit -- the actual constraint is a 500-character limit, combined with a technical-accuracy requirement the word-count claim also gets wrong.",
+      "one_line_rule": "Application title: must be technically accurate, capped at 500 characters -- there's no separate word-count limit. MPEP § 606."
+    }
+  },
+  {
+    "id": "guided-012",
+    "source_bank_id": "2002-10-16-pm-020",
+    "topic": "claims-and-112",
+    "mpep_chapter": "2100",
+    "steps": {
+      "posture": {
+        "prompt": "What stage of prosecution are we in?",
+        "choices": {
+          "A": "Pending application, non-final rejection outstanding",
+          "B": "Pending application, final rejection outstanding",
+          "C": "Application allowed, before issue fee paid",
+          "D": "Reissue application pending (patent already granted)"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "objective": {
+        "prompt": "What is the applicant trying to accomplish?",
+        "choices": {
+          "A": "Overcome an enablement objection to the specification using an available prosecution tool",
+          "B": "Overcome an obviousness rejection under 35 U.S.C. § 103",
+          "C": "Perfect a priority claim under 35 U.S.C. § 119",
+          "D": "Respond to a restriction requirement"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "doctrine": {
+        "prompt": "What rule or MPEP topic controls what can and can't cure this objection?",
+        "choices": {
+          "A": "Claims & §112 — written description, enablement, definiteness",
+          "B": "Patentability & Prior Art — novelty, obviousness, eligibility",
+          "C": "Application Types — continuations, divisions, CIPs, provisionals",
+          "D": "Deadlines & Procedure — statutory periods, extensions, petitions"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "key_fact": {
+        "prompt": "The question asks which option can NOT be used. Which fact identifies the barred option?",
+        "choices": {
+          "A": "35 U.S.C. § 113 bars drawings submitted after the filing date from being used to cure a lack-of-enabling-disclosure objection",
+          "B": "37 CFR § 1.111 allows traversing an objection with argument",
+          "C": "35 U.S.C. § 120 allows filing a continuation-in-part with new enabling disclosure",
+          "D": "37 CFR § 1.121 allows amending the specification without adding new matter"
+        },
+        "answer": "A",
+        "synthetic": true
+      }
+    },
+    "question": {
+      "question": "The specification in your client’s patent application has been objected to for lack of enablement. To overcome this objection, your client may do any of the following except:",
+      "choices": {
+        "A": "traverse the objection and specifically argue how the specification is enabling.",
+        "B": "traverse the objection and submit an additional drawing to make the specification enabling.",
+        "C": "file a continuation-in-part application that has an enabling specification.",
+        "D": "traverse the objection and file an amendment without adding new matter in an attempt to show enablement.",
+        "E": "traverse the objection and refer to prior art cited in the specification that would demonstrate that the specification is enabling to one of ordinary skill."
+      },
+      "answer": "B",
+      "explanation": "ANSWER: (B) is the most correct answer. 35 U.S.C. § 113 reads “Drawings submitted after the filing date of the application may not be used (i) to overcome any insufficiency of the specification due to lack of an enabling disclosure.” Since choice (A) may be done, 37 C.F.R. § 1.111, it is an incorrect answer to the above question. Since choice (C) may be done, 35 U.S.C. § 120, it is an incorrect answer to the above question. Since choice (D) may be done, 37 C.F.R. § 1.121, it is an incorrect answer to the above question. Since choice (E) may be done, 37 C.F.R. § 1.111, it also is an incorrect answer to the above question.",
+      "current_law_status": "STILL_VALID",
+      "revisions": []
+    },
+    "diagnosis": {
+      "distractor_analysis": {
+        "A": "Traversing with argument that the specification IS enabling is a real, available option under 37 CFR § 1.111 -- it's not the exception.",
+        "C": "Filing a CIP with new enabling disclosure is a real option under 35 U.S.C. § 120 -- a CIP can add the missing enabling detail (at the cost of a later effective date for the new matter).",
+        "D": "Amending the specification without adding new matter, to better show enablement from what's already disclosed, is a real option under 37 CFR § 1.121 -- it's not barred.",
+        "E": "Pointing to prior art already cited in the specification to show enablement to a skilled artisan is also a legitimate traversal argument under § 1.111 -- it's not barred."
+      },
+      "distinguishing_fact": "35 U.S.C. § 113 specifically bars new drawings filed after the filing date from being used to cure a lack-of-enablement objection -- every other listed tool (argument, CIP, amendment without new matter, citing existing prior art) remains available.",
+      "one_line_rule": "Post-filing-date drawings can never cure an enablement objection -- 35 U.S.C. § 113 -- even though most other traversal/amendment tools remain open."
+    }
+  },
+  {
+    "id": "guided-013",
+    "source_bank_id": "2002-10-16-pm-041",
+    "topic": "claims-and-112",
+    "mpep_chapter": "700",
+    "steps": {
+      "posture": {
+        "prompt": "What stage of prosecution are we in?",
+        "choices": {
+          "A": "Continuation-in-part application just filed, establishing filing dates",
+          "B": "Pending application, non-final rejection outstanding",
+          "C": "Application allowed, before issue fee paid",
+          "D": "Reissue application pending (patent already granted)"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "objective": {
+        "prompt": "What is being determined here?",
+        "choices": {
+          "A": "The effective filing date of each claim in a CIP application that mixes carried-over and newly added subject matter",
+          "B": "The effective filing date of the CIP application as a whole",
+          "C": "Whether the CIP properly incorporates the parent by reference",
+          "D": "Whether the new subject matter is patentably distinct from the parent's claims"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "doctrine": {
+        "prompt": "What rule or MPEP topic controls each claim's effective filing date?",
+        "choices": {
+          "A": "Claims & §112 — written description, enablement, definiteness",
+          "B": "Application Types — continuations, divisions, CIPs, provisionals",
+          "C": "Prosecution Lifecycle — office actions, replies, allowance",
+          "D": "Deadlines & Procedure — statutory periods, extensions, petitions"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "key_fact": {
+        "prompt": "Which fact is most important to sorting out the two different effective dates?",
+        "choices": {
+          "A": "Claims 11-15 are supported only by newly added subject matter that wasn't in the parent (Application 1) at all",
+          "B": "Claims 1-5 are identical to claims in Application 1",
+          "C": "Application 2 was filed five years after Application 1",
+          "D": "Application 2 added ten additional claims beyond Application 1's five"
+        },
+        "answer": "A",
+        "synthetic": true
+      }
+    },
+    "question": {
+      "question": "In 1995 Patent Agent filed a U.S. patent application containing five claims (Application 1). All five claims are fully supported under 35 USC 112 by the disclosure of Application 1. In 2000, Patent Agent filed a U.S. patent application (Application 2) that was a continuation-in-part of Application 1. Application 2 adds new subject matter to the disclosure of Application 1, and ten additional claims. Of the fifteen claims in Application 2, claims 1-5 are exactly the same as Application 1, claims 6-10 are fully supported under 35 USC 112 by the disclosure of Application 1, and claims 11-15 are fully supported under 35 USC 112 only by the newly added subject matter of Application 2. The effective filing date for claims in Application 2 is:",
+      "choices": {
+        "A": "1-15 is 2000.",
+        "B": "1-15 is 1995.",
+        "C": "1-10 is 1995.",
+        "D": "11-15 is 2000.",
+        "E": "(C) and (D)."
+      },
+      "answer": "E",
+      "explanation": "ANSWER: (E) is the most correct answer. MPEP § 706.02 page 700-20 (8th ed.), under the heading “DETERMINING THE EFFECTIVE FILING DATE OF THE APPLICATION” states “[t]he effective filing date of a U.S. application may be determined as follows: … (B) If the application is a continuation-in-part of an earlier U.S. application, any claims in the new application not supported by the specification and claims of the parent application have an effective filing date equal to the filing date of the new application. Any claims which are fully supported under 35 U.S.C. § 112 by the earlier parent application have the effective filing date of that earlier parent application.” Accordingly, the effective filing date of claims 1-10 is 1995 and the effective filing date of claims 11-15 is 2000. Answers (A) and (B) are incorrect because they do not account for the two different effective filing dates. Answers (C) and (D) are both correct, therefore answer (E) which includes both (C) and (D) is the most correct answer.",
+      "current_law_status": "STILL_VALID",
+      "revisions": []
+    },
+    "diagnosis": {
+      "distractor_analysis": {
+        "A": "Treating all 15 claims as dating to 2000 ignores that claims 1-10 are fully supported by the 1995 parent disclosure -- § 112 support, not the CIP's own filing date, controls those claims' effective date.",
+        "B": "Treating all 15 claims as dating to 1995 ignores that claims 11-15 are supported only by subject matter that didn't exist until the 2000 CIP -- they can't reach back to a disclosure that doesn't support them.",
+        "C": "This is correct as far as it goes (claims 1-10 really are 1995) but incomplete -- it omits that claims 11-15 are separately entitled to the 2000 date, which (E) captures by combining (C) and (D).",
+        "D": "This captures only half the answer (claims 11-15) and omits that claims 1-10 are separately entitled to the 1995 date -- the question needs both pieces together, which is exactly what (E) provides."
+      },
+      "distinguishing_fact": "Effective filing date is determined claim-by-claim based on § 112 support, not application-by-application -- claims fully supported by the 1995 parent get 1995; claims that need the 2000-added matter get 2000.",
+      "one_line_rule": "In a CIP, each claim gets its own effective filing date based on which disclosure actually supports it under § 112 -- a CIP doesn't uniformly inherit or lose the parent's filing date. MPEP § 706.02."
+    }
+  },
+  {
+    "id": "guided-014",
+    "source_bank_id": "2003-10-15-pm-003",
+    "topic": "patentability-and-prior-art",
+    "mpep_chapter": "2100",
+    "steps": {
+      "posture": {
+        "prompt": "What stage of prosecution are we in?",
+        "choices": {
+          "A": "Pending application, non-final rejection outstanding",
+          "B": "Pending application, final rejection outstanding",
+          "C": "On appeal to the Patent Trial and Appeal Board",
+          "D": "Reissue application pending (patent already granted)"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "objective": {
+        "prompt": "What is the applicant trying to accomplish?",
+        "choices": {
+          "A": "Overcome a § 102(b)/103 rejection of a product-by-process claim where the prior art shows an apparently identical product made a different way",
+          "B": "Overcome a § 112 written description rejection",
+          "C": "Overcome a double patenting rejection",
+          "D": "Establish that the reference isn't prior art at all"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "doctrine": {
+        "prompt": "What rule or MPEP topic controls how product-by-process claims are examined?",
+        "choices": {
+          "A": "Patentability & Prior Art — novelty, obviousness, eligibility",
+          "B": "Claims & §112 — written description, enablement, definiteness",
+          "C": "Application Anatomy — parts & content of an application",
+          "D": "Reading Exam Questions — parsing NOT/EXCEPT framing, distractors"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "key_fact": {
+        "prompt": "Which fact determines what the applicant must actually show?",
+        "choices": {
+          "A": "Once the examiner shows the product appears substantially identical to the prior art product, the burden shifts to the applicant to show an unobvious difference in the product itself",
+          "B": "The claim recites specific process steps for making the shoe",
+          "C": "The publication describes a different method of making the same-looking shoe",
+          "D": "The rejection was made under both § 102(b) and § 103"
+        },
+        "answer": "A",
+        "synthetic": true
+      }
+    },
+    "question": {
+      "question": "An applicant submits a product-by-process claim to a shoe made by a series of specific process steps. The claim is rejected over a publication under 35 USC 102(b) and 103. Assume for this question that the publication reasonably appears to show the identical shoe, but describes a different method of making the shoe. What is the proper procedure to try to overcome the rejection in accordance with the patent laws, rules and the procedures as related in the MPEP?",
+      "choices": {
+        "A": "Argue that all limitations in the claim must be given weight and that rejection must be withdrawn because the reference does not disclose the claimed method of making steps.",
+        "B": "Argue that the examiner has not carried the burden of proving that the shoes are identical.",
+        "C": "Present evidence why the steps of the claimed process produce a patentably different structure.",
+        "D": "Submit a declaration under 37 CFR 1.132 by the author of the publication describing in more detail how the shoe in the publication was made by a different method.",
+        "E": "Argue that the inventor was not aware of the publication when the invention was made."
+      },
+      "answer": "C",
+      "explanation": "ANSWER: (C) is correct. MPEP § 2113, under the heading “Once A Product Appearing To Be Substantially Identical Is Found And A 35 U.S.C. 102/103 Rejection Made, The Burden Shifts To The Applicant To Show An Unobvious Difference,” states “[o]nce the examiner provides a rationale tending to show that the claimed product appears to be the same or similar to that of the prior art, although produced by a different process, the burden shifts to applicant to come forward with evidence establishing an unobvious difference between the claimed product and the prior art product. In re Marosi, 710 F.2d 798, 802, 218 USPQ 289, 292 (Fed. Cir. 1983).” (A) is incorrect because the patentability of product-by-process claims is based on the product itself. See In re Thorpe, 227 USPQ 964, 966 (Fed. Cir. 1985). Where the end products are the same, the process of making limitations do not have to be given weight in ex parte examination. See Atlantic Thermoplastics Co. v. Faytex Corp., 23 USPQ2d 1481, 1490-91 (Fed. Cir. 1992) (product-by-process claims are treated differently for patentability purposes during ex parte examination in the USPTO than for infringement and validity purposes during litigation). (B) is incorrect because \"[o]nce the Examiner provides a rationale tending to show that the claimed product appears to be the same or similar to that of the prior art, although produced by a different process, the burden shifts to applicant to come forward with evidence establishing an unobvious difference between the claimed product and the prior art product.\" MPEP § 2113. \"To the extent that the process limitations distinguish the products over the prior art, they must be given the same consideration as traditional product characteristics.\" In re Hallman, 210 USPQ 609, 611 (CCPA 1981). Thus, (C) is correct because applicant can show by factual arguments and/or declarations or affidavits under 37 CFR § 1.132 that the method of making produces a different product and that the differences are unobvious. (D) is incorrect because it does not tend to show that the products are different. (E) is incorrect because the inventor's awareness of prior art is of no consequence to patentability.",
+      "current_law_status": "STILL_VALID",
+      "revisions": []
+    },
+    "diagnosis": {
+      "distractor_analysis": {
+        "A": "Process-of-making limitations generally aren't given patentable weight for a product-by-process claim during ex parte examination -- arguing the reference lacks the method steps doesn't address the product itself, which is what's compared.",
+        "B": "This restates the examiner's burden without meeting the applicant's burden -- once the examiner shows apparent product identity, the applicant must affirmatively show a product difference, not just question the examiner's proof.",
+        "D": "A declaration about how the publication's product was made doesn't show the products are structurally different -- it addresses the wrong burden.",
+        "E": "The inventor's awareness of the reference is irrelevant to patentability under § 102/103 -- this doesn't speak to product identity at all."
+      },
+      "distinguishing_fact": "For product-by-process claims, once the examiner shows apparent product identity, the applicant must affirmatively prove the process produces a structurally/patentably different product -- not just argue about the process steps or the examiner's proof.",
+      "one_line_rule": "Product-by-process claims are judged on the product, not the process -- once prior art looks identical, the applicant must show an unobvious product difference, not just different manufacturing steps. MPEP § 2113."
+    }
+  },
+  {
+    "id": "guided-015",
+    "source_bank_id": "2003-04-15-am-041",
+    "topic": "patentability-and-prior-art",
+    "mpep_chapter": "2100",
+    "steps": {
+      "posture": {
+        "prompt": "What stage of prosecution are we in?",
+        "choices": {
+          "A": "Pending application, non-final rejection outstanding",
+          "B": "Pending application, final rejection outstanding",
+          "C": "Application allowed, before issue fee paid",
+          "D": "On appeal to the Patent Trial and Appeal Board"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "objective": {
+        "prompt": "What is the applicant trying to accomplish?",
+        "choices": {
+          "A": "Overcome a § 103(a) obviousness rejection over a combination of two references",
+          "B": "Overcome a § 102(a) anticipation rejection",
+          "C": "Overcome a nonstatutory double patenting rejection",
+          "D": "Antedate a reference under 37 CFR 1.131"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "doctrine": {
+        "prompt": "What rule or MPEP topic controls what actually rebuts this rejection?",
+        "choices": {
+          "A": "Patentability & Prior Art — novelty, obviousness, eligibility",
+          "B": "Claims & §112 — written description, enablement, definiteness",
+          "C": "Deadlines & Procedure — statutory periods, extensions, petitions",
+          "D": "Application Anatomy — parts & content of an application"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "key_fact": {
+        "prompt": "Which fact identifies the argument that actually finds a hole in the rejection?",
+        "choices": {
+          "A": "The rejection doesn't address a claimed limitation, and neither reference actually teaches it -- a genuine gap in the prima facie case",
+          "B": "One reference is arguably nonanalogous art but still reasonably pertinent to the problem",
+          "C": "The specification states the results are unexpected, but with no supporting evidence",
+          "D": "One reference issued 105 years before the application's filing date"
+        },
+        "answer": "A",
+        "synthetic": true
+      }
+    },
+    "question": {
+      "question": "A claim in a pending patent application is rejected under 35 USC 103(a) as being obvious over Barry in view of Foreman. The Barry reference is a U.S. Patent that was issued on an application filed before the date of the application in question. In accordance with USPTO rules and procedures set forth in the MPEP, which of the following arguments, if true, would overcome the rejection?",
+      "choices": {
+        "A": "The Foreman reference is nonanalogous art, but the reference may be reasonably pertinent to Barry’s endeavor to solving the particular problem with which Barry was concerned.",
+        "B": "The rejection does not address a claimed limitation, and neither of the references teaches the claimed limitation.",
+        "C": "The Barry patent issued after the filing date of the pending patent application.",
+        "D": "The original specification states that the results achieved by the claimed invention are unexpected. (The statement is unsubstantiated by evidence).",
+        "E": "The Foreman patent issued 105 years before the filing date of the pending patent application."
+      },
+      "answer": "B",
+      "explanation": "ANSWER: (B) is the most correct answer. See MPEP § 2143.03. To establish prima facie obviousness of a claimed invention, all of the claimed limitations must be taught or suggested by the prior art. (A) is incorrect. See MPEP § 2141.01(a). Although an argument that the reference is nonanalogous art may be appropriate, it is overcome by the acknowledgment that the reference may be reasonably pertinent to the applicant’s endeavor to solving the particular problem with which the inventor was concerned. As discussed in MPEP § 2141.01(a), under the heading “To Rely On A Reference Under 35 U.S.C. 103, It Must Be Analogous Prior Art,” which quotes In re Oetiker, 977 F.2d 1443, 24 USPQ2d 1443, 1445 (Fed. Cir. 1992), to rely on a reference as a basis for rejection of the applicant’s invention, “the reference must either be in the field of the applicant’s endeavor or, if not, be reasonably pertinent to the particular problem with which the inventor was concerned.” Here, the argument acknowledges that reference may be reasonably pertinent to the applicant’s problem solving endeavor. (C) is incorrect. U.S. patents may b used as of their filing dates to show that the claimed subject matter is anticipated or obvious. See MPEP § 2136.02 under the heading “The Supreme Court Has Authorized 35 U.S.C. 103 Rejections Based On 35 USC 102(e).” (D) is incorrect. MPEP § 716.01(c), under the heading, “To Be Of Probative Value, Any Objective Evidence Should Be Supported By Actual Proof,” states “Objective evidence which must be factually supported by an appropriate affidavit or declaration to be of probative value includes evidence of unexpected results….” It also quotes from In re De Blauwe, 736 F.2d 699, 222 USPQ 191, 196 (Fed. Cir. 1984), “It is well settled that unexpected results must be established by factual evidence. Mere argument or conclusory statements in the specification does not suffice.” De Blauwe, 736 F.2d at 705, 222 USPQ at 196. Here, the conclusory statement in the specification does not suffice. (E) is incorrect. MPEP § 2145, subsection VIII (under the heading “Arguing About The Age Of References”), quoting from In re Wright, 569 F.2d 1124, 193 USPQ 332, 335 (CCPA 1977), states “The mere age of the references is not persuasive of the unobviousness of the combination of their teachings, absent evidence that, notwithstanding knowledge of the references, the art tried and failed to solve the problem.” Here, the mere fact that the Foreman patent issued 105 years before the filing date of the pending patent application is unpersuasive of the non-obviousness of the applicant’s claim",
+      "current_law_status": "STILL_VALID",
+      "revisions": []
+    },
+    "diagnosis": {
+      "distractor_analysis": {
+        "A": "Acknowledging the reference is 'reasonably pertinent to the problem' actually satisfies the analogous-art test -- this argument concedes the very point it would need to defeat.",
+        "C": "A patent's issue date doesn't limit its use as prior art for anticipation/obviousness -- it's usable as of its filing date, so an earlier-filed-but-later-issued reference is still fair game.",
+        "D": "Unexpected results require actual evidentiary support (affidavit/declaration) -- an unsubstantiated statement in the specification carries no weight to rebut obviousness.",
+        "E": "Mere age of a reference isn't persuasive of nonobviousness by itself -- there's no evidence here that the art tried and failed despite knowing the old reference."
+      },
+      "distinguishing_fact": "Only (B) identifies an actual hole in the examiner's prima facie case -- every claimed limitation has to be taught or suggested by the references; the others are either self-defeating concessions or arguments the MPEP specifically says don't work on their own.",
+      "one_line_rule": "To rebut a prima facie obviousness rejection, show that a claimed limitation isn't actually taught or suggested by the combined references -- vague appeals to reference age, unsupported 'unexpected results,' or conceding pertinence don't work alone. MPEP § 2143.03."
+    }
+  },
+  {
+    "id": "guided-016",
+    "source_bank_id": "2003-10-15-pm-027",
+    "topic": "patentability-and-prior-art",
+    "mpep_chapter": "2100",
+    "steps": {
+      "posture": {
+        "prompt": "What stage of prosecution are we in?",
+        "choices": {
+          "A": "Pending application, non-final rejection outstanding",
+          "B": "Application allowed, before issue fee paid",
+          "C": "Granted patent, post-issuance (no reissue/reexam pending)",
+          "D": "Reissue application pending (patent already granted)"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "objective": {
+        "prompt": "What is being tested here?",
+        "choices": {
+          "A": "What does and doesn't count as an 'on sale' event that can trigger the § 102(b) bar",
+          "B": "What counts as a 'printed publication' under § 102(b)",
+          "C": "What counts as prior public use under § 102(b)",
+          "D": "The on-sale bar's one-year grace-period start date"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "doctrine": {
+        "prompt": "What rule or MPEP topic controls the scope of the on-sale bar?",
+        "choices": {
+          "A": "Patentability & Prior Art — novelty, obviousness, eligibility",
+          "B": "Application Types — continuations, divisions, CIPs, provisionals",
+          "C": "Deadlines & Procedure — statutory periods, extensions, petitions",
+          "D": "Claims & §112 — written description, enablement, definiteness"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "key_fact": {
+        "prompt": "The question asks which is NOT within the scope of 'on sale.' Which fact identifies the one that falls outside it?",
+        "choices": {
+          "A": "A sale/offer of patent rights in the invention (not the physical invention itself) is not a 'sale' of the invention under § 102(b)",
+          "B": "The sale was conditioned on buyer satisfaction",
+          "C": "The sale generated no profit",
+          "D": "Only a single sale of the claimed subject matter occurred"
+        },
+        "answer": "A",
+        "synthetic": true
+      }
+    },
+    "question": {
+      "question": "In accordance with the patent laws, rules and procedures as related in the MPEP, which of the following is not within the scope of the term “on sale” as it is used in 35 USC 102(b)?",
+      "choices": {
+        "A": "A sale conditioned on buyer satisfaction.",
+        "B": "A sale that did not result in a profit.",
+        "C": "A single sale of the claimed subject matter.",
+        "D": "A commercial offer to sale the claimed subject matter.",
+        "E": "An offer to sale the patent rights in the claimed subject matter."
+      },
+      "answer": "E",
+      "explanation": "ANSWER: (E) is the most correct answer. As set forth in MPEP § 2133.03(b), under the heading “I The Meaning Of ‘Sale’,” subheading “A Sale of Rights Is Not a Sale of the Invention and Will Not in Itself Bar a Patent,” “[a]n assignment or sale of the rights, such as patent rights, in the invention is not a sale of ‘the invention’ within the meaning of section 102(b). The sale must involve the delivery of the physical invention itself. Moleculon Research Corp. v. CBS, Inc., 793 F.2d 1261, 1265, 229 USPQ 805, 809 (Fed. Cir. 1986).” (A) is incorrect because it is within the scope of “on sale” as it is used in 35 U.S.C. § 102(b). MPEP § 2133.03(b), under the heading “I. The Meaning Of ‘Sale’,” subheading “A. Conditional Sale May Bar a Patent,” states “[a]n invention may be deemed to be ‘on sale’ even though the sale was conditional. The fact that the sale is conditioned on buyer satisfaction does not, without more, prove that the sale was for an experimental purpose. Strong v. General Elec. Co., 434 F.2d 1042, 1046, 168 USPQ 8, 12 (5th Cir. 1970).” (B) is incorrect because it is within the scope of “on sale” as it is used in 35 U.S.C. § 102(b). MPEP § 2133.03(b), under the heading “I. The Meaning Of ‘Sale’,” subheading “Nonprofit Sale May Bar a Patent,” states “[a] ‘sale’ need not be for profit to bar a patent. If the sale was for the commercial exploitation of the invention, it is ‘on sale’ within the meaning of 35 U.S.C. 102(b). In re Dybel, 524 F.2d 1393, 1401, 187 USPQ 593, 599 (CCPA 1975) (‘Although selling the devices for a profit would have demonstrated the purpose of commercial exploitation, the fact that appellant realized no profit from the sales does not demonstrate the contrary.’). (C) is incorrect because it is within the scope of “on sale” as it is used in 35 U.S.C. § 102(b). MPEP § 2133.03(b), under the heading “I. The Meaning Of ‘Sale’,” subheading “A Single Sale or Offer To Sell May Bar a Patent,” states “[e]ven a single sale or offer to sell the invention may bar patentability under 35 U.S.C. 102(b). Consolidated Fruit-Jar Co. v. Wright, 94 U.S. 92, 94 (1876); Atlantic Thermoplastics Co. v. Faytex Corp., 970 F.2d 834, 836-37, 23 USPQ2d 1481, 1483 (Fed. Cir. 1992).” (D) is incorrect because it is within the scope of “on sale” as it is used in 35 U.S.C. § 102(b). MPEP § 2133.03(b) quotes Group One, Ltd. v. Hallmark Cards, Inc., 254 F.2d 1041, 1047, 59 USPQ2d 1121, 1126 (Fed. Cir. 2001) as stating “As a general proposition, we look to the Uniform Commercial Code (‘UCC’) to define whether … a communication or series of communications rises to the level of a commercial offer for sale.”",
+      "current_law_status": "STILL_VALID",
+      "revisions": []
+    },
+    "diagnosis": {
+      "distractor_analysis": {
+        "A": "A conditional sale (buyer satisfaction) is still within the on-sale bar's scope -- conditioning a sale on satisfaction doesn't automatically make it experimental use.",
+        "B": "Profit isn't required -- a nonprofit commercial-exploitation sale still counts as 'on sale' under § 102(b).",
+        "C": "Even a single sale or offer to sell can trigger the bar -- there's no minimum-volume threshold.",
+        "D": "A commercial offer to sell is squarely within 'on sale' -- that's the paradigm case, not an exception."
+      },
+      "distinguishing_fact": "The on-sale bar requires delivery/sale of the physical invention itself -- selling or assigning the patent rights (as opposed to the invention) is a completely different transaction and doesn't trigger § 102(b) on its own.",
+      "one_line_rule": "'On sale' under § 102(b) means a sale of the physical invention -- selling the patent rights instead is not a sale of 'the invention' and doesn't by itself trigger the bar. MPEP § 2133.03(b)."
+    }
+  },
+  {
+    "id": "guided-017",
+    "source_bank_id": "2003-04-15-am-026",
+    "topic": "deadlines-and-procedure",
+    "mpep_chapter": "600",
+    "steps": {
+      "posture": {
+        "prompt": "What stage of prosecution are we in?",
+        "choices": {
+          "A": "Application allowed, before issue fee paid",
+          "B": "Application allowed, after issue fee paid",
+          "C": "Pending application, non-final rejection outstanding",
+          "D": "Reissue application pending (patent already granted)"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "objective": {
+        "prompt": "What is the practitioner trying to accomplish?",
+        "choices": {
+          "A": "Get a reference the client has known about since before filing onto the record as having been considered, without a valid basis for the required certification",
+          "B": "File a timely IDS within three months of the first Office action",
+          "C": "File an IDS with no certification and no fee, before any Office action",
+          "D": "Correct inventorship after allowance"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "doctrine": {
+        "prompt": "What rule or MPEP topic controls whether this specific path works?",
+        "choices": {
+          "A": "Deadlines & Procedure — statutory periods, extensions, petitions",
+          "B": "Application Anatomy — parts & content of an application",
+          "C": "Prosecution Lifecycle — office actions, replies, allowance",
+          "D": "System Vocabulary — agency structure & practitioner authority"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "key_fact": {
+        "prompt": "The question asks which action would NOT be proper. Which fact explains why?",
+        "choices": {
+          "A": "The client knew about the reference before the application was even filed -- more than three months before the IDS would be filed",
+          "B": "The IDS is being filed before the issue fee is paid",
+          "C": "The notice of allowance was mailed January 3, 2003",
+          "D": "The reference is one of many patents held by a competitor"
+        },
+        "answer": "A",
+        "synthetic": true
+      }
+    },
+    "question": {
+      "question": "A registered practitioner filed a utility application on February 11, 2002. On April 4, 2002, the practitioner filed an information disclosure statement (IDS) in the application. The practitioner received a notice of allowance dated January 3, 2003 soon after it was mailed. When discussing the application with the practitioner on January 21, 2003, and before paying the issue fee, the client notices for the first time that a reference, which is one of many patents obtained by the client’s competitor, was inadvertently omitted from the IDS. The client has been aware of this reference since before the application was filed. The client is anxious to have this reference appear on the face of the patent as having been considered by the USPTO. Which of the following actions, if taken by the practitioner, would not be in accord with the USPTO rules and the procedures set forth in the MPEP?",
+      "choices": {
+        "A": "Before paying the issue fee, timely file an IDS citing the reference, along with the certification specified in 37 CFR 1.97(e), and any necessary fees.",
+        "B": "Within three months of the mail date of the notice of allowance, without paying the issue fee, timely file a Request for Continued Examination (RCE) under 37 CFR 1.114, accompanied by the fee for filing an RCE, and an IDS citing the reference.",
+        "C": "Within three months of the mail date of the notice of allowance, without paying the issue fee, timely file a continuing application under 37 CFR 1.53(b), an IDS citing the reference, and any necessary fees.",
+        "D": "After paying the issue fee, timely file a petition to withdraw the application from issue to permit the express abandonment of the application in favor of a continuing application, a continuation application under 37 CFR 1.53(b), an IDS citing the reference, and any necessary fees.",
+        "E": "After paying the issue fee, timely file a petition to withdraw the application from issue to permit consideration of a Request for Continued Examination (RCE) under 37 CFR 1.114, the fee for filing an RCE, and an IDS citing the reference."
+      },
+      "answer": "A",
+      "explanation": "ANSWER: Answer (A), describing a procedure that is not in accordance with the USPTO rules and the procedures set forth in the MPEP, is the most correct answer. See MPEP § 609, under the heading “Minimum Requirements for an Information Disclosure Statement,” and subheading “B(3). Information Disclosure Statement Filed After B(2), but Prior to Payment of Issue Fee 37 CFR 1.97 (d)”, and subheading “B(5) Statement Under 37 CFR 1.97(e).” The statement specified in 37 CFR § 1.97(e) requires that the practitioner certify, after reasonable inquiry, that no item of information contained in the IDS was known to any individual designated in 37 CFR § 1.56(c) more than three months prior to the filing of the information disclosure statement. The practitioner cannot certify this because the reference was known to the client before February 11, 2002, the time of filing of the utility application, which was more than three months prior to the filing of the information disclosure statement. Answer (B), stating a procedure that conforms with the USPTO rules and the procedures set forth in the MPEP, is an incorrect answer. Under 37 CFR § 1.313(a), a petition to withdraw the application from issue is not required if a proper RCE is filed before payment of the issue fee. Answer (C), stating a procedure that conforms with the USPTO rules and the procedures set forth in the MPEP, is an incorrect answer. A practitioner can file a continuing application on or before the date that the issue fee is due and permit the parent application to become abandoned for failure to pay the issue fee. Answer (D), stating a procedure that conforms with the USPTO rules and the procedures set forth in the MPEP, is an incorrect answer. Under 37 CFR § 1.313(c)(3), a petition to withdraw the application from issue can be filed after payment of the issue fee to permit the express abandonment of the application in favor of a continuing application. Answer (E), stating a procedure that conforms with the USPTO rules and the procedures set forth in the MPEP, is an incorrect answer. Under 37 CFR § 1.313(c)(2), a petition to withdraw the application from issue can be filed after payment of the issue fee to permit consideration of a Request for Continued Examination (RCE) under 37 CFR § 1.114. See also MPEP § 1308.",
+      "current_law_status": "STILL_VALID",
+      "revisions": []
+    },
+    "diagnosis": {
+      "distractor_analysis": {
+        "B": "Filing an RCE before paying the issue fee, with a new IDS, is a valid path -- no petition to withdraw from issue is required before the issue fee is paid, per 37 CFR § 1.313(a).",
+        "C": "Filing a continuing application before the issue fee is due, letting the parent go abandoned, is also a valid path to get the reference considered.",
+        "D": "After the issue fee is paid, a petition to withdraw from issue to permit express abandonment in favor of a continuation is expressly authorized by 37 CFR § 1.313(c)(3).",
+        "E": "After the issue fee is paid, a petition to withdraw from issue to permit an RCE is expressly authorized by 37 CFR § 1.313(c)(2)."
+      },
+      "distinguishing_fact": "The 37 CFR § 1.97(e) certification required for a pre-issue-fee IDS requires that no one connected with the application knew of the reference more than three months before the IDS is filed -- here the client knew about it before filing, so that certification can't honestly be made.",
+      "one_line_rule": "A late IDS's § 1.97(e) certification fails if anyone involved knew of the reference more than 3 months before the IDS is filed -- use an RCE or continuation path instead, not a bare IDS. MPEP § 609."
+    }
+  },
+  {
+    "id": "guided-018",
+    "source_bank_id": "2002-10-16-am-048",
+    "topic": "patentability-and-prior-art",
+    "mpep_chapter": "800",
+    "steps": {
+      "posture": {
+        "prompt": "What stage of prosecution are we in?",
+        "choices": {
+          "A": "Pending application, non-final rejection outstanding",
+          "B": "On appeal to the Patent Trial and Appeal Board",
+          "C": "Granted patent, post-issuance (no reissue/reexam pending)",
+          "D": "Reissue application pending (patent already granted)"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "objective": {
+        "prompt": "What is being tested here?",
+        "choices": {
+          "A": "Correctly applying the Graham v. John Deere factual inquiries to an obviousness-type double patenting determination",
+          "B": "Correctly applying the Graham factors to a standard § 103 obviousness rejection over prior art",
+          "C": "Determining whether a terminal disclaimer is required",
+          "D": "Determining whether the application and patent share a common inventor"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "doctrine": {
+        "prompt": "What rule or MPEP topic controls which factual inquiries apply here?",
+        "choices": {
+          "A": "Patentability & Prior Art — novelty, obviousness, eligibility",
+          "B": "Appeals, PCT & Post-Grant — appeals, PCT, reissue, reexam",
+          "C": "Claims & §112 — written description, enablement, definiteness",
+          "D": "Deadlines & Procedure — statutory periods, extensions, petitions"
+        },
+        "answer": "A",
+        "synthetic": true
+      },
+      "key_fact": {
+        "prompt": "Which fact explains why every listed inquiry turns out to be properly employed?",
+        "choices": {
+          "A": "The obviousness-type double patenting analysis parallels a § 103(a) obviousness analysis and uses the same Graham factual inquiries",
+          "B": "The rejection is against an issued patent claim, not prior art",
+          "C": "Level of ordinary skill in the art is one specific listed inquiry",
+          "D": "Objective indicia of nonobviousness is one specific listed inquiry"
+        },
+        "answer": "A",
+        "synthetic": true
+      }
+    },
+    "question": {
+      "question": "The MPEP and USPTO rules and procedure set out factual inquiries that are employed when making an obviousness-type double patenting analysis. Which of the following is not a factual inquiry that would be properly employed when making an obviousness-type double patenting determination with regard to a pending application vis-a-vis a claim in an issued patent?",
+      "choices": {
+        "A": "Determine the level of ordinary skill in the pertinent art.",
+        "B": "Determine the scope and content of a patent claim and the prior art relative to a claim in the application at issue.",
+        "C": "Evaluate any objective indicia of nonobviousness of the claim of the application at issue.",
+        "D": "Determine the differences between the scope and content of: the patent claim and the prior art determined in choice (B) above and the claim in the application at issue.",
+        "E": "None of the above (that is, each of the above factual inquiries is properly employed when making an obviousness-type double patenting determination with regard to an issued patent)."
+      },
+      "answer": "E",
+      "explanation": "ANSWER: Choice (E) is the correct answer. MPEP § 804, subpart (II)(B)(1), reads, “Since the analysis employed in an obviousness-type double patenting determination parallels the guidelines for a 35 U.S.C. § 103(a) rejection, the factual inquiries set forth in Graham v. John Deere Co., 383 U.S. 1, 138 USPQ 459 (1966), that are applied for establishing a background for determining obviousness under 35 U.S.C. § 103 are employed when making an obvious-type double patenting analysis.” Each of choices (A), (B), (C), and (D) is incorrect because it is a factual inquiry set forth in Graham v. John Deere Co.",
+      "current_law_status": "STILL_VALID",
+      "revisions": []
+    },
+    "diagnosis": {
+      "distractor_analysis": {
+        "A": "Level of ordinary skill in the art IS one of the Graham factual inquiries employed here -- it's not the exception.",
+        "B": "Determining scope/content of the patent claim and prior art relative to the application's claim IS one of the Graham inquiries -- not the exception.",
+        "C": "Objective indicia of nonobviousness IS considered in this analysis too -- not the exception.",
+        "D": "Determining the differences between the two claim scopes IS the classic third Graham inquiry -- not the exception."
+      },
+      "distinguishing_fact": "All four listed inquiries are genuinely part of the Graham analysis that carries over into obviousness-type double patenting -- the question is testing whether you recognize that none of them is actually excluded, which is why 'none of the above' is correct.",
+      "one_line_rule": "Obviousness-type double patenting analysis borrows the full Graham v. John Deere factual framework (skill level, scope/content, differences, objective indicia) wholesale from § 103 obviousness. MPEP § 804."
+    }
+  }
+]

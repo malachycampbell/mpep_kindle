@@ -172,20 +172,99 @@ also carries a loose, non-authoritative `related_topics` mapping back to the
 9 topics above, for later features that need to cross-reference a
 Foundations topic to the MPEP chapter(s) it roughly falls under.
 
+## Guided Questions (`guided.json`)
+
+Exam-Transfer Training Initiative, Phase 2. Closes the "I know the rule but
+miss it on a real question" gap by walking through the *reasoning process*
+around a real historical question instead of jumping straight to five
+answer choices. Each card wraps one authentic, already-audited historical
+question (identified by `source_bank_id`, verbatim from `bank.json`) with
+four synthetic scaffolding steps and a diagnosis:
+
+```json
+{
+  "id": "guided-001",
+  "source_bank_id": "2003-04-15-am-008",
+  "topic": "appeals-pct-postgrant",
+  "mpep_chapter": "1200",
+  "steps": {
+    "posture": { "prompt": "...", "choices": {"A": "...", ...}, "answer": "A", "synthetic": true },
+    "objective": { "...": "same shape" },
+    "doctrine": { "...": "same shape, choices are the 9 Foundations topic labels" },
+    "key_fact": { "...": "same shape" }
+  },
+  "question": {
+    "question": "...", "choices": {...}, "answer": "E", "explanation": "...",
+    "current_law_status": "STILL_VALID", "revisions": []
+  },
+  "diagnosis": {
+    "distractor_analysis": { "A": "why (A) is wrong", "B": "...", "D": "..." },
+    "distinguishing_fact": "...",
+    "one_line_rule": "..."
+  }
+}
+```
+
+- `source_bank_id` / `question`: the `question` block is copied **verbatim**
+  from the `bank.json` card at `source_bank_id` (same `question`, `choices`,
+  `answer`, `explanation`, `current_law_status`, `revisions`) — never
+  reworded. This is the one non-synthetic part of the card.
+- `steps.*`: four scaffolding questions (procedural posture, objective,
+  controlling doctrine, key fact), each `{prompt, choices, answer,
+  synthetic: true}` — explicitly flagged synthetic since they're new
+  content, not part of the original exam question. `doctrine`'s choices are
+  drawn from the same 9 Foundations topic labels (see Topic taxonomy above)
+  so it reuses that taxonomy instead of inventing a new one; the app looks
+  up `mpep_chapter` in `mpep_chapters.json` to show a chapter tie-in after
+  this step.
+- `topic` / `mpep_chapter`: the *correct* doctrine/chapter for this
+  question, reusing the Foundations topic slugs and the Phase 1 chapter
+  list — not a new taxonomy.
+- `diagnosis.distractor_analysis`: one entry per *wrong* letter in
+  `question.choices` (i.e. every key except `question.answer`), explaining
+  specifically why that choice is wrong — grounded in the original card's
+  own `explanation`, not invented reasoning.
+
+The app (`docs/app.js`) renders steps 1-4 and the real question through the
+same shuffled-choice rendering as Flashcards/Quiz (so posture/objective/
+key-fact/doctrine choices are never positionally biased toward any one
+letter), and appends one entry to a separate attempt log
+(`localStorage` key `mpep-attempts-v1`) per step — see "Progress storage"
+below.
+
 ## GitHub Pages interface
 
 `../docs/` is the study interface (`docs/index.html`, `docs/app.js`,
 `docs/styles.css`) that GitHub Pages serves. It reads its data from
-`docs/data/bank.json` and `docs/data/foundations.json`, which are **copies**
-of this folder's `bank.json` and `foundations.json` (GitHub Pages can only
-serve files under the configured Pages source folder, so the app can't
-fetch `../flashcards/*.json` directly). After editing either file, re-sync
-both copies:
+`docs/data/*.json`, which are **copies** of this folder's `bank.json`,
+`foundations.json`, `guided.json`, and `mpep_chapters.json` (GitHub Pages
+can only serve files under the configured Pages source folder, so the app
+can't fetch `../flashcards/*.json` directly). After editing any of them,
+re-sync all four copies:
 
 ```
 cp flashcards/bank.json docs/data/bank.json
 cp flashcards/foundations.json docs/data/foundations.json
+cp flashcards/guided.json docs/data/guided.json
+cp flashcards/mpep_chapters.json docs/data/mpep_chapters.json
 ```
+
+### Progress storage
+
+Per-card spaced-repetition state (Leitner box/due date, shared by
+Flashcards, Quiz, and the real-question step of Guided Questions) lives in
+`localStorage` under `mpep-flashcards-progress-v1`, unchanged from Phase 3.
+
+A separate, append-only attempt log lives under `mpep-attempts-v1`: one
+entry per graded pick (Flashcards grade, Quiz answer, or any Guided
+Questions step), `{cardId, deck, mode, guidedStep, selectedChoice,
+correctChoice, correct, topic, mpepChapter, timestamp, errorCategory?}`.
+This is additive to (not a replacement for) the per-card rollup above --
+`progress[id]` still only holds the *latest* state per card, while
+`mpep-attempts-v1` retains full history for future error-pattern analytics
+(Exam-Transfer Training Initiative, Phase 3). `errorCategory` is set only
+for Guided Questions' real-question step, when missed, from a fixed
+11-item taxonomy (`ERROR_TAXONOMY` in `docs/app.js`).
 
 Progress (per-card review state) is stored client-side in the browser's
 `localStorage`, not in this repo. Card `id`s are namespaced so the two decks

@@ -25,6 +25,17 @@ in the same `localStorage` store:
 - **Historical Exam Bank** -- the original 238-card audited-Patent-Bar-question
   deck (`flashcards/bank.json`), unchanged from Phase 3. Filterable by exam
   session/part/current-law status, same as before.
+- **Guided Questions** -- a step-by-step reasoning drill (`flashcards/guided.json`,
+  18 cards), built to close the "I know the rule but miss it on a real
+  question" gap rather than test recall. Picking this deck skips Mode/Flashcards/
+  Quiz entirely (there's no separate mode -- Guided has its own fixed flow) and
+  goes straight into: procedural posture -> objective -> controlling doctrine
+  (with an MPEP chapter tie-in from `flashcards/mpep_chapters.json`) -> key
+  fact -> the real, authentic historical question -> a diagnosis screen. Only
+  the real-question step feeds the shared Leitner progress store; every step
+  (including the scaffolding ones) is logged to a separate attempt history in
+  `localStorage` (key `mpep-attempts-v1`) for future error-pattern analytics.
+  See `flashcards/README.md` for the full schema.
 
 Every card, in either deck, can carry a "Source / details" disclosure under
 the answer with its citations (`sources[]` on Foundations cards; historical

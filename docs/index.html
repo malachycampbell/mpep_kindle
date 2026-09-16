@@ -23,9 +23,10 @@
         <legend>Deck</legend>
         <label><input type="radio" name="f-deck" value="foundation" checked> Foundations <span class="hint">(vocabulary &amp; concepts)</span></label>
         <label><input type="radio" name="f-deck" value="historical"> Historical Exam Bank <span class="hint">(audited Patent Bar questions)</span></label>
+        <label><input type="radio" name="f-deck" value="guided"> Guided Questions <span class="hint">(step-by-step reasoning practice)</span></label>
       </fieldset>
 
-      <fieldset>
+      <fieldset id="mode-fieldset">
         <legend>Mode</legend>
         <label><input type="radio" name="f-mode" value="study" checked> Flashcards <span class="hint">(self-graded, no spaced repetition pressure)</span></label>
         <label><input type="radio" name="f-mode" value="quiz"> Quiz <span class="hint">(pick an answer, auto-graded, optional timer)</span></label>
@@ -183,6 +184,66 @@
     <div class="study-actions">
       <button id="quiz-submit-btn" class="primary-btn" disabled>Submit answer</button>
       <button id="quiz-next-btn" class="primary-btn" hidden>Next question</button>
+    </div>
+  </section>
+
+  <!-- GUIDED QUESTIONS: STEP SCREEN (posture / objective / doctrine / key fact / the question) -->
+  <section id="screen-guided-step" class="screen" hidden>
+    <div class="study-progress">
+      <div class="progress-bar"><div id="guided-progress-fill" class="progress-fill"></div></div>
+      <span id="guided-progress-label">Card 1 / 1 · Step 1 / 6</span>
+      <button id="guided-end-btn" class="text-btn">End</button>
+    </div>
+
+    <div id="guided-card" class="card">
+      <div class="card-meta">
+        <span id="guided-step-label" class="step-label"></span>
+        <span id="guided-badge" class="badge" hidden></span>
+      </div>
+
+      <div class="card-question" id="guided-fact-pattern"></div>
+      <p class="guided-prompt" id="guided-prompt"></p>
+
+      <div id="guided-choices" class="choices"></div>
+
+      <div id="guided-result-block" class="answer-block" hidden>
+        <p class="answer-line" id="guided-result-line"></p>
+        <div id="guided-explanation" class="explanation" hidden></div>
+        <div id="guided-revisions" class="revisions" hidden></div>
+        <div id="guided-chapter-tie-in" class="why-it-matters" hidden></div>
+      </div>
+    </div>
+
+    <div class="study-actions">
+      <button id="guided-submit-btn" class="primary-btn" disabled>Submit</button>
+      <button id="guided-continue-btn" class="primary-btn" hidden>Continue</button>
+    </div>
+  </section>
+
+  <!-- GUIDED QUESTIONS: DIAGNOSIS SCREEN -->
+  <section id="screen-guided-diagnosis" class="screen" hidden>
+    <div class="panel">
+      <h2 id="guided-diagnosis-heading">Correct!</h2>
+
+      <div id="guided-diagnosis-correct">
+        <p class="why-it-matters" id="guided-rule-reminder"></p>
+      </div>
+
+      <div id="guided-diagnosis-incorrect" hidden>
+        <p>Before we explain — why do you think you missed it?</p>
+        <div id="guided-error-taxonomy" class="choices"></div>
+
+        <div id="guided-diagnosis-detail" class="answer-block" hidden>
+          <p class="answer-line"><strong>Why the correct answer is correct</strong></p>
+          <div id="guided-why-correct" class="explanation"></div>
+          <p class="answer-line"><strong>Why your answer was wrong</strong></p>
+          <div id="guided-why-yours-wrong" class="explanation"></div>
+          <p class="why-it-matters"><strong>Distinguishing fact:</strong> <span id="guided-distinguishing-fact"></span></p>
+          <p class="why-it-matters"><strong>Rule to remember:</strong> <span id="guided-one-line-rule"></span></p>
+        </div>
+      </div>
+
+      <button id="guided-diagnosis-continue-btn" class="primary-btn" hidden>Continue</button>
     </div>
   </section>
 
