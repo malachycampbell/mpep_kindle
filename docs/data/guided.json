@@ -115,7 +115,7 @@
         "synthetic": true
       },
       "key_fact": {
-        "prompt": "Which fact is most important to which fix is available?",
+        "prompt": "Which fact determines which fix is available here?",
         "choices": {
           "A": "The rejection is nonstatutory (obviousness-type) double patenting, not statutory double patenting",
           "B": "The application and the patent share a common inventor",
@@ -343,12 +343,12 @@
         "synthetic": true
       },
       "key_fact": {
-        "prompt": "The question asks what is NOT required. Which fact identifies the one requirement that doesn't actually exist?",
+        "prompt": "This question is framed as NOT/EXCEPT. Which of these statements about foreign priority is actually FALSE?",
         "choices": {
-          "A": "35 U.S.C. § 119 priority does not require the U.S. application to list the same inventive entity as the foreign application",
+          "A": "The U.S. application must list the same inventive entity as the foreign application",
           "B": "The priority claim must identify the foreign application and its filing country",
-          "C": "The processing fee applies if the priority claim is made after the issue fee is paid",
-          "D": "The priority claim must be filed in the application itself"
+          "C": "A processing fee applies if the priority claim is made after the issue fee is paid",
+          "D": "The priority claim must actually be made in the application itself"
         },
         "answer": "A",
         "synthetic": true
@@ -462,23 +462,23 @@
     "mpep_chapter": "700",
     "steps": {
       "posture": {
-        "prompt": "What stage of prosecution are we in?",
+        "prompt": "This question compares five different scenarios. What general procedural context do they all share?",
         "choices": {
-          "A": "Pending application, final rejection outstanding",
-          "B": "Pending application, non-final rejection outstanding",
-          "C": "Application allowed, before issue fee paid",
-          "D": "On appeal to the Patent Trial and Appeal Board"
+          "A": "Pending application, docketing a reply after a final Office action",
+          "B": "Pending application, before any Office action has issued",
+          "C": "Application allowed, after the issue fee has been paid",
+          "D": "Application abandoned, a petition to revive is pending"
         },
         "answer": "A",
         "synthetic": true
       },
       "objective": {
-        "prompt": "What is being tested here?",
+        "prompt": "What is the practitioner ultimately trying to determine, across these five scenarios?",
         "choices": {
-          "A": "Which action actually needs a paid petition for an extension of time, versus one that's free because it's within the running statutory period",
-          "B": "Which action can never be extended under any circumstances",
-          "C": "Which action requires abandoning the application",
-          "D": "Which action requires a Certificate of Mailing"
+          "A": "Whether a specific reply is timely enough to avoid an extension-of-time fee",
+          "B": "Whether the application should be abandoned",
+          "C": "Whether the examiner's rejection was proper on the merits",
+          "D": "Whether a Certificate of Mailing was used"
         },
         "answer": "A",
         "synthetic": true
@@ -701,12 +701,12 @@
         "synthetic": true
       },
       "objective": {
-        "prompt": "What is being tested here?",
+        "prompt": "What is the applicant ultimately trying to secure here?",
         "choices": {
-          "A": "What's actually required to be accorded an international filing date under PCT Article 11",
-          "B": "What's required to enter the U.S. national stage",
-          "C": "What language the application must be filed in",
-          "D": "Who is authorized to sign the international Request"
+          "A": "An international filing date for the application, despite one of these irregularities",
+          "B": "Entry into the U.S. national stage",
+          "C": "Compliance with the language requirements for the Request",
+          "D": "Confirmation that the signer was authorized to sign the Request"
         },
         "answer": "A",
         "synthetic": true
@@ -799,11 +799,11 @@
         "synthetic": true
       },
       "key_fact": {
-        "prompt": "The question asks which statement is NOT accurate. Which fact identifies the false one?",
+        "prompt": "This question is framed as NOT in accordance. Which of these statements about application titles is actually FALSE?",
         "choices": {
-          "A": "The title limit is 500 characters, not a 10-word limit -- and it must be technically accurate",
-          "B": "The title should be placed at the top of the first page unless given in the application data sheet",
-          "C": "'Improved'/'improvement of' is excluded from the title and will be deleted by the Office",
+          "A": "The title need not be technically accurate, and is limited to fewer than 10 words",
+          "B": "The title goes at the top of the first page unless supplied via the application data sheet",
+          "C": "'Improved'/'improvement of'/'improvement in' are excluded from the title and deleted by the Office",
           "D": "The examiner may change an unsatisfactory title by examiner's amendment at allowance"
         },
         "answer": "A",
@@ -875,12 +875,12 @@
         "synthetic": true
       },
       "key_fact": {
-        "prompt": "The question asks which option can NOT be used. Which fact identifies the barred option?",
+        "prompt": "This question is framed as an EXCEPT. Which of these tools is actually NOT available to overcome an enablement objection?",
         "choices": {
-          "A": "35 U.S.C. § 113 bars drawings submitted after the filing date from being used to cure a lack-of-enabling-disclosure objection",
-          "B": "37 CFR § 1.111 allows traversing an objection with argument",
-          "C": "35 U.S.C. § 120 allows filing a continuation-in-part with new enabling disclosure",
-          "D": "37 CFR § 1.121 allows amending the specification without adding new matter"
+          "A": "Submitting a new drawing, filed after the filing date, to show enablement",
+          "B": "Traversing the objection with argument that the specification is enabling",
+          "C": "Filing a continuation-in-part with new enabling disclosure",
+          "D": "Amending the specification without adding new matter"
         },
         "answer": "A",
         "synthetic": true
@@ -1157,12 +1157,12 @@
         "synthetic": true
       },
       "objective": {
-        "prompt": "What is being tested here?",
+        "prompt": "What is the practitioner ultimately trying to determine?",
         "choices": {
-          "A": "What does and doesn't count as an 'on sale' event that can trigger the § 102(b) bar",
-          "B": "What counts as a 'printed publication' under § 102(b)",
-          "C": "What counts as prior public use under § 102(b)",
-          "D": "The on-sale bar's one-year grace-period start date"
+          "A": "Whether a specific sale or offer event falls within the on-sale bar's scope",
+          "B": "Whether a specific disclosure counts as a 'printed publication'",
+          "C": "Whether a specific disclosure counts as prior public use",
+          "D": "When the on-sale bar's one-year grace period begins to run"
         },
         "answer": "A",
         "synthetic": true
@@ -1179,12 +1179,12 @@
         "synthetic": true
       },
       "key_fact": {
-        "prompt": "The question asks which is NOT within the scope of 'on sale.' Which fact identifies the one that falls outside it?",
+        "prompt": "This question is framed as NOT within the scope. Which of these is actually OUTSIDE the 'on sale' bar's scope?",
         "choices": {
-          "A": "A sale/offer of patent rights in the invention (not the physical invention itself) is not a 'sale' of the invention under § 102(b)",
-          "B": "The sale was conditioned on buyer satisfaction",
-          "C": "The sale generated no profit",
-          "D": "Only a single sale of the claimed subject matter occurred"
+          "A": "An offer to sell the patent rights in the invention, rather than the invention itself",
+          "B": "A sale conditioned on buyer satisfaction",
+          "C": "A sale that generated no profit",
+          "D": "A single sale of the claimed subject matter"
         },
         "answer": "A",
         "synthetic": true
@@ -1255,12 +1255,12 @@
         "synthetic": true
       },
       "key_fact": {
-        "prompt": "The question asks which action would NOT be proper. Which fact explains why?",
+        "prompt": "This question asks which action would NOT be proper. Which of these paths is actually improper here?",
         "choices": {
-          "A": "The client knew about the reference before the application was even filed -- more than three months before the IDS would be filed",
-          "B": "The IDS is being filed before the issue fee is paid",
-          "C": "The notice of allowance was mailed January 3, 2003",
-          "D": "The reference is one of many patents held by a competitor"
+          "A": "Filing an IDS with the § 1.97(e) certification before the issue fee is paid",
+          "B": "Filing an RCE with a new IDS before the issue fee is paid",
+          "C": "Filing a continuation application with a new IDS before the issue fee is paid",
+          "D": "Filing a petition to withdraw from issue, after paying the issue fee, to permit abandonment in favor of a continuation"
         },
         "answer": "A",
         "synthetic": true
@@ -1309,7 +1309,7 @@
         "synthetic": true
       },
       "objective": {
-        "prompt": "What is being tested here?",
+        "prompt": "What is the practitioner ultimately trying to get right here?",
         "choices": {
           "A": "Correctly applying the Graham v. John Deere factual inquiries to an obviousness-type double patenting determination",
           "B": "Correctly applying the Graham factors to a standard § 103 obviousness rejection over prior art",
